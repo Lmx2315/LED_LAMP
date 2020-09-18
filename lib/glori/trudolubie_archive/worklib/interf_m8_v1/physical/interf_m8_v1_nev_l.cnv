@@ -1,0 +1,64 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+BOARD GEOMETRY!
+                   OUTLINE!                  BOARD_GEOMETRY_OUTLINE!
+
+ETCH!
+                   TOP!                      ETCH_TOP!
+                   GND!                      ETCH_GND!
+                   PWR!                      ETCH_PWR!
+                   BOTTOM!                   ETCH_BOTTOM!
+
+MANUFACTURING!
+                   NO_PROBE_BOTTOM!          MANUFACTURING_NO_PROBE_BOTTOM!
+                   NO_PROBE_TOP!             MANUFACTURING_NO_PROBE_TOP!
+
+PACKAGE GEOMETRY!
+                   ASSEMBLY_BOTTOM!          PACKAGE_GEOMETR_ASSEMBLY_BOTTO!
+                   ASSEMBLY_TOP!             PACKAGE_GEOMETRY_ASSEMBLY_TOP!
+
+PACKAGE KEEPIN!
+                   ALL!                      PACKAGE_KEEPIN_ALL!
+
+PACKAGE KEEPOUT!
+                   BOTTOM!                   PACKAGE_KEEPOUT_BOTTOM!
+                   TOP!                      PACKAGE_KEEPOUT_TOP!
+                   ALL!                      PACKAGE_KEEPOUT_ALL!
+
+PIN!
+                   TOP!                      PIN_TOP!
+                   GND!                      PIN_GND!
+                   PWR!                      PIN_PWR!
+                   BOTTOM!                   PIN_BOTTOM!
+
+REF DES!
+                   SILKSCREEN_BOTTOM!        REF_DES_SILKSCREEN_BOTTOM!
+                   SILKSCREEN_TOP!           REF_DES_SILKSCREEN_TOP!
+
+ROUTE KEEPIN!
+                   ALL!                      ROUTE_KEEPIN_ALL!
+
+ROUTE KEEPOUT!
+                   ALL!                      ROUTE_KEEPOUT_ALL!
+                   TOP!                      ROUTE_KEEPOUT_TOP!
+                   GND!                      ROUTE_KEEPOUT_GND!
+                   PWR!                      ROUTE_KEEPOUT_PWR!
+                   BOTTOM!                   ROUTE_KEEPOUT_BOTTOM!
+
+VIA CLASS!
+                   TOP!                      VIA_CLASS_TOP!
+                   GND!                      VIA_CLASS_GND!
+                   PWR!                      VIA_CLASS_PWR!
+                   BOTTOM!                   VIA_CLASS_BOTTOM!
+
+VIA KEEPOUT!
+                   ALL!                      VIA_KEEPOUT_ALL!
+                   TOP!                      VIA_KEEPOUT_TOP!
+                   GND!                      VIA_KEEPOUT_GND!
+                   PWR!                      VIA_KEEPOUT_PWR!
+                   BOTTOM!                   VIA_KEEPOUT_BOTTOM!
+
+#END

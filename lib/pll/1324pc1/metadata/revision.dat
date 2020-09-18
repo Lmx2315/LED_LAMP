@@ -1,0 +1,204 @@
+(Cell	1324pc1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/02/17,10:35:07)
+
+			(User	Lmx2315)
+
+			(Path	pll.1324pc1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/02/17,10:33:05)
+
+			(User	Lmx2315)
+
+			(Path	pll.1324rs1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/02/17,10:35:07)
+
+					(User	Lmx2315)
+
+					(Path	pll.1324pc1)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003b37993c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/17,10:35:07)
+
+							(User	Lmx2315)
+
+							(Path	pll.1324pc1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bb30388)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000052335fc)
+
+			(Primitives	1
+
+				(Primitive	1324PC1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/17,10:35:07)
+
+							(User	Lmx2315)
+
+							(Path	pll.1324pc1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1324PC1
+
+							(PackType	1324PC1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	5140-8-ah3)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b310355)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b250345)
+
+)
+

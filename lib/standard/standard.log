@@ -1,0 +1,18 @@
+tsk: sutter
+    Foll parts added:
+	PVCC
+	VCC_ARROW
+	VCC_BAR	
+	VCC_CIRCLE
+	VCC_WAVE
+	PGROUND
+	GND_EARTH
+	GND_SIGNAL
+	GND_POWER
+	GND_FIELD SIGNAL
+
+Foll parts corrected:
+conn_gen (for empty entity): pcr339884
+
+tsk: 14.2
+pinname changed ($pin0 removed): pcr387517

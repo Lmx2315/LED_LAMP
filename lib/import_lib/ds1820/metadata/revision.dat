@@ -1,0 +1,180 @@
+(Cell	ds1820
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/27/12,18:07:19)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds1820)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/27/12,18:09:27)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds1820)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e2e66df6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/27/12,18:07:21)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds1820)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc803e9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000233bc94b)
+
+			(Primitives	1
+
+				(Primitive	DS1820
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/27/12,18:08:10)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds1820)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS1820
+
+							(PackType	DS1820)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b380377)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b4e0350)
+
+)
+

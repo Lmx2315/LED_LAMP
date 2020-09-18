@@ -1,0 +1,170 @@
+(Cell	r1rw0416dsb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/11/10,09:49:58)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.r1rw0416dsb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/11/10,10:01:50)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.r1rw0416dsb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000938cf740)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/11/10,09:50:18)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.r1rw0416dsb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000076c90389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000090f8c09f)
+
+			(Primitives	1
+
+				(Primitive	R1RW0416DSB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/11/10,10:00:43)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.r1rw0416dsb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	R1RW0416DSB
+
+							(PackType	R1RW0416DSB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c73e037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000051503b2)
+
+)
+

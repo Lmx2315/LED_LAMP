@@ -1,0 +1,170 @@
+(Cell	at45db161d
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/09,11:32:12)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.at45db161d)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/15/09,11:33:25)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.at45db161d)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000cd59d5cd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,11:32:14)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.at45db161d)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000040c70416)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006061b251)
+
+			(Primitives	1
+
+				(Primitive	AT45DB161D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,11:33:00)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.at45db161d)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT45DB161D
+
+							(PackType	AT45DB161D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000007680382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001ae60323)
+
+)
+

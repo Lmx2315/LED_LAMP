@@ -1,0 +1,170 @@
+(Cell	ltc1264
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/16/09,11:08:38)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1264)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/16/09,11:17:44)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1264)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ab9f45de)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/09,11:12:56)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1264)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000030f50415)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001df2c2ac)
+
+			(Primitives	1
+
+				(Primitive	LTC1264
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/09,11:16:17)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1264)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC1264
+
+							(PackType	LTC1264)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000133b03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000037180375)
+
+)
+

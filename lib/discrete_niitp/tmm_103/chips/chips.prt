@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 29 10:44:06 2004' ;
+primitive 'TMM_103';
+  pin
+    'A'<1>:
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<2>:
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<3>:
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<4>:
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<5>:
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<6>:
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='TMM_103';
+    JEDEC_TYPE='f245';
+    BODY_NAME='TMM_103';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

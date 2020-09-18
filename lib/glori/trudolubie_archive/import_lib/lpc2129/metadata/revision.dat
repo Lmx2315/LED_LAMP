@@ -1,0 +1,170 @@
+(Cell	lpc2129
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/09/10,15:59:30)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.lpc2129)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/09/10,16:35:59)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.lpc2129)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000021730e46)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,15:59:32)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.lpc2129)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b8c9034d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006c39c14c)
+
+			(Primitives	1
+
+				(Primitive	LPC2129
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,16:34:08)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.lpc2129)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LPC2129
+
+							(PackType	LPC2129)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000028a40354)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000a975034c)
+
+)
+

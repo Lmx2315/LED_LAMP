@@ -1,0 +1,176 @@
+(Cell	ds18s20par
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/13/06,13:53:57)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.ds18s20par)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/13/06,13:55:23)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.ds18s20par)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	6d4f689c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/13/06,13:54:13)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.ds18s20par)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0f5701c1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	b384c20b)
+
+			(Primitives	1
+
+				(Primitive	DS18S20PAR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/13/06,13:55:06)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.ds18s20par)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS18S20PAR
+
+							(PackType	DS18S20PAR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	ce2f032d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	de43012e)
+
+)
+

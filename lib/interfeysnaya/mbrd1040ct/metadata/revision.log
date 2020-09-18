@@ -1,0 +1,36 @@
+
+	(Comment
+		(Time 11/09/06,15:44:57)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 11/09/06,15:46:34)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package mbrd1040ct added to cell")
+		(Param1 mbrd1040ct)
+	)
+
+
+
+
+
+
+	(Comment
+		(Time 11/09/06,15:50:35)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package MBRD1040CT deleted from cell")
+		(Param1 MBRD1040CT)
+	)
+	(Comment
+		(Time 11/09/06,15:50:37)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package mbrd1040ct added to cell")
+		(Param1 mbrd1040ct)
+	)
+

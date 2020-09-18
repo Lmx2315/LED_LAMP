@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 03/30/05,14:23:57)
+		(User rifch)
+		(MsgId ECO_021)
+		(Text "Package LTC4300-2 added to cell")
+		(Param1 LTC4300-2)
+	)
+	(Comment
+		(Time 03/30/05,14:31:41)
+		(User rifch)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

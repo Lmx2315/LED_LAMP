@@ -1,0 +1,1 @@
+pdv_170,Cell 'adm1385ars':Pins N are not present in any of the packages or symbols.,Warning

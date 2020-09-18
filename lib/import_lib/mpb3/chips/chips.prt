@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Nov 12 09:37:16 2003' ;
+primitive 'MPB3';
+  pin
+    'OUT-':
+      PIN_NUMBER='(16)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT+':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'IN1+':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN2+':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN1-':
+      PIN_NUMBER='(22)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN2-':
+      PIN_NUMBER='(23)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(9)';
+    CLASS='DISCRETE';
+    PART_NAME='MPB3';
+    JEDEC_TYPE='f124';
+    BODY_NAME='mpb3';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

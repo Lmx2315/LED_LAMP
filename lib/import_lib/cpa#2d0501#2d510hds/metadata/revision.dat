@@ -1,0 +1,178 @@
+(Cell	cpa-0501-510hds
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/07/11,16:03:04)
+
+			(User	Sergey)
+
+			(Path	import_lib.cpa-0501-510hds)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/07/11,16:06:27)
+
+			(User	Sergey)
+
+			(Path	import_lib.cpa-0501-510hds)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000fac39502)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/11,16:03:07)
+
+							(User	Sergey)
+
+							(Path	import_lib.cpa-0501-510hds)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c69303ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000073fd0533)
+
+			(Primitives	1
+
+				(Primitive	CPA-0501-510HDS
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/11,16:05:45)
+
+							(User	Sergey)
+
+							(Path	import_lib.cpa-0501-510hds)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CPA-0501-510HDS
+
+							(PackType	CPA-0501-510HDS)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b72a037d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000955303ab)
+
+)
+

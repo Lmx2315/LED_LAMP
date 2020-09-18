@@ -1,0 +1,168 @@
+(Cell	cwf_10
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	02/16/07,14:54:45)
+
+			(User	admin)
+
+			(Path	import_lib.cwf_10)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/16/07,15:18:47)
+
+			(User	admin)
+
+			(Path	import_lib.cwf_10)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000da69574e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	02/16/07,14:54:49)
+
+							(User	admin)
+
+							(Path	import_lib.cwf_10)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000851303ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c3a408cc)
+
+			(Primitives	1
+
+				(Primitive	CWF_10
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/16/07,15:17:05)
+
+							(User	admin)
+
+							(Path	import_lib.cwf_10)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CWF_10
+
+							(PackType	CWF_10)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000066b70388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000078e50359)
+
+)
+

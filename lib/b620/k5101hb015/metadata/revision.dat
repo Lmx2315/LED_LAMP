@@ -1,0 +1,180 @@
+(Cell	k5101hb015
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/06/14,10:40:43)
+
+			(User	imk)
+
+			(Path	b620.k5101hb015)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/06/14,11:21:22)
+
+			(User	imk)
+
+			(Path	b620.k5101hb015)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000085120017)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/14,10:40:48)
+
+							(User	imk)
+
+							(Path	b620.k5101hb015)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a0c0319)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004172c38c)
+
+			(Primitives	1
+
+				(Primitive	K5101HB015
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/14,11:21:00)
+
+							(User	imk)
+
+							(Path	b620.k5101hb015)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	K5101HB015
+
+							(PackType	K5101HB015)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mk5152)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8e03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cb303ae)
+
+)
+

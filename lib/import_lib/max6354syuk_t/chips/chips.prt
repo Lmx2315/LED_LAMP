@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Oct 15 17:22:50 2003' ;
+primitive 'MAX6354SYUK_T';
+  pin
+    '-MR':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-RST':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(5)';
+    POWER_PINS='(P3V3M:4)';
+    POWER_PINS='(GNDDM:2)';
+    CLASS='IC';
+    PART_NAME='MAX6354SYUK_T';
+    JEDEC_TYPE='F57';
+    NC_PIN='(5)';
+    BODY_NAME='MAX6354SYUK_T';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

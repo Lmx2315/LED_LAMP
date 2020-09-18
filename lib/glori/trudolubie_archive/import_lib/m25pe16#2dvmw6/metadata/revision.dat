@@ -1,0 +1,170 @@
+(Cell	m25pe16-vmw6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/04/10,10:16:40)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.m25pe16-vmw6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/04/10,10:21:31)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.m25pe16-vmw6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000aa16de50)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/04/10,10:16:43)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.m25pe16-vmw6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000641f03d8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009436b093)
+
+			(Primitives	1
+
+				(Primitive	M25PE16-VMW6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/04/10,10:20:19)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.m25pe16-vmw6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	M25PE16-VMW6
+
+							(PackType	M25PE16-VMW6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000054c603b7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000d6e1037f)
+
+)
+

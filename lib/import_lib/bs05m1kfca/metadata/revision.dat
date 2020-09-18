@@ -1,0 +1,180 @@
+(Cell	bs05m1kfca
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/04/13,11:30:41)
+
+			(User	Sergey)
+
+			(Path	import_lib.bs05m1kfca)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/04/13,12:33:56)
+
+			(User	Sergey)
+
+			(Path	import_lib.bs05m1kfca)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fc3af0d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/13,11:30:44)
+
+							(User	Sergey)
+
+							(Path	import_lib.bs05m1kfca)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001eec0408)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001b1bc0cc)
+
+			(Primitives	1
+
+				(Primitive	BS05M1KFCA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/13,12:33:16)
+
+							(User	Sergey)
+
+							(Path	import_lib.bs05m1kfca)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BS05M1KFCA
+
+							(PackType	BS05M1KFCA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	bs05m1kfca)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c6603ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bdc03a7)
+
+)
+

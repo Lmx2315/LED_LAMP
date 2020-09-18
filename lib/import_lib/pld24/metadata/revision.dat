@@ -1,0 +1,178 @@
+(Cell	pld24
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/27/11,14:42:22)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pld24)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/27/11,15:35:21)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pld24)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000545d30c5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/11,14:42:25)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pld24)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c6c6037e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d8a1beda)
+
+			(Primitives	1
+
+				(Primitive	PLD24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/11,15:32:46)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pld24)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PLD24
+
+							(PackType	PLD24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e6ce0390)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000e61e03b0)
+
+)
+

@@ -1,0 +1,2399 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 10-Sep-2020 AT 18:44:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LED_V2';
+ POST_TIME='10-Sep-2020 AT 18:44:21';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I6@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i6@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i6@discrete_niitp.cap(chips)',
+ PATH='I6',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(400,5600)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C2 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I95@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i95@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i95@discrete_niitp.cap(chips)',
+ PATH='I95',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(600,6000)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C3 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I79@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i79@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i79@discrete_niitp.cap(chips)',
+ PATH='I79',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(2800,7125)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C4 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I33@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i33@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i33@discrete_niitp.cap(chips)',
+ PATH='I33',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(2850,5250)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C5 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I43@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i43@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i43@discrete_niitp.cap(chips)',
+ PATH='I43',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(2850,4450)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C6 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I51@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i51@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i51@discrete_niitp.cap(chips)',
+ PATH='I51',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(2850,3650)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C7 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I82@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i82@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i82@discrete_niitp.cap(chips)',
+ PATH='I82',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SIZE='1',
+ PHYS_PAGE='1',
+ XY='(3000,7125)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C8 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I6@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i6@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i6@discrete_niitp.cap(chips)',
+ PATH='I6',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-2800,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C9 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I73@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i73@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i73@discrete_niitp.cap(chips)',
+ PATH='I73',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-2800,2300)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C10 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I4@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i4@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i4@discrete_niitp.cap(chips)',
+ PATH='I4',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1600,3600)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C11 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I68@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i68@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i68@discrete_niitp.cap(chips)',
+ PATH='I68',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1600,1800)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C12 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I9@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i9@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i9@discrete_niitp.cap(chips)',
+ PATH='I9',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1500,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PART_NUMBER='EMZA500ADA470MF80G',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C13 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I67@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i67@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i67@discrete_niitp.cap(chips)',
+ PATH='I67',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1500,2300)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PART_NUMBER='EMZA500ADA470MF80G',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C14 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I53@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i53@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i53@discrete_niitp.cap(chips)',
+ PATH='I53',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1300,3200)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C15 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I57@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i57@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i57@discrete_niitp.cap(chips)',
+ PATH='I57',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-1300,1400)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C16 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I13@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i13@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i13@discrete_niitp.cap(chips)',
+ PATH='I13',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-800,4000)',
+ ROT='1',
+ VER='1',
+ VALUE='0.68UF',
+ PART_NUMBER='CGA5L2X5R1H684K160AA',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C17 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I62@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i62@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i62@discrete_niitp.cap(chips)',
+ PATH='I62',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(-800,2200)',
+ ROT='1',
+ VER='1',
+ VALUE='0.68UF',
+ PART_NUMBER='CGA5L2X5R1H684K160AA',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C18 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I94@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i94@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i94@discrete_niitp.cap(chips)',
+ PATH='I94',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(1000,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C19 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I78@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i78@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i78@discrete_niitp.cap(chips)',
+ PATH='I78',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(2200,3600)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C20 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I85@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i85@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i85@discrete_niitp.cap(chips)',
+ PATH='I85',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(2300,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PART_NUMBER='EMZA500ADA470MF80G',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C21 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I90@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i90@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i90@discrete_niitp.cap(chips)',
+ PATH='I90',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(2500,3200)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C22 'CAP':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I81@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i81@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i81@discrete_niitp.cap(chips)',
+ PATH='I81',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SIZE='1',
+ PHYS_PAGE='2',
+ XY='(3000,4000)',
+ ROT='1',
+ VER='1',
+ VALUE='0.68UF',
+ PART_NUMBER='CGA5L2X5R1H684K160AA',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C23 'CAP_EL_D':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I44@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i44@discrete_niitp.cap_el(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i44@discrete_niitp.cap_el(chips)',
+ PATH='I44',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(600,3200)',
+ ROT='5',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='D',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_EL_D',
+ PRIM_FILE='./lib/discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C24 'C':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I22@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i22@discrete_niitp.c(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i22@discrete_niitp.c(chips)',
+ PATH='I22',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(700,4500)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PACK_TYPE='0603-17',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./lib/discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C25 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I46@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i46@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i46@discrete_niitp.cap(chips)',
+ PATH='I46',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(900,2800)',
+ ROT='0',
+ VER='1',
+ VALUE='3900PF',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C26 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I57@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i57@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i57@discrete_niitp.cap(chips)',
+ PATH='I57',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(900,2600)',
+ ROT='0',
+ VER='1',
+ VALUE='100PF',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C27 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I30@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i30@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i30@discrete_niitp.cap(chips)',
+ PATH='I30',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(1000,3000)',
+ ROT='0',
+ VER='1',
+ VALUE='0.1U',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C28 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I52@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i52@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i52@discrete_niitp.cap(chips)',
+ PATH='I52',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(1800,3400)',
+ ROT='0',
+ VER='1',
+ VALUE='10NF',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C29 'CAP_F135':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I54@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i54@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i54@discrete_niitp.cap(chips)',
+ PATH='I54',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(2300,2600)',
+ ROT='1',
+ VER='1',
+ VALUE='22U',
+ PACK_TYPE='F135',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_F135',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C30 'CAP_EL_D':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I10@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i10@discrete_niitp.cap_el(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i10@discrete_niitp.cap_el(chips)',
+ PATH='I10',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(2600,4700)',
+ ROT='5',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='D',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_EL_D',
+ PRIM_FILE='./lib/discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C31 'CAP_EL_D':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I38@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i38@discrete_niitp.cap_el(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i38@discrete_niitp.cap_el(chips)',
+ PATH='I38',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(2600,4100)',
+ ROT='5',
+ VER='1',
+ VALUE='47UF',
+ PACK_TYPE='D',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_EL_D',
+ PRIM_FILE='./lib/discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C32 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I13@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i13@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i13@discrete_niitp.cap(chips)',
+ PATH='I13',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(2900,4700)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C33 'CAP_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I36@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i36@discrete_niitp.cap(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i36@discrete_niitp.cap(chips)',
+ PATH='I36',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SIZE='1',
+ PHYS_PAGE='3',
+ XY='(2900,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='0.1U',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='CAP_0603',
+ PRIM_FILE='./lib/discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ DA1 'TPS2592A-GND=LGND,OUT=12V,VIN=A':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I23@POWER_MY.TPS2592A(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i23@power_my.tps2592a(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i23@power_my.tps2592a(chips)',
+ PATH='I23',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ POWER_GROUP='VIN=+12V_SUPL;GND=LGND;OUT=12V',
+ PHYS_PAGE='3',
+ XY='(950,4675)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='power_my',
+ CDS_PART_NAME='TPS2592A-VIN=+12V_SUPL;GND=LGNA',
+ PRIM_FILE='./lib/power_my/tps2592a/chips/chips.prt';
+
+PART_NAME
+ DD1 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I17@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i17@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i17@my_transceiver.ds9503(chips)',
+ PATH='I17',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,6600)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DD2 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I18@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i18@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i18@my_transceiver.ds9503(chips)',
+ PATH='I18',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,6275)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DD3 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I19@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i19@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i19@my_transceiver.ds9503(chips)',
+ PATH='I19',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,5875)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DD4 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I20@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i20@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i20@my_transceiver.ds9503(chips)',
+ PATH='I20',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,5500)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DD5 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I101@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i101@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i101@my_transceiver.ds9503(chips)',
+ PATH='I101',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,5100)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DD6 'DS9503':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I102@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i102@my_transceiver.ds9503(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i102@my_transceiver.ds9503(chips)',
+ PATH='I102',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(3875,4800)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ CDS_PART_NAME='DS9503',
+ PRIM_FILE='./lib/my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ HL1 'LED-BASE':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I62@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i62@import_lib.led(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i62@import_lib.led(chips)',
+ PATH='I62',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ FAMILY='LED',
+ PHYS_PAGE='1',
+ XY='(2900,6200)',
+ ROT='2',
+ VER='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='LED-BASE',
+ PRIM_FILE='./lib/import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL2 'LED-BASE':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I57@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i57@import_lib.led(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i57@import_lib.led(chips)',
+ PATH='I57',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ FAMILY='LED',
+ PHYS_PAGE='1',
+ XY='(2900,6000)',
+ ROT='2',
+ VER='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='LED-BASE',
+ PRIM_FILE='./lib/import_lib/led/chips/chips.prt';
+
+PART_NAME
+ L1 'BNX016-CG_GND=DGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I2@IMPORT_LIB.BNX016(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i2@import_lib.bnx016(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i2@import_lib.bnx016(chips)',
+ PATH='I2',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ POWER_GROUP='CG_GND=DGND',
+ SEC_TYPE='',
+ PHYS_PAGE='3',
+ XY='(2125,4700)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='BNX016-CG_GND=DGND',
+ PRIM_FILE='./lib/import_lib/bnx016/chips/chips.prt';
+
+PART_NAME
+ L2 'BNX016-CG_GND=DGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I33@IMPORT_LIB.BNX016(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i33@import_lib.bnx016(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i33@import_lib.bnx016(chips)',
+ PATH='I33',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ POWER_GROUP='CG_GND=DGND',
+ SEC_TYPE='',
+ PHYS_PAGE='3',
+ XY='(2125,4100)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='BNX016-CG_GND=DGND',
+ PRIM_FILE='./lib/import_lib/bnx016/chips/chips.prt';
+
+PART_NAME
+ L3 'L':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I12@DISCRETE_NIITP.L(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i12@discrete_niitp.l(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i12@discrete_niitp.l(chips)',
+ PATH='I12',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1025,4200)',
+ ROT='0',
+ VER='1',
+ VALUE='22UH',
+ PART_NUMBER='NR8040T100M',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='L',
+ PRIM_FILE='./lib/discrete_niitp/l/chips/chips.prt';
+
+PART_NAME
+ L4 'L':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I59@DISCRETE_NIITP.L(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i59@discrete_niitp.l(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i59@discrete_niitp.l(chips)',
+ PATH='I59',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1025,2400)',
+ ROT='0',
+ VER='1',
+ VALUE='22UH',
+ PART_NUMBER='NR8040T100M',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='L',
+ PRIM_FILE='./lib/discrete_niitp/l/chips/chips.prt';
+
+PART_NAME
+ L5 'L':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I82@DISCRETE_NIITP.L(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i82@discrete_niitp.l(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i82@discrete_niitp.l(chips)',
+ PATH='I82',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(2775,4200)',
+ ROT='0',
+ VER='1',
+ VALUE='22UH',
+ PART_NUMBER='NR8040T100M',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='L',
+ PRIM_FILE='./lib/discrete_niitp/l/chips/chips.prt';
+
+PART_NAME
+ L6 'L':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I53@DISCRETE_NIITP.L(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i53@discrete_niitp.l(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i53@discrete_niitp.l(chips)',
+ PATH='I53',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(2100,3200)',
+ ROT='0',
+ VER='1',
+ VALUE='10UH',
+ PART_NUMBER='L_10A',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='L',
+ PRIM_FILE='./lib/discrete_niitp/l/chips/chips.prt';
+
+PART_NAME
+ R1 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I24@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i24@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i24@my_passive_niitp.res(chips)',
+ PATH='I24',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-100,5825)',
+ ROT='1',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R2 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I5@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i5@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i5@my_passive_niitp.res(chips)',
+ PATH='I5',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(200,5700)',
+ ROT='0',
+ VER='1',
+ VALUE='2K7',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R3 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I99@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i99@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i99@my_passive_niitp.res(chips)',
+ PATH='I99',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1200,5850)',
+ ROT='1',
+ VER='1',
+ VALUE='4K7',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R4 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I3@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i3@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i3@my_passive_niitp.res(chips)',
+ PATH='I3',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6800)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R5 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I10@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i10@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i10@my_passive_niitp.res(chips)',
+ PATH='I10',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6700)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R6 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I88@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i88@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i88@my_passive_niitp.res(chips)',
+ PATH='I88',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6600)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R7 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I16@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i16@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i16@my_passive_niitp.res(chips)',
+ PATH='I16',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6500)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R8 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I15@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i15@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i15@my_passive_niitp.res(chips)',
+ PATH='I15',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6400)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R9 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I14@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i14@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i14@my_passive_niitp.res(chips)',
+ PATH='I14',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6300)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R10 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I13@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i13@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i13@my_passive_niitp.res(chips)',
+ PATH='I13',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1600,6200)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R11 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I11@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i11@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i11@my_passive_niitp.res(chips)',
+ PATH='I11',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,7025)',
+ ROT='1',
+ VER='1',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R12 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I89@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i89@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i89@my_passive_niitp.res(chips)',
+ PATH='I89',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,6100)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R13 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I90@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i90@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i90@my_passive_niitp.res(chips)',
+ PATH='I90',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,6000)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R14 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I91@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i91@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i91@my_passive_niitp.res(chips)',
+ PATH='I91',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,5900)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R15 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I29@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i29@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i29@my_passive_niitp.res(chips)',
+ PATH='I29',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,4900)',
+ ROT='0',
+ VER='1',
+ VALUE='200R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R16 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I47@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i47@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i47@my_passive_niitp.res(chips)',
+ PATH='I47',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,4100)',
+ ROT='0',
+ VER='1',
+ VALUE='200R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R17 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I56@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i56@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i56@my_passive_niitp.res(chips)',
+ PATH='I56',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1800,3300)',
+ ROT='0',
+ VER='1',
+ VALUE='200R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R18 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I37@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i37@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i37@my_passive_niitp.res(chips)',
+ PATH='I37',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2650,5225)',
+ ROT='1',
+ VER='1',
+ VALUE='1K2',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R19 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I45@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i45@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i45@my_passive_niitp.res(chips)',
+ PATH='I45',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2650,4425)',
+ ROT='1',
+ VER='1',
+ VALUE='1K2',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R20 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I53@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i53@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i53@my_passive_niitp.res(chips)',
+ PATH='I53',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2650,3625)',
+ ROT='1',
+ VER='1',
+ VALUE='1K2',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R21 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I73@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i73@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i73@my_passive_niitp.res(chips)',
+ PATH='I73',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6800)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R22 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I74@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i74@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i74@my_passive_niitp.res(chips)',
+ PATH='I74',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6700)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R23 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I75@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i75@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i75@my_passive_niitp.res(chips)',
+ PATH='I75',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6600)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R24 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I76@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i76@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i76@my_passive_niitp.res(chips)',
+ PATH='I76',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6500)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R25 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I27@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i27@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i27@my_passive_niitp.res(chips)',
+ PATH='I27',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6400)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R26 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I26@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i26@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i26@my_passive_niitp.res(chips)',
+ PATH='I26',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2800,6300)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R27 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I61@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i61@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i61@my_passive_niitp.res(chips)',
+ PATH='I61',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3075,6200)',
+ ROT='0',
+ VER='1',
+ VALUE='470R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R28 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I58@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i58@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i58@my_passive_niitp.res(chips)',
+ PATH='I58',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3075,6000)',
+ ROT='0',
+ VER='1',
+ VALUE='470R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R29 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I72@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i72@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i72@my_passive_niitp.res(chips)',
+ PATH='I72',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3900,4450)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R30 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I86@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i86@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i86@my_passive_niitp.res(chips)',
+ PATH='I86',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3950,3650)',
+ ROT='0',
+ VER='1',
+ VALUE='33R',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R31 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I51@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i51@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i51@my_passive_niitp.res(chips)',
+ PATH='I51',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-3100,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R32 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I75@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i75@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i75@my_passive_niitp.res(chips)',
+ PATH='I75',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-3100,2300)',
+ ROT='1',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R33 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I8@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i8@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i8@my_passive_niitp.res(chips)',
+ PATH='I8',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-2500,4000)',
+ ROT='0',
+ VER='1',
+ VALUE='65K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R34 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I72@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i72@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i72@my_passive_niitp.res(chips)',
+ PATH='I72',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-2500,2200)',
+ ROT='0',
+ VER='1',
+ VALUE='65K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R35 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I52@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i52@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i52@my_passive_niitp.res(chips)',
+ PATH='I52',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1500,3400)',
+ ROT='0',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R36 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I69@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i69@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i69@my_passive_niitp.res(chips)',
+ PATH='I69',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1500,1600)',
+ ROT='0',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R37 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I10@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i10@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i10@my_passive_niitp.res(chips)',
+ PATH='I10',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-800,3150)',
+ ROT='1',
+ VER='1',
+ VALUE='0R15',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R38 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I63@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i63@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i63@my_passive_niitp.res(chips)',
+ PATH='I63',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-800,1350)',
+ ROT='1',
+ VER='1',
+ VALUE='0R15',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R39 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I96@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i96@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i96@my_passive_niitp.res(chips)',
+ PATH='I96',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(700,4100)',
+ ROT='1',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R40 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I92@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i92@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i92@my_passive_niitp.res(chips)',
+ PATH='I92',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(1300,4000)',
+ ROT='0',
+ VER='1',
+ VALUE='65K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R41 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I89@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i89@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i89@my_passive_niitp.res(chips)',
+ PATH='I89',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(2300,3400)',
+ ROT='0',
+ VER='1',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R42 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I87@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i87@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i87@my_passive_niitp.res(chips)',
+ PATH='I87',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(3000,3150)',
+ ROT='1',
+ VER='1',
+ VALUE='0R15',
+ PACK_TYPE='0603',
+ PART_NUMBER='RL1632R-R150-F',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R43 'R_F56':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I15@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i15@discrete_niitp.r(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i15@discrete_niitp.r(chips)',
+ PATH='I15',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(550,4775)',
+ ROT='2',
+ VER='1',
+ VALUE='20K',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='R_F56',
+ PRIM_FILE='./lib/discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R44 'R_F56':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I18@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i18@discrete_niitp.r(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i18@discrete_niitp.r(chips)',
+ PATH='I18',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(700,4925)',
+ ROT='7',
+ VER='1',
+ VALUE='51K',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='R_F56',
+ PRIM_FILE='./lib/discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R45 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I47@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i47@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i47@my_passive_niitp.res(chips)',
+ PATH='I47',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(700,2800)',
+ ROT='0',
+ VER='1',
+ VALUE='6.8K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R46 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I43@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i43@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i43@my_passive_niitp.res(chips)',
+ PATH='I43',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(950,3200)',
+ ROT='0',
+ VER='1',
+ VALUE='100K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R47 'R_F56':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I20@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i20@discrete_niitp.r(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i20@discrete_niitp.r(chips)',
+ PATH='I20',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(1250,4475)',
+ ROT='7',
+ VER='1',
+ VALUE='6.7K',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ CDS_PART_NAME='R_F56',
+ PRIM_FILE='./lib/discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R48 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I50@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i50@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i50@my_passive_niitp.res(chips)',
+ PATH='I50',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(1800,2600)',
+ ROT='1',
+ VER='1',
+ VALUE='26.1K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ R49 'RES_0603':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I49@MY_PASSIVE_NIITP.RES(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i49@my_passive_niitp.res(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i49@my_passive_niitp.res(chips)',
+ PATH='I49',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ PHYS_PAGE='3',
+ XY='(2050,2800)',
+ ROT='0',
+ VER='1',
+ VALUE='26.1K',
+ PACK_TYPE='0603',
+ CDS_LIB='my_passive_niitp',
+ CDS_PART_NAME='RES_0603',
+ PRIM_FILE='./lib/my_passive_niitp/res/chips/chips.prt';
+
+PART_NAME
+ U1 'ADM6320':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I93@IMPORT_LIB.ADM6320(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i93@import_lib.adm6320(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i93@import_lib.adm6320(chips)',
+ PATH='I93',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(900,5675)',
+ ROT='0',
+ VER='1',
+ PART_NUMBER='ADM6320BY30A',
+ SEC='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='ADM6320',
+ PRIM_FILE='./lib/import_lib/adm6320/chips/chips.prt';
+
+PART_NAME
+ U2 'ZIGBEE_CC2530-GND=DGND,VCC=P3V3':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I1@LED_DRV1_LIB.ZIGBEE_CC2530(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i1@led_drv1_lib.zigbee_cc2530(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i1@led_drv1_lib.zigbee_cc2530(chips)',
+ PATH='I1',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ POWER_GROUP='VCC=P3V3;GND=DGND',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(2300,6400)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='ZIGBEE_CC2530-VCC=P3V3;GND=DGND',
+ PRIM_FILE='./worklib/zigbee_cc2530/chips/chips.prt';
+
+PART_NAME
+ U3 'PC817':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I28@LED_DRV1_LIB.PC817(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i28@led_drv1_lib.pc817(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i28@led_drv1_lib.pc817(chips)',
+ PATH='I28',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(2300,4800)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='PC817',
+ PRIM_FILE='./worklib/pc817/chips/chips.prt';
+
+PART_NAME
+ U4 'PC817':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I39@LED_DRV1_LIB.PC817(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i39@led_drv1_lib.pc817(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i39@led_drv1_lib.pc817(chips)',
+ PATH='I39',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(2300,4000)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='PC817',
+ PRIM_FILE='./worklib/pc817/chips/chips.prt';
+
+PART_NAME
+ U5 'PC817':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I48@LED_DRV1_LIB.PC817(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i48@led_drv1_lib.pc817(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i48@led_drv1_lib.pc817(chips)',
+ PATH='I48',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(2300,3200)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='PC817',
+ PRIM_FILE='./worklib/pc817/chips/chips.prt';
+
+PART_NAME
+ U6 'PLD8':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I85@IMPORT_LIB.PLD8(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i85@import_lib.pld8(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i85@import_lib.pld8(chips)',
+ PATH='I85',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(4400,3450)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='PLD8',
+ PRIM_FILE='./lib/import_lib/pld8/chips/chips.prt';
+
+PART_NAME
+ U7 'A6211-GND=LGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I1@LED_DRV1_LIB.A6211(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i1@led_drv1_lib.a6211(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i1@led_drv1_lib.a6211(chips)',
+ PATH='I1',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ POWER_GROUP='GND=LGND',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-2000,4000)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='A6211-GND=LGND',
+ PRIM_FILE='./worklib/a6211/chips/chips.prt';
+
+PART_NAME
+ U8 'A6211-GND=LGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I55@LED_DRV1_LIB.A6211(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i55@led_drv1_lib.a6211(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i55@led_drv1_lib.a6211(chips)',
+ PATH='I55',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ POWER_GROUP='GND=LGND',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-2000,2200)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='A6211-GND=LGND',
+ PRIM_FILE='./worklib/a6211/chips/chips.prt';
+
+PART_NAME
+ U9 'KF128_5_2':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I46@LED_DRV1_LIB.KF128_5_2(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i46@led_drv1_lib.kf128_5_2(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i46@led_drv1_lib.kf128_5_2(chips)',
+ PATH='I46',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-200,4000)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='KF128_5_2',
+ PRIM_FILE='./worklib/kf128_5_2/chips/chips.prt';
+
+PART_NAME
+ U10 'KF128_5_2':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I61@LED_DRV1_LIB.KF128_5_2(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i61@led_drv1_lib.kf128_5_2(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i61@led_drv1_lib.kf128_5_2(chips)',
+ PATH='I61',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-200,2200)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='KF128_5_2',
+ PRIM_FILE='./worklib/kf128_5_2/chips/chips.prt';
+
+PART_NAME
+ U11 'A6211-GND=LGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I76@LED_DRV1_LIB.A6211(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i76@led_drv1_lib.a6211(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i76@led_drv1_lib.a6211(chips)',
+ PATH='I76',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ POWER_GROUP='GND=LGND',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(1800,4000)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='A6211-GND=LGND',
+ PRIM_FILE='./worklib/a6211/chips/chips.prt';
+
+PART_NAME
+ U12 'KF128_5_2':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I80@LED_DRV1_LIB.KF128_5_2(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i80@led_drv1_lib.kf128_5_2(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i80@led_drv1_lib.kf128_5_2(chips)',
+ PATH='I80',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(3600,4000)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='led_drv1_lib',
+ CDS_PART_NAME='KF128_5_2',
+ PRIM_FILE='./worklib/kf128_5_2/chips/chips.prt';
+
+PART_NAME
+ U13 'MP2307-GND=DGND':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I29@IMPORT_LIB.MP2307(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i29@import_lib.mp2307(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i29@import_lib.mp2307(chips)',
+ PATH='I29',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ POWER_GROUP='GND=DGND',
+ SEC_TYPE='',
+ PHYS_PAGE='3',
+ XY='(1400,3100)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='MP2307-GND=DGND',
+ PRIM_FILE='./lib/import_lib/mp2307/chips/chips.prt';
+
+PART_NAME
+ U14 'B220_A':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I14@IMPORT_LIB.B220_A(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i14@import_lib.b220_a(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i14@import_lib.b220_a(chips)',
+ PATH='I14',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1300,4050)',
+ ROT='1',
+ VER='1',
+ PART_NUMBER='B250A-13-F',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='B220_A',
+ PRIM_FILE='./lib/import_lib/b220_a/chips/chips.prt';
+
+PART_NAME
+ U15 'B220_A':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I66@IMPORT_LIB.B220_A(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i66@import_lib.b220_a(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i66@import_lib.b220_a(chips)',
+ PATH='I66',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-1300,2250)',
+ ROT='1',
+ VER='1',
+ PART_NUMBER='B250A-13-F',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='B220_A',
+ PRIM_FILE='./lib/import_lib/b220_a/chips/chips.prt';
+
+PART_NAME
+ U16 'IRLML2060':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I49@IMPORT_LIB.IRLML2060(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i49@import_lib.irlml2060(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i49@import_lib.irlml2060(chips)',
+ PATH='I49',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-800,3400)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='IRLML2060',
+ PRIM_FILE='./lib/import_lib/irlml2060/chips/chips.prt';
+
+PART_NAME
+ U17 'IRLML2060':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I58@IMPORT_LIB.IRLML2060(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i58@import_lib.irlml2060(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i58@import_lib.irlml2060(chips)',
+ PATH='I58',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(-800,1600)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='IRLML2060',
+ PRIM_FILE='./lib/import_lib/irlml2060/chips/chips.prt';
+
+PART_NAME
+ U18 'B220_A':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I84@IMPORT_LIB.B220_A(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i84@import_lib.b220_a(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i84@import_lib.b220_a(chips)',
+ PATH='I84',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(2500,4050)',
+ ROT='1',
+ VER='1',
+ PART_NUMBER='B250A-13-F',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='B220_A',
+ PRIM_FILE='./lib/import_lib/b220_a/chips/chips.prt';
+
+PART_NAME
+ U19 'IRLML2060':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I79@IMPORT_LIB.IRLML2060(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i79@import_lib.irlml2060(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i79@import_lib.irlml2060(chips)',
+ PATH='I79',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ PHYS_PAGE='2',
+ XY='(3000,3400)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='import_lib',
+ CDS_PART_NAME='IRLML2060',
+ PRIM_FILE='./lib/import_lib/irlml2060/chips/chips.prt';
+
+PART_NAME
+ XT1 'IPL1_02':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I22@MY_CONNECTORS_NIITP.IPL1_02(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i22@my_connectors_niitp.ipl1_02(chips~
+)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i22@my_connectors_niitp.ipl1_02(chips~
+)',
+ PATH='I22',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ SEC_TYPE='',
+ PHYS_PAGE='1',
+ XY='(125,5425)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IPL1_02',
+ PRIM_FILE='./lib/my_connectors_niitp/ipl1_02/chips/chips.prt';
+
+PART_NAME
+ XT2 'IPL1_02':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I50@MY_CONNECTORS_NIITP.IPL1_02(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i50@my_connectors_niitp.ipl1_02(chips~
+)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i50@my_connectors_niitp.ipl1_02(chips~
+)',
+ PATH='I50',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-2425,3475)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IPL1_02',
+ PRIM_FILE='./lib/my_connectors_niitp/ipl1_02/chips/chips.prt';
+
+PART_NAME
+ XT3 'IPL1_02':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I56@MY_CONNECTORS_NIITP.IPL1_02(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i56@my_connectors_niitp.ipl1_02(chips~
+)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i56@my_connectors_niitp.ipl1_02(chips~
+)',
+ PATH='I56',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(-2425,1675)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IPL1_02',
+ PRIM_FILE='./lib/my_connectors_niitp/ipl1_02/chips/chips.prt';
+
+PART_NAME
+ XT4 'IPL1_02':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2_I77@MY_CONNECTORS_NIITP.IPL1_02(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page2_i77@my_connectors_niitp.ipl1_02(chips~
+)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page2_i77@my_connectors_niitp.ipl1_02(chips~
+)',
+ PATH='I77',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE2',
+ SEC_TYPE='',
+ PHYS_PAGE='2',
+ XY='(1375,3475)',
+ ROT='0',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IPL1_02',
+ PRIM_FILE='./lib/my_connectors_niitp/ipl1_02/chips/chips.prt';
+
+PART_NAME
+ XT5 'DS_261':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I1@MY_CONNECTORS_NIITP.DS_261(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page3_i1@my_connectors_niitp.ds_261(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page3_i1@my_connectors_niitp.ds_261(chips)',
+ PATH='I1',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE3',
+ SEC_TYPE='',
+ PHYS_PAGE='3',
+ XY='(-75,4650)',
+ ROT='2',
+ VER='1',
+ SEC='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='DS_261',
+ PRIM_FILE='./lib/my_connectors_niitp/ds_261/chips/chips.prt';
+
+PART_NAME
+ XT6 'IDC10':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I4@MY_CONNECTORS_NIITP.IDC10(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i4@my_connectors_niitp.idc10(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i4@my_connectors_niitp.idc10(chips)',
+ PATH='I4',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4700,6250)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IDC10',
+ PRIM_FILE='./lib/my_connectors_niitp/idc10/chips/chips.prt';
+
+PART_NAME
+ XT7 'IDC10':;
+
+SECTION_NUMBER 1
+ '@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I63@MY_CONNECTORS_NIITP.IDC10(CHIPS)':
+ C_PATH='@led_drv1_lib.led_v2(sch_1):page1_i63@my_connectors_niitp.idc10(chips)',
+ P_PATH='@led_drv1_lib.led_v2(sch_1):page1_i63@my_connectors_niitp.idc10(chips)',
+ PATH='I63',
+ DRAWING='@LED_DRV1_LIB.LED_V2(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4700,4450)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='my_connectors_niitp',
+ CDS_PART_NAME='IDC10',
+ PRIM_FILE='./lib/my_connectors_niitp/idc10/chips/chips.prt';
+
+END.

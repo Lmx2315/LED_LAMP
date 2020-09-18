@@ -1,0 +1,100 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/cpci_peripheral_j1/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/cpci_peripheral_j1/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/cpci_peripheral_j2/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/cpci_peripheral_j2/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/erni64785/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/erni64785/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/esd_strip/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/esd_strip/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/hw#2d07#2d15#2ds#2dd#2d453#2dsm#2dlc/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/hw#2d07#2d15#2ds#2dd#2d453#2dsm#2dlc/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jtag/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jtag/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jump/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jump/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jump5/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/jump5/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/microgigacn12x/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/microgigacn12x/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/molex43650#2d0426/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/molex43650#2d0426/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/probe/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/probe/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qse_020_50_new/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qse_020_50_new/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qse_qte_020/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qse_qte_020/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qte_020_50_new/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/qte_020_50_new/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/ssm#2d107#2ds#2ddv#2dlc/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/ssm#2d107#2ds#2ddv#2dlc/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/tsm#2d1#2d05#2d01#2dl#2ddv/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_connectors_niitp/tsm#2d1#2d05#2d01#2dl#2ddv/psp_sim_1
+    master.tag

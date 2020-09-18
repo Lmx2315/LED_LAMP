@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Feb 25 14:22:58 2004' ;
+primitive '142EN8B';
+  pin
+    'A':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'X':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Y':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(11)';
+    CLASS='IC';
+    PART_NAME='142EN8B';
+    JEDEC_TYPE='F186';
+    BODY_NAME='142EN8B';
+    LIBRARIAN='?';
+  end_body;
+end_primitive;
+END.

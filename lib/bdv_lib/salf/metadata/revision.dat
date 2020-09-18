@@ -1,0 +1,166 @@
+(Cell	salf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/21/08,15:04:20)
+
+			(User	Validol)
+
+			(Path	bdv_lib.salf)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	0a145667)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/21/08,15:04:22)
+
+							(User	Validol)
+
+							(Path	bdv_lib.salf)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	c02700dc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	b7639f2b)
+
+			(Primitives	1
+
+				(Primitive	SALF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/21/08,15:05:17)
+
+							(User	Validol)
+
+							(Path	bdv_lib.salf)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SALF
+
+							(PackType	SALF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	9e6901aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	2ee801b3)
+
+)
+

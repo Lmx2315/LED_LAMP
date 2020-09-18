@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 15 12:59:55 2004' ;
+primitive 'SN74LVC2G04';
+  pin
+    '1A':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-1Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-2Y':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GNDD':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'P5V0':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SN74LVC2G04';
+    JEDEC_TYPE='F51';
+    BODY_NAME='SN74LVC2G04';
+    PHYS_DES_PREFIX='DD';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

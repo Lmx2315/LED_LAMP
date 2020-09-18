@@ -1,0 +1,248 @@
+(Cell	1636pp3u
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/12/17,15:45:42)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.1636pp3u)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/12/17,16:09:54)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.1636pp3u)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000138ec6c4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/12/17,16:08:39)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.1636pp3u)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c2e03b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e4699bc1)
+
+			(Primitives	1
+
+				(Primitive	1636PP3U
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/12/17,15:45:45)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.1636pp3u)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1636PP3U
+
+							(PackType	1636PP3U)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h1442-1b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Schematic
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Dcf	
+
+				(Checksum	00000000083398d9)
+
+			)
+
+			(Xcon	
+
+				(Checksum	00000000a37d48b7)
+
+			)
+
+			(Pages	0)
+
+			(Checksum	000000001cec037e)
+
+		)
+
+		(Checksum	000000001d8603dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bf603ae)
+
+)
+

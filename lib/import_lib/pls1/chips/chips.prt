@@ -1,0 +1,16 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Apr 08 15:53:38 2003' ;
+primitive 'PLS1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='PLS1';
+    JEDEC_TYPE='f23';
+    BODY_NAME='pls1';
+  end_body;
+end_primitive;
+END.

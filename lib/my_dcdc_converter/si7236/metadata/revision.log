@@ -1,0 +1,28 @@
+	(Comment
+		(Time 08/23/17,18:29:01)
+		(User Lmx2315)
+		(MsgId ECO_021)
+		(Text "Package SI7236 added to cell")
+		(Param1 "SI7236")
+	)
+	(Comment
+		(Time 08/23/17,18:31:34)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 08/23/17,18:33:42)
+		(User Lmx2315)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 08/23/17,18:35:04)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

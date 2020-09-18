@@ -1,0 +1,170 @@
+(Cell	ft2232d
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/14/09,10:56:52)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ft2232d)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/14/09,11:05:36)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ft2232d)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ef270ef0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/09,10:56:55)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ft2232d)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e37f03e0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a6f1c595)
+
+			(Primitives	1
+
+				(Primitive	FT2232D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/09,11:02:41)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ft2232d)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FT2232D
+
+							(PackType	FT2232D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000086fc038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000024bc03b4)
+
+)
+

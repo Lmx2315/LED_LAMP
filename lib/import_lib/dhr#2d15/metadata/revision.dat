@@ -1,0 +1,170 @@
+(Cell	dhr-15
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/25/10,15:03:50)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.dhr-15)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/25/10,15:38:06)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.dhr-15)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a254926a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/25/10,15:03:53)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.dhr-15)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d708037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000178f4b24)
+
+			(Primitives	1
+
+				(Primitive	DHR-15
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/25/10,15:35:55)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.dhr-15)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DHR-15
+
+							(PackType	DHR-15)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000633a03e8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000c6b0037e)
+
+)
+

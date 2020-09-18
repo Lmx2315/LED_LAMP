@@ -1,0 +1,170 @@
+(Cell	tes5wi
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/23/09,10:07:34)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tes5wi)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/23/09,10:11:29)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tes5wi)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004c72d0de)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/09,10:07:36)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tes5wi)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c26903de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003bb18df5)
+
+			(Primitives	1
+
+				(Primitive	TES5WI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/09,10:09:30)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tes5wi)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TES5WI
+
+							(PackType	TES5WI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d3e303df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000b2fc03dd)
+
+)
+

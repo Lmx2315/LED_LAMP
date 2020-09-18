@@ -1,0 +1,180 @@
+(Cell	1273pa5y
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/06/14,12:06:26)
+
+			(User	imk)
+
+			(Path	b620.1273pa5y)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/06/14,16:06:20)
+
+			(User	imk)
+
+			(Path	b620.1273pa5y)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003dfac8d4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/14,12:06:29)
+
+							(User	imk)
+
+							(Path	b620.1273pa5y)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e9d0412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008ad9c099)
+
+			(Primitives	1
+
+				(Primitive	1273PA5Y
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/14,12:20:48)
+
+							(User	imk)
+
+							(Path	b620.1273pa5y)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1273PA5Y
+
+							(PackType	1273PA5Y)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h1648-1b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0b03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c7303a2)
+
+)
+

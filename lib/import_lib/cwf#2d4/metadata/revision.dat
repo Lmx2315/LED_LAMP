@@ -1,0 +1,178 @@
+(Cell	cwf-4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/19/10,12:45:47)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.cwf-4)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/19/10,12:46:53)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.cwf-4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000002c9f893f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/10,12:45:52)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.cwf-4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d44503bf)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000afa6eafa)
+
+			(Primitives	1
+
+				(Primitive	CWF-4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/10,12:46:30)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.cwf-4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CWF-4
+
+							(PackType	CWF-4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000070450419)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000daff031f)
+
+)
+

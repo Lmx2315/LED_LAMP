@@ -1,0 +1,3 @@
+SPLBPD-117,Package Pin:No mapping between logical pin 'IN_P' and section number S1. Blank values not allowed for any section number.,Error
+SPLBPD-117,Package Pin:No mapping between logical pin 'IN_N' and section number S1. Blank values not allowed for any section number.,Error
+SPLBPD-117,Package Pin:No mapping between logical pin 'OUT' and section number S1. Blank values not allowed for any section number.,Error

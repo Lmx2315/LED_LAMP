@@ -1,0 +1,166 @@
+(Cell	mv103
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/04/07,15:00:36)
+
+			(User	Validol)
+
+			(Path	vcxo.mv103)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	0fec948f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/04/07,15:00:42)
+
+							(User	Validol)
+
+							(Path	vcxo.mv103)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	ef56021f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	63751ba4)
+
+			(Primitives	1
+
+				(Primitive	MV103
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/04/07,15:03:27)
+
+							(User	Validol)
+
+							(Path	vcxo.mv103)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MV103
+
+							(PackType	MV103)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	ef2401ff)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	3ed90214)
+
+)
+

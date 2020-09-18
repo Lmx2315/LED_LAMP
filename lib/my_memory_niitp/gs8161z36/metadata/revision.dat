@@ -1,0 +1,160 @@
+(Cell	gs8161z36
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/07/07,11:27:28)
+
+			(User	admin)
+
+			(Path	ti_asterisk_lib.gs8161z36)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008edcb0cf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/07,11:27:28)
+
+							(User	admin)
+
+							(Path	ti_asterisk_lib.gs8161z36)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000decb0440)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000af73639d)
+
+			(Primitives	1
+
+				(Primitive	GS8161Z36
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/07,11:27:28)
+
+							(User	admin)
+
+							(Path	ti_asterisk_lib.gs8161z36)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GS8161Z36
+
+							(PackType	GS8161Z36)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a21203ec)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000052203a2)
+
+)
+

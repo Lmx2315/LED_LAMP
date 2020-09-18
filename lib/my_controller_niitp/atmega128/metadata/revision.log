@@ -1,0 +1,66 @@
+
+	(Comment
+		(Time 07/05/06,11:40:12)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package ATMEGA128 added to cell")
+		(Param1 ATMEGA128)
+	)
+
+
+
+
+
+	(Comment
+		(Time 07/05/06,11:51:32)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 07/05/06,11:53:59)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 07/05/06,11:54:04)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 07/05/06,11:59:12)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+
+
+
+
+
+
+
+
+	(Comment
+		(Time 07/05/06,12:05:57)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+
+
+
+

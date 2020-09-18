@@ -1,0 +1,170 @@
+(Cell	opa1632
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/17/09,14:19:23)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.opa1632)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/17/09,14:21:24)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.opa1632)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000005f7ee296)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/09,14:19:25)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.opa1632)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c4ec03be)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d8d4b16c)
+
+			(Primitives	1
+
+				(Primitive	OPA1632
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/09,14:20:39)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.opa1632)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA1632
+
+							(PackType	OPA1632)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a35e03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000072fb03d9)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	hswa2-30dr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/23/11,16:25:44)
+
+			(User	Sergey)
+
+			(Path	import_lib.hswa2-30dr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/26/11,14:40:41)
+
+			(User	Sergey)
+
+			(Path	import_lib.hswa2-30dr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000026909b2f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/11,16:25:47)
+
+							(User	Sergey)
+
+							(Path	import_lib.hswa2-30dr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000035ec0385)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000026c74252)
+
+			(Primitives	1
+
+				(Primitive	HSWA2-30DR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/26/11,14:38:50)
+
+							(User	Sergey)
+
+							(Path	import_lib.hswa2-30dr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HSWA2-30DR
+
+							(PackType	HSWA2-30DR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000053b03b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000007470372)
+
+)
+

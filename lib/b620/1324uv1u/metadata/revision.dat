@@ -1,0 +1,180 @@
+(Cell	1324uv1u
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/13/14,15:12:20)
+
+			(User	imk)
+
+			(Path	b620.1324uv1u)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/13/14,15:14:06)
+
+			(User	imk)
+
+			(Path	b620.1324uv1u)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c559607e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/14,15:12:22)
+
+							(User	imk)
+
+							(Path	b620.1324uv1u)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bf10389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008bcda642)
+
+			(Primitives	1
+
+				(Primitive	1324UV1U
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/14,15:13:33)
+
+							(User	imk)
+
+							(Path	b620.1324uv1u)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1324UV1U
+
+							(PackType	1324UV1U)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qlcc6-8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ef5043f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cb003af)
+
+)
+

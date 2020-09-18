@@ -1,0 +1,156 @@
+(Cell	adf4360-7
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/08/07,10:20:29)
+
+			(User	Validol)
+
+			(Path	pll.adf4360-7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	56a9cf91)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/07,10:20:31)
+
+							(User	Validol)
+
+							(Path	pll.adf4360-7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	ff080260)
+
+		)
+
+		(View	Chips
+
+			(Checksum	36a6c5f9)
+
+			(Primitives	1
+
+				(Primitive	ADF4360-7
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/07,10:47:42)
+
+							(User	Validol)
+
+							(Path	pll.adf4360-7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADF4360-7
+
+							(PackType	ADF4360-7)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	5f190206)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0f270081)
+
+)
+

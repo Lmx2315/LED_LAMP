@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Aug 05 14:20:55 2004' ;
+primitive 'IRU1207_33CS_SOIC-8';
+  pin
+    'ENABLE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VIN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'FLAG':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND1':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+    'GND2':
+      PIN_NUMBER='(6)';
+      PINUSE='GROUND';
+    'GND3':
+      PIN_NUMBER='(7)';
+      PINUSE='GROUND';
+    'GND4':
+      PIN_NUMBER='(8)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='IRU1207_33CS';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F25';
+    FAMILY='IRU';
+    BODY_NAME='IRU1207_33CS';
+  end_body;
+end_primitive;
+END.

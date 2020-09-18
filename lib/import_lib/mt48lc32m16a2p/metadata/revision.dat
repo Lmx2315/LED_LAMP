@@ -1,0 +1,170 @@
+(Cell	mt48lc32m16a2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,13:02:59)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.mt48lc32m16a2p)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,13:42:38)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.mt48lc32m16a2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e15ff441)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,13:03:32)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.mt48lc32m16a2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f5ae03b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007507bf52)
+
+			(Primitives	1
+
+				(Primitive	MT48LC32M16A2P
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,13:12:22)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.mt48lc32m16a2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT48LC32M16A2P
+
+							(PackType	MT48LC32M16A2P)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000761303a9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000d897034f)
+
+)
+

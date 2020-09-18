@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pc817_dip4.dra                                )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Wed Aug 26 12:56:25 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/SPB_Data/LED_lamp/worklib/led/physical
+    Name      = pc817_dip4.psm
+    User      = Lmx
+    Machine   = LMX_PK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

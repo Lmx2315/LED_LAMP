@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Sep 11 10:36:12 2006' ;
+primitive 'IPL1_105_S_S';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '3':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '4':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '5':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='IPL1_105_S_S';
+    JEDEC_TYPE='F536';
+    BODY_NAME='IPL1_105_S_S';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

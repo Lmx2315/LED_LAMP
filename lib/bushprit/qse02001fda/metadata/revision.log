@@ -1,0 +1,35 @@
+
+	(Comment
+		(Time 09/26/07,10:00:20)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 09/26/07,10:05:22)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package qse02001fda added to cell")
+		(Param1 qse02001fda)
+	)
+	(Comment
+		(Time 09/26/07,10:05:32)
+		(User Validol)
+		(MsgId ECO_022)
+		(Text "Package QSE02001FDA deleted from cell")
+		(Param1 QSE02001FDA)
+	)
+	(Comment
+		(Time 09/26/07,10:05:52)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package qse02001fda added to cell")
+		(Param1 qse02001fda)
+	)
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Mar 23 11:40:44 2005' ;
+primitive 'FIN1101_SOIC-8';
+  pin
+    'RIN+':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RIN-':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'N.C.':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'DOUT+':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'DOUT-':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'EN':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='GROUND';
+    'VCC':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='FIN1101';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='SOIC-8';
+    FAMILY='?';
+    BODY_NAME='FIN1101';
+  end_body;
+end_primitive;
+END.

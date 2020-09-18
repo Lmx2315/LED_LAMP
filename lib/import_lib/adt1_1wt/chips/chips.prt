@@ -1,0 +1,40 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'ADT1_1WT';
+  pin
+    'SEC_DOT':
+      PIN_NUMBER='(6)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SEC':
+      PIN_NUMBER='(4)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SEC_CT':
+      PIN_NUMBER='(2)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'PRI_DOT':
+      PIN_NUMBER='(3)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'PRI':
+      PIN_NUMBER='(1)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='ADT1_1WT';
+    BODY_NAME='ADT1_1WT';
+    JEDEC_TYPE='f342';
+    PHYS_DES_PREFIX='TV';
+    CLASS='IC';
+    NC_PINS='(5)';
+  end_body;
+end_primitive;
+
+END.

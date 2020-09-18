@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SPF_5122Z';
+  pin
+    'RF OUT':
+      PIN_NUMBER='(7)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'RF IN':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='SPF_5122Z';
+    BODY_NAME='SPF_5122Z';
+    JEDEC_TYPE='spf_5122';
+    PHYS_DES_PREFIX='DA';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:1,3,5,6,8,4,9)';
+  end_body;
+end_primitive;
+
+END.

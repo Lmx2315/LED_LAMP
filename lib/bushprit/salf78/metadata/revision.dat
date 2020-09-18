@@ -1,0 +1,166 @@
+(Cell	salf78
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/26/07,10:38:53)
+
+			(User	Validol)
+
+			(Path	bushprit.salf78)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	3a51decd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/26/07,10:40:09)
+
+							(User	Validol)
+
+							(Path	bushprit.salf78)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	6fdf0237)
+
+		)
+
+		(View	Chips
+
+			(Checksum	87fbacbe)
+
+			(Primitives	1
+
+				(Primitive	SALF78
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/26/07,10:44:11)
+
+							(User	Validol)
+
+							(Path	bushprit.salf78)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SALF78
+
+							(PackType	SALF78)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	4df20375)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	7ec701b8)
+
+)
+

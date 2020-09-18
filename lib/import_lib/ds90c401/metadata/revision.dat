@@ -1,0 +1,178 @@
+(Cell	ds90c401
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/02/12,17:32:18)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds90c401)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/02/12,17:35:59)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds90c401)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e59faf7a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/12,17:32:23)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds90c401)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000070830419)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e1e35e7d)
+
+			(Primitives	1
+
+				(Primitive	DS90C401
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/12,17:34:44)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds90c401)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS90C401
+
+							(PackType	DS90C401)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000aa75032c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000055e803a7)
+
+)
+

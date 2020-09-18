@@ -1,0 +1,204 @@
+(Cell	ssq_fuse
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/02/17,17:06:31)
+
+			(User	Lmx2315)
+
+			(Path	power_my.ssq_fuse)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/02/17,17:31:52)
+
+			(User	Lmx2315)
+
+			(Path	power_my.ssq_fuse)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ea4a4f7e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/02/17,17:06:54)
+
+							(User	Lmx2315)
+
+							(Path	power_my.ssq_fuse)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e910412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000002029cb5)
+
+			(Primitives	1
+
+				(Primitive	SSQ_FUSE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/02/17,17:30:13)
+
+							(User	Lmx2315)
+
+							(Path	power_my.ssq_fuse)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SSQ_FUSE
+
+							(PackType	SSQ_FUSE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fuse_ssq_2410)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b16037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b620376)
+
+)
+

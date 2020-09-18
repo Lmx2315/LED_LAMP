@@ -1,0 +1,43 @@
+DEFINE led_drv1_lib worklib
+
+DEFINE discrete_niitp   ../LED_lamp/lib/discrete_niitp
+DEFINE import_lib       ../LED_lamp/lib/import_lib
+DEFINE leds_niitp       ../LED_lamp/lib/leds_niitp
+DEFINE logic_niitp      ../LED_lamp/lib/logic_niitp
+DEFINE max_niitp        ../LED_lamp/lib/max_niitp
+DEFINE interfeysnaya    ../LED_lamp/lib/interfeysnaya
+DEFINE rbu 			    ../LED_lamp/lib/rbu
+DEFINE supervisor_niitp ../LED_lamp/lib/supervisor_niitp
+
+DEFINE power_my         ../LED_lamp/lib/power_my
+DEFINE power_niitp      ../LED_lamp/lib/power_niitp
+DEFINE my_passive_niitp ../LED_lamp/lib/my_passive_niitp
+DEFINE pll 				../LED_lamp/lib/pll
+DEFINE vco 				../LED_lamp/lib/vco
+DEFINE power_divider 	../LED_lamp/lib/power_divider
+DEFINE attenuator 		../LED_lamp/lib/attenuator
+DEFINE rf_amplifer 		../LED_lamp/lib/rf_amplifer
+DEFINE ldo 				../LED_lamp/lib/ldo
+DEFINE vcxo 			../LED_lamp/lib/vcxo
+DEFINE b620 			../LED_lamp/lib/b620
+DEFINE bdv_lib 			../LED_lamp/lib/bdv_lib
+
+DEFINE my_muxdemux_niitp ../LED_lamp/lib/my_muxdemux_niitp
+DEFINE my_dcdc_converter ../LED_lamp/lib/my_dcdc_converter
+DEFINE my_format_niitp 	 ../LED_lamp/lib/my_format_niitp
+DEFINE my_fpga_niitp 	 ../LED_lamp/lib/my_fpga_niitp
+DEFINE my_ldo_niitp 	 ../LED_lamp/lib/my_ldo_niitp
+DEFINE my_memory_niitp 	 ../LED_lamp/lib/my_memory_niitp
+DEFINE my_oscillator 	 ../LED_lamp/lib/my_oscillator
+DEFINE my_sensor_niitp 	 ../LED_lamp/lib/my_sensor_niitp
+DEFINE optocoupler_niitp ../LED_lamp/lib/optocoupler_niitp
+DEFINE alfavit 			 ../LED_lamp/lib/alfavit
+
+
+DEFINE my_connectors_niitp  ../LED_lamp/lib/my_connectors_niitp
+DEFINE my_supervisory_niitp	../LED_lamp/lib/my_supervisory_niitp
+DEFINE my_leds_niitp 		../LED_lamp/lib/my_leds_niitp
+DEFINE my_transceiver 		../LED_lamp/lib/my_transceiver
+
+DEFINE standard    archive_libs/standard
+

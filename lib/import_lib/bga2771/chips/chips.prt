@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Dec 24 15:52:16 2004' ;
+primitive 'BGA2771','BGA2771_SOT363-6';
+  pin
+    'RFIN':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RFOUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VS':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'GND1':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'GND2':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'GND':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='BGA2771';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F51';
+    BODY_NAME='BGA2771';
+    FAMILY='BGA';
+  end_body;
+end_primitive;
+END.

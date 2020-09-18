@@ -1,0 +1,170 @@
+(Cell	ltc4300-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.16)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/30/05,14:23:52)
+
+			(User	rifch)
+
+			(Path	my_transceiver.ltc4300-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/30/05,14:41:27)
+
+			(User	rifch)
+
+			(Path	my_transceiver.ltc4300-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008ae5f821)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/30/05,14:31:41)
+
+							(User	rifch)
+
+							(Path	my_transceiver.ltc4300-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000359803b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007ff94f26)
+
+			(Primitives	1
+
+				(Primitive	LTC4300-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/30/05,14:23:57)
+
+							(User	rifch)
+
+							(Path	my_transceiver.ltc4300-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC4300-2
+
+							(PackType	LTC4300-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d4a803af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s009)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000a30e03dc)
+
+)
+

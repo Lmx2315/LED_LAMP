@@ -1,0 +1,35 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Aug 17 17:39:43 2004' ;
+primitive 'MIC39101';
+  pin
+    'VIN':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'EN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-ERR':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,*)';
+      OUTPUT_TYPE='(OC,AND)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:5,6,7,8)';
+    GROUND_NETS='GNDD';
+    CLASS='IC';
+    PART_NAME='MIC39101';
+    PHYS_DES_PREFIX='DA';
+    JEDEC_TYPE='f25';
+    BODY_NAME='MIC39101';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,19 @@
+
+	(Comment
+		(Time 06/30/06,18:37:22)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package KS8721BL added to cell")
+		(Param1 KS8721BL)
+	)
+
+
+
+	(Comment
+		(Time 06/30/06,18:51:22)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

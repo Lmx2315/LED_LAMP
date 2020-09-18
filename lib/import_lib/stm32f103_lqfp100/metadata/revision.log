@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/27/13,16:15:51)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 03/27/13,17:02:29)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package STM32F103_LQFP100 added to cell")
+		(Param1 STM32F103_LQFP100)
+	)

@@ -1,0 +1,170 @@
+(Cell	tlp_181
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/06/10,09:59:02)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.tlp_181)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/06/10,10:08:34)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.tlp_181)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000d1e584e8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/10,09:59:05)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.tlp_181)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000751103b9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005fe0f608)
+
+			(Primitives	1
+
+				(Primitive	TLP_181
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/06/10,10:02:01)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.tlp_181)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TLP_181
+
+							(PackType	TLP_181)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000136103e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000058e80347)
+
+)
+

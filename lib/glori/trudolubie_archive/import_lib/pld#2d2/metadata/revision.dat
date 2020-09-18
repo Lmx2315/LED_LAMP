@@ -1,0 +1,170 @@
+(Cell	pld-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/20/10,11:09:57)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.pld-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/20/10,11:12:21)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.pld-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000078585918)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/20/10,11:10:00)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.pld-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000002a3c0334)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006b2594ed)
+
+			(Primitives	1
+
+				(Primitive	PLD-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/20/10,11:11:56)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.pld-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PLD-2
+
+							(PackType	PLD-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000008ab3032a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000035b603a5)
+
+)
+

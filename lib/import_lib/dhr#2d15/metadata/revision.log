@@ -1,0 +1,35 @@
+
+	(Comment
+		(Time 06/25/10,15:03:53)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/25/10,15:16:00)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package dhr-15 added to cell")
+		(Param1 dhr-15)
+	)
+
+
+
+	(Comment
+		(Time 06/25/10,15:35:52)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package DHR-15 deleted from cell")
+		(Param1 DHR-15)
+	)
+	(Comment
+		(Time 06/25/10,15:35:55)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package dhr-15 added to cell")
+		(Param1 dhr-15)
+	)
+
+
+

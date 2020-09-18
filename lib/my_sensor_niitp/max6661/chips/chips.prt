@@ -1,0 +1,67 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Aug 26 21:25:47 2004' ;
+primitive 'MAX6661';
+  pin
+    'DXP':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DXN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TACH IN':
+      PIN_NUMBER='(16)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-ALERT':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-OVERT':
+      PIN_NUMBER='(9)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SCL':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SDI':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SDO':
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-CS':
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'FAN':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GAIN':
+      PIN_NUMBER='(13)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'VFAN':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'GNDA':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VCC':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GNDD':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(6)';
+    CLASS='IC';
+    PART_NAME='MAX6661';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='f96';
+    BODY_NAME='MAX6661';
+    PACK_TYPE='QSOP16';
+  end_body;
+end_primitive;
+END.

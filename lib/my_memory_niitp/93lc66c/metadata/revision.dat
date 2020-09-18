@@ -1,0 +1,98 @@
+(Cell	93lc66c
+
+	(RevisionInfoBlock
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo
+
+			(Time	06/24/04,18:56:35)
+
+			(User	Dima7)
+
+			(Path	my_memory_niitp.93LC66C)
+
+		)
+
+	)
+
+	(Views
+
+		(View Chips
+			(Primitives	1
+				(Primitive	93LC66C
+					(RevisionInfoBlock
+						(Baselined	0)
+						(Revision	1.0)
+						(ModificationStatus	NULL)
+						(Status	Created)
+						(ErrorStatus	0)
+						(CreateInfo
+							(Time	06/24/04,18:56:35)
+							(User	Dima7)
+							(Path	my_memory_niitp.93LC66C)
+						)
+					)
+
+					(LogicalPhysicalPartRelation
+						(LogicalPart	93LC66C
+							(PackType	93LC66C)
+						)
+					)
+
+					(Packages	1
+						(FunctionGroups	1
+							(FunctionGroup	1[1]
+								(Linkages
+									(Linkage	Symbol
+										(Name	sym_1)
+									)
+								)
+							)
+						)
+						(Linkages
+							(DefaultFootPrint
+								(Name	SOP8J)
+							)
+						)
+					)
+				)
+			)
+		)
+
+		(View	Symbol
+			(Symbols	1
+				(Symbol	sym_1
+					(RevisionInfoBlock
+						(Baselined	0)
+						(Revision	1.0)
+						(ModificationStatus	NULL)
+						(Status	Created)
+						(ErrorStatus	0)
+						(CreateInfo
+							(Time	06/24/04,18:56:35)
+							(User	Dima7)
+							(Path	my_memory_niitp.93LC66C)
+						)
+					)
+				)
+			)
+		)
+
+
+
+
+
+
+	)
+
+)
+

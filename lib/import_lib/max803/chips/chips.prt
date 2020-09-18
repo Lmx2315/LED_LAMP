@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Aug 16 11:48:10 2004' ;
+primitive 'MAX803';
+  pin
+    '-RESET':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VCC':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'GND':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX803';
+    PHYS_DES_PREFIX='DA';
+    JEDEC_TYPE='SC70';
+    FAMILY='SUPERVISOR';
+    BODY_NAME='MAX803';
+    LOCATION='DA';
+    PACK_TYPE='SC70';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Sat Jun 21 14:37:09 2003' ;
+primitive 'SN05230D';
+  pin
+    'RS':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CH':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CL':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VR':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'R':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:2)';
+    POWER_PINS='(P3V3:3)';
+    CLASS='IC';
+    PART_NAME='SN05230D';
+    JEDEC_TYPE='SOIC8';
+    BODY_NAME='SN05230D';
+  end_body;
+end_primitive;
+END.

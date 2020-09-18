@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Jul 04 15:17:48 2003' ;
+primitive 'ZJYS81R5_2PL';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y1':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Y2':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='ZJYS81R5_2PL';
+    JEDEC_TYPE='DO4';
+    BODY_NAME='ZJYS81R5_2PL';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

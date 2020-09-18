@@ -1,0 +1,300 @@
+(Cell	dpu
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0.37)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/21/04,12:33:15)
+
+			(User	Dima7)
+
+			(Path	my_fpga_niitp.dpu)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	4
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ca8607ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/04,12:33:15)
+
+							(User	Dima7)
+
+							(Path	my_fpga_niitp.dpu)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000029ae447)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/04,12:33:15)
+
+							(User	Dima7)
+
+							(Path	my_fpga_niitp.dpu)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b73f06eb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/04,12:33:15)
+
+							(User	Dima7)
+
+							(Path	my_fpga_niitp.dpu)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000d0070316)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/21/04,12:33:15)
+
+							(User	Dima7)
+
+							(Path	my_fpga_niitp.dpu)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000009887035b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c53979c8)
+
+			(Primitives	1
+
+				(Primitive	DPU
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.35)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DPU
+
+							(PackType	DPU)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(SWAP_INFO	'(S1+S2+S3+S4)')
+
+						(FunctionGroups	4
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c5a403ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s009)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000534803d7)
+
+)
+

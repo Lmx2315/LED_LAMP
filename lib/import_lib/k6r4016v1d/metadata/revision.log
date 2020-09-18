@@ -1,0 +1,14 @@
+	(Comment
+		(Time 11/01/18,13:45:34)
+		(User Lmx2315)
+		(MsgId ECO_021)
+		(Text "Package K6R4016V1D added to cell")
+		(Param1 "K6R4016V1D")
+	)
+	(Comment
+		(Time 11/01/18,14:14:51)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

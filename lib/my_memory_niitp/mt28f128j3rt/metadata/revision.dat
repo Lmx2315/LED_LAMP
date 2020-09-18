@@ -1,0 +1,172 @@
+(Cell	mt28f128j3rt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/22/06,17:36:10)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.mt28f128j3rt)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/22/06,17:43:56)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.mt28f128j3rt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002cc5eeac)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/06,17:43:51)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.mt28f128j3rt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e58043c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000084107c26)
+
+			(Primitives	1
+
+				(Primitive	MT28F128J3RT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/06,17:37:07)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.mt28f128j3rt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT28F128J3RT
+
+							(PackType	MT28F128J3RT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ba00352)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c31036f)
+
+)
+

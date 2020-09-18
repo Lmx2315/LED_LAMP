@@ -1,0 +1,42 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Oct 13 16:46:24 2003' ;
+primitive 'DC/DC_5_10W';
+  pin
+    'V_IN-':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V_IN+':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TOA':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'S_YNC':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V_OUT-':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V_OUT+':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'T_RIM':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'NOR':
+      PIN_NUMBER='(9)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RC':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(3,4,5,6,12,13,14,15,16)';
+    CLASS='DISCRETE';
+    PART_NAME='DC/DC_5_10W';
+    JEDEC_TYPE='f54';
+    BODY_NAME='DC/DC_5_10W';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

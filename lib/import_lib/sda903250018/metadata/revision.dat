@@ -1,0 +1,170 @@
+(Cell	sda903250018
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/22/11,15:57:02)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.sda903250018)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/22/11,15:58:23)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.sda903250018)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ab45ed1a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/22/11,15:57:07)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.sda903250018)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000618a0408)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000038407f39)
+
+			(Primitives	1
+
+				(Primitive	SDA903250018
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/22/11,15:58:04)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.sda903250018)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SDA903250018
+
+							(PackType	SDA903250018)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000057480387)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000009a87032b)
+
+)
+

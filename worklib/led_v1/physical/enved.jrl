@@ -1,0 +1,14 @@
+\t (00:00:00) enved 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Wed Aug 26 11:52:46 2020
+\t (00:00:00)         Host=LMX_PK User=Lmx Pid=9428 CPUs=12
+\t (00:00:00) CmdLine= enved -product Concept_HDL_expert -proj D:/SPB_Data/LED_lamp/led_drv1.cpm -mpssession Lmx_ProjectMgr11026 -mpshost Lmx_pk
+\t (00:00:00) 
+\i (00:00:03) setwindow form.prfedit
+\i (00:00:03) FORM prfedit treelist  Paths 
+\i (00:00:06) FORM prfedit treelist  Config Paths 
+\i (00:00:11) FORM prfedit treelist  Library Paths 
+\i (00:00:14) FORM prfedit psmpath  
+\i (00:00:32) FORM prfedit padpath  
+\i (00:00:47) FORM prfedit apply  
+\i (00:00:48) FORM prfedit done  
+\t (00:00:48)     Journal end - Wed Aug 26 11:53:34 2020

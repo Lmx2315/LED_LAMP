@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Dec 23 15:21:15 2004' ;
+primitive 'BAS70DW-04';
+  pin
+    'A':
+      PIN_NUMBER='(1,4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'C':
+      PIN_NUMBER='(2,5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'AC':
+      PIN_NUMBER='(6,3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='BAS70DW-04';
+    PHYS_DES_PREFIX='VD';
+    JEDEC_TYPE='f51';
+    BODY_NAME='BAS70DW-04';
+    PATH='?';
+  end_body;
+end_primitive;
+END.

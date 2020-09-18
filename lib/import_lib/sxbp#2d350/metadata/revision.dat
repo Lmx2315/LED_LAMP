@@ -1,0 +1,170 @@
+(Cell	sxbp-350
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/04/11,17:15:49)
+
+			(User	Admin)
+
+			(Path	peredatchik.sxbp-350)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/04/11,17:20:39)
+
+			(User	Admin)
+
+			(Path	peredatchik.sxbp-350)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000099b5ec4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/04/11,17:16:00)
+
+							(User	Admin)
+
+							(Path	peredatchik.sxbp-350)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000443103b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007bdea8bf)
+
+			(Primitives	1
+
+				(Primitive	SXBP-350
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/04/11,17:18:51)
+
+							(User	Admin)
+
+							(Path	peredatchik.sxbp-350)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SXBP-350
+
+							(PackType	SXBP-350)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000839903da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000045d20386)
+
+)
+

@@ -1,0 +1,21 @@
+
+****************************************
+DBDOCTOR of drawing C:\PSD_DATA\Projects\Modulator2\worklib\interf_m8_v1\physical\interf_m8_v9_nev_exp.brd
+****************************************
+
+WARNING IN PAD STACK name = VIA2600X1600
+  Illegal null pad
+  Layer GND
+
+WARNING IN PAD STACK name = CR0300TH_49
+  Illegal null pad
+  Layer GND
+
+WARNING IN PAD STACK name = VIA1400_F399
+  Illegal null pad
+
+WARNING IN PAD STACK name = VIA1400_F399
+  Illegal null pad
+  Layer TOP
+
+4 warnings, 0 errors detected, 0 errors could be fixed.

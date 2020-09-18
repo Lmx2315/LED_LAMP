@@ -1,0 +1,47 @@
+
+	(Comment
+		(Time 10/27/04,16:11:23)
+		(User rifch)
+		(MsgId ECO_022)
+		(Text "Package QTE_020_NEW deleted from cell")
+		(Param1 QTE_020_NEW)
+	)
+	(Comment
+		(Time 10/27/04,16:11:25)
+		(User rifch)
+		(MsgId ECO_021)
+		(Text "Package QSE_QTE_020 added to cell")
+		(Param1 QSE_QTE_020)
+	)
+
+
+	(Comment
+		(Time 10/27/04,16:42:30)
+		(User rifch)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 10/27/04,16:42:34)
+		(User rifch)
+		(MsgId ECO_021)
+		(Text "Package QTE_020_50_NEW_1 added to cell")
+		(Param1 QTE_020_50_NEW_1)
+	)
+	(Comment
+		(Time 10/27/04,16:42:40)
+		(User rifch)
+		(MsgId ECO_022)
+		(Text "Package QTE_020_50_NEW_1 deleted from cell")
+		(Param1 QTE_020_50_NEW_1)
+	)
+	(Comment
+		(Time 10/27/04,16:42:44)
+		(User rifch)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+

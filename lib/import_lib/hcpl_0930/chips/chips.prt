@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Dec 17 16:49:20 2004' ;
+primitive 'HCPL_0930';
+  pin
+    'IN1':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN2':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT1':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT2':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VDD1':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VDD2':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'GND1':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'GND2':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='HCPL_0930';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F27';
+    FAMILY='HCPL';
+    BODY_NAME='HCPL_0930';
+  end_body;
+end_primitive;
+END.

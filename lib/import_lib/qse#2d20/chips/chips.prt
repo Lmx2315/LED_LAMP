@@ -1,0 +1,17 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Jun 18 17:35:36 2004' ;
+primitive 'QSE-20_QSE-20';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='QSE-20';
+    JEDEC_TYPE='QSE-20';
+  end_body;
+end_primitive;
+END.

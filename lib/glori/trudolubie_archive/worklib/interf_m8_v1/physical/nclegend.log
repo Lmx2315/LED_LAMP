@@ -1,0 +1,19 @@
+(------------------------------------------------------------)
+(                                                            )
+(        DRILL LEGEND                                        )
+(                                                            )
+(        Drawing          : interf_m8_v4_nev.brd             )
+(        Software Version : 15.2s086                         )
+(        Date/Time        : Wed Dec 29 12:11:00 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+Begin processing drill template file : C:\Cadence\SPB_15.2\share\pcb\text\nclegend\default-mm.dlt.
+End processing drill template file : C:\Cadence\SPB_15.2\share\pcb\text\nclegend\default-mm.dlt. 
+
+
+Begin processing drill holes.
+Warning : Hole 1.2000-0.0000-C-P-0.0000-0.0000 uses multiple drill figures.
+End processing drill holes.

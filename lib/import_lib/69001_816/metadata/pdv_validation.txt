@@ -1,0 +1,1 @@
+pdv_140,Symbol 'sym_1':Pin +12BK1,+12BK,+12B,+12B1,-27B,-27B1,ADC2,GND4,+27B1,+27B,GND2,ADC0,GND1,INT*,SCL,SDA,GND3,ADC1 is not on Standard Grid,Error

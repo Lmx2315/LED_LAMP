@@ -1,0 +1,168 @@
+(Cell	c_pr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	Major)
+
+		(Status	Modified)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	)
+
+			(User	)
+
+			(Path	)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/20/04,14:38:43)
+
+			(User	rifch)
+
+			(Path	my_discret.c_pr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	136f4880)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/04,14:22:20)
+
+							(User	rifch)
+
+							(Path	my_discret.c_pr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	afcd014b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	f53ecf59)
+
+			(Primitives	1
+
+				(Primitive	C_PR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/04,14:22:28)
+
+							(User	rifch)
+
+							(Path	my_discret.c_pr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	C_PR
+
+							(PackType	C_PR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	5f250226)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	cf2d00ad)
+
+)
+

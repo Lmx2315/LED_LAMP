@@ -1,0 +1,4982 @@
+design 42 @trudolubie_lib.digital_dspblock_m6(sch_1) 0
+page Page1
+S a10 a10
+S ppi8 ppi8
+S \\abe1/sdqm1\\ abe1/sdqm1
+S ppi7 ppi7
+S rx_dsp rx_dsp
+S ppi6 ppi6
+S unnamed_1_r_i91_2 N256
+S ame ame
+S ppi5 ppi5
+S rfs0 rfs0
+S sms sms
+S unnamed_1_adspbf533_i1_addr8 N356
+S ppi4 ppi4
+S unnamed_1_adspbf533_i1_addr7 N357
+S ppi3 ppi3
+S unnamed_1_adspbf533_i1_addr6 N354
+S unnamed_1_ipl102_i103_1 N175
+S dt0pri dt0pri
+S ppi2 ppi2
+S unnamed_1_adspbf533_i1_addr5 N355
+S ppi1 ppi1
+S scke scke
+S tck_dsp tck_dsp
+S unnamed_1_adspbf533_i1_addr4 N419
+S ppi0 ppi0
+S tms_dsp tms_dsp
+S unnamed_1_adspbf533_i1_addr3 N418
+S sclk sclk
+S unnamed_1_adspbf533_i1_addr2 N417
+S unnamed_1_adspbf533_i1_addr1 N416
+S tdi_dsp tdi_dsp
+S tx_dsp tx_dsp
+S clk_out clk_out
+S sras sras
+S tdo_dsp tdo_dsp
+S d15 d15
+S nmi nmi
+S ppi15 ppi15
+S d14 d14
+S dr0pri dr0pri
+S ppi14 ppi14
+S ppi_fram_syn1 ppi_fram_syn1
+S ams3 ams3
+S d13 d13
+S ppi13 ppi13
+S ppi_f_syn2 ppi_f_syn2
+S a9 a9
+S ams2 ams2
+S d12 d12
+S ppi12 ppi12
+S a8 a8
+S ams1 ams1
+S aoe aoe
+S d11 d11
+S ppi11 ppi11
+S scas scas
+S a7 a7
+S ams0 ams0
+S d10 d10
+S ppi10 ppi10
+S tfs0 tfs0
+S a6 a6
+S ppi_fs3 ppi_fs3
+S a5 a5
+S br br
+S spartan_cs spartan_cs
+S unnamed_1_adspbf533_i54_xtal N415
+S unnamed_1_led_i59_2 N407
+S a4 a4
+S \\senres_3.3v\\ senres_3.3v
+S tsclk tsclk
+S unnamed_1_led_i59_1 N337
+S a3 a3
+S cs_at45 cs_at45
+S rsclk0 rsclk0
+S a2 a2
+S a1 a1
+S unnamed_1_adspbf533_i54_clkout N362
+S \\abe0/sdqm0\\ abe0/sdqm0
+S unnamed_1_r_i112_2 N427
+S bg bg
+S reset reset
+S dt0sec dt0sec
+S ardy ardy
+S unnamed_1_adspbf533_i54_clkin N257
+S unnamed_1_led_i61_2 N176
+S unnamed_1_led_i61_1 N177
+S d9 d9
+S sa10 sa10
+S trst_dsp trst_dsp
+S are are
+S d8 d8
+S mosi mosi
+S unnamed_1_adspbf533_i1_bmode1 N254
+S a19 a19
+S d7 d7
+S dr0sec dr0sec
+S swe swe
+S unnamed_1_adspbf533_i1_bmode0 N255
+S a18 a18
+S d6 d6
+S a17 a17
+S d5 d5
+S unnamed_1_adspbf533_i54_rtxo N049
+S a16 a16
+S bgh bgh
+S d4 d4
+S a15 a15
+S d3 d3
+S ppi_clk ppi_clk
+S a14 a14
+S d2 d2
+S emu emu
+S a13 a13
+S d1 d1
+S miso miso
+S unnamed_1_adspbf533_i54_sa10 N218
+S a12 a12
+S cs_boot_dsp cs_boot_dsp
+S d0 d0
+S a11 a11
+S ppi9 ppi9
+S unnamed_1_adspbf533_i54_rtxi N050
+I i1 DD3_sec2 adsp_bf533
+P addr14 DD3_sec2:addr14
+P addr13 DD3_sec2:addr13
+P tx DD3_sec2:tx
+P addr12 DD3_sec2:addr12
+P rfs1 DD3_sec2:rfs1
+P addr11 DD3_sec2:addr11
+P rfs0 DD3_sec2:rfs0
+P sms DD3_sec2:sms
+P addr10 DD3_sec2:addr10
+P dt0pri DD3_sec2:dt0pri
+P scke DD3_sec2:scke
+P sras DD3_sec2:sras
+P ppi_3 DD3_sec2:ppi_3
+P xtal DD3_sec2:xtal
+P nmi DD3_sec2:nmi
+P ppi_2 DD3_sec2:ppi_2
+P dr0pri DD3_sec2:dr0pri
+P dt1sec DD3_sec2:dt1sec
+P ppi_1 DD3_sec2:ppi_1
+P ams3 DD3_sec2:ams3
+P ppi_0 DD3_sec2:ppi_0
+P ams2 DD3_sec2:ams2
+P ams1 DD3_sec2:ams1
+P aoe DD3_sec2:aoe
+P clkout DD3_sec2:clkout
+P data9 DD3_sec2:data9
+P scas DD3_sec2:scas
+P tfs1 DD3_sec2:tfs1
+P ams0 DD3_sec2:ams0
+P data8 DD3_sec2:data8
+P tfs0 DD3_sec2:tfs0
+P data7 DD3_sec2:data7
+P br DD3_sec2:br
+P data6 DD3_sec2:data6
+P data5 DD3_sec2:data5
+P rsclk1 DD3_sec2:rsclk1
+P data4 DD3_sec2:data4
+P rsclk0 DD3_sec2:rsclk0
+P data3 DD3_sec2:data3
+P data2 DD3_sec2:data2
+P dr1sec DD3_sec2:dr1sec
+P tck DD3_sec2:tck
+P data1 DD3_sec2:data1
+P abe1 DD3_sec2:abe1
+P data0 DD3_sec2:data0
+P abe0 DD3_sec2:abe0
+P bmode1 DD3_sec2:bmode1
+P awe DD3_sec2:awe
+P bmode0 DD3_sec2:bmode0
+P tdo DD3_sec2:tdo
+P trst DD3_sec2:trst
+P bg DD3_sec2:bg
+P reset DD3_sec2:reset
+P tsclk1 DD3_sec2:tsclk1
+P dt0sec DD3_sec2:dt0sec
+P tsclk0 DD3_sec2:tsclk0
+P pf15 DD3_sec2:pf15
+P tdi DD3_sec2:tdi
+P addr9 DD3_sec2:addr9
+P ardy DD3_sec2:ardy
+P pf14 DD3_sec2:pf14
+P sck DD3_sec2:sck
+P addr8 DD3_sec2:addr8
+P pf13 DD3_sec2:pf13
+P pf9 DD3_sec2:pf9
+P rtxo DD3_sec2:rtxo
+P rx DD3_sec2:rx
+P vrout1 DD3_sec2:vrout1
+P addr7 DD3_sec2:addr7
+P pf12 DD3_sec2:pf12
+P pf8 DD3_sec2:pf8
+P tmr2 DD3_sec2:tmr2
+P vrout0 DD3_sec2:vrout0
+P addr6 DD3_sec2:addr6
+P pf11 DD3_sec2:pf11
+P pf7 DD3_sec2:pf7
+P tmr1 DD3_sec2:tmr1
+P addr5 DD3_sec2:addr5
+P dt1pri DD3_sec2:dt1pri
+P pf10 DD3_sec2:pf10
+P pf6 DD3_sec2:pf6
+P tmr0 DD3_sec2:tmr0
+P addr4 DD3_sec2:addr4
+P pf5 DD3_sec2:pf5
+P sa10 DD3_sec2:sa10
+P addr3 DD3_sec2:addr3
+P are DD3_sec2:are
+P mosi DD3_sec2:mosi
+P pf4 DD3_sec2:pf4
+P addr2 DD3_sec2:addr2
+P data15 DD3_sec2:data15
+P dr0sec DD3_sec2:dr0sec
+P pf3 DD3_sec2:pf3
+P rtxi DD3_sec2:rtxi
+P swe DD3_sec2:swe
+P addr1 DD3_sec2:addr1
+P data14 DD3_sec2:data14
+P pf2 DD3_sec2:pf2
+P tms DD3_sec2:tms
+P data13 DD3_sec2:data13
+P pf1 DD3_sec2:pf1
+P bgh DD3_sec2:bgh
+P data12 DD3_sec2:data12
+P pf0 DD3_sec2:pf0
+P addr19 DD3_sec2:addr19
+P data11 DD3_sec2:data11
+P ppi_clk DD3_sec2:ppi_clk
+P addr18 DD3_sec2:addr18
+P data10 DD3_sec2:data10
+P emu DD3_sec2:emu
+P addr17 DD3_sec2:addr17
+P miso DD3_sec2:miso
+P addr16 DD3_sec2:addr16
+P dr1pri DD3_sec2:dr1pri
+P addr15 DD3_sec2:addr15
+P clkin DD3_sec2:clkin
+I i8 C25 cap
+P b(0) C25:b(0)
+P a(0) C25:a(0)
+I i10 C24 cap
+P b(0) C24:b(0)
+P a(0) C24:a(0)
+I i14 C17 cap
+P b(0) C17:b(0)
+P a(0) C17:a(0)
+I i18 C23 cap
+P b(0) C23:b(0)
+P a(0) C23:a(0)
+I i20 C22 cap
+P b(0) C22:b(0)
+P a(0) C22:a(0)
+I i22 C21 cap
+P b(0) C21:b(0)
+P a(0) C21:a(0)
+I i26 R20 res4_array
+P lpin(3) R20:lpin(3)
+P lpin(4) R20:lpin(4)
+P rpin(5) R20:rpin(5)
+P rpin(6) R20:rpin(6)
+P rpin(7) R20:rpin(7)
+P lpin(1) R20:lpin(1)
+P rpin(8) R20:rpin(8)
+P lpin(2) R20:lpin(2)
+I i30 R23 r
+P \1\ R23:1
+P \2\ R23:2
+I i31 R21 res4_array
+P lpin(3) R21:lpin(3)
+P lpin(4) R21:lpin(4)
+P rpin(5) R21:rpin(5)
+P rpin(6) R21:rpin(6)
+P rpin(7) R21:rpin(7)
+P lpin(1) R21:lpin(1)
+P rpin(8) R21:rpin(8)
+P lpin(2) R21:lpin(2)
+I i40 C16 cap
+P b(0) C16:b(0)
+P a(0) C16:a(0)
+I i43 C15 cap
+P b(0) C15:b(0)
+P a(0) C15:a(0)
+I i44 C14 cap
+P b(0) C14:b(0)
+P a(0) C14:a(0)
+I i46 C4 c
+P \1\ C4:1
+P \2\ C4:2
+I i50 R22 r
+P \1\ R22:1
+P \2\ R22:2
+I i51 R15 r
+P \1\ R15:1
+P \2\ R15:2
+I i52 R18 r
+P \1\ R18:1
+P \2\ R18:2
+I i53 R19 r
+P \1\ R19:1
+P \2\ R19:2
+I i54 DD3 adsp_bf533
+P addr14 DD3:addr14
+P addr13 DD3:addr13
+P tx DD3:tx
+P addr12 DD3:addr12
+P rfs1 DD3:rfs1
+P addr11 DD3:addr11
+P rfs0 DD3:rfs0
+P sms DD3:sms
+P addr10 DD3:addr10
+P dt0pri DD3:dt0pri
+P scke DD3:scke
+P sras DD3:sras
+P ppi_3 DD3:ppi_3
+P xtal DD3:xtal
+P nmi DD3:nmi
+P ppi_2 DD3:ppi_2
+P dr0pri DD3:dr0pri
+P dt1sec DD3:dt1sec
+P ppi_1 DD3:ppi_1
+P ams3 DD3:ams3
+P ppi_0 DD3:ppi_0
+P ams2 DD3:ams2
+P ams1 DD3:ams1
+P aoe DD3:aoe
+P clkout DD3:clkout
+P data9 DD3:data9
+P scas DD3:scas
+P tfs1 DD3:tfs1
+P ams0 DD3:ams0
+P data8 DD3:data8
+P tfs0 DD3:tfs0
+P data7 DD3:data7
+P br DD3:br
+P data6 DD3:data6
+P data5 DD3:data5
+P rsclk1 DD3:rsclk1
+P data4 DD3:data4
+P rsclk0 DD3:rsclk0
+P data3 DD3:data3
+P data2 DD3:data2
+P dr1sec DD3:dr1sec
+P tck DD3:tck
+P data1 DD3:data1
+P abe1 DD3:abe1
+P data0 DD3:data0
+P abe0 DD3:abe0
+P bmode1 DD3:bmode1
+P awe DD3:awe
+P bmode0 DD3:bmode0
+P tdo DD3:tdo
+P trst DD3:trst
+P bg DD3:bg
+P reset DD3:reset
+P tsclk1 DD3:tsclk1
+P dt0sec DD3:dt0sec
+P tsclk0 DD3:tsclk0
+P pf15 DD3:pf15
+P tdi DD3:tdi
+P addr9 DD3:addr9
+P ardy DD3:ardy
+P pf14 DD3:pf14
+P sck DD3:sck
+P addr8 DD3:addr8
+P pf13 DD3:pf13
+P pf9 DD3:pf9
+P rtxo DD3:rtxo
+P rx DD3:rx
+P vrout1 DD3:vrout1
+P addr7 DD3:addr7
+P pf12 DD3:pf12
+P pf8 DD3:pf8
+P tmr2 DD3:tmr2
+P vrout0 DD3:vrout0
+P addr6 DD3:addr6
+P pf11 DD3:pf11
+P pf7 DD3:pf7
+P tmr1 DD3:tmr1
+P addr5 DD3:addr5
+P dt1pri DD3:dt1pri
+P pf10 DD3:pf10
+P pf6 DD3:pf6
+P tmr0 DD3:tmr0
+P addr4 DD3:addr4
+P pf5 DD3:pf5
+P sa10 DD3:sa10
+P addr3 DD3:addr3
+P are DD3:are
+P mosi DD3:mosi
+P pf4 DD3:pf4
+P addr2 DD3:addr2
+P data15 DD3:data15
+P dr0sec DD3:dr0sec
+P pf3 DD3:pf3
+P rtxi DD3:rtxi
+P swe DD3:swe
+P addr1 DD3:addr1
+P data14 DD3:data14
+P pf2 DD3:pf2
+P tms DD3:tms
+P data13 DD3:data13
+P pf1 DD3:pf1
+P bgh DD3:bgh
+P data12 DD3:data12
+P pf0 DD3:pf0
+P addr19 DD3:addr19
+P data11 DD3:data11
+P ppi_clk DD3:ppi_clk
+P addr18 DD3:addr18
+P data10 DD3:data10
+P emu DD3:emu
+P addr17 DD3:addr17
+P miso DD3:miso
+P addr16 DD3:addr16
+P dr1pri DD3:dr1pri
+P addr15 DD3:addr15
+P clkin DD3:clkin
+I i57 R7 r
+P \1\ R7:1
+P \2\ R7:2
+I i58 R6 r
+P \1\ R6:1
+P \2\ R6:2
+I i59 HL2 led
+P \1\ HL2:1
+P \2\ HL2:2
+I i61 HL1 led
+P \1\ HL1:1
+P \2\ HL1:2
+I i62 C20 cap
+P b(0) C20:b(0)
+P a(0) C20:a(0)
+I i64 C19 cap
+P b(0) C19:b(0)
+P a(0) C19:a(0)
+I i66 C18 cap
+P b(0) C18:b(0)
+P a(0) C18:a(0)
+I i67 C7 cap
+P b(0) C7:b(0)
+P a(0) C7:a(0)
+I i69 C6 cap
+P b(0) C6:b(0)
+P a(0) C6:a(0)
+I i71 C5 cap_el
+P b(0) C5:b(0)
+P a(0) C5:a(0)
+I i73 C13 cap
+P b(0) C13:b(0)
+P a(0) C13:a(0)
+I i74 C12 cap
+P b(0) C12:b(0)
+P a(0) C12:a(0)
+I i76 C11 cap
+P b(0) C11:b(0)
+P a(0) C11:a(0)
+I i78 C10 cap
+P b(0) C10:b(0)
+P a(0) C10:a(0)
+I i79 C9 cap
+P b(0) C9:b(0)
+P a(0) C9:a(0)
+I i80 C8 cap_el
+P b(0) C8:b(0)
+P a(0) C8:a(0)
+I i83 R5 r
+P \1\ R5:1
+P \2\ R5:2
+I i84 ZQ1 zq
+P \1\ ZQ1:1
+P \2\ ZQ1:2
+I i85 R1 r
+P \1\ R1:1
+P \2\ R1:2
+I i86 C1 c
+P \1\ C1:1
+P \2\ C1:2
+I i88 C2 c
+P \1\ C2:1
+P \2\ C2:2
+I i91 R4 r
+P \1\ R4:1
+P \2\ R4:2
+I i97 R14 r
+P \1\ R14:1
+P \2\ R14:2
+I i99 R12 r
+P \1\ R12:1
+P \2\ R12:2
+I i101 R13 r
+P \1\ R13:1
+P \2\ R13:2
+I i102 R11 r
+P \1\ R11:1
+P \2\ R11:2
+I i103 XP1 ipl1_02
+P \1\ XP1:1
+P \2\ XP1:2
+I i107 DD1 max6736
+P \rst*\ DD1:rst*
+P \mr*\ DD1:mr*
+P vcc2 DD1:vcc2
+P vcc1 DD1:vcc1
+P gnd DD1:gnd
+I i109 C3 c
+P \1\ C3:1
+P \2\ C3:2
+I i110 DD2 sg8002ca
+P clk DD2:clk
+P oe DD2:oe
+I i112 R2 r
+P \1\ R2:1
+P \2\ R2:2
+I i117 DD4 sn74lvc2g17_1
+P gnddm DD4:gnddm
+P y2 DD4:y2
+P y1 DD4:y1
+P b DD4:b
+P a DD4:a
+P p3v3m DD4:p3v3m
+I i119 R9 r
+P \1\ R9:1
+P \2\ R9:2
+I i120 R_JTAG_DSP1 r
+P \1\ R_JTAG_DSP1:1
+P \2\ R_JTAG_DSP1:2
+I i121 R10 r
+P \1\ R10:1
+P \2\ R10:2
+I i124 R17 r
+P \1\ R17:1
+P \2\ R17:2
+I i126 R16 r
+P \1\ R16:1
+P \2\ R16:2
+I i128 XP2 ipl1_02
+P \1\ XP2:1
+P \2\ XP2:2
+I i129 XP3 ipl1_02
+P \1\ XP3:1
+P \2\ XP3:2
+I i132 R3 r
+P \1\ R3:1
+P \2\ R3:2
+I i133 R8 r
+P \1\ R8:1
+P \2\ R8:2
+page Page2
+S eecs eecs
+S unnamed_2_blm18a_i51_a N031
+S unnamed_2_led_i289_2 N399
+S unnamed_2_led_i32_1 N106
+S unnamed_2_pth05010w_i62_r N209
+S unnamed_2_ds9503_i310_6 N414
+S unnamed_2_r_i47_2 N229
+S unnamed_2_ft2232d_i218_acbus3 N425
+S unnamed_2_ft2232d_i218_acbus2 N424
+S unnamed_2_c_i232_2 N069
+S tx_ftdi tx_ftdi
+S unnamed_2_cap_i70_a N047
+S unnamed_2_ds9503_i310_1 N433
+S reset_ft2232d reset_ft2232d
+S unnamed_2_led_i245_2 N227
+S unnamed_2_ft2232d_i218_bcbus2 N385
+S unnamed_2_r_i38_2 N317
+S unnamed_2_ft2232d_i218_bcbus1 N228
+S unnamed_2_led_i44_2 N411
+S \\unnamed_2_miniusb_i315_\\ N352
+S unnamed_2_at25256a_i299_wp N217
+S unnamed_2_c_i223_2 N068
+S unnamed_2_led_i44_1 N336
+S unnamed_2_ft2232d_i218_usbdp N172
+S unnamed_2_blm18a_i54_a N174
+S unnamed_2_idc10_i318_3 N191
+S unnamed_2_led_i35_2 N422
+S unnamed_2_ft2232d_i218_usbdm N413
+S unnamed_2_led_i287_2 N437
+S unnamed_2_led_i35_1 N397
+S unnamed_2_led_i257_2 N271
+S eedata eedata
+S reset_at45 reset_at45
+S unnamed_2_blm18a_i58_a N308
+S eesk eesk
+S trst trst
+S unnamed_2_cap_i227_a N307
+S unnamed_2_ds9503_i312_6 N173
+S unnamed_2_ds9503_i312_1 N396
+S unnamed_2_ft2232d_i218_bdbus1 N353
+S unnamed_2_ft2232d_i218_bdbus0 N208
+S unnamed_2_ds9503_i274_1 N140
+S rx_ftdi rx_ftdi
+S unnamed_2_c_i280_2 N400
+S unnamed_2_ft2232d_i218_rstout N369
+S unnamed_2_led_i41_1 N048
+S unnamed_2_led_i246_2 N384
+I i8 R24 r
+P \1\ R24:1
+P \2\ R24:2
+I i12 R39 r
+P \1\ R39:1
+P \2\ R39:2
+I i20 C51 cap
+P b(0) C51:b(0)
+P a(0) C51:a(0)
+I i22 C45 cap
+P b(0) C45:b(0)
+P a(0) C45:a(0)
+I i24 C44 cap
+P b(0) C44:b(0)
+P a(0) C44:a(0)
+I i25 C46 cap
+P b(0) C46:b(0)
+P a(0) C46:a(0)
+I i27 C50 cap
+P b(0) C50:b(0)
+P a(0) C50:a(0)
+I i29 C47 cap
+P b(0) C47:b(0)
+P a(0) C47:a(0)
+I i30 DD5 mt48lc32m16a2p
+P a10 DD5:a10
+P dq2 DD5:dq2
+P ba1 DD5:ba1
+P dq1 DD5:dq1
+P ba0 DD5:ba0
+P dq0 DD5:dq0
+P \a12/nc\ DD5:a12/nc
+P a9 DD5:a9
+P cke DD5:cke
+P a8 DD5:a8
+P a7 DD5:a7
+P clk DD5:clk
+P a6 DD5:a6
+P a5 DD5:a5
+P a4 DD5:a4
+P a3 DD5:a3
+P a2 DD5:a2
+P dq15 DD5:dq15
+P a1 DD5:a1
+P dq14 DD5:dq14
+P dqml DD5:dqml
+P a0 DD5:a0
+P dq13 DD5:dq13
+P dq12 DD5:dq12
+P dq11 DD5:dq11
+P dq10 DD5:dq10
+P dqmh DD5:dqmh
+P \ras#\ DD5:ras#
+P \cs#\ DD5:cs#
+P dq9 DD5:dq9
+P dq8 DD5:dq8
+P dq7 DD5:dq7
+P \we#\ DD5:we#
+P dq6 DD5:dq6
+P dq5 DD5:dq5
+P \cas#\ DD5:cas#
+P dq4 DD5:dq4
+P a11 DD5:a11
+P dq3 DD5:dq3
+I i32 HL3 led
+P \1\ HL3:1
+P \2\ HL3:2
+I i34 R42 r
+P \1\ R42:1
+P \2\ R42:2
+I i35 HL8 led
+P \1\ HL8:1
+P \2\ HL8:2
+I i37 VT2 vt_npn
+P e VT2:e
+P c VT2:c
+P b VT2:b
+I i38 R40 r
+P \1\ R40:1
+P \2\ R40:2
+I i41 HL7 led
+P \1\ HL7:1
+P \2\ HL7:2
+I i43 R38 r
+P \1\ R38:1
+P \2\ R38:2
+I i44 HL6 led
+P \1\ HL6:1
+P \2\ HL6:2
+I i46 VT1 vt_npn
+P e VT1:e
+P c VT1:c
+P b VT1:b
+I i47 R37 r
+P \1\ R37:1
+P \2\ R37:2
+I i51 L2 blm18a
+P b L2:b
+P a L2:a
+I i52 C40 c_el
+P \1\ C40:1
+P \2\ C40:2
+I i54 L3 blm18a
+P b L3:b
+P a L3:a
+I i55 C39 c_el
+P \1\ C39:1
+P \2\ C39:2
+I i58 L1 blm18a
+P b L1:b
+P a L1:a
+I i59 C37 c_el
+P \1\ C37:1
+P \2\ C37:2
+I i61 R29 r
+P \1\ R29:1
+P \2\ R29:2
+I i62 A1 pth05010w
+P v0 A1:v0
+P track A1:track
+P vin A1:vin
+P r A1:r
+I i64 C35 c_el
+P \1\ C35:1
+P \2\ C35:2
+I i70 CXX1 cap
+P b(0) CXX1:b(0)
+P a(0) CXX1:a(0)
+I i73 DA4 mic39100
+P \in\ DA4:in
+P \out\ DA4:out
+P gnd DA4:gnd
+I i74 C33 cap
+P b(0) C33:b(0)
+P a(0) C33:a(0)
+I i76 C34 cap
+P b(0) C34:b(0)
+P a(0) C34:a(0)
+I i78 C53 cap_el
+P b(0) C53:b(0)
+P a(0) C53:a(0)
+I i80 C36 cap
+P b(0) C36:b(0)
+P a(0) C36:a(0)
+I i81 C32 cap
+P b(0) C32:b(0)
+P a(0) C32:a(0)
+I i106 VD1X c_el
+P \1\ VD1X:1
+P \2\ VD1X:2
+I i108 VD20 vd_new
+P b VD20:b
+P a VD20:a
+I i111 VD2 vd_new
+P b VD2:b
+P a VD2:a
+I i114 VD3 vd_new
+P b VD3:b
+P a VD3:a
+I i117 VD4 vd_new
+P b VD4:b
+P a VD4:a
+I i120 VD5 vd_new
+P b VD5:b
+P a VD5:a
+I i123 XP4_R2 xp02
+P \3\ XP4_R2:3
+P reset XP4_R2:reset
+P \0vm\ XP4_R2:0vm
+P \34\ XP4_R2:34
+I i127 XP4_R1 cwf
+P \5v\ XP4_R1:5v
+P \3.3v\ XP4_R1:3.3v
+P gnd XP4_R1:gnd
+I i218 DD6 ft2232d
+P adbus5 DD6:adbus5
+P eecs DD6:eecs
+P adbus4 DD6:adbus4
+P adbus3 DD6:adbus3
+P adbus2 DD6:adbus2
+P bdbus7 DD6:bdbus7
+P \si/wub\ DD6:si/wub
+P adbus1 DD6:adbus1
+P bdbus6 DD6:bdbus6
+P adbus0 DD6:adbus0
+P bdbus5 DD6:bdbus5
+P bdbus4 DD6:bdbus4
+P avcc DD6:avcc
+P bdbus3 DD6:bdbus3
+P bdbus2 DD6:bdbus2
+P bdbus1 DD6:bdbus1
+P bdbus0 DD6:bdbus0
+P vcc DD6:vcc
+P test DD6:test
+P xtin DD6:xtin
+P eedata DD6:eedata
+P acbus3 DD6:acbus3
+P acbus2 DD6:acbus2
+P acbus1 DD6:acbus1
+P eesk DD6:eesk
+P acbus0 DD6:acbus0
+P \rstout#\ DD6:rstout#
+P bcbus3 DD6:bcbus3
+P bcbus2 DD6:bcbus2
+P bcbus1 DD6:bcbus1
+P bcbus0 DD6:bcbus0
+P gnd4 DD6:gnd4
+P gnd3 DD6:gnd3
+P gnd2 DD6:gnd2
+P xtout DD6:xtout
+P \pwren#\ DD6:pwren#
+P usbdp DD6:usbdp
+P vcc2 DD6:vcc2
+P agnd DD6:agnd
+P \si/wua\ DD6:si/wua
+P usbdm DD6:usbdm
+P \3v3out\ DD6:3v3out
+P adbus7 DD6:adbus7
+P \reset#\ DD6:reset#
+P vcciob DD6:vcciob
+P adbus6 DD6:adbus6
+P gnd DD6:gnd
+P vccioa DD6:vccioa
+I i220 DD7 at45db161d
+P so DD7:so
+P si DD7:si
+P vcc DD7:vcc
+P \wp#\ DD7:wp#
+P sck DD7:sck
+P \cs#\ DD7:cs#
+P \reset#\ DD7:reset#
+P gnd DD7:gnd
+I i223 C56 c
+P \1\ C56:1
+P \2\ C56:2
+I i225 R41 r
+P \1\ R41:1
+P \2\ R41:2
+I i227 C52 cap
+P b(0) C52:b(0)
+P a(0) C52:a(0)
+I i228 C48 cap
+P b(0) C48:b(0)
+P a(0) C48:a(0)
+I i232 C57 c
+P \1\ C57:1
+P \2\ C57:2
+I i233 ZQ2 zq
+P \1\ ZQ2:1
+P \2\ ZQ2:2
+I i234 R46 r
+P \1\ R46:1
+P \2\ R46:2
+I i235 R45 r
+P \1\ R45:1
+P \2\ R45:2
+I i245 HL9 led
+P \1\ HL9:1
+P \2\ HL9:2
+I i246 HL10 led
+P \1\ HL10:1
+P \2\ HL10:2
+I i248 C49 c
+P \1\ C49:1
+P \2\ C49:2
+I i249 R43 r
+P \1\ R43:1
+P \2\ R43:2
+I i250 R44 r
+P \1\ R44:1
+P \2\ R44:2
+I i253 R47 r
+P \1\ R47:1
+P \2\ R47:2
+I i256 C60 c
+P \1\ C60:1
+P \2\ C60:2
+I i257 HL11 led
+P \1\ HL11:1
+P \2\ HL11:2
+I i258 RXXX_BOOT1 r
+P \1\ RXXX_BOOT1:1
+P \2\ RXXX_BOOT1:2
+I i259 R48 r
+P \1\ R48:1
+P \2\ R48:2
+I i268 C41 cap
+P b(0) C41:b(0)
+P a(0) C41:a(0)
+I i269 C38 cap
+P b(0) C38:b(0)
+P a(0) C38:a(0)
+I i271 R36 r
+P \1\ R36:1
+P \2\ R36:2
+I i272 R35 r
+P \1\ R35:1
+P \2\ R35:2
+I i274 DA1 ds9503
+P \1\ DA1:1
+P \2\ DA1:2
+P \5\ DA1:5
+P \6\ DA1:6
+I i277 R25 r
+P \1\ R25:1
+P \2\ R25:2
+I i279 R33 r
+P \1\ R33:1
+P \2\ R33:2
+I i280 C42 c
+P \1\ C42:1
+P \2\ C42:2
+I i284 C43 c
+P \1\ C43:1
+P \2\ C43:2
+I i286 R31 r
+P \1\ R31:1
+P \2\ R31:2
+I i287 HL4 led
+P \1\ HL4:1
+P \2\ HL4:2
+I i289 HL5 led
+P \1\ HL5:1
+P \2\ HL5:2
+I i290 R32 r
+P \1\ R32:1
+P \2\ R32:2
+I i293 C59 c
+P \1\ C59:1
+P \2\ C59:2
+I i299 DD8 at25256a
+P so DD8:so
+P si DD8:si
+P vcc DD8:vcc
+P \wp#\ DD8:wp#
+P sck DD8:sck
+P \cs#\ DD8:cs#
+P \hold#\ DD8:hold#
+P gnd DD8:gnd
+I i301 C58 c
+P \1\ C58:1
+P \2\ C58:2
+I i305 R27 r
+P \1\ R27:1
+P \2\ R27:2
+I i307 R28 r
+P \1\ R28:1
+P \2\ R28:2
+I i309 R26 r
+P \1\ R26:1
+P \2\ R26:2
+I i310 DA2 ds9503
+P \1\ DA2:1
+P \2\ DA2:2
+P \5\ DA2:5
+P \6\ DA2:6
+I i312 DA3 ds9503
+P \1\ DA3:1
+P \2\ DA3:2
+P \5\ DA3:5
+P \6\ DA3:6
+I i315 XS1 miniusb
+P shield(3) XS1:shield(3)
+P shield(4) XS1:shield(4)
+P \+5v\ XS1:+5v
+P shield(5) XS1:shield(5)
+P ground XS1:ground
+P \data+\ XS1:data+
+P shield(6) XS1:shield(6)
+P nc XS1:nc
+P shield(1) XS1:shield(1)
+P \data-\ XS1:data-
+P shield(2) XS1:shield(2)
+I i318 XP5 idc10
+P \7\ XP5:7
+P \1\ XP5:1
+P \8\ XP5:8
+P \2\ XP5:2
+P \9\ XP5:9
+P \3\ XP5:3
+P \10\ XP5:10
+P \4\ XP5:4
+P \5\ XP5:5
+P \6\ XP5:6
+I i322 C64 c
+P \1\ C64:1
+P \2\ C64:2
+I i323 C61 cap_el
+P b(0) C61:b(0)
+P a(0) C61:a(0)
+I i326 C63 c
+P \1\ C63:1
+P \2\ C63:2
+I i327 C62 cap_el
+P b(0) C62:b(0)
+P a(0) C62:a(0)
+I i331 C65 cap_el
+P b(0) C65:b(0)
+P a(0) C65:a(0)
+I i335 C66 cap_el
+P b(0) C66:b(0)
+P a(0) C66:a(0)
+I i340 L4 bnx016
+P b L4:b
+P cg L4:cg
+P psg L4:psg
+P cb L4:cb
+I i343 L5 bnx016
+P b L5:b
+P cg L5:cg
+P psg L5:psg
+P cb L5:cb
+I i354 XP4 idc20
+P \13\ XP4:13
+P \7\ XP4:7
+P \14\ XP4:14
+P \1\ XP4:1
+P \8\ XP4:8
+P \15\ XP4:15
+P \2\ XP4:2
+P \20\ XP4:20
+P \9\ XP4:9
+P \16\ XP4:16
+P \3\ XP4:3
+P \10\ XP4:10
+P \17\ XP4:17
+P \4\ XP4:4
+P \11\ XP4:11
+P \18\ XP4:18
+P \5\ XP4:5
+P \12\ XP4:12
+P \19\ XP4:19
+P \6\ XP4:6
+I i377 R34 r
+P \1\ R34:1
+P \2\ R34:2
+I i378 C55 cap
+P b(0) C55:b(0)
+P a(0) C55:a(0)
+I i381 C54 cap
+P b(0) C54:b(0)
+P a(0) C54:a(0)
+I i383 A2 mic39100
+P \in\ A2:in
+P \out\ A2:out
+P gnd A2:gnd
+I i385 L34 bnx016
+P b L34:b
+P cg L34:cg
+P psg L34:psg
+P cb L34:cb
+I i389 C69 cap_el
+P b(0) C69:b(0)
+P a(0) C69:a(0)
+page Page4
+S note_present_5v note_present_5v
+S spi_clk_mk spi_clk_mk
+S spi_clk_mk_5v spi_clk_mk_5v
+S sram_a16 sram_a16
+S sram_a3 sram_a3
+S \\unnamed_4_ad822_i427__2\\ N133
+S unnamed_4_ad9225_i213_bit12 N099
+S unnamed_4_jtag_i4_tdi N270
+S ad3_m ad3_m
+S sin_n sin_n
+S sram_a15 sram_a15
+S sram_a2 sram_a2
+S unnamed_4_ad9225_i213_bit11 N098
+S unnamed_4_cap_i338_b N043
+S sram_a1 sram_a1
+S sram_a14 sram_a14
+S unnamed_4_ad9225_i213_bit10 N097
+S sram_a0 sram_a0
+S sram_a13 sram_a13
+S unnamed_4_blm18a_i276_b N303
+S sram_a12 sram_a12
+S unnamed_4_r_i491_1 N304
+S clock_money_drv_5v clock_money_drv_5v
+S result_3lvl_l result_3lvl_l
+S sram_a11 sram_a11
+S led_on_from_spartan_3v3 led_on_from_spartan_3v3
+S sram_a10 sram_a10
+S unnamed_4_blm18a_i178_b N148
+S \\unnamed_4_ad822_i427__3\\ N293
+S overflow_adc overflow_adc
+S result_3lvl_h result_3lvl_h
+S unnamed_4_jtag_i4_tms N269
+S unnamed_4_r_i176_2 N216
+S ad7_m ad7_m
+S clk_20khz_in clk_20khz_in
+S done done
+S result_3level_l result_3level_l
+S spi_miso_mk spi_miso_mk
+S ad2_m ad2_m
+S unnamed_4_cap_i337_b N361
+S unnamed_4_cap_i400_a N306
+S \\sram_ub#\\ sram_ub_HASH_
+S unnamed_4_r_i371_1 N171
+S unnamed_4_sn74lvc2g171_i66_b N239
+S result_3level_h result_3level_h
+S senres senres
+S \\unnamed_4_ad822_i403_\\ N134
+S unnamed_4_ad9225_i213_sense N096
+S unnamed_4_ad9225_i213_vinb N030
+S unnamed_4_blm18a_i275_b N295
+S unnamed_4_sn74lvc2g171_i66_a N238
+S m2 m2
+S unnamed_4_ad9225_i213_vina N101
+S unnamed_4_r_i490_1 N301
+S m1 m1
+S \\sram_lb#\\ sram_lb_HASH_
+S tx_atmega128 tx_atmega128
+S unnamed_4_c_i422_1 N294
+S unnamed_4_sn74lvc2g171_i388_b N226
+S m0 m0
+S rts rts
+S unnamed_4_r_i167_1 N305
+S cts_5v cts_5v
+S unnamed_4_ad822_i403_out1 N135
+S unnamed_4_ad9225_i213_capt N100
+S unnamed_4_sn74lvc2g171_i328_b N203
+S unnamed_4_c_i478_1 N379
+S unnamed_4_sn74lvc2g171_i328_a N202
+S sram_data16 sram_data16
+S ad6_m ad6_m
+S clk_r clk_r
+S clock_money_drv clock_money_drv
+S fmain20khz_in fmain20khz_in
+S senres_5v senres_5v
+S sram_data15 sram_data15
+S unnamed_4_adg1206_i273_a3 N206
+S unnamed_4_led_i327_2 N084
+S result_3lvl_l_5v result_3lvl_l_5v
+S spi_mosi_mk_5v spi_mosi_mk_5v
+S sram_data14 sram_data14
+S unnamed_4_adg1206_i273_a2 N147
+S unnamed_4_led_i327_1 N085
+S ad1_m ad1_m
+S cts cts
+S fcos_correct fcos_correct
+S sram_data13 sram_data13
+S unnamed_4_ad9225_i213_clk N102
+S unnamed_4_adg1206_i273_a1 N236
+S unnamed_4_cap_i391_b N316
+S sram_data12 sram_data12
+S \\unnamed_4_ad8138_i250__1\\ N334
+S unnamed_4_adg1206_i273_a0 N086
+S sram_data11 sram_data11
+S unnamed_4_blm18a_i274_b N237
+S sram_data10 sram_data10
+S tck tck
+S tx_com_5v tx_com_5v
+S cml_adc cml_adc
+S unnamed_4_c_i439_1 N083
+S reset_vd_spartan reset_vd_spartan
+S led_on_from_spart led_on_from_spart
+S tdo tdo
+S vs2 vs2
+S cs_spartan cs_spartan
+S spi_cs_mk_5v spi_cs_mk_5v
+S vs1 vs1
+S ad5_m ad5_m
+S cclk cclk
+S init_b init_b
+S vs0 vs0
+S \\unnamed_4_ad8138_i250__2\\ N045
+S \\unnamed_4_ltc1064-2_i474_vout\\ N394
+S unnamed_4_r_i331_1 N204
+S \\unnamed_4_ad822_i403__1\\ N082
+S unnamed_4_adg1206_i273_d N215
+S ad0_m ad0_m
+S \\unnamed_4_ltc1064-2_i474_outc\\ N432
+S din din
+S \\sram_oe#\\ sram_oe_HASH_
+S rx_com rx_com
+S unnamed_4_ad9225_i213_capb N095
+S unnamed_4_led_i147_2 N247
+S unnamed_4_r_i382_1 N367
+S unnamed_4_led_i147_1 N105
+S unnamed_4_ad9225_i213_bit9 N094
+S unnamed_4_c_i463_1 N297
+S unnamed_4_ipl102_i156_1 N138
+S unnamed_4_led_i62_2 N241
+S unnamed_4_r_i165_1 N299
+S ch7 ch7
+S cos_p cos_p
+S rts_5v rts_5v
+S spi_miso spi_miso
+S \\unnamed_4_ad8138_i250__3\\ N029
+S \\unnamed_4_ad822_i427_\\ N292
+S unnamed_4_ad9225_i213_bit8 N093
+S unnamed_4_led_i62_1 N373
+S ch6 ch6
+S result_3lvl_h_5v result_3lvl_h_5v
+S spi_miso_mk_5v spi_miso_mk_5v
+S \\unnamed_4_ad822_i403__2\\ N136
+S unnamed_4_ad9225_i213_bit7 N092
+S unnamed_4_r_i378_2 N372
+S ch5 ch5
+S clk_r_3v3 clk_r_3v3
+S cos_n cos_n
+S spi_cs_mk spi_cs_mk
+S sram_data9 sram_data9
+S unnamed_4_ad9225_i213_bit6 N091
+S unnamed_4_r_i173_2 N406
+S ad4_m ad4_m
+S ch4 ch4
+S spi_mosi_mk spi_mosi_mk
+S sram_data8 sram_data8
+S unnamed_4_ad9225_i213_bit5 N090
+S unnamed_4_jtag_i4_tck N046
+S unnamed_4_r_i173_1 N302
+S ch3 ch3
+S \\sram_cs#\\ sram_cs_HASH_
+S sram_data7 sram_data7
+S unnamed_4_ad9225_i213_bit4 N089
+S unnamed_4_max6736_i162_mr N368
+S ch2 ch2
+S note_present note_present
+S sram_data6 sram_data6
+S tms tms
+S unnamed_4_ad822_i427_out1 N132
+S \\unnamed_4_ad822_i427__1\\ N440
+S unnamed_4_ad9225_i213_bit3 N088
+S ch1 ch1
+S jtag_tdi jtag_tdi
+S rx_atmega128 rx_atmega128
+S rx_com_5v rx_com_5v
+S sram_data5 sram_data5
+S tx_com tx_com
+S unnamed_4_ad9225_i213_bit2 N087
+S \\unnamed_4_ltc1064-2_i401_vout\\ N291
+S unnamed_4_r_i492_1 N042
+S sram_a9 sram_a9
+S sram_data4 sram_data4
+S unnamed_4_ad9225_i213_bit1 N104
+S unnamed_4_adg1206_i273_en N333
+S sram_a8 sram_a8
+S sram_data3 sram_data3
+S \\unnamed_4_ltc1064-2_i401_outc\\ N298
+S unnamed_4_r_i139_2 N300
+S ale_m ale_m
+S sram_a7 sram_a7
+S sram_data2 sram_data2
+S \\unnamed_4_ad822_i403__3\\ N137
+S unnamed_4_blm18a_i179_b N207
+S unnamed_4_r_i139_1 N380
+S clk_timer_uc clk_timer_uc
+S sram_a6 sram_a6
+S sram_data1 sram_data1
+S \\sram_we#\\ sram_we_HASH_
+S unnamed_4_led_i61_2 N240
+S unnamed_4_r_i364_2 N268
+S prog_b prog_b
+S sram_a5 sram_a5
+S unnamed_4_ad9225_i213_vref N103
+S unnamed_4_led_i61_1 N335
+S unnamed_4_r_i488_1 N067
+S sin_p sin_p
+S sram_a17 sram_a17
+S sram_a4 sram_a4
+S \\unnamed_4_ad8138_i250_\\ N044
+S unnamed_4_jtag_i4_vref N139
+S unnamed_4_r_i334_1 N205
+I i1 DD20 xcf04svo20
+P \oe/reset#\ DD20:oe/reset#
+P clk DD20:clk
+P \ceo#\ DD20:ceo#
+P vccint DD20:vccint
+P \cf#\ DD20:cf#
+P tck DD20:tck
+P tdo DD20:tdo
+P tdi DD20:tdi
+P \ce#\ DD20:ce#
+P vcco DD20:vcco
+P do DD20:do
+P vccj DD20:vccj
+P tms DD20:tms
+P gnd DD20:gnd
+I i2 R96 r
+P \1\ R96:1
+P \2\ R96:2
+I i3 FU1 r
+P \1\ FU1:1
+P \2\ FU1:2
+I i4 XP15 jtag
+P gnd(1) XP15:gnd(1)
+P vref XP15:vref
+P gnd(2) XP15:gnd(2)
+P gnd(3) XP15:gnd(3)
+P gnd(4) XP15:gnd(4)
+P tck XP15:tck
+P tdo XP15:tdo
+P gnd(5) XP15:gnd(5)
+P tdi XP15:tdi
+P gnd(6) XP15:gnd(6)
+P tms XP15:tms
+P gnd(0) XP15:gnd(0)
+I i22 R89 r
+P \1\ R89:1
+P \2\ R89:2
+I i23 R88 r
+P \1\ R88:1
+P \2\ R88:2
+I i25 R85 r
+P \1\ R85:1
+P \2\ R85:2
+I i47 R93 r
+P \1\ R93:1
+P \2\ R93:2
+I i54 R94 r
+P \1\ R94:1
+P \2\ R94:2
+I i61 HL14 led
+P \1\ HL14:1
+P \2\ HL14:2
+I i62 HL15 led
+P \1\ HL15:1
+P \2\ HL15:2
+I i66 DD18 sn74lvc2g17_1
+P gnddm DD18:gnddm
+P y2 DD18:y2
+P y1 DD18:y1
+P b DD18:b
+P a DD18:a
+P p3v3m DD18:p3v3m
+I i74 C137 cap
+P b(0) C137:b(0)
+P a(0) C137:a(0)
+I i75 C138 cap
+P b(0) C138:b(0)
+P a(0) C138:a(0)
+I i77 C135 cap
+P b(0) C135:b(0)
+P a(0) C135:a(0)
+I i78 C132 cap
+P b(0) C132:b(0)
+P a(0) C132:a(0)
+I i79 C134 cap
+P b(0) C134:b(0)
+P a(0) C134:a(0)
+I i80 C129 cap
+P b(0) C129:b(0)
+P a(0) C129:a(0)
+I i82 C125 cap
+P b(0) C125:b(0)
+P a(0) C125:a(0)
+I i83 C131 cap
+P b(0) C131:b(0)
+P a(0) C131:a(0)
+I i85 C128 cap
+P b(0) C128:b(0)
+P a(0) C128:a(0)
+I i86 C124 cap_el
+P b(0) C124:b(0)
+P a(0) C124:a(0)
+I i90 C136 cap
+P b(0) C136:b(0)
+P a(0) C136:a(0)
+I i91 C133 cap
+P b(0) C133:b(0)
+P a(0) C133:a(0)
+I i93 C130 cap
+P b(0) C130:b(0)
+P a(0) C130:a(0)
+I i94 C127 cap
+P b(0) C127:b(0)
+P a(0) C127:a(0)
+I i95 C123 cap
+P b(0) C123:b(0)
+P a(0) C123:a(0)
+I i96 C121 cap
+P b(0) C121:b(0)
+P a(0) C121:a(0)
+I i97 C119 cap
+P b(0) C119:b(0)
+P a(0) C119:a(0)
+I i99 C126 cap
+P b(0) C126:b(0)
+P a(0) C126:a(0)
+I i100 C122 cap
+P b(0) C122:b(0)
+P a(0) C122:a(0)
+I i101 C120 cap
+P b(0) C120:b(0)
+P a(0) C120:a(0)
+I i102 C116 cap
+P b(0) C116:b(0)
+P a(0) C116:a(0)
+I i103 C115 cap
+P b(0) C115:b(0)
+P a(0) C115:a(0)
+I i104 C113 cap_el
+P b(0) C113:b(0)
+P a(0) C113:a(0)
+I i106 C110 cap
+P b(0) C110:b(0)
+P a(0) C110:a(0)
+I i107 C107 cap
+P b(0) C107:b(0)
+P a(0) C107:a(0)
+I i110 C114 cap
+P b(0) C114:b(0)
+P a(0) C114:a(0)
+I i112 C112 cap
+P b(0) C112:b(0)
+P a(0) C112:a(0)
+I i114 C111 cap
+P b(0) C111:b(0)
+P a(0) C111:a(0)
+I i115 C108 cap
+P b(0) C108:b(0)
+P a(0) C108:a(0)
+I i119 C109 cap
+P b(0) C109:b(0)
+P a(0) C109:a(0)
+I i125 C105 cap_el
+P b(0) C105:b(0)
+P a(0) C105:a(0)
+I i126 C106 cap_el
+P b(0) C106:b(0)
+P a(0) C106:a(0)
+I i129 R95 r
+P \1\ R95:1
+P \2\ R95:2
+I i130 R97 r
+P \1\ R97:1
+P \2\ R97:2
+I i131 R98 r
+P \1\ R98:1
+P \2\ R98:2
+I i134 R81 r
+P \1\ R81:1
+P \2\ R81:2
+I i139 R77 r
+P \1\ R77:1
+P \2\ R77:2
+I i146 R63 r
+P \1\ R63:1
+P \2\ R63:2
+I i147 HL12 led
+P \1\ HL12:1
+P \2\ HL12:2
+I i148 R90 r
+P \1\ R90:1
+P \2\ R90:2
+I i149 R80 r
+P \1\ R80:1
+P \2\ R80:2
+I i151 R72 r
+P \1\ R72:1
+P \2\ R72:2
+I i153 DD14 max6825suk_t
+P \reset*\ DD14:reset*
+P vcc DD14:vcc
+P reset DD14:reset
+P \mr*\ DD14:mr*
+P gnd DD14:gnd
+I i156 XP8 ipl1_02
+P \1\ XP8:1
+P \2\ XP8:2
+I i160 DD10 sn74lvc2g17_1
+P gnddm DD10:gnddm
+P y2 DD10:y2
+P y1 DD10:y1
+P b DD10:b
+P a DD10:a
+P p3v3m DD10:p3v3m
+I i162 DD11 max6736
+P \rst*\ DD11:rst*
+P \mr*\ DD11:mr*
+P vcc2 DD11:vcc2
+P vcc1 DD11:vcc1
+P gnd DD11:gnd
+I i164 R84 r
+P \1\ R84:1
+P \2\ R84:2
+I i165 R78 r
+P \1\ R78:1
+P \2\ R78:2
+I i167 R79 r
+P \1\ R79:1
+P \2\ R79:2
+I i168 R76 r
+P \1\ R76:1
+P \2\ R76:2
+I i170 DD17 xc3s500e
+P a10 DD17:a10
+P ppi8 DD17:ppi8
+P re_com DD17:re_com
+P spi_clk_mk DD17:spi_clk_mk
+P ad3_m DD17:ad3_m
+P adc10_in DD17:adc10_in
+P ppi7 DD17:ppi7
+P rx_dsp DD17:rx_dsp
+P ppi6 DD17:ppi6
+P ppi5 DD17:ppi5
+P rfs0 DD17:rfs0
+P spi_cs_spartan DD17:spi_cs_spartan
+P ppi4 DD17:ppi4
+P ppi3 DD17:ppi3
+P dt0pri DD17:dt0pri
+P ppi2 DD17:ppi2
+P ppi1 DD17:ppi1
+P ad17 DD17:ad17
+P adc8_in DD17:adc8_in
+P ppi0 DD17:ppi0
+P ad16 DD17:ad16
+P adc5_in DD17:adc5_in
+P data_r_20khz DD17:data_r_20khz
+P tx_ftdi DD17:tx_ftdi
+P ad7_m DD17:ad7_m
+P adc2_in DD17:adc2_in
+P debag_led4 DD17:debag_led4
+P done DD17:done
+P rx_485 DD17:rx_485
+P debag_led3 DD17:debag_led3
+P spi_miso_mk DD17:spi_miso_mk
+P tx_dsp DD17:tx_dsp
+P \ub#\ DD17:ub#
+P \27mhz_in_g\ DD17:27mhz_in_g
+P ad2_m DD17:ad2_m
+P debag_led2 DD17:debag_led2
+P debag_led1 DD17:debag_led1
+P \lb#\ DD17:lb#
+P d15 DD17:d15
+P m2 DD17:m2
+P clk_adc_out DD17:clk_adc_out
+P d14 DD17:d14
+P dr0pri DD17:dr0pri
+P m1 DD17:m1
+P tx_atmega128 DD17:tx_atmega128
+P ch_addr3 DD17:ch_addr3
+P d13 DD17:d13
+P m0 DD17:m0
+P a9 DD17:a9
+P adc12_in DD17:adc12_in
+P ch_addr2 DD17:ch_addr2
+P d12 DD17:d12
+P mux3 DD17:mux3
+P a8 DD17:a8
+P ch_addr1 DD17:ch_addr1
+P d11 DD17:d11
+P mux2 DD17:mux2
+P ppi11 DD17:ppi11
+P ch_addr0 DD17:ch_addr0
+P d10 DD17:d10
+P mux1 DD17:mux1
+P ppi10 DD17:ppi10
+P tfs0 DD17:tfs0
+P tx_485 DD17:tx_485
+P ad6_m DD17:ad6_m
+P cs_r_20khz DD17:cs_r_20khz
+P de_485 DD17:de_485
+P f_main_20khz_out DD17:f_main_20khz_out
+P mux0 DD17:mux0
+P hswap DD17:hswap
+P ad1_m DD17:ad1_m
+P rsclk0 DD17:rsclk0
+P clk_r2 DD17:clk_r2
+P clk_r_20khz DD17:clk_r_20khz
+P adc7_in DD17:adc7_in
+P clk_r1 DD17:clk_r1
+P cso_b DD17:cso_b
+P debag_pwm2 DD17:debag_pwm2
+P mux_en DD17:mux_en
+P tck DD17:tck
+P adc4_in DD17:adc4_in
+P debag_pwm1 DD17:debag_pwm1
+P re_485 DD17:re_485
+P adc1_in DD17:adc1_in
+P rx_can DD17:rx_can
+P ad7 DD17:ad7
+P tdo DD17:tdo
+P vs2 DD17:vs2
+P ad6 DD17:ad6
+P vs1 DD17:vs1
+P ad5 DD17:ad5
+P ad5_m DD17:ad5_m
+P cclk DD17:cclk
+P init_b DD17:init_b
+P vs0 DD17:vs0
+P ad4 DD17:ad4
+P \oe#\ DD17:oe#
+P spi_mosi DD17:spi_mosi
+P ad0_m DD17:ad0_m
+P ad3 DD17:ad3
+P dt0sec DD17:dt0sec
+P tsclk0 DD17:tsclk0
+P \25mhz_in_g\ DD17:25mhz_in_g
+P ad2 DD17:ad2
+P din DD17:din
+P ad1 DD17:ad1
+P adc11_in DD17:adc11_in
+P clk_f1 DD17:clk_f1
+P rx_com DD17:rx_com
+P tdi DD17:tdi
+P ad0 DD17:ad0
+P ppi_frame_sync DD17:ppi_frame_sync
+P tx_can DD17:tx_can
+P spi_miso DD17:spi_miso
+P \cs#\ DD17:cs#
+P d9 DD17:d9
+P spi_cs_mk DD17:spi_cs_mk
+P ad4_m DD17:ad4_m
+P adc9_in DD17:adc9_in
+P d8 DD17:d8
+P mosi DD17:mosi
+P spi_mosi_mk DD17:spi_mosi_mk
+P adc6_in DD17:adc6_in
+P d7 DD17:d7
+P dr0sec DD17:dr0sec
+P rx_ftdi DD17:rx_ftdi
+P adc3_in DD17:adc3_in
+P d6 DD17:d6
+P tms DD17:tms
+P d5 DD17:d5
+P rx_atmega128 DD17:rx_atmega128
+P tx_com DD17:tx_com
+P d4 DD17:d4
+P a15 DD17:a15
+P d3 DD17:d3
+P ppi_clk DD17:ppi_clk
+P \we#\ DD17:we#
+P a14 DD17:a14
+P ale_m DD17:ale_m
+P d2 DD17:d2
+P a13 DD17:a13
+P clk_f_20khz_out DD17:clk_f_20khz_out
+P clk_timer_uc DD17:clk_timer_uc
+P d1 DD17:d1
+P a12 DD17:a12
+P d0 DD17:d0
+P dout DD17:dout
+P prog_b DD17:prog_b
+P a11 DD17:a11
+P ppi9 DD17:ppi9
+P spi_cs_sck DD17:spi_cs_sck
+I i172 C101 c
+P \1\ C101:1
+P \2\ C101:2
+I i173 R73 r
+P \1\ R73:1
+P \2\ R73:2
+I i174 DD15 sg8002ca
+P clk DD15:clk
+P oe DD15:oe
+I i176 R67 r
+P \1\ R67:1
+P \2\ R67:2
+I i178 L15 blm18a
+P b L15:b
+P a L15:a
+I i179 L17 blm18a
+P b L17:b
+P a L17:a
+I i193 C94 cap
+P b(0) C94:b(0)
+P a(0) C94:a(0)
+I i195 C90 cap
+P b(0) C90:b(0)
+P a(0) C90:a(0)
+I i196 C87 cap_el
+P b(0) C87:b(0)
+P a(0) C87:a(0)
+I i203 R58 r
+P \1\ R58:1
+P \2\ R58:2
+I i205 C93 cap
+P b(0) C93:b(0)
+P a(0) C93:a(0)
+I i207 C88 cap
+P b(0) C88:b(0)
+P a(0) C88:a(0)
+I i209 C85 cap
+P b(0) C85:b(0)
+P a(0) C85:a(0)
+I i211 C84 cap
+P b(0) C84:b(0)
+P a(0) C84:a(0)
+I i213 DA7 ad9225
+P bit1 DA7:bit1
+P vref DA7:vref
+P clk DA7:clk
+P vinb DA7:vinb
+P vina DA7:vina
+P capt DA7:capt
+P bit12 DA7:bit12
+P cml DA7:cml
+P bit11 DA7:bit11
+P bit10 DA7:bit10
+P sense DA7:sense
+P drvss DA7:drvss
+P drvdd DA7:drvdd
+P refcom DA7:refcom
+P capb DA7:capb
+P bit9 DA7:bit9
+P bit8 DA7:bit8
+P bit7 DA7:bit7
+P bit6 DA7:bit6
+P bit5 DA7:bit5
+P bit4 DA7:bit4
+P bit3 DA7:bit3
+P otr DA7:otr
+P bit2 DA7:bit2
+I i215 C100 cap
+P b(0) C100:b(0)
+P a(0) C100:a(0)
+I i217 R68 r
+P \1\ R68:1
+P \2\ R68:2
+I i218 C95 cap
+P b(0) C95:b(0)
+P a(0) C95:a(0)
+I i220 C92 cap
+P b(0) C92:b(0)
+P a(0) C92:a(0)
+I i222 C89 cap
+P b(0) C89:b(0)
+P a(0) C89:a(0)
+I i224 C86 cap
+P b(0) C86:b(0)
+P a(0) C86:a(0)
+I i226 VD6 bat54s
+P \1\ VD6:1
+P \2\ VD6:2
+P \3\ VD6:3
+I i228 VD7 bat54s
+P \1\ VD7:1
+P \2\ VD7:2
+P \3\ VD7:3
+I i229 R60 r
+P \1\ R60:1
+P \2\ R60:2
+I i230 R61 r
+P \1\ R61:1
+P \2\ R61:2
+I i234 R59 r
+P \1\ R59:1
+P \2\ R59:2
+I i235 C80 cap_el
+P b(0) C80:b(0)
+P a(0) C80:a(0)
+I i236 C81 cap
+P b(0) C81:b(0)
+P a(0) C81:a(0)
+I i237 C79 cap
+P b(0) C79:b(0)
+P a(0) C79:a(0)
+I i239 C75 cap
+P b(0) C75:b(0)
+P a(0) C75:a(0)
+I i240 C74 cap
+P b(0) C74:b(0)
+P a(0) C74:a(0)
+I i244 C76 cap
+P b(0) C76:b(0)
+P a(0) C76:a(0)
+I i246 R55 r
+P \1\ R55:1
+P \2\ R55:2
+I i248 R56 r
+P \1\ R56:1
+P \2\ R56:2
+I i250 DA6 ad8138
+P \+in\ DA6:+in
+P vocm DA6:vocm
+P \v+\ DA6:v+
+P \-in\ DA6:-in
+P \+out\ DA6:+out
+P \-out\ DA6:-out
+P \v-\ DA6:v-
+I i255 C73 cap_el
+P b(0) C73:b(0)
+P a(0) C73:a(0)
+I i269 C71 c
+P \1\ C71:1
+P \2\ C71:2
+I i272 C72 c
+P \1\ C72:1
+P \2\ C72:2
+I i273 DA5 adg1206
+P s9 DA5:s9
+P s8 DA5:s8
+P s7 DA5:s7
+P s6 DA5:s6
+P s5 DA5:s5
+P s16 DA5:s16
+P s4 DA5:s4
+P s15 DA5:s15
+P s3 DA5:s3
+P s14 DA5:s14
+P s2 DA5:s2
+P s1 DA5:s1
+P s13 DA5:s13
+P s12 DA5:s12
+P d DA5:d
+P s11 DA5:s11
+P s10 DA5:s10
+P a3 DA5:a3
+P a2 DA5:a2
+P a1 DA5:a1
+P a0 DA5:a0
+P en DA5:en
+I i274 L13 blm18a
+P b L13:b
+P a L13:a
+I i275 L11 blm18a
+P b L11:b
+P a L11:a
+I i276 L9 blm18a
+P b L9:b
+P a L9:a
+I i277 R52 r
+P \1\ R52:1
+P \2\ R52:2
+I i278 R53 r
+P \1\ R53:1
+P \2\ R53:2
+I i279 R51 r
+P \1\ R51:1
+P \2\ R51:2
+I i280 R50 r
+P \1\ R50:1
+P \2\ R50:2
+I i281 R49 r
+P \1\ R49:1
+P \2\ R49:2
+I i298 C91 cap
+P b(0) C91:b(0)
+P a(0) C91:a(0)
+I i299 R82 r
+P \1\ R82:1
+P \2\ R82:2
+I i300 R83 r
+P \1\ R83:1
+P \2\ R83:2
+I i301 R86 r
+P \1\ R86:1
+P \2\ R86:2
+I i318 R54 r
+P \1\ R54:1
+P \2\ R54:2
+I i322 R71 r
+P \1\ R71:1
+P \2\ R71:2
+I i323 R64 r
+P \1\ R64:1
+P \2\ R64:2
+I i327 HL13 led
+P \1\ HL13:1
+P \2\ HL13:2
+I i328 DD19 sn74lvc2g17_1
+P gnddm DD19:gnddm
+P y2 DD19:y2
+P y1 DD19:y1
+P b DD19:b
+P a DD19:a
+P p3v3m DD19:p3v3m
+I i331 R91 r
+P \1\ R91:1
+P \2\ R91:2
+I i334 R92 r
+P \1\ R92:1
+P \2\ R92:2
+I i337 C117 cap
+P b(0) C117:b(0)
+P a(0) C117:a(0)
+I i338 C118 cap
+P b(0) C118:b(0)
+P a(0) C118:a(0)
+I i341 XP6 idc30
+P i19 XP6:i19
+P i18 XP6:i18
+P i17 XP6:i17
+P i16 XP6:i16
+P i15 XP6:i15
+P i14 XP6:i14
+P i13 XP6:i13
+P i12 XP6:i12
+P i11 XP6:i11
+P i29 XP6:i29
+P i10 XP6:i10
+P i28 XP6:i28
+P i27 XP6:i27
+P i26 XP6:i26
+P i25 XP6:i25
+P i24 XP6:i24
+P i23 XP6:i23
+P i22 XP6:i22
+P i21 XP6:i21
+P i20 XP6:i20
+P i9 XP6:i9
+P i8 XP6:i8
+P i7 XP6:i7
+P i6 XP6:i6
+P i5 XP6:i5
+P i30 XP6:i30
+P i4 XP6:i4
+P i3 XP6:i3
+P i2 XP6:i2
+P i1 XP6:i1
+I i359 DD9 sn74lvcc3245
+P a8 DD9:a8
+P a7 DD9:a7
+P a6 DD9:a6
+P a5 DD9:a5
+P a4 DD9:a4
+P a3 DD9:a3
+P a2 DD9:a2
+P a1 DD9:a1
+P b8 DD9:b8
+P nc DD9:nc
+P b7 DD9:b7
+P b6 DD9:b6
+P b5 DD9:b5
+P b4 DD9:b4
+P dir DD9:dir
+P b3 DD9:b3
+P b2 DD9:b2
+P \oe#\ DD9:oe#
+P b1 DD9:b1
+P gnd2 DD9:gnd2
+P gnd1 DD9:gnd1
+P vccb DD9:vccb
+P gnd DD9:gnd
+P vcca DD9:vcca
+I i363 C82 c
+P \1\ C82:1
+P \2\ C82:2
+I i364 R62 r
+P \1\ R62:1
+P \2\ R62:2
+I i369 C78 c
+P \1\ C78:1
+P \2\ C78:2
+I i371 R57 r
+P \1\ R57:1
+P \2\ R57:2
+I i373 DD13 sn74lvcc3245
+P a8 DD13:a8
+P a7 DD13:a7
+P a6 DD13:a6
+P a5 DD13:a5
+P a4 DD13:a4
+P a3 DD13:a3
+P a2 DD13:a2
+P a1 DD13:a1
+P b8 DD13:b8
+P nc DD13:nc
+P b7 DD13:b7
+P b6 DD13:b6
+P b5 DD13:b5
+P b4 DD13:b4
+P dir DD13:dir
+P b3 DD13:b3
+P b2 DD13:b2
+P \oe#\ DD13:oe#
+P b1 DD13:b1
+P gnd2 DD13:gnd2
+P gnd1 DD13:gnd1
+P vccb DD13:vccb
+P gnd DD13:gnd
+P vcca DD13:vcca
+I i376 C99 c
+P \1\ C99:1
+P \2\ C99:2
+I i378 R70 r
+P \1\ R70:1
+P \2\ R70:2
+I i380 C97 c
+P \1\ C97:1
+P \2\ C97:2
+I i382 R66 r
+P \1\ R66:1
+P \2\ R66:2
+I i388 DD16 sn74lvc2g17_1
+P gnddm DD16:gnddm
+P y2 DD16:y2
+P y1 DD16:y1
+P b DD16:b
+P a DD16:a
+P p3v3m DD16:p3v3m
+I i391 C103 cap
+P b(0) C103:b(0)
+P a(0) C103:a(0)
+I i393 C102 cap
+P b(0) C102:b(0)
+P a(0) C102:a(0)
+I i396 R74 r
+P \1\ R74:1
+P \2\ R74:2
+I i397 R75 r
+P \1\ R75:1
+P \2\ R75:2
+I i400 C104 cap
+P b(0) C104:b(0)
+P a(0) C104:a(0)
+I i401 DA26 \ltc1064-2\
+P \50/100\ DA26:50/100
+P \v+\ DA26:v+
+P fclk DA26:fclk
+P rina DA26:rina
+P \v-\ DA26:v-
+P vout DA26:vout
+P out_c DA26:out_c
+P vin DA26:vin
+I i403 DA32 ad822
+P \+in1\ DA32:+in1
+P out2 DA32:out2
+P \-in1\ DA32:-in1
+P out1 DA32:out1
+P \+in2\ DA32:+in2
+P \-in2\ DA32:-in2
+P \v+\ DA32:v+
+P \v-\ DA32:v-
+I i404 DA34 drv135
+P \+sense\ DA34:+sense
+P \v+\ DA34:v+
+P \-sense\ DA34:-sense
+P \+vo\ DA34:+vo
+P \v-\ DA34:v-
+P vin DA34:vin
+P \-vo\ DA34:-vo
+P gnd DA34:gnd
+I i406 C238 c
+P \1\ C238:1
+P \2\ C238:2
+I i409 C239 c
+P \1\ C239:1
+P \2\ C239:2
+I i412 DA33 drv135
+P \+sense\ DA33:+sense
+P \v+\ DA33:v+
+P \-sense\ DA33:-sense
+P \+vo\ DA33:+vo
+P \v-\ DA33:v-
+P vin DA33:vin
+P \-vo\ DA33:-vo
+P gnd DA33:gnd
+I i414 C233 c
+P \1\ C233:1
+P \2\ C233:2
+I i417 R218 r
+P \1\ R218:1
+P \2\ R218:2
+I i418 C228 c
+P \1\ C228:1
+P \2\ C228:2
+I i422 C230 c
+P \1\ C230:1
+P \2\ C230:2
+I i423 C226 c
+P \1\ C226:1
+P \2\ C226:2
+I i424 R211 r
+P \1\ R211:1
+P \2\ R211:2
+I i425 R214 r
+P \1\ R214:1
+P \2\ R214:2
+I i426 R216 r
+P \1\ R216:1
+P \2\ R216:2
+I i427 DA31 ad822
+P \+in1\ DA31:+in1
+P out2 DA31:out2
+P \-in1\ DA31:-in1
+P out1 DA31:out1
+P \+in2\ DA31:+in2
+P \-in2\ DA31:-in2
+P \v+\ DA31:v+
+P \v-\ DA31:v-
+I i429 C221 c
+P \1\ C221:1
+P \2\ C221:2
+I i432 C224 c
+P \1\ C224:1
+P \2\ C224:2
+I i435 C234 c
+P \1\ C234:1
+P \2\ C234:2
+I i438 R219 r
+P \1\ R219:1
+P \2\ R219:2
+I i439 C231 c
+P \1\ C231:1
+P \2\ C231:2
+I i441 C229 c
+P \1\ C229:1
+P \2\ C229:2
+I i442 R215 r
+P \1\ R215:1
+P \2\ R215:2
+I i443 R217 r
+P \1\ R217:1
+P \2\ R217:2
+I i446 C225 c
+P \1\ C225:1
+P \2\ C225:2
+I i448 C227 c
+P \1\ C227:1
+P \2\ C227:2
+I i449 R212 r
+P \1\ R212:1
+P \2\ R212:2
+I i451 C222 c
+P \1\ C222:1
+P \2\ C222:2
+I i455 R209 r
+P \1\ R209:1
+P \2\ R209:2
+I i457 C210 c
+P \1\ C210:1
+P \2\ C210:2
+I i459 C212 c
+P \1\ C212:1
+P \2\ C212:2
+I i460 C208 c
+P \1\ C208:1
+P \2\ C208:2
+I i463 C206 c
+P \1\ C206:1
+P \2\ C206:2
+I i465 R207 r
+P \1\ R207:1
+P \2\ R207:2
+I i466 R210 r
+P \1\ R210:1
+P \2\ R210:2
+I i470 C211 c
+P \1\ C211:1
+P \2\ C211:2
+I i473 C213 c
+P \1\ C213:1
+P \2\ C213:2
+I i474 DA27 \ltc1064-2\
+P \50/100\ DA27:50/100
+P \v+\ DA27:v+
+P fclk DA27:fclk
+P rina DA27:rina
+P \v-\ DA27:v-
+P vout DA27:vout
+P out_c DA27:out_c
+P vin DA27:vin
+I i476 C209 c
+P \1\ C209:1
+P \2\ C209:2
+I i478 C207 c
+P \1\ C207:1
+P \2\ C207:2
+I i480 R206 r
+P \1\ R206:1
+P \2\ R206:2
+I i481 DD12 sn74lvc2g17_1
+P gnddm DD12:gnddm
+P y2 DD12:y2
+P y1 DD12:y1
+P b DD12:b
+P a DD12:a
+P p3v3m DD12:p3v3m
+I i484 XP7 \idc-26\
+P i19 XP7:i19
+P i18 XP7:i18
+P i17 XP7:i17
+P i16 XP7:i16
+P i15 XP7:i15
+P i14 XP7:i14
+P i13 XP7:i13
+P i12 XP7:i12
+P i11 XP7:i11
+P i10 XP7:i10
+P i26 XP7:i26
+P i25 XP7:i25
+P i24 XP7:i24
+P i23 XP7:i23
+P i22 XP7:i22
+P i21 XP7:i21
+P i20 XP7:i20
+P i9 XP7:i9
+P i8 XP7:i8
+P i7 XP7:i7
+P i6 XP7:i6
+P i5 XP7:i5
+P i4 XP7:i4
+P i3 XP7:i3
+P i2 XP7:i2
+P i1 XP7:i1
+I i488 L10 r
+P \1\ L10:1
+P \2\ L10:2
+I i490 L12 r
+P \1\ L12:1
+P \2\ L12:2
+I i491 L14 r
+P \1\ L14:1
+P \2\ L14:2
+I i492 L16 r
+P \1\ L16:1
+P \2\ L16:2
+I i493 C96 cap
+P b(0) C96:b(0)
+P a(0) C96:a(0)
+I i515 VD21 bat54s
+P \1\ VD21:1
+P \2\ VD21:2
+P \3\ VD21:3
+I i519 VD14 bat54s
+P \1\ VD14:1
+P \2\ VD14:2
+P \3\ VD14:3
+I i526 R438 r
+P \1\ R438:1
+P \2\ R438:2
+page Page5
+S \\unnamed_5_ad8610_i644_\\ N398
+S ch4p ch4p
+S unnamed_5_c_i405_2 N181
+S unnamed_5_ina128_i1036_rg2 N180
+S unnamed_5_c_i405_1 N200
+S unnamed_5_c_i529_1 N058
+S unnamed_5_ina128_i1036_rg1 N179
+S \\unnamed_5_ltc1569-7_i591_in\\ N263
+S ch4n ch4n
+S unnamed_5_c_i192_2 N183
+S unnamed_5_ina152_i928_sense N251
+S \\unnamed_5_ad8610_i389_\\ N155
+S unnamed_5_c_i192_1 N350
+S unnamed_5_ltc1264_i139_invd N012
+S unnamed_5_ltc1264_i1_lpd N026
+S \\unnamed_5_ltc1569-7_i356_in\\ N158
+S \\unnamed_5_ad8610_i80__1\\ N189
+S unnamed_5_ina128_i1045_vo N059
+S unnamed_5_ltc1264_i139_invc N066
+S unnamed_5_ltc1264_i1_lpc N025
+S unnamed_5_ltc1264_i139_invb N214
+S unnamed_5_ltc1264_i1_lpb N024
+S unnamed_5_ltc1264_i775_invd N115
+S unnamed_5_ltc1264_i139_inva N080
+S unnamed_5_ltc1264_i1_lpa N023
+S unnamed_5_ltc1264_i775_invc N114
+S sig7 sig7
+S unnamed_5_ltc1264_i1_bpd N022
+S unnamed_5_ltc1264_i775_invb N036
+S \\unnamed_5_ltc1569-7_i267_rx\\ N403
+S \\unnamed_5_ltc1569-7_i617_rx\\ N153
+S ch5p ch5p
+S sig6 sig6
+S \\unnamed_5_ad8610_i644__1\\ N211
+S unnamed_5_c_i294_1 N395
+S unnamed_5_c_i669_2 N005
+S unnamed_5_ltc1264_i1_bpc N021
+S unnamed_5_ltc1264_i775_inva N009
+S sig5 sig5
+S unnamed_5_c_i669_1 N252
+S unnamed_5_ina128_i1054_rg2 N004
+S unnamed_5_ltc1264_i1_bpb N020
+S \\unnamed_5_ltc1569-7_i457_rx\\ N265
+S ch5n ch5n
+S sig4 sig4
+S unnamed_5_ina128_i1054_rg1 N003
+S unnamed_5_ltc1264_i1_bpa N019
+S \\unnamed_5_ltc1569-7_i96_rx\\ N225
+S sig3 sig3
+S unnamed_5_c_i196_2 N274
+S unnamed_5_ltc1264_i576_invd N054
+S unnamed_5_ltc1264_i700_hpc N324
+S \\unnamed_5_ltc1569-7_i237_in\\ N315
+S sig2 sig2
+S \\unnamed_5_ad8610_i80_\\ N190
+S unnamed_5_c_i196_1 N314
+S unnamed_5_c_i740_1 N260
+S unnamed_5_ina128_i1036_vo N062
+S unnamed_5_ltc1264_i576_invc N167
+S unnamed_5_ltc1264_i700_hpb N039
+S sig1 sig1
+S unnamed_5_ina128_i1009_rg2 N377
+S unnamed_5_ltc1264_i576_invb N128
+S unnamed_5_ltc1264_i700_hpa N309
+S unnamed_5_c_i212_2 N371
+S unnamed_5_ina128_i1009_rg1 N376
+S unnamed_5_ltc1264_i139_hpc N081
+S unnamed_5_ltc1264_i576_inva N126
+S unnamed_5_ltc1264_i139_hpb N065
+S ch6p ch6p
+S \\unnamed_5_ad8610_i144__1\\ N332
+S unnamed_5_ltc1264_i139_hpa N011
+S ch6n ch6n
+S \\unnamed_5_ad8610_i283__1\\ N366
+S unnamed_5_c_i680_2 N007
+S \\unnamed_5_ltc1569-7_i154_rx\\ N383
+S clkr7 clkr7
+S unnamed_5_c_i680_1 N339
+S unnamed_5_ltc1264_i1_invd N016
+S unnamed_5_ltc1264_i700_lpd N331
+S \\unnamed_5_ltc1569-7_i723_rx\\ N075
+S clkr6 clkr6
+S unnamed_5_ina128_i1027_vo N426
+S unnamed_5_ltc1264_i1_invc N015
+S unnamed_5_ltc1264_i700_lpc N330
+S clkr5 clkr5
+S unnamed_5_ltc1264_i1_invb N014
+S unnamed_5_ltc1264_i700_lpb N329
+S clkr4 clkr4
+S unnamed_5_ina128_i1027_rg2 N151
+S unnamed_5_ina152_i35_sense N351
+S unnamed_5_ina152_i485_sense N388
+S unnamed_5_ltc1264_i139_lpd N349
+S unnamed_5_ltc1264_i1_inva N013
+S unnamed_5_ltc1264_i700_lpa N328
+S unnamed_5_ltc1264_i775_hpc N117
+S clkr3 clkr3
+S \\unnamed_5_ad8610_i144_\\ N169
+S unnamed_5_ina128_i1027_rg1 N150
+S unnamed_5_ltc1264_i139_lpc N348
+S unnamed_5_ltc1264_i700_bpd N327
+S unnamed_5_ltc1264_i775_hpb N116
+S ch7p ch7p
+S clkr2 clkr2
+S unnamed_5_c_i416_2 N182
+S unnamed_5_ina152_i471_sense N438
+S unnamed_5_ltc1264_i139_lpb N347
+S unnamed_5_ltc1264_i341_invd N131
+S unnamed_5_ltc1264_i700_bpc N326
+S unnamed_5_ltc1264_i775_hpa N124
+S \\unnamed_5_ltc1569-7_i651_rx\\ N259
+S clkr1 clkr1
+S unnamed_5_c_i416_1 N266
+S unnamed_5_c_i565_2 N055
+S unnamed_5_ltc1264_i139_lpa N346
+S unnamed_5_ltc1264_i341_invc N064
+S unnamed_5_ltc1264_i700_bpb N325
+S ch7n ch7n
+S unnamed_5_ltc1264_i139_bpd N345
+S unnamed_5_ltc1264_i341_invb N235
+S unnamed_5_ltc1264_i700_bpa N221
+S unnamed_5_bat54s_i924_3 N113
+S unnamed_5_c_i330_2 N234
+S unnamed_5_ltc1264_i139_bpc N344
+S unnamed_5_ltc1264_i341_inva N078
+S \\unnamed_5_ltc1569-7_i119_rx\\ N170
+S unnamed_5_ina128_i1018_vo N273
+S unnamed_5_ltc1264_i139_bpb N343
+S \\unnamed_5_ltc1569-7_i457_in\\ N267
+S \\unnamed_5_ltc1569-7_i502_rx\\ N057
+S ch1p ch1p
+S unnamed_5_bat54s_i481_3 N310
+S unnamed_5_c_i143_1 N409
+S unnamed_5_c_i748_2 N321
+S unnamed_5_ltc1264_i139_bpa N342
+S \\unnamed_5_ltc1569-7_i96_in\\ N210
+S \\unnamed_5_ad8610_i389__1\\ N341
+S unnamed_5_c_i437_2 N412
+S unnamed_5_c_i543_2 N387
+S unnamed_5_c_i748_1 N125
+S unnamed_5_ltc1264_i775_lpd N123
+S \\unnamed_5_ltc1569-7_i798_rx\\ N386
+S ch1n ch1n
+S unnamed_5_c_i543_1 N281
+S unnamed_5_ina128_i1045_rg2 N402
+S unnamed_5_ltc1264_i576_hpc N166
+S unnamed_5_ltc1264_i775_lpc N122
+S unnamed_5_ina128_i1045_rg1 N401
+S unnamed_5_ltc1264_i257_hpc N311
+S unnamed_5_ltc1264_i576_hpb N276
+S unnamed_5_ltc1264_i775_lpb N037
+S unnamed_5_c_i40_2 N040
+S unnamed_5_c_i756_2 N109
+S unnamed_5_ltc1264_i257_hpb N390
+S unnamed_5_ltc1264_i341_hpc N063
+S unnamed_5_ltc1264_i576_hpa N264
+S unnamed_5_ltc1264_i775_lpa N010
+S unnamed_5_c_i756_1 N145
+S unnamed_5_ltc1264_i257_hpa N077
+S unnamed_5_ltc1264_i341_hpb N283
+S unnamed_5_ltc1264_i700_invd N323
+S unnamed_5_ltc1264_i775_bpd N121
+S \\unnamed_5_ad8610_i518_\\ N185
+S \\unnamed_5_ad8610_i624_\\ N340
+S unnamed_5_c_i53_2 N405
+S unnamed_5_ina152_i940_sense N152
+S unnamed_5_ltc1264_i341_hpa N213
+S unnamed_5_ltc1264_i700_invc N322
+S unnamed_5_ltc1264_i775_bpc N120
+S \\unnamed_5_ltc1569-7_i591_rx\\ N262
+S unnamed_5_c_i104_2 N110
+S unnamed_5_c_i53_1 N028
+S unnamed_5_ina128_i1009_vo N188
+S unnamed_5_ina152_i250_sense N410
+S unnamed_5_ltc1264_i700_invb N038
+S unnamed_5_ltc1264_i775_bpb N119
+S ch2p ch2p
+S unnamed_5_c_i104_1 N290
+S unnamed_5_c_i670_1 N154
+S unnamed_5_ltc1264_i257_invd N168
+S unnamed_5_ltc1264_i700_inva N220
+S unnamed_5_ltc1264_i775_bpa N118
+S \\unnamed_5_ltc1569-7_i356_rx\\ N156
+S unnamed_5_bat54s_i255_3 N201
+S unnamed_5_ltc1264_i257_invc N382
+S \\unnamed_5_ltc1569-7_i723_in\\ N275
+S ch2n ch2n
+S \\unnamed_5_ad8610_i518__1\\ N184
+S unnamed_5_c_i547_2 N245
+S unnamed_5_ltc1264_i257_invb N198
+S unnamed_5_ltc1264_i576_lpd N280
+S unnamed_5_bat54s_i32_3 N041
+S unnamed_5_c_i547_1 N246
+S unnamed_5_c_i79_1 N187
+S unnamed_5_ina128_i1063_rg2 N360
+S unnamed_5_ltc1264_i257_inva N076
+S unnamed_5_ltc1264_i257_lpd N389
+S unnamed_5_ltc1264_i576_lpc N279
+S unnamed_5_c_i312_2 N186
+S unnamed_5_ina128_i1063_rg1 N359
+S unnamed_5_ina128_i1063_vo N261
+S unnamed_5_ltc1264_i257_lpc N393
+S unnamed_5_ltc1264_i341_lpd N289
+S unnamed_5_ltc1264_i576_lpb N129
+S \\unnamed_5_ad8610_i283_\\ N224
+S unnamed_5_c_i312_1 N157
+S unnamed_5_ltc1264_i257_lpb N282
+S unnamed_5_ltc1264_i341_lpc N288
+S unnamed_5_ltc1264_i576_lpa N223
+S unnamed_5_bat54s_i919_3 N056
+S unnamed_5_c_i406_1 N061
+S unnamed_5_ltc1264_i257_lpa N392
+S unnamed_5_ltc1264_i341_lpb N287
+S unnamed_5_ltc1264_i576_bpd N053
+S unnamed_5_ina128_i1018_rg2 N250
+S unnamed_5_ltc1264_i257_bpd N233
+S unnamed_5_ltc1264_i341_lpa N079
+S unnamed_5_ltc1264_i576_bpc N278
+S ch3p ch3p
+S unnamed_5_bat54s_i476_3 N232
+S unnamed_5_c_i780_2 N165
+S unnamed_5_ina128_i1018_rg1 N249
+S unnamed_5_ltc1264_i257_bpc N381
+S unnamed_5_ltc1264_i341_bpd N286
+S unnamed_5_ltc1264_i576_bpb N277
+S \\unnamed_5_ltc1569-7_i237_rx\\ N146
+S unnamed_5_c_i308_2 N008
+S unnamed_5_ina152_i914_sense N378
+S unnamed_5_ltc1264_i257_bpb N199
+S unnamed_5_ltc1264_i341_bpc N253
+S unnamed_5_ltc1264_i576_bpa N127
+S ch3n ch3n
+S unnamed_5_c_i308_1 N130
+S unnamed_5_ltc1264_i257_bpa N391
+S unnamed_5_ltc1264_i341_bpb N285
+S unnamed_5_ltc1264_i1_hpc N018
+S unnamed_5_ltc1264_i341_bpa N284
+S unnamed_5_ina128_i1054_vo N006
+S unnamed_5_ltc1264_i1_hpb N017
+S \\unnamed_5_ltc1569-7_i798_in\\ N111
+S unnamed_5_c_i703_2 N222
+S unnamed_5_ltc1264_i1_hpa N027
+S \\unnamed_5_ltc1569-7_i382_rx\\ N060
+S \\unnamed_5_ad8610_i624__1\\ N212
+S unnamed_5_bat54s_i935_3 N112
+I i1 DA13 ltc1264
+P \hpd/nd\ DA13:hpd/nd
+P \hpa/na\ DA13:hpa/na
+P lpd DA13:lpd
+P sd DA13:sd
+P lpc DA13:lpc
+P sc DA13:sc
+P lpb DA13:lpb
+P sb DA13:sb
+P lpa DA13:lpa
+P sa DA13:sa
+P bpd DA13:bpd
+P bpc DA13:bpc
+P bpb DA13:bpb
+P bpa DA13:bpa
+P clk DA13:clk
+P \hpc/nc\ DA13:hpc/nc
+P \v+\ DA13:v+
+P \hpb/nb\ DA13:hpb/nb
+P inv_d DA13:inv_d
+P inv_c DA13:inv_c
+P inv_b DA13:inv_b
+P inv_a DA13:inv_a
+P \v-\ DA13:v-
+P agnd DA13:agnd
+I i4 R142 r
+P \1\ R142:1
+P \2\ R142:2
+I i5 R143 r
+P \1\ R143:1
+P \2\ R143:2
+I i6 R135 r
+P \1\ R135:1
+P \2\ R135:2
+I i9 R154 r
+P \1\ R154:1
+P \2\ R154:2
+I i10 R155 r
+P \1\ R155:1
+P \2\ R155:2
+I i12 R136 r
+P \1\ R136:1
+P \2\ R136:2
+I i14 R111 r
+P \1\ R111:1
+P \2\ R111:2
+I i15 R122 r
+P \1\ R122:1
+P \2\ R122:2
+I i16 R123 r
+P \1\ R123:1
+P \2\ R123:2
+I i21 R105 r
+P \1\ R105:1
+P \2\ R105:2
+I i22 R102 r
+P \1\ R102:1
+P \2\ R102:2
+I i26 C149 c
+P \1\ C149:1
+P \2\ C149:2
+I i28 R115 r
+P \1\ R115:1
+P \2\ R115:2
+I i29 R116 r
+P \1\ R116:1
+P \2\ R116:2
+I i30 R117 r
+P \1\ R117:1
+P \2\ R117:2
+I i32 VD8 bat54s
+P \1\ VD8:1
+P \2\ VD8:2
+P \3\ VD8:3
+I i34 C142 c
+P \1\ C142:1
+P \2\ C142:2
+I i35 DA8 ina152
+P \v_in+\ DA8:v_in+
+P ref DA8:ref
+P n3v3 DA8:n3v3
+P \v_in-\ DA8:v_in-
+P sense DA8:sense
+P v0 DA8:v0
+P p3v3 DA8:p3v3
+I i37 R99 r
+P \1\ R99:1
+P \2\ R99:2
+I i38 C139 c
+P \1\ C139:1
+P \2\ C139:2
+I i40 C145 c
+P \1\ C145:1
+P \2\ C145:2
+I i41 R124 r
+P \1\ R124:1
+P \2\ R124:2
+I i45 R114 r
+P \1\ R114:1
+P \2\ R114:2
+I i46 C160 c
+P \1\ C160:1
+P \2\ C160:2
+I i49 R144 r
+P \1\ R144:1
+P \2\ R144:2
+I i52 R153 r
+P \1\ R153:1
+P \2\ R153:2
+I i53 C163 c
+P \1\ C163:1
+P \2\ C163:2
+I i70 C178 c
+P \1\ C178:1
+P \2\ C178:2
+I i75 C170 c
+P \1\ C170:1
+P \2\ C170:2
+I i79 C191 c
+P \1\ C191:1
+P \2\ C191:2
+I i80 DA24 ad8610
+P \+in\ DA24:+in
+P \null\ DA24:null
+P nc DA24:nc
+P \v+\ DA24:v+
+P \-in\ DA24:-in
+P \out\ DA24:out
+P \v-\ DA24:v-
+P null2 DA24:null2
+I i83 C199 c
+P \1\ C199:1
+P \2\ C199:2
+I i87 C197 c
+P \1\ C197:1
+P \2\ C197:2
+I i88 R196 r
+P \1\ R196:1
+P \2\ R196:2
+I i90 C193 c
+P \1\ C193:1
+P \2\ C193:2
+I i92 R190 r
+P \1\ R190:1
+P \2\ R190:2
+I i94 R193 r
+P \1\ R193:1
+P \2\ R193:2
+I i96 DA11 \ltc1569-7\
+P \in+\ DA11:in+
+P \in-\ DA11:in-
+P \v+\ DA11:v+
+P \out\ DA11:out
+P rx DA11:rx
+P \v-\ DA11:v-
+P \div/clk\ DA11:div/clk
+P gnd DA11:gnd
+I i101 R141 r
+P \1\ R141:1
+P \2\ R141:2
+I i104 C164 c
+P \1\ C164:1
+P \2\ C164:2
+I i112 C157 c
+P \1\ C157:1
+P \2\ C157:2
+I i118 C150 c
+P \1\ C150:1
+P \2\ C150:2
+I i119 DA20 \ltc1569-7\
+P \in+\ DA20:in+
+P \in-\ DA20:in-
+P \v+\ DA20:v+
+P \out\ DA20:out
+P rx DA20:rx
+P \v-\ DA20:v-
+P \div/clk\ DA20:div/clk
+P gnd DA20:gnd
+I i120 R183 r
+P \1\ R183:1
+P \2\ R183:2
+I i126 C187 c
+P \1\ C187:1
+P \2\ C187:2
+I i128 C181 c
+P \1\ C181:1
+P \2\ C181:2
+I i133 C148 c
+P \1\ C148:1
+P \2\ C148:2
+I i136 C184 c
+P \1\ C184:1
+P \2\ C184:2
+I i139 DA15 ltc1264
+P \hpd/nd\ DA15:hpd/nd
+P \hpa/na\ DA15:hpa/na
+P lpd DA15:lpd
+P sd DA15:sd
+P lpc DA15:lpc
+P sc DA15:sc
+P lpb DA15:lpb
+P sb DA15:sb
+P lpa DA15:lpa
+P sa DA15:sa
+P bpd DA15:bpd
+P bpc DA15:bpc
+P bpb DA15:bpb
+P bpa DA15:bpa
+P clk DA15:clk
+P \hpc/nc\ DA15:hpc/nc
+P \v+\ DA15:v+
+P \hpb/nb\ DA15:hpb/nb
+P inv_d DA15:inv_d
+P inv_c DA15:inv_c
+P inv_b DA15:inv_b
+P inv_a DA15:inv_a
+P \v-\ DA15:v-
+P agnd DA15:agnd
+I i140 R129 r
+P \1\ R129:1
+P \2\ R129:2
+I i141 R131 r
+P \1\ R131:1
+P \2\ R131:2
+I i143 C192 c
+P \1\ C192:1
+P \2\ C192:2
+I i144 DA25 ad8610
+P \+in\ DA25:+in
+P \null\ DA25:null
+P nc DA25:nc
+P \v+\ DA25:v+
+P \-in\ DA25:-in
+P \out\ DA25:out
+P \v-\ DA25:v-
+P null2 DA25:null2
+I i149 C189 c
+P \1\ C189:1
+P \2\ C189:2
+I i151 R185 r
+P \1\ R185:1
+P \2\ R185:2
+I i154 DA22 \ltc1569-7\
+P \in+\ DA22:in+
+P \in-\ DA22:in-
+P \v+\ DA22:v+
+P \out\ DA22:out
+P rx DA22:rx
+P \v-\ DA22:v-
+P \div/clk\ DA22:div/clk
+P gnd DA22:gnd
+I i156 C186 c
+P \1\ C186:1
+P \2\ C186:2
+I i158 C183 c
+P \1\ C183:1
+P \2\ C183:2
+I i162 C201 c
+P \1\ C201:1
+P \2\ C201:2
+I i165 C198 c
+P \1\ C198:1
+P \2\ C198:2
+I i166 R197 r
+P \1\ R197:1
+P \2\ R197:2
+I i168 C195 c
+P \1\ C195:1
+P \2\ C195:2
+I i175 R191 r
+P \1\ R191:1
+P \2\ R191:2
+I i177 C427 c
+P \1\ C427:1
+P \2\ C427:2
+I i178 R194 r
+P \1\ R194:1
+P \2\ R194:2
+I i182 C426 c
+P \1\ C426:1
+P \2\ C426:2
+I i192 C431 c
+P \1\ C431:1
+P \2\ C431:2
+I i196 C430 c
+P \1\ C430:1
+P \2\ C430:2
+I i199 C161 c
+P \1\ C161:1
+P \2\ C161:2
+I i202 C151 c
+P \1\ C151:1
+P \2\ C151:2
+I i204 R147 r
+P \1\ R147:1
+P \2\ R147:2
+I i205 R148 r
+P \1\ R148:1
+P \2\ R148:2
+I i206 R149 r
+P \1\ R149:1
+P \2\ R149:2
+I i208 R137 r
+P \1\ R137:1
+P \2\ R137:2
+I i210 R112 r
+P \1\ R112:1
+P \2\ R112:2
+I i211 R130 r
+P \1\ R130:1
+P \2\ R130:2
+I i212 C146 c
+P \1\ C146:1
+P \2\ C146:2
+I i215 R156 r
+P \1\ R156:1
+P \2\ R156:2
+I i216 R157 r
+P \1\ R157:1
+P \2\ R157:2
+I i217 R158 r
+P \1\ R158:1
+P \2\ R158:2
+I i222 R139 r
+P \1\ R139:1
+P \2\ R139:2
+I i226 C158 c
+P \1\ C158:1
+P \2\ C158:2
+I i228 R145 r
+P \1\ R145:1
+P \2\ R145:2
+I i230 C153 c
+P \1\ C153:1
+P \2\ C153:2
+I i235 C155 c
+P \1\ C155:1
+P \2\ C155:2
+I i237 DA12 \ltc1569-7\
+P \in+\ DA12:in+
+P \in-\ DA12:in-
+P \v+\ DA12:v+
+P \out\ DA12:out
+P rx DA12:rx
+P \v-\ DA12:v-
+P \div/clk\ DA12:div/clk
+P gnd DA12:gnd
+I i239 R119 r
+P \1\ R119:1
+P \2\ R119:2
+I i240 R118 r
+P \1\ R118:1
+P \2\ R118:2
+I i241 R120 r
+P \1\ R120:1
+P \2\ R120:2
+I i242 R121 r
+P \1\ R121:1
+P \2\ R121:2
+I i244 R107 r
+P \1\ R107:1
+P \2\ R107:2
+I i245 R103 r
+P \1\ R103:1
+P \2\ R103:2
+I i248 C143 c
+P \1\ C143:1
+P \2\ C143:2
+I i250 DA9 ina152
+P \v_in+\ DA9:v_in+
+P ref DA9:ref
+P n3v3 DA9:n3v3
+P \v_in-\ DA9:v_in-
+P sense DA9:sense
+P v0 DA9:v0
+P p3v3 DA9:p3v3
+I i251 R100 r
+P \1\ R100:1
+P \2\ R100:2
+I i254 C140 c
+P \1\ C140:1
+P \2\ C140:2
+I i255 VD9 bat54s
+P \1\ VD9:1
+P \2\ VD9:2
+P \3\ VD9:3
+I i257 DA36 ltc1264
+P \hpd/nd\ DA36:hpd/nd
+P \hpa/na\ DA36:hpa/na
+P lpd DA36:lpd
+P sd DA36:sd
+P lpc DA36:lpc
+P sc DA36:sc
+P lpb DA36:lpb
+P sb DA36:sb
+P lpa DA36:lpa
+P sa DA36:sa
+P bpd DA36:bpd
+P bpc DA36:bpc
+P bpb DA36:bpb
+P bpa DA36:bpa
+P clk DA36:clk
+P \hpc/nc\ DA36:hpc/nc
+P \v+\ DA36:v+
+P \hpb/nb\ DA36:hpb/nb
+P inv_d DA36:inv_d
+P inv_c DA36:inv_c
+P inv_b DA36:inv_b
+P inv_a DA36:inv_a
+P \v-\ DA36:v-
+P agnd DA36:agnd
+I i262 C188 c
+P \1\ C188:1
+P \2\ C188:2
+I i264 R184 r
+P \1\ R184:1
+P \2\ R184:2
+I i267 DA21 \ltc1569-7\
+P \in+\ DA21:in+
+P \in-\ DA21:in-
+P \v+\ DA21:v+
+P \out\ DA21:out
+P rx DA21:rx
+P \v-\ DA21:v-
+P \div/clk\ DA21:div/clk
+P gnd DA21:gnd
+I i269 C185 c
+P \1\ C185:1
+P \2\ C185:2
+I i271 C182 c
+P \1\ C182:1
+P \2\ C182:2
+I i275 C200 c
+P \1\ C200:1
+P \2\ C200:2
+I i278 C196 c
+P \1\ C196:1
+P \2\ C196:2
+I i279 R195 r
+P \1\ R195:1
+P \2\ R195:2
+I i281 C194 c
+P \1\ C194:1
+P \2\ C194:2
+I i283 DA23 ad8610
+P \+in\ DA23:+in
+P \null\ DA23:null
+P nc DA23:nc
+P \v+\ DA23:v+
+P \-in\ DA23:-in
+P \out\ DA23:out
+P \v-\ DA23:v-
+P null2 DA23:null2
+I i289 R189 r
+P \1\ R189:1
+P \2\ R189:2
+I i291 C180 c
+P \1\ C180:1
+P \2\ C180:2
+I i292 R192 r
+P \1\ R192:1
+P \2\ R192:2
+I i294 C190 c
+P \1\ C190:1
+P \2\ C190:2
+I i297 C174 c
+P \1\ C174:1
+P \2\ C174:2
+I i308 C167 c
+P \1\ C167:1
+P \2\ C167:2
+I i312 C168 c
+P \1\ C168:1
+P \2\ C168:2
+I i315 C162 c
+P \1\ C162:1
+P \2\ C162:2
+I i318 C152 c
+P \1\ C152:1
+P \2\ C152:2
+I i320 R150 r
+P \1\ R150:1
+P \2\ R150:2
+I i321 R151 r
+P \1\ R151:1
+P \2\ R151:2
+I i322 R152 r
+P \1\ R152:1
+P \2\ R152:2
+I i324 R138 r
+P \1\ R138:1
+P \2\ R138:2
+I i326 R113 r
+P \1\ R113:1
+P \2\ R113:2
+I i327 R133 r
+P \1\ R133:1
+P \2\ R133:2
+I i328 R132 r
+P \1\ R132:1
+P \2\ R132:2
+I i329 R134 r
+P \1\ R134:1
+P \2\ R134:2
+I i330 C147 c
+P \1\ C147:1
+P \2\ C147:2
+I i333 R159 r
+P \1\ R159:1
+P \2\ R159:2
+I i334 R160 r
+P \1\ R160:1
+P \2\ R160:2
+I i335 R161 r
+P \1\ R161:1
+P \2\ R161:2
+I i340 R140 r
+P \1\ R140:1
+P \2\ R140:2
+I i341 DA16 ltc1264
+P \hpd/nd\ DA16:hpd/nd
+P \hpa/na\ DA16:hpa/na
+P lpd DA16:lpd
+P sd DA16:sd
+P lpc DA16:lpc
+P sc DA16:sc
+P lpb DA16:lpb
+P sb DA16:sb
+P lpa DA16:lpa
+P sa DA16:sa
+P bpd DA16:bpd
+P bpc DA16:bpc
+P bpb DA16:bpb
+P bpa DA16:bpa
+P clk DA16:clk
+P \hpc/nc\ DA16:hpc/nc
+P \v+\ DA16:v+
+P \hpb/nb\ DA16:hpb/nb
+P inv_d DA16:inv_d
+P inv_c DA16:inv_c
+P inv_b DA16:inv_b
+P inv_a DA16:inv_a
+P \v-\ DA16:v-
+P agnd DA16:agnd
+I i345 C159 c
+P \1\ C159:1
+P \2\ C159:2
+I i347 R146 r
+P \1\ R146:1
+P \2\ R146:2
+I i349 C154 c
+P \1\ C154:1
+P \2\ C154:2
+I i354 C156 c
+P \1\ C156:1
+P \2\ C156:2
+I i356 DA14 \ltc1569-7\
+P \in+\ DA14:in+
+P \in-\ DA14:in-
+P \v+\ DA14:v+
+P \out\ DA14:out
+P rx DA14:rx
+P \v-\ DA14:v-
+P \div/clk\ DA14:div/clk
+P gnd DA14:gnd
+I i358 R126 r
+P \1\ R126:1
+P \2\ R126:2
+I i359 R125 r
+P \1\ R125:1
+P \2\ R125:2
+I i360 R127 r
+P \1\ R127:1
+P \2\ R127:2
+I i361 R128 r
+P \1\ R128:1
+P \2\ R128:2
+I i363 C258 c
+P \1\ C258:1
+P \2\ C258:2
+I i367 C254 c
+P \1\ C254:1
+P \2\ C254:2
+I i370 C264 c
+P \1\ C264:1
+P \2\ C264:2
+I i374 C261 c
+P \1\ C261:1
+P \2\ C261:2
+I i375 C263 c
+P \1\ C263:1
+P \2\ C263:2
+I i376 R250 r
+P \1\ R250:1
+P \2\ R250:2
+I i379 R246 r
+P \1\ R246:1
+P \2\ R246:2
+I i382 DA38 \ltc1569-7\
+P \in+\ DA38:in+
+P \in-\ DA38:in-
+P \v+\ DA38:v+
+P \out\ DA38:out
+P rx DA38:rx
+P \v-\ DA38:v-
+P \div/clk\ DA38:div/clk
+P gnd DA38:gnd
+I i384 C257 c
+P \1\ C257:1
+P \2\ C257:2
+I i389 DA39 ad8610
+P \+in\ DA39:+in
+P \null\ DA39:null
+P nc DA39:nc
+P \v+\ DA39:v+
+P \-in\ DA39:-in
+P \out\ DA39:out
+P \v-\ DA39:v-
+P null2 DA39:null2
+I i390 R249 r
+P \1\ R249:1
+P \2\ R249:2
+I i392 C247 c
+P \1\ C247:1
+P \2\ C247:2
+I i395 R248 r
+P \1\ R248:1
+P \2\ R248:2
+I i398 C245 c
+P \1\ C245:1
+P \2\ C245:2
+I i405 C242 c
+P \1\ C242:1
+P \2\ C242:2
+I i406 C259 c
+P \1\ C259:1
+P \2\ C259:2
+I i416 C243 c
+P \1\ C243:1
+P \2\ C243:2
+I i419 C241 c
+P \1\ C241:1
+P \2\ C241:2
+I i420 R233 r
+P \1\ R233:1
+P \2\ R233:2
+I i421 R230 r
+P \1\ R230:1
+P \2\ R230:2
+I i424 C235 c
+P \1\ C235:1
+P \2\ C235:2
+I i425 R234 r
+P \1\ R234:1
+P \2\ R234:2
+I i426 R235 r
+P \1\ R235:1
+P \2\ R235:2
+I i429 R237 r
+P \1\ R237:1
+P \2\ R237:2
+I i430 R236 r
+P \1\ R236:1
+P \2\ R236:2
+I i431 R238 r
+P \1\ R238:1
+P \2\ R238:2
+I i435 R227 r
+P \1\ R227:1
+P \2\ R227:2
+I i436 R222 r
+P \1\ R222:1
+P \2\ R222:2
+I i437 C232 c
+P \1\ C232:1
+P \2\ C232:2
+I i438 R228 r
+P \1\ R228:1
+P \2\ R228:2
+I i439 R229 r
+P \1\ R229:1
+P \2\ R229:2
+I i440 R223 r
+P \1\ R223:1
+P \2\ R223:2
+I i441 R224 r
+P \1\ R224:1
+P \2\ R224:2
+I i442 R225 r
+P \1\ R225:1
+P \2\ R225:2
+I i447 C240 c
+P \1\ C240:1
+P \2\ C240:2
+I i450 R232 r
+P \1\ R232:1
+P \2\ R232:2
+I i452 R231 r
+P \1\ R231:1
+P \2\ R231:2
+I i454 C236 c
+P \1\ C236:1
+P \2\ C236:2
+I i457 DA35 \ltc1569-7\
+P \in+\ DA35:in+
+P \in-\ DA35:in-
+P \v+\ DA35:v+
+P \out\ DA35:out
+P rx DA35:rx
+P \v-\ DA35:v-
+P \div/clk\ DA35:div/clk
+P gnd DA35:gnd
+I i461 C237 c
+P \1\ C237:1
+P \2\ C237:2
+I i463 R226 r
+P \1\ R226:1
+P \2\ R226:2
+I i465 R109 r
+P \1\ R109:1
+P \2\ R109:2
+I i466 R104 r
+P \1\ R104:1
+P \2\ R104:2
+I i469 C144 c
+P \1\ C144:1
+P \2\ C144:2
+I i471 DA10 ina152
+P \v_in+\ DA10:v_in+
+P ref DA10:ref
+P n3v3 DA10:n3v3
+P \v_in-\ DA10:v_in-
+P sense DA10:sense
+P v0 DA10:v0
+P p3v3 DA10:p3v3
+I i472 R101 r
+P \1\ R101:1
+P \2\ R101:2
+I i475 C141 c
+P \1\ C141:1
+P \2\ C141:2
+I i476 VD10 bat54s
+P \1\ VD10:1
+P \2\ VD10:2
+P \3\ VD10:3
+I i478 R220 r
+P \1\ R220:1
+P \2\ R220:2
+I i479 R213 r
+P \1\ R213:1
+P \2\ R213:2
+I i481 VD11 bat54s
+P \1\ VD11:1
+P \2\ VD11:2
+P \3\ VD11:3
+I i483 C223 c
+P \1\ C223:1
+P \2\ C223:2
+I i485 DA30 ina152
+P \v_in+\ DA30:v_in+
+P ref DA30:ref
+P n3v3 DA30:n3v3
+P \v_in-\ DA30:v_in-
+P sense DA30:sense
+P v0 DA30:v0
+P p3v3 DA30:p3v3
+I i486 C220 c
+P \1\ C220:1
+P \2\ C220:2
+I i488 R208 r
+P \1\ R208:1
+P \2\ R208:2
+I i497 C313 c
+P \1\ C313:1
+P \2\ C313:2
+I i499 R335 r
+P \1\ R335:1
+P \2\ R335:2
+I i502 DA52 \ltc1569-7\
+P \in+\ DA52:in+
+P \in-\ DA52:in-
+P \v+\ DA52:v+
+P \out\ DA52:out
+P rx DA52:rx
+P \v-\ DA52:v-
+P \div/clk\ DA52:div/clk
+P gnd DA52:gnd
+I i504 C310 c
+P \1\ C310:1
+P \2\ C310:2
+I i506 C307 c
+P \1\ C307:1
+P \2\ C307:2
+I i510 C326 c
+P \1\ C326:1
+P \2\ C326:2
+I i513 C323 c
+P \1\ C323:1
+P \2\ C323:2
+I i514 R348 r
+P \1\ R348:1
+P \2\ R348:2
+I i516 C320 c
+P \1\ C320:1
+P \2\ C320:2
+I i518 DA56 ad8610
+P \+in\ DA56:+in
+P \null\ DA56:null
+P nc DA56:nc
+P \v+\ DA56:v+
+P \-in\ DA56:-in
+P \out\ DA56:out
+P \v-\ DA56:v-
+P null2 DA56:null2
+I i524 R342 r
+P \1\ R342:1
+P \2\ R342:2
+I i526 C304 c
+P \1\ C304:1
+P \2\ C304:2
+I i527 R345 r
+P \1\ R345:1
+P \2\ R345:2
+I i529 C317 c
+P \1\ C317:1
+P \2\ C317:2
+I i532 C296 c
+P \1\ C296:1
+P \2\ C296:2
+I i543 C289 c
+P \1\ C289:1
+P \2\ C289:2
+I i547 C290 c
+P \1\ C290:1
+P \2\ C290:2
+I i550 C286 c
+P \1\ C286:1
+P \2\ C286:2
+I i553 C276 c
+P \1\ C276:1
+P \2\ C276:2
+I i555 R295 r
+P \1\ R295:1
+P \2\ R295:2
+I i556 R296 r
+P \1\ R296:1
+P \2\ R296:2
+I i557 R297 r
+P \1\ R297:1
+P \2\ R297:2
+I i559 R287 r
+P \1\ R287:1
+P \2\ R287:2
+I i561 R263 r
+P \1\ R263:1
+P \2\ R263:2
+I i562 R275 r
+P \1\ R275:1
+P \2\ R275:2
+I i563 R274 r
+P \1\ R274:1
+P \2\ R274:2
+I i564 R276 r
+P \1\ R276:1
+P \2\ R276:2
+I i565 C271 c
+P \1\ C271:1
+P \2\ C271:2
+I i568 R305 r
+P \1\ R305:1
+P \2\ R305:2
+I i569 R306 r
+P \1\ R306:1
+P \2\ R306:2
+I i570 R307 r
+P \1\ R307:1
+P \2\ R307:2
+I i575 R289 r
+P \1\ R289:1
+P \2\ R289:2
+I i576 DA45 ltc1264
+P \hpd/nd\ DA45:hpd/nd
+P \hpa/na\ DA45:hpa/na
+P lpd DA45:lpd
+P sd DA45:sd
+P lpc DA45:lpc
+P sc DA45:sc
+P lpb DA45:lpb
+P sb DA45:sb
+P lpa DA45:lpa
+P sa DA45:sa
+P bpd DA45:bpd
+P bpc DA45:bpc
+P bpb DA45:bpb
+P bpa DA45:bpa
+P clk DA45:clk
+P \hpc/nc\ DA45:hpc/nc
+P \v+\ DA45:v+
+P \hpb/nb\ DA45:hpb/nb
+P inv_d DA45:inv_d
+P inv_c DA45:inv_c
+P inv_b DA45:inv_b
+P inv_a DA45:inv_a
+P \v-\ DA45:v-
+P agnd DA45:agnd
+I i580 C283 c
+P \1\ C283:1
+P \2\ C283:2
+I i582 R293 r
+P \1\ R293:1
+P \2\ R293:2
+I i584 C278 c
+P \1\ C278:1
+P \2\ C278:2
+I i589 C274 c
+P \1\ C274:1
+P \2\ C274:2
+I i591 DA43 \ltc1569-7\
+P \in+\ DA43:in+
+P \in-\ DA43:in-
+P \v+\ DA43:v+
+P \out\ DA43:out
+P rx DA43:rx
+P \v-\ DA43:v-
+P \div/clk\ DA43:div/clk
+P gnd DA43:gnd
+I i593 R267 r
+P \1\ R267:1
+P \2\ R267:2
+I i594 R266 r
+P \1\ R266:1
+P \2\ R266:2
+I i595 R268 r
+P \1\ R268:1
+P \2\ R268:2
+I i596 R269 r
+P \1\ R269:1
+P \2\ R269:2
+I i598 C315 c
+P \1\ C315:1
+P \2\ C315:2
+I i602 C309 c
+P \1\ C309:1
+P \2\ C309:2
+I i605 C327 c
+P \1\ C327:1
+P \2\ C327:2
+I i609 C321 c
+P \1\ C321:1
+P \2\ C321:2
+I i610 C324 c
+P \1\ C324:1
+P \2\ C324:2
+I i611 R349 r
+P \1\ R349:1
+P \2\ R349:2
+I i614 R337 r
+P \1\ R337:1
+P \2\ R337:2
+I i617 DA54 \ltc1569-7\
+P \in+\ DA54:in+
+P \in-\ DA54:in-
+P \v+\ DA54:v+
+P \out\ DA54:out
+P rx DA54:rx
+P \v-\ DA54:v-
+P \div/clk\ DA54:div/clk
+P gnd DA54:gnd
+I i619 C312 c
+P \1\ C312:1
+P \2\ C312:2
+I i624 DA57 ad8610
+P \+in\ DA57:+in
+P \null\ DA57:null
+P nc DA57:nc
+P \v+\ DA57:v+
+P \-in\ DA57:-in
+P \out\ DA57:out
+P \v-\ DA57:v-
+P null2 DA57:null2
+I i625 R346 r
+P \1\ R346:1
+P \2\ R346:2
+I i629 C314 c
+P \1\ C314:1
+P \2\ C314:2
+I i631 R336 r
+P \1\ R336:1
+P \2\ R336:2
+I i632 C308 c
+P \1\ C308:1
+P \2\ C308:2
+I i637 C325 c
+P \1\ C325:1
+P \2\ C325:2
+I i640 C322 c
+P \1\ C322:1
+P \2\ C322:2
+I i642 C319 c
+P \1\ C319:1
+P \2\ C319:2
+I i643 R347 r
+P \1\ R347:1
+P \2\ R347:2
+I i644 DA55 ad8610
+P \+in\ DA55:+in
+P \null\ DA55:null
+P nc DA55:nc
+P \v+\ DA55:v+
+P \-in\ DA55:-in
+P \out\ DA55:out
+P \v-\ DA55:v-
+P null2 DA55:null2
+I i645 R344 r
+P \1\ R344:1
+P \2\ R344:2
+I i651 DA53 \ltc1569-7\
+P \in+\ DA53:in+
+P \in-\ DA53:in-
+P \v+\ DA53:v+
+P \out\ DA53:out
+P rx DA53:rx
+P \v-\ DA53:v-
+P \div/clk\ DA53:div/clk
+P gnd DA53:gnd
+I i654 C311 c
+P \1\ C311:1
+P \2\ C311:2
+I i656 C305 c
+P \1\ C305:1
+P \2\ C305:2
+I i659 R343 r
+P \1\ R343:1
+P \2\ R343:2
+I i662 C298 c
+P \1\ C298:1
+P \2\ C298:2
+I i669 C291 c
+P \1\ C291:1
+P \2\ C291:2
+I i670 C318 c
+P \1\ C318:1
+P \2\ C318:2
+I i680 C292 c
+P \1\ C292:1
+P \2\ C292:2
+I i683 C287 c
+P \1\ C287:1
+P \2\ C287:2
+I i684 R298 r
+P \1\ R298:1
+P \2\ R298:2
+I i685 R288 r
+P \1\ R288:1
+P \2\ R288:2
+I i688 C277 c
+P \1\ C277:1
+P \2\ C277:2
+I i689 R299 r
+P \1\ R299:1
+P \2\ R299:2
+I i690 R300 r
+P \1\ R300:1
+P \2\ R300:2
+I i693 R309 r
+P \1\ R309:1
+P \2\ R309:2
+I i694 R308 r
+P \1\ R308:1
+P \2\ R308:2
+I i695 R310 r
+P \1\ R310:1
+P \2\ R310:2
+I i700 DA47 ltc1264
+P \hpd/nd\ DA47:hpd/nd
+P \hpa/na\ DA47:hpa/na
+P lpd DA47:lpd
+P sd DA47:sd
+P lpc DA47:lpc
+P sc DA47:sc
+P lpb DA47:lpb
+P sb DA47:sb
+P lpa DA47:lpa
+P sa DA47:sa
+P bpd DA47:bpd
+P bpc DA47:bpc
+P bpb DA47:bpb
+P bpa DA47:bpa
+P clk DA47:clk
+P \hpc/nc\ DA47:hpc/nc
+P \v+\ DA47:v+
+P \hpb/nb\ DA47:hpb/nb
+P inv_d DA47:inv_d
+P inv_c DA47:inv_c
+P inv_b DA47:inv_b
+P inv_a DA47:inv_a
+P \v-\ DA47:v-
+P agnd DA47:agnd
+I i701 R281 r
+P \1\ R281:1
+P \2\ R281:2
+I i702 R264 r
+P \1\ R264:1
+P \2\ R264:2
+I i703 C272 c
+P \1\ C272:1
+P \2\ C272:2
+I i704 R282 r
+P \1\ R282:1
+P \2\ R282:2
+I i705 R283 r
+P \1\ R283:1
+P \2\ R283:2
+I i706 R270 r
+P \1\ R270:1
+P \2\ R270:2
+I i707 R271 r
+P \1\ R271:1
+P \2\ R271:2
+I i708 R272 r
+P \1\ R272:1
+P \2\ R272:2
+I i713 C284 c
+P \1\ C284:1
+P \2\ C284:2
+I i716 R294 r
+P \1\ R294:1
+P \2\ R294:2
+I i718 R290 r
+P \1\ R290:1
+P \2\ R290:2
+I i720 C279 c
+P \1\ C279:1
+P \2\ C279:2
+I i723 DA44 \ltc1569-7\
+P \in+\ DA44:in+
+P \in-\ DA44:in-
+P \v+\ DA44:v+
+P \out\ DA44:out
+P rx DA44:rx
+P \v-\ DA44:v-
+P \div/clk\ DA44:div/clk
+P gnd DA44:gnd
+I i726 C288 c
+P \1\ C288:1
+P \2\ C288:2
+I i729 C275 c
+P \1\ C275:1
+P \2\ C275:2
+I i732 C280 c
+P \1\ C280:1
+P \2\ C280:2
+I i733 R273 r
+P \1\ R273:1
+P \2\ R273:2
+I i736 R341 r
+P \1\ R341:1
+P \2\ R341:2
+I i739 C306 c
+P \1\ C306:1
+P \2\ C306:2
+I i740 C316 c
+P \1\ C316:1
+P \2\ C316:2
+I i744 C300 c
+P \1\ C300:1
+P \2\ C300:2
+I i748 C293 c
+P \1\ C293:1
+P \2\ C293:2
+I i756 C294 c
+P \1\ C294:1
+P \2\ C294:2
+I i758 R302 r
+P \1\ R302:1
+P \2\ R302:2
+I i759 R303 r
+P \1\ R303:1
+P \2\ R303:2
+I i761 R304 r
+P \1\ R304:1
+P \2\ R304:2
+I i763 R291 r
+P \1\ R291:1
+P \2\ R291:2
+I i766 R312 r
+P \1\ R312:1
+P \2\ R312:2
+I i767 R311 r
+P \1\ R311:1
+P \2\ R311:2
+I i768 R313 r
+P \1\ R313:1
+P \2\ R313:2
+I i773 R292 r
+P \1\ R292:1
+P \2\ R292:2
+I i775 DA48 ltc1264
+P \hpd/nd\ DA48:hpd/nd
+P \hpa/na\ DA48:hpa/na
+P lpd DA48:lpd
+P sd DA48:sd
+P lpc DA48:lpc
+P sc DA48:sc
+P lpb DA48:lpb
+P sb DA48:sb
+P lpa DA48:lpa
+P sa DA48:sa
+P bpd DA48:bpd
+P bpc DA48:bpc
+P bpb DA48:bpb
+P bpa DA48:bpa
+P clk DA48:clk
+P \hpc/nc\ DA48:hpc/nc
+P \v+\ DA48:v+
+P \hpb/nb\ DA48:hpb/nb
+P inv_d DA48:inv_d
+P inv_c DA48:inv_c
+P inv_b DA48:inv_b
+P inv_a DA48:inv_a
+P \v-\ DA48:v-
+P agnd DA48:agnd
+I i776 R265 r
+P \1\ R265:1
+P \2\ R265:2
+I i777 R284 r
+P \1\ R284:1
+P \2\ R284:2
+I i778 R285 r
+P \1\ R285:1
+P \2\ R285:2
+I i779 R286 r
+P \1\ R286:1
+P \2\ R286:2
+I i780 C273 c
+P \1\ C273:1
+P \2\ C273:2
+I i782 R278 r
+P \1\ R278:1
+P \2\ R278:2
+I i783 R277 r
+P \1\ R277:1
+P \2\ R277:2
+I i784 R279 r
+P \1\ R279:1
+P \2\ R279:2
+I i785 R280 r
+P \1\ R280:1
+P \2\ R280:2
+I i790 C285 c
+P \1\ C285:1
+P \2\ C285:2
+I i791 R301 r
+P \1\ R301:1
+P \2\ R301:2
+I i794 C281 c
+P \1\ C281:1
+P \2\ C281:2
+I i798 DA46 \ltc1569-7\
+P \in+\ DA46:in+
+P \in-\ DA46:in-
+P \v+\ DA46:v+
+P \out\ DA46:out
+P rx DA46:rx
+P \v-\ DA46:v-
+P \div/clk\ DA46:div/clk
+P gnd DA46:gnd
+I i799 C282 c
+P \1\ C282:1
+P \2\ C282:2
+I i908 R257 r
+P \1\ R257:1
+P \2\ R257:2
+I i909 R254 r
+P \1\ R254:1
+P \2\ R254:2
+I i912 C268 c
+P \1\ C268:1
+P \2\ C268:2
+I i914 DA40 ina152
+P \v_in+\ DA40:v_in+
+P ref DA40:ref
+P n3v3 DA40:n3v3
+P \v_in-\ DA40:v_in-
+P sense DA40:sense
+P v0 DA40:v0
+P p3v3 DA40:p3v3
+I i915 R251 r
+P \1\ R251:1
+P \2\ R251:2
+I i918 C265 c
+P \1\ C265:1
+P \2\ C265:2
+I i919 VD17 bat54s
+P \1\ VD17:1
+P \2\ VD17:2
+P \3\ VD17:3
+I i921 R259 r
+P \1\ R259:1
+P \2\ R259:2
+I i922 R255 r
+P \1\ R255:1
+P \2\ R255:2
+I i924 VD18 bat54s
+P \1\ VD18:1
+P \2\ VD18:2
+P \3\ VD18:3
+I i926 C269 c
+P \1\ C269:1
+P \2\ C269:2
+I i928 DA41 ina152
+P \v_in+\ DA41:v_in+
+P ref DA41:ref
+P n3v3 DA41:n3v3
+P \v_in-\ DA41:v_in-
+P sense DA41:sense
+P v0 DA41:v0
+P p3v3 DA41:p3v3
+I i929 C266 c
+P \1\ C266:1
+P \2\ C266:2
+I i931 R252 r
+P \1\ R252:1
+P \2\ R252:2
+I i934 R261 r
+P \1\ R261:1
+P \2\ R261:2
+I i935 VD19 bat54s
+P \1\ VD19:1
+P \2\ VD19:2
+P \3\ VD19:3
+I i936 R256 r
+P \1\ R256:1
+P \2\ R256:2
+I i939 C270 c
+P \1\ C270:1
+P \2\ C270:2
+I i940 DA42 ina152
+P \v_in+\ DA42:v_in+
+P ref DA42:ref
+P n3v3 DA42:n3v3
+P \v_in-\ DA42:v_in-
+P sense DA42:sense
+P v0 DA42:v0
+P p3v3 DA42:p3v3
+I i941 C267 c
+P \1\ C267:1
+P \2\ C267:2
+I i944 R253 r
+P \1\ R253:1
+P \2\ R253:2
+I i946 R106 r
+P \1\ R106:1
+P \2\ R106:2
+I i947 R108 r
+P \1\ R108:1
+P \2\ R108:2
+I i948 R110 r
+P \1\ R110:1
+P \2\ R110:2
+I i949 R221 r
+P \1\ R221:1
+P \2\ R221:2
+I i950 R262 r
+P \1\ R262:1
+P \2\ R262:2
+I i951 R260 r
+P \1\ R260:1
+P \2\ R260:2
+I i952 R258 r
+P \1\ R258:1
+P \2\ R258:2
+I i993 VD22 bat54s
+P \1\ VD22:1
+P \2\ VD22:2
+P \3\ VD22:3
+I i997 VD23 bat54s
+P \1\ VD23:1
+P \2\ VD23:2
+P \3\ VD23:3
+I i1001 VD24 bat54s
+P \1\ VD24:1
+P \2\ VD24:2
+P \3\ VD24:3
+I i1005 VD25 bat54s
+P \1\ VD25:1
+P \2\ VD25:2
+P \3\ VD25:3
+I i1009 DA17 ina128
+P \+in\ DA17:+in
+P ref DA17:ref
+P \+v\ DA17:+v
+P vo DA17:vo
+P \-in\ DA17:-in
+P rg2 DA17:rg2
+P rg1 DA17:rg1
+P \-v\ DA17:-v
+I i1010 R417 r
+P \1\ R417:1
+P \2\ R417:2
+I i1012 R419 r
+P \1\ R419:1
+P \2\ R419:2
+I i1013 R420 r
+P \1\ R420:1
+P \2\ R420:2
+I i1018 DA76 ina128
+P \+in\ DA76:+in
+P ref DA76:ref
+P \+v\ DA76:+v
+P vo DA76:vo
+P \-in\ DA76:-in
+P rg2 DA76:rg2
+P rg1 DA76:rg1
+P \-v\ DA76:-v
+I i1019 R418 r
+P \1\ R418:1
+P \2\ R418:2
+I i1023 R421 r
+P \1\ R421:1
+P \2\ R421:2
+I i1026 R422 r
+P \1\ R422:1
+P \2\ R422:2
+I i1027 DA77 ina128
+P \+in\ DA77:+in
+P ref DA77:ref
+P \+v\ DA77:+v
+P vo DA77:vo
+P \-in\ DA77:-in
+P rg2 DA77:rg2
+P rg1 DA77:rg1
+P \-v\ DA77:-v
+I i1028 R423 r
+P \1\ R423:1
+P \2\ R423:2
+I i1032 R425 r
+P \1\ R425:1
+P \2\ R425:2
+I i1035 R424 r
+P \1\ R424:1
+P \2\ R424:2
+I i1036 DA78 ina128
+P \+in\ DA78:+in
+P ref DA78:ref
+P \+v\ DA78:+v
+P vo DA78:vo
+P \-in\ DA78:-in
+P rg2 DA78:rg2
+P rg1 DA78:rg1
+P \-v\ DA78:-v
+I i1038 R428 r
+P \1\ R428:1
+P \2\ R428:2
+I i1040 R427 r
+P \1\ R427:1
+P \2\ R427:2
+I i1044 R426 r
+P \1\ R426:1
+P \2\ R426:2
+I i1045 DA79 ina128
+P \+in\ DA79:+in
+P ref DA79:ref
+P \+v\ DA79:+v
+P vo DA79:vo
+P \-in\ DA79:-in
+P rg2 DA79:rg2
+P rg1 DA79:rg1
+P \-v\ DA79:-v
+I i1046 R429 r
+P \1\ R429:1
+P \2\ R429:2
+I i1050 R431 r
+P \1\ R431:1
+P \2\ R431:2
+I i1053 R430 r
+P \1\ R430:1
+P \2\ R430:2
+I i1054 DA80 ina128
+P \+in\ DA80:+in
+P ref DA80:ref
+P \+v\ DA80:+v
+P vo DA80:vo
+P \-in\ DA80:-in
+P rg2 DA80:rg2
+P rg1 DA80:rg1
+P \-v\ DA80:-v
+I i1055 R433 r
+P \1\ R433:1
+P \2\ R433:2
+I i1059 R434 r
+P \1\ R434:1
+P \2\ R434:2
+I i1062 R432 r
+P \1\ R432:1
+P \2\ R432:2
+I i1063 DA81 ina128
+P \+in\ DA81:+in
+P ref DA81:ref
+P \+v\ DA81:+v
+P vo DA81:vo
+P \-in\ DA81:-in
+P rg2 DA81:rg2
+P rg1 DA81:rg1
+P \-v\ DA81:-v
+I i1065 R436 r
+P \1\ R436:1
+P \2\ R436:2
+I i1069 R437 r
+P \1\ R437:1
+P \2\ R437:2
+I i1071 R435 r
+P \1\ R435:1
+P \2\ R435:2
+page Page6
+S unnamed_6_r_i69_1 N197
+S \\unnamed_6_pld2-40_i316_36\\ N074
+S unnamed_6_r_i71_1 N404
+S unnamed_6_r_i9_1 N178
+S unnamed_6_r_i10_1 N144
+S clr_r1_a clr_r1_a
+S unnamed_6_r_i66_1 N051
+S unnamed_6_r_i65_1 N052
+S unnamed_6_r_i78_1 N035
+I i1 L18 bnx016
+P b L18:b
+P cg L18:cg
+P psg L18:psg
+P cb L18:cb
+I i2 L19 bnx016
+P b L19:b
+P cg L19:cg
+P psg L19:psg
+P cb L19:cb
+I i9 R200 r
+P \1\ R200:1
+P \2\ R200:2
+I i10 R201 r
+P \1\ R201:1
+P \2\ R201:2
+I i14 C202 c
+P \1\ C202:1
+P \2\ C202:2
+I i16 DD21 sn74lvc2g17_1
+P gnddm DD21:gnddm
+P y2 DD21:y2
+P y1 DD21:y1
+P b DD21:b
+P a DD21:a
+P p3v3m DD21:p3v3m
+I i17 C203 c
+P \1\ C203:1
+P \2\ C203:2
+I i21 VD15 vd_new
+P b VD15:b
+P a VD15:a
+I i23 VD16 vd_new
+P b VD16:b
+P a VD16:a
+I i27 VD12 vd_new
+P b VD12:b
+P a VD12:a
+I i30 VD13 vd_new
+P b VD13:b
+P a VD13:a
+I i65 R198 r
+P \1\ R198:1
+P \2\ R198:2
+I i66 R202 r
+P \1\ R202:1
+P \2\ R202:2
+I i69 R199 r
+P \1\ R199:1
+P \2\ R199:2
+I i71 R203 r
+P \1\ R203:1
+P \2\ R203:2
+I i73 DD22 sn74lvc2g17_1
+P gnddm DD22:gnddm
+P y2 DD22:y2
+P y1 DD22:y1
+P b DD22:b
+P a DD22:a
+P p3v3m DD22:p3v3m
+I i74 C204 c
+P \1\ C204:1
+P \2\ C204:2
+I i78 R204 r
+P \1\ R204:1
+P \2\ R204:2
+I i81 DD23 sn74lvc2g17_1
+P gnddm DD23:gnddm
+P y2 DD23:y2
+P y1 DD23:y1
+P b DD23:b
+P a DD23:a
+P p3v3m DD23:p3v3m
+I i82 C205 c
+P \1\ C205:1
+P \2\ C205:2
+I i84 DD24 sn74lvc2g17_1
+P gnddm DD24:gnddm
+P y2 DD24:y2
+P y1 DD24:y1
+P b DD24:b
+P a DD24:a
+P p3v3m DD24:p3v3m
+I i88 C252 c
+P \1\ C252:1
+P \2\ C252:2
+I i89 C248 cap_el
+P b(0) C248:b(0)
+P a(0) C248:a(0)
+I i92 C253 c
+P \1\ C253:1
+P \2\ C253:2
+I i93 C249 cap_el
+P b(0) C249:b(0)
+P a(0) C249:a(0)
+I i94 C255 c
+P \1\ C255:1
+P \2\ C255:2
+I i100 C256 c
+P \1\ C256:1
+P \2\ C256:2
+I i284 R205 r
+P \1\ R205:1
+P \2\ R205:2
+I i302 XP19 \idc-26\
+P i19 XP19:i19
+P i18 XP19:i18
+P i17 XP19:i17
+P i16 XP19:i16
+P i15 XP19:i15
+P i14 XP19:i14
+P i13 XP19:i13
+P i12 XP19:i12
+P i11 XP19:i11
+P i10 XP19:i10
+P i26 XP19:i26
+P i25 XP19:i25
+P i24 XP19:i24
+P i23 XP19:i23
+P i22 XP19:i22
+P i21 XP19:i21
+P i20 XP19:i20
+P i9 XP19:i9
+P i8 XP19:i8
+P i7 XP19:i7
+P i6 XP19:i6
+P i5 XP19:i5
+P i4 XP19:i4
+P i3 XP19:i3
+P i2 XP19:i2
+P i1 XP19:i1
+I i316 XP17 \pld2-40\
+P \13\ XP17:13
+P \36\ XP17:36
+P \7\ XP17:7
+P \25\ XP17:25
+P \30\ XP17:30
+P \14\ XP17:14
+P \1\ XP17:1
+P \37\ XP17:37
+P \8\ XP17:8
+P \26\ XP17:26
+P \31\ XP17:31
+P \15\ XP17:15
+P \2\ XP17:2
+P \20\ XP17:20
+P \38\ XP17:38
+P \9\ XP17:9
+P \27\ XP17:27
+P \32\ XP17:32
+P \16\ XP17:16
+P \3\ XP17:3
+P \21\ XP17:21
+P \39\ XP17:39
+P \10\ XP17:10
+P \28\ XP17:28
+P \33\ XP17:33
+P \17\ XP17:17
+P \4\ XP17:4
+P \22\ XP17:22
+P \11\ XP17:11
+P \29\ XP17:29
+P \34\ XP17:34
+P \18\ XP17:18
+P \5\ XP17:5
+P \23\ XP17:23
+P \12\ XP17:12
+P \35\ XP17:35
+P \19\ XP17:19
+P \40\ XP17:40
+P \6\ XP17:6
+P \24\ XP17:24
+I i331 XP18 idc20
+P \13\ XP18:13
+P \7\ XP18:7
+P \14\ XP18:14
+P \1\ XP18:1
+P \8\ XP18:8
+P \15\ XP18:15
+P \2\ XP18:2
+P \20\ XP18:20
+P \9\ XP18:9
+P \16\ XP18:16
+P \3\ XP18:3
+P \10\ XP18:10
+P \17\ XP18:17
+P \4\ XP18:4
+P \11\ XP18:11
+P \18\ XP18:18
+P \5\ XP18:5
+P \12\ XP18:12
+P \19\ XP18:19
+P \6\ XP18:6
+I i340 XP4_R5 xp02
+P \3\ XP4_R5:3
+P reset XP4_R5:reset
+P \0vm\ XP4_R5:0vm
+P \34\ XP4_R5:34
+I i345 XP4_R4 cwf
+P \5v\ XP4_R4:5v
+P \3.3v\ XP4_R4:3.3v
+P gnd XP4_R4:gnd
+page Page7
+S unnamed_7_led_i22_2 N365
+S unnamed_7_bnx016_i197_b N161
+S unnamed_7_led_i26_2 N196
+S unnamed_7_b827_i66_y2 N073
+S unnamed_7_b827_i66_y1 N072
+S unnamed_7_bnx016_i188_b N071
+S unnamed_7_bnx016_i197_psg N164
+S unnamed_7_b827_i206_y2 N162
+S unnamed_7_b827_i206_y1 N163
+S unnamed_7_c_i198_2 N423
+S unnamed_7_c_i12_2 N034
+S unnamed_7_led_i5_2 N338
+S unnamed_7_b827_i16_y2 N033
+S unnamed_7_bnx016_i188_psg N149
+S unnamed_7_b827_i16_y1 N143
+S unnamed_7_c_i200_2 N070
+S unnamed_7_c_i54_2 N002
+S unnamed_7_b827_i210_y2 N364
+S unnamed_7_b827_i210_y1 N358
+S unnamed_7_fu_i104_1 N313
+S unnamed_7_led_i36_2 N195
+I i3 R350 r
+P \1\ R350:1
+P \2\ R350:2
+I i5 HL16 led
+P \1\ HL16:1
+P \2\ HL16:2
+I i11 C350 c
+P \1\ C350:1
+P \2\ C350:2
+I i12 C345 c
+P \1\ C345:1
+P \2\ C345:2
+I i13 A3 ten15
+P \+vout\ A3:+vout
+P common A3:common
+P \+vin\ A3:+vin
+P \-vin\ A3:-vin
+P \-vout\ A3:-vout
+I i14 C335 c
+P \1\ C335:1
+P \2\ C335:2
+I i15 C340 c
+P \1\ C340:1
+P \2\ C340:2
+I i16 L25 b827
+P y2 L25:y2
+P y1 L25:y1
+P b L25:b
+P a L25:a
+I i17 C330 c
+P \1\ C330:1
+P \2\ C330:2
+I i21 R353 r
+P \1\ R353:1
+P \2\ R353:2
+I i22 HL19 led
+P \1\ HL19:1
+P \2\ HL19:2
+I i25 R354 r
+P \1\ R354:1
+P \2\ R354:2
+I i26 HL20 led
+P \1\ HL20:1
+P \2\ HL20:2
+I i35 R351 r
+P \1\ R351:1
+P \2\ R351:2
+I i36 HL17 led
+P \1\ HL17:1
+P \2\ HL17:2
+I i53 C352 c
+P \1\ C352:1
+P \2\ C352:2
+I i54 C346 c
+P \1\ C346:1
+P \2\ C346:2
+I i63 A4 ten15
+P \+vout\ A4:+vout
+P common A4:common
+P \+vin\ A4:+vin
+P \-vin\ A4:-vin
+P \-vout\ A4:-vout
+I i64 C336 c
+P \1\ C336:1
+P \2\ C336:2
+I i65 C341 c
+P \1\ C341:1
+P \2\ C341:2
+I i66 L26 b827
+P y2 L26:y2
+P y1 L26:y1
+P b L26:b
+P a L26:a
+I i71 C331 c
+P \1\ C331:1
+P \2\ C331:2
+I i93 XP20 xp02
+P \3\ XP20:3
+P reset XP20:reset
+P \0vm\ XP20:0vm
+P \34\ XP20:34
+I i104 FU2 fu
+P \1\ FU2:1
+P \2\ FU2:2
+I i186 DA74 ten15
+P \+vout\ DA74:+vout
+P common DA74:common
+P \+vin\ DA74:+vin
+P \-vin\ DA74:-vin
+P \-vout\ DA74:-vout
+I i187 C412 c
+P \1\ C412:1
+P \2\ C412:2
+I i188 L32 bnx016
+P b L32:b
+P cg L32:cg
+P psg L32:psg
+P cb L32:cb
+I i191 C411 c
+P \1\ C411:1
+P \2\ C411:2
+I i192 C410 cap_el
+P b(0) C410:b(0)
+P a(0) C410:a(0)
+I i195 C418 c
+P \1\ C418:1
+P \2\ C418:2
+I i196 C417 cap_el
+P b(0) C417:b(0)
+P a(0) C417:a(0)
+I i197 L30 bnx016
+P b L30:b
+P cg L30:cg
+P psg L30:psg
+P cb L30:cb
+I i198 C415 c
+P \1\ C415:1
+P \2\ C415:2
+I i199 C414 c
+P \1\ C414:1
+P \2\ C414:2
+I i200 C420 c
+P \1\ C420:1
+P \2\ C420:2
+I i201 C413 c
+P \1\ C413:1
+P \2\ C413:2
+I i202 C419 c
+P \1\ C419:1
+P \2\ C419:2
+I i203 C422 c
+P \1\ C422:1
+P \2\ C422:2
+I i204 C421 c
+P \1\ C421:1
+P \2\ C421:2
+I i205 DA75 ten15
+P \+vout\ DA75:+vout
+P common DA75:common
+P \+vin\ DA75:+vin
+P \-vin\ DA75:-vin
+P \-vout\ DA75:-vout
+I i206 L31 b827
+P y2 L31:y2
+P y1 L31:y1
+P b L31:b
+P a L31:a
+I i207 C416 c
+P \1\ C416:1
+P \2\ C416:2
+I i210 L33 b827
+P y2 L33:y2
+P y1 L33:y1
+P b L33:b
+P a L33:a
+I i211 C423 c
+P \1\ C423:1
+P \2\ C423:2
+I i216 XP30 idc20
+P \13\ XP30:13
+P \7\ XP30:7
+P \14\ XP30:14
+P \1\ XP30:1
+P \8\ XP30:8
+P \15\ XP30:15
+P \2\ XP30:2
+P \20\ XP30:20
+P \9\ XP30:9
+P \16\ XP30:16
+P \3\ XP30:3
+P \10\ XP30:10
+P \17\ XP30:17
+P \4\ XP30:4
+P \11\ XP30:11
+P \18\ XP30:18
+P \5\ XP30:5
+P \12\ XP30:12
+P \19\ XP30:19
+P \6\ XP30:6
+I i227 XP23 idc20
+P \13\ XP23:13
+P \7\ XP23:7
+P \14\ XP23:14
+P \1\ XP23:1
+P \8\ XP23:8
+P \15\ XP23:15
+P \2\ XP23:2
+P \20\ XP23:20
+P \9\ XP23:9
+P \16\ XP23:16
+P \3\ XP23:3
+P \10\ XP23:10
+P \17\ XP23:17
+P \4\ XP23:4
+P \11\ XP23:11
+P \18\ XP23:18
+P \5\ XP23:5
+P \12\ XP23:12
+P \19\ XP23:19
+P \6\ XP23:6
+page Page8
+S ch5_p ch5_p
+S unnamed_8_led_i250_1 N258
+S \\unnamed_8_opa4134_i219__3\\ N272
+S unnamed_8_drv135_i326_vin N374
+S ch5_n ch5_n
+S \\unnamed_8_opa4134_i208_\\ N420
+S unnamed_8_c_i156_1 N370
+S unnamed_8_c_i199_1 N248
+S \\unnamed_8_opa4134_i216_\\ N230
+S unnamed_8_drv135_i123_vin N312
+S \\unnamed_8_opa4134_i216__1\\ N320
+S ch4_p ch4_p
+S unnamed_8_c_i172_1 N421
+S ch4_n ch4_n
+S unnamed_8_c_i185_1 N231
+S \\unnamed_8_opa4134_i208__2\\ N435
+S unnamed_8_c_i201_1 N319
+S unnamed_8_c_i193_1 N194
+S \\unnamed_8_opa4134_i216__2\\ N363
+S \\unnamed_8_opa4134_i240_\\ N431
+S unnamed_8_c_i39_1 N439
+S unnamed_8_drv135_i280_vin N375
+S unnamed_8_c_i227_1 N243
+S \\unnamed_8_opa4134_i208__3\\ N436
+S \\unnamed_8_opa4134_i240__1\\ N242
+S ch3_p ch3_p
+S ch3_n ch3_n
+S unnamed_8_c_i235_1 N108
+S unnamed_8_drv135_i319_vin N159
+S \\unnamed_8_opa4134_i216__3\\ N141
+S \\unnamed_8_opa4134_i219_\\ N193
+S sin sin
+S \\unnamed_8_opa4134_i208__4\\ N434
+S \\unnamed_8_opa4134_i240__2\\ N107
+S ch7_p ch7_p
+S ch2_p ch2_p
+S ch7_n ch7_n
+S ch2_n ch2_n
+S unnamed_8_c_i183_1 N142
+S cos cos
+S ch14 ch14
+S \\unnamed_8_opa4134_i208__5\\ N430
+S \\unnamed_8_opa4134_i219__1\\ N428
+S \\unnamed_8_opa4134_i240__3\\ N408
+S ch13 ch13
+S ch9 ch9
+S ch12 ch12
+S ch8 ch8
+S ch11 ch11
+S ch10 ch10
+S unnamed_8_drv135_i271_vin N160
+S ch6_p ch6_p
+S unnamed_8_c_i174_1 N244
+S ch1_p ch1_p
+S ch6_n ch6_n
+S \\unnamed_8_opa4134_i219__2\\ N318
+S ch1_n ch1_n
+S unnamed_8_c_i182_1 N429
+S unnamed_8_c_i233_1 N219
+S unnamed_8_drv135_i312_vin N001
+S unnamed_8_drv135_i287_vin N032
+S unnamed_8_c_i229_1 N296
+S unnamed_8_led_i255_1 N192
+I i8 C54M c
+P \1\ C54M:1
+P \2\ C54M:2
+I i11 C52M c
+P \1\ C52M:1
+P \2\ C52M:2
+I i12 DA20M ina134
+P \+in\ DA20M:+in
+P ref DA20M:ref
+P \v+\ DA20M:v+
+P \-in\ DA20M:-in
+P \out\ DA20M:out
+P sense DA20M:sense
+P \v-\ DA20M:v-
+I i30 DA19M ina134
+P \+in\ DA19M:+in
+P ref DA19M:ref
+P \v+\ DA19M:v+
+P \-in\ DA19M:-in
+P \out\ DA19M:out
+P sense DA19M:sense
+P \v-\ DA19M:v-
+I i31 C53M c
+P \1\ C53M:1
+P \2\ C53M:2
+I i36 C51M c
+P \1\ C51M:1
+P \2\ C51M:2
+I i39 C6M c
+P \1\ C6M:1
+P \2\ C6M:2
+I i122 C44M c
+P \1\ C44M:1
+P \2\ C44M:2
+I i123 DA12M drv135
+P \+sense\ DA12M:+sense
+P \v+\ DA12M:v+
+P \-sense\ DA12M:-sense
+P \+vo\ DA12M:+vo
+P \v-\ DA12M:v-
+P vin DA12M:vin
+P \-vo\ DA12M:-vo
+P gnd DA12M:gnd
+I i127 C37M c
+P \1\ C37M:1
+P \2\ C37M:2
+I i152 XP1M idc24
+P in19 XP1M:in19
+P in18 XP1M:in18
+P in17 XP1M:in17
+P in16 XP1M:in16
+P in9 XP1M:in9
+P in15 XP1M:in15
+P in8 XP1M:in8
+P in14 XP1M:in14
+P in7 XP1M:in7
+P in13 XP1M:in13
+P in6 XP1M:in6
+P in12 XP1M:in12
+P in5 XP1M:in5
+P in11 XP1M:in11
+P in29 XP1M:in29
+P in4 XP1M:in4
+P in10 XP1M:in10
+P in28 XP1M:in28
+P in3 XP1M:in3
+P in2 XP1M:in2
+P in27 XP1M:in27
+P in1 XP1M:in1
+P in26 XP1M:in26
+P in25 XP1M:in25
+P in24 XP1M:in24
+P in23 XP1M:in23
+P in22 XP1M:in22
+P in21 XP1M:in21
+P in20 XP1M:in20
+P in32 XP1M:in32
+P in31 XP1M:in31
+P in30 XP1M:in30
+I i156 C8M c
+P \1\ C8M:1
+P \2\ C8M:2
+I i157 R9M r
+P \1\ R9M:1
+P \2\ R9M:2
+I i172 C1M c
+P \1\ C1M:1
+P \2\ C1M:2
+I i174 C2M c
+P \1\ C2M:1
+P \2\ C2M:2
+I i176 R6M r
+P \1\ R6M:1
+P \2\ R6M:2
+I i177 C18M c
+P \1\ C18M:1
+P \2\ C18M:2
+I i179 R10M r
+P \1\ R10M:1
+P \2\ R10M:2
+I i182 C3M c
+P \1\ C3M:1
+P \2\ C3M:2
+I i183 C4M c
+P \1\ C4M:1
+P \2\ C4M:2
+I i185 C5M c
+P \1\ C5M:1
+P \2\ C5M:2
+I i186 R11M r
+P \1\ R11M:1
+P \2\ R11M:2
+I i187 R7M r
+P \1\ R7M:1
+P \2\ R7M:2
+I i188 R8M r
+P \1\ R8M:1
+P \2\ R8M:2
+I i193 C7M c
+P \1\ C7M:1
+P \2\ C7M:2
+I i195 C16M c
+P \1\ C16M:1
+P \2\ C16M:2
+I i196 R12M r
+P \1\ R12M:1
+P \2\ R12M:2
+I i197 R14M r
+P \1\ R14M:1
+P \2\ R14M:2
+I i198 R13M r
+P \1\ R13M:1
+P \2\ R13M:2
+I i199 C10M c
+P \1\ C10M:1
+P \2\ C10M:2
+I i201 C11M c
+P \1\ C11M:1
+P \2\ C11M:2
+I i203 R2M r
+P \1\ R2M:1
+P \2\ R2M:2
+I i204 R3M r
+P \1\ R3M:1
+P \2\ R3M:2
+I i206 C17M c
+P \1\ C17M:1
+P \2\ C17M:2
+I i208 DA4M opa4134
+P \+in_a\ DA4M:+in_a
+P \+in_b\ DA4M:+in_b
+P \-in_a\ DA4M:-in_a
+P \+in_c\ DA4M:+in_c
+P \v+\ DA4M:v+
+P \-in_b\ DA4M:-in_b
+P \+in_d\ DA4M:+in_d
+P \-in_c\ DA4M:-in_c
+P \v-\ DA4M:v-
+P \-in_d\ DA4M:-in_d
+P out_d DA4M:out_d
+P out_c DA4M:out_c
+P out_b DA4M:out_b
+P out_a DA4M:out_a
+I i210 C22M c
+P \1\ C22M:1
+P \2\ C22M:2
+I i216 DA2M opa4134
+P \+in_a\ DA2M:+in_a
+P \+in_b\ DA2M:+in_b
+P \-in_a\ DA2M:-in_a
+P \+in_c\ DA2M:+in_c
+P \v+\ DA2M:v+
+P \-in_b\ DA2M:-in_b
+P \+in_d\ DA2M:+in_d
+P \-in_c\ DA2M:-in_c
+P \v-\ DA2M:v-
+P \-in_d\ DA2M:-in_d
+P out_d DA2M:out_d
+P out_c DA2M:out_c
+P out_b DA2M:out_b
+P out_a DA2M:out_a
+I i217 C20M c
+P \1\ C20M:1
+P \2\ C20M:2
+I i219 DA3M opa4134
+P \+in_a\ DA3M:+in_a
+P \+in_b\ DA3M:+in_b
+P \-in_a\ DA3M:-in_a
+P \+in_c\ DA3M:+in_c
+P \v+\ DA3M:v+
+P \-in_b\ DA3M:-in_b
+P \+in_d\ DA3M:+in_d
+P \-in_c\ DA3M:-in_c
+P \v-\ DA3M:v-
+P \-in_d\ DA3M:-in_d
+P out_d DA3M:out_d
+P out_c DA3M:out_c
+P out_b DA3M:out_b
+P out_a DA3M:out_a
+I i220 C21M c
+P \1\ C21M:1
+P \2\ C21M:2
+I i227 C12M c
+P \1\ C12M:1
+P \2\ C12M:2
+I i229 C13M c
+P \1\ C13M:1
+P \2\ C13M:2
+I i230 R1M r
+P \1\ R1M:1
+P \2\ R1M:2
+I i233 C14M c
+P \1\ C14M:1
+P \2\ C14M:2
+I i234 R5M r
+P \1\ R5M:1
+P \2\ R5M:2
+I i235 C9M c
+P \1\ C9M:1
+P \2\ C9M:2
+I i236 R4M r
+P \1\ R4M:1
+P \2\ R4M:2
+I i238 C15M c
+P \1\ C15M:1
+P \2\ C15M:2
+I i240 DA1M opa4134
+P \+in_a\ DA1M:+in_a
+P \+in_b\ DA1M:+in_b
+P \-in_a\ DA1M:-in_a
+P \+in_c\ DA1M:+in_c
+P \v+\ DA1M:v+
+P \-in_b\ DA1M:-in_b
+P \+in_d\ DA1M:+in_d
+P \-in_c\ DA1M:-in_c
+P \v-\ DA1M:v-
+P \-in_d\ DA1M:-in_d
+P out_d DA1M:out_d
+P out_c DA1M:out_c
+P out_b DA1M:out_b
+P out_a DA1M:out_a
+I i242 C19M c
+P \1\ C19M:1
+P \2\ C19M:2
+I i247 R15M r
+P \1\ R15M:1
+P \2\ R15M:2
+I i248 R16M r
+P \1\ R16M:1
+P \2\ R16M:2
+I i250 VD2M led
+P \1\ VD2M:1
+P \2\ VD2M:2
+I i251 R18M r
+P \1\ R18M:1
+P \2\ R18M:2
+I i253 R17M r
+P \1\ R17M:1
+P \2\ R17M:2
+I i255 VD3M led
+P \1\ VD3M:1
+P \2\ VD3M:2
+I i256 DA5M ina152
+P \v_in+\ DA5M:v_in+
+P ref DA5M:ref
+P n3v3 DA5M:n3v3
+P \v_in-\ DA5M:v_in-
+P sense DA5M:sense
+P v0 DA5M:v0
+P p3v3 DA5M:p3v3
+I i258 C23M c
+P \1\ C23M:1
+P \2\ C23M:2
+I i260 C30M c
+P \1\ C30M:1
+P \2\ C30M:2
+I i266 C38M c
+P \1\ C38M:1
+P \2\ C38M:2
+I i267 DA6M ina152
+P \v_in+\ DA6M:v_in+
+P ref DA6M:ref
+P n3v3 DA6M:n3v3
+P \v_in-\ DA6M:v_in-
+P sense DA6M:sense
+P v0 DA6M:v0
+P p3v3 DA6M:p3v3
+I i269 C45M c
+P \1\ C45M:1
+P \2\ C45M:2
+I i271 DA13M drv135
+P \+sense\ DA13M:+sense
+P \v+\ DA13M:v+
+P \-sense\ DA13M:-sense
+P \+vo\ DA13M:+vo
+P \v-\ DA13M:v-
+P vin DA13M:vin
+P \-vo\ DA13M:-vo
+P gnd DA13M:gnd
+I i275 C31M c
+P \1\ C31M:1
+P \2\ C31M:2
+I i277 C24M c
+P \1\ C24M:1
+P \2\ C24M:2
+I i280 DA15M drv135
+P \+sense\ DA15M:+sense
+P \v+\ DA15M:v+
+P \-sense\ DA15M:-sense
+P \+vo\ DA15M:+vo
+P \v-\ DA15M:v-
+P vin DA15M:vin
+P \-vo\ DA15M:-vo
+P gnd DA15M:gnd
+I i281 C40M c
+P \1\ C40M:1
+P \2\ C40M:2
+I i282 C47M c
+P \1\ C47M:1
+P \2\ C47M:2
+I i285 C46M c
+P \1\ C46M:1
+P \2\ C46M:2
+I i287 DA14M drv135
+P \+sense\ DA14M:+sense
+P \v+\ DA14M:v+
+P \-sense\ DA14M:-sense
+P \+vo\ DA14M:+vo
+P \v-\ DA14M:v-
+P vin DA14M:vin
+P \-vo\ DA14M:-vo
+P gnd DA14M:gnd
+I i290 C39M c
+P \1\ C39M:1
+P \2\ C39M:2
+I i298 C32M c
+P \1\ C32M:1
+P \2\ C32M:2
+I i300 DA7M ina152
+P \v_in+\ DA7M:v_in+
+P ref DA7M:ref
+P n3v3 DA7M:n3v3
+P \v_in-\ DA7M:v_in-
+P sense DA7M:sense
+P v0 DA7M:v0
+P p3v3 DA7M:p3v3
+I i301 C25M c
+P \1\ C25M:1
+P \2\ C25M:2
+I i306 C33M c
+P \1\ C33M:1
+P \2\ C33M:2
+I i308 DA8M ina152
+P \v_in+\ DA8M:v_in+
+P ref DA8M:ref
+P n3v3 DA8M:n3v3
+P \v_in-\ DA8M:v_in-
+P sense DA8M:sense
+P v0 DA8M:v0
+P p3v3 DA8M:p3v3
+I i310 C26M c
+P \1\ C26M:1
+P \2\ C26M:2
+I i312 DA18M drv135
+P \+sense\ DA18M:+sense
+P \v+\ DA18M:v+
+P \-sense\ DA18M:-sense
+P \+vo\ DA18M:+vo
+P \v-\ DA18M:v-
+P vin DA18M:vin
+P \-vo\ DA18M:-vo
+P gnd DA18M:gnd
+I i313 C43M c
+P \1\ C43M:1
+P \2\ C43M:2
+I i316 C48M c
+P \1\ C48M:1
+P \2\ C48M:2
+I i319 DA16M drv135
+P \+sense\ DA16M:+sense
+P \v+\ DA16M:v+
+P \-sense\ DA16M:-sense
+P \+vo\ DA16M:+vo
+P \v-\ DA16M:v-
+P vin DA16M:vin
+P \-vo\ DA16M:-vo
+P gnd DA16M:gnd
+I i322 C41M c
+P \1\ C41M:1
+P \2\ C41M:2
+I i323 C49M c
+P \1\ C49M:1
+P \2\ C49M:2
+I i326 DA17M drv135
+P \+sense\ DA17M:+sense
+P \v+\ DA17M:v+
+P \-sense\ DA17M:-sense
+P \+vo\ DA17M:+vo
+P \v-\ DA17M:v-
+P vin DA17M:vin
+P \-vo\ DA17M:-vo
+P gnd DA17M:gnd
+I i327 C42M c
+P \1\ C42M:1
+P \2\ C42M:2
+I i332 C50M c
+P \1\ C50M:1
+P \2\ C50M:2
+I i338 C34M c
+P \1\ C34M:1
+P \2\ C34M:2
+I i340 DA9M ina152
+P \v_in+\ DA9M:v_in+
+P ref DA9M:ref
+P n3v3 DA9M:n3v3
+P \v_in-\ DA9M:v_in-
+P sense DA9M:sense
+P v0 DA9M:v0
+P p3v3 DA9M:p3v3
+I i342 C27M c
+P \1\ C27M:1
+P \2\ C27M:2
+I i347 C35M c
+P \1\ C35M:1
+P \2\ C35M:2
+I i348 DA10M ina152
+P \v_in+\ DA10M:v_in+
+P ref DA10M:ref
+P n3v3 DA10M:n3v3
+P \v_in-\ DA10M:v_in-
+P sense DA10M:sense
+P v0 DA10M:v0
+P p3v3 DA10M:p3v3
+I i350 C28M c
+P \1\ C28M:1
+P \2\ C28M:2
+I i353 C36M c
+P \1\ C36M:1
+P \2\ C36M:2
+I i356 DA11M ina152
+P \v_in+\ DA11M:v_in+
+P ref DA11M:ref
+P n3v3 DA11M:n3v3
+P \v_in-\ DA11M:v_in-
+P sense DA11M:sense
+P v0 DA11M:v0
+P p3v3 DA11M:p3v3
+I i359 C29M c
+P \1\ C29M:1
+P \2\ C29M:2
+I i362 VD1M led
+P \1\ VD1M:1
+P \2\ VD1M:2
+I i364 XP2M \pld2-40\
+P \13\ XP2M:13
+P \36\ XP2M:36
+P \7\ XP2M:7
+P \25\ XP2M:25
+P \30\ XP2M:30
+P \14\ XP2M:14
+P \1\ XP2M:1
+P \37\ XP2M:37
+P \8\ XP2M:8
+P \26\ XP2M:26
+P \31\ XP2M:31
+P \15\ XP2M:15
+P \2\ XP2M:2
+P \20\ XP2M:20
+P \38\ XP2M:38
+P \9\ XP2M:9
+P \27\ XP2M:27
+P \32\ XP2M:32
+P \16\ XP2M:16
+P \3\ XP2M:3
+P \21\ XP2M:21
+P \39\ XP2M:39
+P \10\ XP2M:10
+P \28\ XP2M:28
+P \33\ XP2M:33
+P \17\ XP2M:17
+P \4\ XP2M:4
+P \22\ XP2M:22
+P \11\ XP2M:11
+P \29\ XP2M:29
+P \34\ XP2M:34
+P \18\ XP2M:18
+P \5\ XP2M:5
+P \23\ XP2M:23
+P \12\ XP2M:12
+P \35\ XP2M:35
+P \19\ XP2M:19
+P \40\ XP2M:40
+P \6\ XP2M:6
+P \24\ XP2M:24
+I i372 L1M bnx016
+P b L1M:b
+P cg L1M:cg
+P psg L1M:psg
+P cb L1M:cb
+I i375 C55M c
+P \1\ C55M:1
+P \2\ C55M:2
+I i382 L2M bnx016
+P b L2M:b
+P cg L2M:cg
+P psg L2M:psg
+P cb L2M:cb
+I i384 C56M c
+P \1\ C56M:1
+P \2\ C56M:2

@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Nov 11 17:12:33 2003' ;
+primitive 'H11A817';
+  pin
+    'AN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CAT':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'COL':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'EM':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='H11A817';
+    JEDEC_TYPE='f126';
+    BODY_NAME='h11a817';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

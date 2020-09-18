@@ -1,0 +1,178 @@
+(Cell	ad8309
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/03/06,09:40:54)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad8309)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/03/06,10:01:11)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad8309)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000007f92c7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/06,09:56:17)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad8309)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000016770383)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d9c1238b)
+
+			(Primitives	1
+
+				(Primitive	AD8309
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/06,09:57:43)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad8309)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8309
+
+							(PackType	AD8309)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e7050380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000b9d7034d)
+
+)
+

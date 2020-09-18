@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 29 10:32:59 2004' ;
+primitive 'MAX5382L';
+  pin
+    'SCL':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SDA':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'OUT':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:2)';
+    POWER_PINS='(P3V3:3)';
+    CLASS='IC';
+    PART_NAME='MAX5382L';
+    JEDEC_TYPE='f57';
+    BODY_NAME='MAX5382L';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

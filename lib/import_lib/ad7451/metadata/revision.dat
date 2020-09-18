@@ -1,0 +1,178 @@
+(Cell	ad7451
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/14/11,17:51:59)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad7451)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/14/11,17:55:03)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad7451)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000cfabb5df)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,17:52:01)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad7451)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000bd71046e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000069f85f3a)
+
+			(Primitives	1
+
+				(Primitive	AD7451
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,17:53:23)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad7451)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD7451
+
+							(PackType	AD7451)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a811035c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000576a0377)
+
+)
+

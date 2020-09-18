@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Jun 03 11:05:56 2004' ;
+primitive 'MAX4624';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'ASW_C':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'ASW_O':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'COM':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P5V0':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'GNDD':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX4624';
+    JEDEC_TYPE='sot23';
+    BODY_NAME='max4624';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

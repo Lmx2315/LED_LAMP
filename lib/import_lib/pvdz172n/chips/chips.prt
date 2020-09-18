@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 29 10:47:27 2004' ;
+primitive 'PVDZ172N';
+  pin
+    '1A':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2A':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3A':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='PVDZ172N';
+    JEDEC_TYPE='F185';
+    BODY_NAME='PVDZ172N';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

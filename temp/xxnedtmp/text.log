@@ -1,0 +1,40 @@
+Allegro Design Entry HDL 16.6-S034 (v16-6-112CP) 8/12/2014
+Copyright 2011 Cadence Design Systems, Inc
+
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-850): SIZE: illegal size requested. Nothing changed.
+WARNING(SPCOCN-846): PIN_SIZE: illegal size requested. Nothing changed.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-2040): Specify the command "page forcereset all" to reset logical page numbers of all pages of this block.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1737): Reading D:\SPB_Data\LED_lamp\cds.lib file.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1445): Reading LED_V2.SCH.1.1 into drawing #1.
+INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
+INFO(SPCOCN-1445): Reading LED_V2.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading LED_V2.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1507): Adding version 1 of part IRLML2060 from library import_lib
+INFO(SPCOCN-1507): Adding version 1 of part D SIZE PAGE from library standard
+INFO(SPCOCN-1195): Group contains:   30 bodies   70 properties   2 notes   58 wires   12 dots   0 images
+INFO(SPCOCN-1001): Component: ??? selected.
+INFO(SPCOCN-1195): Group contains:   15 bodies   35 properties   1 notes   29 wires   6 dots   0 images
+INFO(SPCOCN-1195): Group contains:   2 bodies   4 properties   1 notes   1 wires   0 dots   0 images
+INFO(SPCOCN-1001): Component: I49 selected.
+INFO(SPCOCN-1195): Group contains:   2 bodies   4 properties   1 notes   1 wires   0 dots   0 images

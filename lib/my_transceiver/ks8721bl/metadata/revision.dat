@@ -1,0 +1,172 @@
+(Cell	ks8721bl
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/30/06,18:37:20)
+
+			(User	admin)
+
+			(Path	my_transceiver.ks8721bl)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/30/06,18:51:24)
+
+			(User	admin)
+
+			(Path	my_transceiver.ks8721bl)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b005fba6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/30/06,18:51:22)
+
+							(User	admin)
+
+							(Path	my_transceiver.ks8721bl)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0f03d7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000118f815b)
+
+			(Primitives	1
+
+				(Primitive	KS8721BL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/30/06,18:37:22)
+
+							(User	admin)
+
+							(Path	my_transceiver.ks8721bl)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	KS8721BL
+
+							(PackType	KS8721BL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c890388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b7b0359)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	tes 2n_2421
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/18/13,18:48:26)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tes 2n_2421)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/18/13,18:52:13)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tes 2n_2421)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b2fea48e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/13,18:48:32)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tes 2n_2421)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000013f0412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000007662f02)
+
+			(Primitives	1
+
+				(Primitive	TES 2N_2421
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/13,18:51:00)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tes 2n_2421)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TES 2N_2421
+
+							(PackType	TES 2N_2421)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000898e034a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000056620387)
+
+)
+

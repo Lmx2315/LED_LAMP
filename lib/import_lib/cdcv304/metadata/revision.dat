@@ -1,0 +1,170 @@
+(Cell	cdcv304
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,10:57:40)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.cdcv304)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,11:02:59)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.cdcv304)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000db06de23)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,10:58:05)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.cdcv304)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000940503db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000037bbb068)
+
+			(Primitives	1
+
+				(Primitive	CDCV304
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,10:59:12)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.cdcv304)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CDCV304
+
+							(PackType	CDCV304)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000044ca03d6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000853003aa)
+
+)
+

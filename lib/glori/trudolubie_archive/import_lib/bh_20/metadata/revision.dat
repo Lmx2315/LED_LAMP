@@ -1,0 +1,170 @@
+(Cell	bh_20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/03/10,11:37:45)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.bh_20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/03/10,11:38:32)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.bh_20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b6471d1e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/03/10,11:37:48)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.bh_20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d4d203af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000590ac15d)
+
+			(Primitives	1
+
+				(Primitive	BH_20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/03/10,11:38:07)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.bh_20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BH_20
+
+							(PackType	BH_20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000817a040a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000056fc0377)
+
+)
+

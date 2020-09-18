@@ -1,0 +1,21 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Aug 12 11:55:00 2004' ;
+primitive 'SMOX/060/B1';
+  pin
+    'X':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='SMOX/060/B1';
+    PHYS_DES_PREFIX='X';
+    JEDEC_TYPE='SMOX/060/B1';
+    PATH='?';
+    LOCATION='?';
+    BODY_NAME='SMOX/060/B1';
+  end_body;
+end_primitive;
+END.

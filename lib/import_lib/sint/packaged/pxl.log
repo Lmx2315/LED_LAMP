@@ -1,0 +1,121 @@
+
+
+    Cadence Design Systems, Inc.
+    Packager-XL 14.2-p007 WIN32 December 20, 2001 12:00:00 IST
+    (C) Copyright 1994, Cadence Design Systems, Inc.
+
+    Run on Tue Mar 22 15:58:13 2005
+
+
+ **********************************************
+ *  Processing project file and command line  *
+ **********************************************
+
+
+
+    ANNOTATE  'BODY' 'PIN'
+    COMP_DEF_PROP  'ALT_SYMBOLS' 'JEDEC_TYPE' 'MERGE_NC_PINS' 'MERGE_POWER_PINS'
+                   'NC_PINS' 'PINCOUNT' 'POWER_GROUP' 'POWER_PINS'
+    COMP_INST_PROP  'GROUP' 'REUSE_ID' 'REUSE_INSTANCE' 'REUSE_NAME' 'ROOM'
+    DEBUG    0
+    DEFAULT_PHYS_DES_PREFIX U
+    FEEDBACK  'OFF'
+    MAX_ERRORS 999
+    NET_NAME_CHARS   -  !  #  %  &  (  )  *  .  /  :  ?  @  ]  ^  _  `  +  =
+                     >  0  1  2  3  4  5  6  7  8  9  [
+    NET_NAME_LENGTH 31
+    NUM_OLD_VERSIONS 3
+    OPTIMIZE OFF
+    REUSE_REFDES ON
+    OPF_OPTIMIZATION OFF
+    HARD_LOC_SEC OFF
+    FORCE_PTF_ENTRY OFF
+    REGENERATE_PHYSICAL_NET_NAME OFF
+    FILTER_ECS_FROM_XNET ON
+    OUTPUT  'ON'
+    PACKAGE_PROP  'GROUP' 'ROOM'
+    PART_TYPE_LENGTH 31
+    PPT  ./worklib/ptf/prt_bp.ptf 
+    REF_DES_LENGTH 31
+    REPACKAGE OFF
+    ELECTRICAL_CONSTRAINTS OFF
+    OVERWRITE_CONSTRAINTS OFF
+    RUN_DIR ./worklib/sint/packaged/
+    STRICT_PACKAGE_PROP  'REUSE_INSTANCE'
+    USE_LIBRARY_PPT ON
+    USE_STATE ON
+    WARNINGS ON
+    LIBRARY  'r_maxim_lib' 'most3_lib' 'standard' 'discrete_niitp' 'power_niitp'
+             'converter_niitp' 'filter_niitp' 'import_lib' 'r_int_rectifier_lib'
+             'r_logic_lib' 'r_sinergy_lib' 'r_ad_lib' 'r_mini_circuits_lib'
+             'r_philips_lib' 'r_linear_tech_lib' 'r_murata_lib' 'r_intersil_lib'
+             'r_vf_tech_lib' 'r_bourns_lib' 'r_fairchild_lib' 'r_c_mac_lib'
+             'r_agilent_lib' 'r_contact_lib' 'r_ics_lib' 'r_act_lib' 'r_ti_lib'
+             'r_xilinx_lib'
+    CDSPROP_FILE 
+    VIEW_PTF part_table
+    VIEW_PACKAGER packaged
+    VIEW_CONSTRAINTS constraints
+    DESIGN_LIBRARY most3_lib
+    DESIGN_NAME sint
+    VIEW_CONFIG_PHYSICAL cfg_package
+    SD_SUFFIX_SEPARATOR _
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:01)  *
+ **************************************************************
+
+
+Creating Configuration "cfg_package" for Design "sint"
+
+Loading D:\Radio\Cadence\PSD_14.2\share\cdssetup\cdsprop.tmf.
+Loading D:\Radio\Cadence\PSD_14.2\share\cdssetup\cdsprop.paf.
+Loading ./worklib/ptf/prt_bp.ptf.
+
+ *********************************
+ *  Loading the design database  *
+ *********************************
+
+Loading occurrence properties from ./worklib/sint/opf/props.opf.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Loading ./worklib/sint/packaged/pxl.state. 
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+
+No errors detected
+No warnings detected
+    Start time   15:58:13
+    End time     15:58:15
+    Elapsed time  0:00:02
+
+ *********************************
+ *  Packager-XL execution done.  *
+ *********************************
+

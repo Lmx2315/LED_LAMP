@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@my_passive_niitp.smd_spst(SYM_1)	0	0	1	0	0	
+END_MODULEORDER

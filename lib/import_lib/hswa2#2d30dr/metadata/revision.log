@@ -1,0 +1,35 @@
+
+	(Comment
+		(Time 12/23/11,16:25:47)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/23/11,16:28:42)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package hswa2-30dr added to cell")
+		(Param1 hswa2-30dr)
+	)
+
+
+
+	(Comment
+		(Time 12/26/11,14:38:16)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package HSWA2-30DR deleted from cell")
+		(Param1 HSWA2-30DR)
+	)
+
+	(Comment
+		(Time 12/26/11,14:38:50)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package hswa2-30dr added to cell")
+		(Param1 hswa2-30dr)
+	)
+
+

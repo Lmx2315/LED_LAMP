@@ -1,0 +1,19 @@
+
+	(Comment
+		(Time 06/26/06,15:46:21)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package AT25F1024N added to cell")
+		(Param1 AT25F1024N)
+	)
+
+	(Comment
+		(Time 06/26/06,15:49:32)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+

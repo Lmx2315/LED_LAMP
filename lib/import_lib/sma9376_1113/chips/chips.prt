@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 29 15:57:22 2004' ;
+primitive 'SMA9376_1113';
+  pin
+    'IN1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'IN3':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN4':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN5':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='SMA9376_1113';
+    JEDEC_TYPE='F275';
+    BODY_NAME='SMA9376_1113';
+    PHYS_DES_PREFIX='XW';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

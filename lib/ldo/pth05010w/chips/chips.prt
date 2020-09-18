@@ -1,0 +1,48 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PTH05010W';
+  pin
+    'TRACK':
+      PIN_NUMBER='(8)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VIN':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'V0':
+      PIN_NUMBER='(6)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'R':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='PTH05010W';
+    BODY_NAME='PTH05010W';
+    PHYS_DES_PREFIX='DA';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:1,7)';
+    NC_PINS='(3,5,9,10)';
+  end_body;
+end_primitive;
+
+END.

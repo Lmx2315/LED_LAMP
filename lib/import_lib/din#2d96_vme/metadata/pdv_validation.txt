@@ -1,0 +1,1 @@
+pdv_170,Cell 'din-96_vme':Pins -12V are not present in any of the packages or symbols.,Warning

@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 24 12:22:52 2003' ;
+primitive 'HCPL0931_HCPL0931';
+  pin
+    '1IN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2IN':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '1OUT':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '2OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VDD1':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'GND1':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'VDD2':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'GND2':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='HCPL0931';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='SO8';
+    LIBRARY_NAME='my_library';
+    BODY_NAME='HCPL0931';
+  end_body;
+end_primitive;
+END.

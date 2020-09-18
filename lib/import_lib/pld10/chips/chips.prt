@@ -1,0 +1,35 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Apr 10 11:01:13 2003' ;
+primitive 'PLD10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '5':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '9':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '4':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '10':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(6,7,8)';
+    CLASS='DISCRETE';
+    PART_NAME='PLD10';
+    JEDEC_TYPE='F15';
+    BODY_NAME='PLD10';
+  end_body;
+end_primitive;
+END.

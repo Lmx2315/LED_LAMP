@@ -1,0 +1,1 @@
+pdv_170,Cell 'ad9952':Pins I/O UPDATE,CRYSTAL OUT are not present in any of the packages or symbols.,Warning

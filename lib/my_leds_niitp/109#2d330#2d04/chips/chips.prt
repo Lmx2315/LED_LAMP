@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Aug 31 12:38:11 2004' ;
+primitive '109-330-04';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(0A,1A)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(0B,1B)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='109-330-04';
+    PHYS_DES_PREFIX='VD';
+    JEDEC_TYPE='f256';
+    FAMILY='LED';
+    BODY_NAME='109-330-04';
+  end_body;
+end_primitive;
+END.

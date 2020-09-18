@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 12/04/11,17:16:00)
+		(User Admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/04/11,17:18:51)
+		(User Admin)
+		(MsgId ECO_021)
+		(Text "Package sxbp-350 added to cell")
+		(Param1 sxbp-350)
+	)
+
+

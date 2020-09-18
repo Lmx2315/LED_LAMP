@@ -1,0 +1,180 @@
+(Cell	hmc580st89
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/20/14,18:09:15)
+
+			(User	imk)
+
+			(Path	b620.hmc580st89)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/20/14,18:18:57)
+
+			(User	imk)
+
+			(Path	b620.hmc580st89)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ef116170)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/20/14,18:09:17)
+
+							(User	imk)
+
+							(Path	b620.hmc580st89)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce6037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000079e0a535)
+
+			(Primitives	1
+
+				(Primitive	HMC580ST89
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/20/14,18:09:45)
+
+							(User	imk)
+
+							(Path	b620.hmc580st89)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC580ST89
+
+							(PackType	HMC580ST89)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h580)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9303b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bb4037b)
+
+)
+

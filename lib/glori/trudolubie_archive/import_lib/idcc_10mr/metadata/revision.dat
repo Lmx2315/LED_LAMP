@@ -1,0 +1,170 @@
+(Cell	idcc_10mr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/28/10,17:20:30)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.idcc_10mr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/28/10,17:21:15)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.idcc_10mr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a0ff2b12)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,17:20:32)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.idcc_10mr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000344f03d5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003fdc0b13)
+
+			(Primitives	1
+
+				(Primitive	IDCC_10MR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,17:20:58)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.idcc_10mr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IDCC_10MR
+
+							(PackType	IDCC_10MR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000045003b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f9260341)
+
+)
+

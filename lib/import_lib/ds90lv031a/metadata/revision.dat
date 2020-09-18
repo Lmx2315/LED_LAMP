@@ -1,0 +1,170 @@
+(Cell	ds90lv031a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/13/10,11:09:41)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds90lv031a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/13/10,11:33:51)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds90lv031a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e56693be)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/10,11:09:43)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds90lv031a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000843803ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000006402f55)
+
+			(Primitives	1
+
+				(Primitive	DS90LV031A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/10,11:24:49)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds90lv031a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS90LV031A
+
+							(PackType	DS90LV031A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000036bc0385)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000d764037f)
+
+)
+

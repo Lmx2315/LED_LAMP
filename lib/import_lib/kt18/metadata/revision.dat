@@ -1,0 +1,178 @@
+(Cell	kt18
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/22/05,16:22:49)
+
+			(User	Sergey)
+
+			(Path	import_lib.kt18)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/23/05,11:02:17)
+
+			(User	Sergey)
+
+			(Path	import_lib.kt18)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000097ce7b96)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/22/05,16:22:54)
+
+							(User	Sergey)
+
+							(Path	import_lib.kt18)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f47303c1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007946ebf8)
+
+			(Primitives	1
+
+				(Primitive	KT18
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/05,10:27:56)
+
+							(User	Sergey)
+
+							(Path	import_lib.kt18)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	KT18
+
+							(PackType	KT18)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b070041d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000017950373)
+
+)
+

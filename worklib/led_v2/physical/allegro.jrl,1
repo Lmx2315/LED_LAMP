@@ -1,0 +1,16 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Sep 10 17:30:02 2020
+\t (00:00:03)         Host=LMX_PK User=Lmx Pid=10004 CPUs=12
+\t (00:00:03) CmdLine= allegro -proj D:\SPB_Data\LED_lamp\led_drv1.cpm -product Concept_HDL_expert -mpssession Lmx_ProjectMgr6398 -mpshost Lmx_pk
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/SPB_Data/LED_lamp/worklib/led_v2/physical/soic_8narrow_expostermal.dra
+\i (00:00:03) trapsize 36
+\i (00:00:03) trapsize 35
+\i (00:00:03) trapsize 36
+\i (00:00:04) trapsize 33
+\i (00:00:04) trapsize 33
+\i (00:00:04) generaledit 
+\i (00:00:06) new 
+\i (00:00:26) newdrawfillin "b130.dra" "Package Symbol (Wizard)"
+\t (00:00:26)     Journal end - Thu Sep 10 17:30:26 2020

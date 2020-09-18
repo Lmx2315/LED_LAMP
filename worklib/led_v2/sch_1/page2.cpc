@@ -1,0 +1,192 @@
+#ISCELL
+  standard c#20size#20page *
+  *
+#CELL
+  led_drv1_lib a6211 *
+  page2_i1
+#CELL
+  my_passive_niitp res *
+  page2_i10
+#ISCELL
+  power_niitp shield *
+  page2_i11
+#CELL
+  discrete_niitp l *
+  page2_i12
+#CELL
+  discrete_niitp cap *
+  page2_i13
+#CELL
+  import_lib b220_a *
+  page2_i14
+#ISCELL
+  power_niitp shield *
+  page2_i15
+#ISCELL
+  power_niitp shield *
+  page2_i2
+#CELL
+  discrete_niitp cap *
+  page2_i4
+#CELL
+  led_drv1_lib kf128_5_2 *
+  page2_i46
+#CELL
+  import_lib irlml2060 *
+  page2_i49
+#ISCELL
+  power_niitp p3v3 *
+  page2_i5
+#CELL
+  my_connectors_niitp ipl1_02 *
+  page2_i50
+#CELL
+  my_passive_niitp res *
+  page2_i51
+#CELL
+  my_passive_niitp res *
+  page2_i52
+#CELL
+  discrete_niitp cap *
+  page2_i53
+#ISCELL
+  power_niitp shield *
+  page2_i54
+#CELL
+  led_drv1_lib a6211 *
+  page2_i55
+#CELL
+  my_connectors_niitp ipl1_02 *
+  page2_i56
+#CELL
+  discrete_niitp cap *
+  page2_i57
+#CELL
+  import_lib irlml2060 *
+  page2_i58
+#CELL
+  discrete_niitp l *
+  page2_i59
+#CELL
+  discrete_niitp cap *
+  page2_i6
+#ISCELL
+  power_niitp p3v3 *
+  page2_i60
+#CELL
+  led_drv1_lib kf128_5_2 *
+  page2_i61
+#CELL
+  discrete_niitp cap *
+  page2_i62
+#CELL
+  my_passive_niitp res *
+  page2_i63
+#ISCELL
+  power_niitp shield *
+  page2_i64
+#ISCELL
+  power_niitp shield *
+  page2_i65
+#CELL
+  import_lib b220_a *
+  page2_i66
+#CELL
+  discrete_niitp cap *
+  page2_i67
+#CELL
+  discrete_niitp cap *
+  page2_i68
+#CELL
+  my_passive_niitp res *
+  page2_i69
+#ISCELL
+  power_niitp shield *
+  page2_i7
+#ISCELL
+  power_niitp shield *
+  page2_i70
+#ISCELL
+  power_niitp shield *
+  page2_i71
+#CELL
+  my_passive_niitp res *
+  page2_i72
+#CELL
+  discrete_niitp cap *
+  page2_i73
+#ISCELL
+  power_niitp shield *
+  page2_i74
+#CELL
+  my_passive_niitp res *
+  page2_i75
+#CELL
+  led_drv1_lib a6211 *
+  page2_i76
+#CELL
+  my_connectors_niitp ipl1_02 *
+  page2_i77
+#CELL
+  discrete_niitp cap *
+  page2_i78
+#CELL
+  import_lib irlml2060 *
+  page2_i79
+#CELL
+  my_passive_niitp res *
+  page2_i8
+#CELL
+  led_drv1_lib kf128_5_2 *
+  page2_i80
+#CELL
+  discrete_niitp cap *
+  page2_i81
+#CELL
+  discrete_niitp l *
+  page2_i82
+#ISCELL
+  power_niitp shield *
+  page2_i83
+#CELL
+  import_lib b220_a *
+  page2_i84
+#CELL
+  discrete_niitp cap *
+  page2_i85
+#ISCELL
+  power_niitp shield *
+  page2_i86
+#CELL
+  my_passive_niitp res *
+  page2_i87
+#ISCELL
+  power_niitp shield *
+  page2_i88
+#CELL
+  my_passive_niitp res *
+  page2_i89
+#CELL
+  discrete_niitp cap *
+  page2_i9
+#CELL
+  discrete_niitp cap *
+  page2_i90
+#ISCELL
+  power_niitp shield *
+  page2_i91
+#CELL
+  my_passive_niitp res *
+  page2_i92
+#ISCELL
+  power_niitp p3v3 *
+  page2_i93
+#CELL
+  discrete_niitp cap *
+  page2_i94
+#ISCELL
+  power_niitp shield *
+  page2_i95
+#CELL
+  my_passive_niitp res *
+  page2_i96

@@ -1,0 +1,100 @@
+
+	(Comment
+		(Time 06/23/06,17:25:58)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package AKZ_ONC added to cell")
+		(Param1 AKZ_ONC)
+	)
+	(Comment
+		(Time 06/23/06,17:26:01)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/23/06,17:26:12)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/23/06,17:26:15)
+		(User admin)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 part.ptf)
+	)
+
+	(Comment
+		(Time 06/23/06,17:50:58)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 06/23/06,18:56:16)
+		(User admin)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)
+
+
+
+
+
+	(Comment
+		(Time 06/23/06,19:06:44)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 06/23/06,19:10:36)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 06/23/06,19:15:02)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/23/06,19:15:35)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+
+
+
+	(Comment
+		(Time 10/18/06,11:10:40)
+		(User Natali)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 10/18/06,11:12:08)
+		(User Natali)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

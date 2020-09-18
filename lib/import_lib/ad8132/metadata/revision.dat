@@ -1,0 +1,184 @@
+(Cell	ad8132
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.26)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/14/06,11:08:31)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad8132)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/14/06,12:04:53)
+
+			(User	Sergey)
+
+			(Path	import_lib.ad8132)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004d22c4af)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/06,12:04:43)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad8132)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	04/14/06,12:04:53)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad8132)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000928503db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000416e9134)
+
+			(Primitives	1
+
+				(Primitive	AD8132
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.13)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/06,11:57:27)
+
+							(User	Sergey)
+
+							(Path	import_lib.ad8132)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8132
+
+							(PackType	AD8132)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000352603b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000098c3034b)
+
+)
+

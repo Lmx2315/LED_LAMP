@@ -1,0 +1,30 @@
+
+	(Comment
+		(Time 01/10/08,15:37:38)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 01/10/08,15:38:42)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package pth05010w added to cell")
+		(Param1 pth05010w)
+	)
+	(Comment
+		(Time 01/10/08,16:13:57)
+		(User Validol)
+		(MsgId ECO_022)
+		(Text "Package PTH05010W deleted from cell")
+		(Param1 PTH05010W)
+	)
+	(Comment
+		(Time 01/10/08,16:14:35)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package pth05010w added to cell")
+		(Param1 pth05010w)
+	)
+

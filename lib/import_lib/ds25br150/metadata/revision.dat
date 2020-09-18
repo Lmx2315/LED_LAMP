@@ -1,0 +1,178 @@
+(Cell	ds25br150
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/14/11,11:21:07)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds25br150)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/14/11,11:23:00)
+
+			(User	Sergey)
+
+			(Path	import_lib.ds25br150)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000179087da)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,11:21:10)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds25br150)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000045b50386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b7620740)
+
+			(Primitives	1
+
+				(Primitive	DS25BR150
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,11:22:06)
+
+							(User	Sergey)
+
+							(Path	import_lib.ds25br150)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS25BR150
+
+							(PackType	DS25BR150)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b39703dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f48903b1)
+
+)
+

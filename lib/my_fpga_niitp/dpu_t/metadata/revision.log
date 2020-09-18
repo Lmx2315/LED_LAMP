@@ -1,0 +1,63 @@
+
+
+	(Comment
+		(Time 06/28/06,14:52:40)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_5 added to cell")
+		(Param1 sym_5)
+	)
+
+
+	(Comment
+		(Time 09/12/06,14:24:57)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_6 deleted from cell")
+		(Param1 sym_6)
+	)
+
+	(Comment
+		(Time 09/12/06,14:25:44)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_6 added to cell")
+		(Param1 sym_6)
+	)
+
+	(Comment
+		(Time 09/12/06,14:25:59)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_6 deleted from cell")
+		(Param1 sym_6)
+	)
+
+
+	(Comment
+		(Time 09/12/06,14:27:20)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_6 added to cell")
+		(Param1 sym_6)
+	)
+	(Comment
+		(Time 09/12/06,14:27:31)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_6 deleted from cell")
+		(Param1 sym_6)
+	)
+
+	(Comment
+		(Time 09/12/06,14:28:48)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_6 added to cell")
+		(Param1 sym_6)
+	)
+
+
+
+
+

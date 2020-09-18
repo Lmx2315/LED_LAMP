@@ -1,0 +1,170 @@
+(Cell	max1615
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/19/05,12:30:47)
+
+			(User	Sergey)
+
+			(Path	import_lib.max1615)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/19/05,16:47:11)
+
+			(User	Sergey)
+
+			(Path	import_lib.max1615)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000054a09731)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/05,16:45:34)
+
+							(User	Sergey)
+
+							(Path	import_lib.max1615)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d956034f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000012422228)
+
+			(Primitives	1
+
+				(Primitive	MAX1615
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/05,12:51:30)
+
+							(User	Sergey)
+
+							(Path	import_lib.max1615)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX1615
+
+							(PackType	MAX1615)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c788038e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000009697038b)
+
+)
+

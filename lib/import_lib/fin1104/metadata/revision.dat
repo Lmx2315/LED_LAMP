@@ -1,0 +1,204 @@
+(Cell	fin1104
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/03/17,15:23:31)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.fin1104)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/03/17,15:28:46)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.fin1104)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d6a8d3e5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/03/17,15:23:34)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.fin1104)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001df003e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e908ccca)
+
+			(Primitives	1
+
+				(Primitive	FIN1104
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/03/17,15:26:39)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.fin1104)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FIN1104
+
+							(PackType	FIN1104)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tssop24)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9703e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Allegro_performance)
+
+	)
+
+	(Checksum	000000001bca037e)
+
+)
+

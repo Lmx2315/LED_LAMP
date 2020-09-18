@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 07/20/06,17:07:11)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package SN74LVC1G80 added to cell")
+		(Param1 SN74LVC1G80)
+	)
+
+	(Comment
+		(Time 07/20/06,17:09:00)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

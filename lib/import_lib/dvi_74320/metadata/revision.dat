@@ -1,0 +1,180 @@
+(Cell	dvi_74320
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/17/13,12:19:26)
+
+			(User	Sergey)
+
+			(Path	import_lib.dvi_74320)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/17/13,15:36:18)
+
+			(User	Sergey)
+
+			(Path	import_lib.dvi_74320)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000061bbc0ea)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/17/13,12:19:28)
+
+							(User	Sergey)
+
+							(Path	import_lib.dvi_74320)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d540405)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007b8cbf62)
+
+			(Primitives	1
+
+				(Primitive	DVI_74320
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/17/13,15:34:53)
+
+							(User	Sergey)
+
+							(Path	import_lib.dvi_74320)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DVI_74320
+
+							(PackType	DVI_74320)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dvi_74320)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c36038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b77037a)
+
+)
+

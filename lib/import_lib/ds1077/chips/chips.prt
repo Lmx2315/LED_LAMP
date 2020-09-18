@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 29 10:34:41 2004' ;
+primitive 'DS1077';
+  pin
+    'SCL':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SDA':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'CTRL'<0>:
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CTRL'<1>:
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT'<0>:
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT'<1>:
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:4)';
+    POWER_PINS='(P3V3:3)';
+    CLASS='IC';
+    PART_NAME='DS1077';
+    JEDEC_TYPE='f28';
+    BODY_NAME='DS1077';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

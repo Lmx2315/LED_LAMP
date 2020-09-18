@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue May 17 15:07:10 2005' ;
+primitive 'SN74LVC2G14';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-Y1':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-Y2':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P3V3':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'GNDD':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SN74LVC2G14';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='F34';
+    FAMILY='LOGIC';
+    BODY_NAME='SN74LVC2G14';
+  end_body;
+end_primitive;
+END.

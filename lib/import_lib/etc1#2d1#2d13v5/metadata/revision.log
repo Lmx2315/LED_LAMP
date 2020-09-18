@@ -1,0 +1,87 @@
+
+	(Comment
+		(Time 12/02/11,15:20:25)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/02/11,15:21:44)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package etc1-1-13v5 added to cell")
+		(Param1 etc1-1-13v5)
+	)
+
+
+
+
+
+
+
+	(Comment
+		(Time 12/02/11,15:34:26)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package ETC1-1-13V5 deleted from cell")
+		(Param1 ETC1-1-13V5)
+	)
+
+
+	(Comment
+		(Time 12/02/11,15:35:12)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package etc1-1-13v5 added to cell")
+		(Param1 etc1-1-13v5)
+	)
+
+	(Comment
+		(Time 12/02/11,15:36:14)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/02/11,15:36:18)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package ETC1-1-13V5 deleted from cell")
+		(Param1 ETC1-1-13V5)
+	)
+	(Comment
+		(Time 12/02/11,15:36:20)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 12/02/11,15:36:46)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/02/11,15:36:48)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 12/02/11,15:38:29)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package etc1-1-13v5 added to cell")
+		(Param1 etc1-1-13v5)
+	)
+
+
+

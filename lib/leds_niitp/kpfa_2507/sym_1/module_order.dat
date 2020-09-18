@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@leds_niitp.kpfa_2507(SYM_1)	0	0	1	0	0	
+END_MODULEORDER

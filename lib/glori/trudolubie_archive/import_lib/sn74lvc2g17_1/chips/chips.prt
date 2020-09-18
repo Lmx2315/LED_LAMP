@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Jul 12 14:11:19 2004' ;
+primitive 'SN74LVC2G17_1';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y1':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'B':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y2':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P3V3M':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'GNDDM':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SN74LVC2G17_1';
+    JEDEC_TYPE='F51';
+    BODY_NAME='sn74lvc2g17_1';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

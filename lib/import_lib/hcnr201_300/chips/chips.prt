@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jun 09 11:42:30 2004' ;
+primitive 'HCNR201_300';
+  pin
+    'A':
+      PIN_NUMBER='(1,0,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(0,3,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'C':
+      PIN_NUMBER='(0,0,6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y1':
+      PIN_NUMBER='(2,0,0)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Y2':
+      PIN_NUMBER='(0,4,0)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Y3':
+      PIN_NUMBER='(0,0,5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(7,8)';
+    CLASS='DISCRETE';
+    PART_NAME='HCNR201_300';
+    JEDEC_TYPE='f274';
+    BODY_NAME='hcnr201_300';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

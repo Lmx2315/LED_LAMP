@@ -1,0 +1,1 @@
+pdv_170,Cell 'xp4':Pins NC are not present in any of the packages or symbols.,Warning

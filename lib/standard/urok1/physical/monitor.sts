@@ -1,0 +1,16 @@
+#SPECCTRA ShapeBased Automation Software V10.2 made 2002/03/20 at 12:04:09
+#Host 
+#ROUTING STATUS <<< d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dsn >>>
+Start  Time: Thu Dec 04 18:25:18 2003
+Report Time: Thu Dec 04 18:25:23 2003
+
+Nets         =        1   Connections         =        0
+Current Wire =        0   Reroute wires       =        0
+Completion   =    0.00%   Unconnections       =        0
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Route    |  1|     0|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+| Clean    |  2|     0|     0|   0|    0|    0|    0|   0|   |  0:00:00|  0:00:00|
+| Conflicts between polygon wires and fixed objects:   0

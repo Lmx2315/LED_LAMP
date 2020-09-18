@@ -1,0 +1,170 @@
+(Cell	tsm0505s
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/12/10,13:48:57)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tsm0505s)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/12/10,13:59:02)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tsm0505s)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000bf4f89cb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/10,13:49:02)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tsm0505s)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000070d20419)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a657faff)
+
+			(Primitives	1
+
+				(Primitive	TSM0505S
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/10,13:52:12)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tsm0505s)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TSM0505S
+
+							(PackType	TSM0505S)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000008637038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000038440355)
+
+)
+

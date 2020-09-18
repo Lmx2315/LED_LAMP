@@ -1,0 +1,21 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Sat Jun 21 14:36:30 2003' ;
+primitive 'NL27WZ17';
+  pin
+    'A':
+      PIN_NUMBER='(3,1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(4,6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:5)';
+    POWER_PINS='(GNDD:2)';
+    CLASS='IC';
+    PART_NAME='NL27WZ17';
+    JEDEC_TYPE='SOIC8';
+    BODY_NAME='NL27WZ17';
+  end_body;
+end_primitive;
+END.

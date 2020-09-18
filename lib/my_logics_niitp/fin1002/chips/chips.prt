@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Sun Aug 01 19:04:06 2004' ;
+primitive 'FIN1002';
+  pin
+    'ROUT':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RIN':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-RIN':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:2)';
+    POWER_PINS='(P3V3:1)';
+    GROUND_NETS='GNDD';
+    CLASS='IC';
+    PART_NAME='FIN1002';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='SOT23';
+    BODY_NAME='FIN1002';
+  end_body;
+end_primitive;
+END.

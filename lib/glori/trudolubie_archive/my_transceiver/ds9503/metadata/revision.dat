@@ -1,0 +1,172 @@
+(Cell	ds9503
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/07/06,15:13:49)
+
+			(User	admin)
+
+			(Path	my_transceiver.ds9503)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/07/06,15:14:58)
+
+			(User	admin)
+
+			(Path	my_transceiver.ds9503)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004e6787b5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/06,15:14:37)
+
+							(User	admin)
+
+							(Path	my_transceiver.ds9503)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c08038d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001ad9eb77)
+
+			(Primitives	1
+
+				(Primitive	DS9503
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/06,15:13:51)
+
+							(User	admin)
+
+							(Path	my_transceiver.ds9503)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS9503
+
+							(PackType	DS9503)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c8f03af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cdc03dd)
+
+)
+

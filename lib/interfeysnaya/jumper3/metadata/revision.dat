@@ -1,0 +1,178 @@
+(Cell	jumper3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/20/06,12:09:41)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.jumper3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/20/06,12:10:42)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.jumper3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000008414988)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/06,12:09:44)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.jumper3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000009a66032b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b3e89512)
+
+			(Primitives	1
+
+				(Primitive	JUMPER3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/06,12:10:12)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.jumper3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	JUMPER3
+
+							(PackType	JUMPER3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a47803bc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000b4bc03ad)
+
+)
+

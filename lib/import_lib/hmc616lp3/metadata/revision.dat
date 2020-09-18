@@ -1,0 +1,178 @@
+(Cell	hmc616lp3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/07/11,14:06:46)
+
+			(User	Sergey)
+
+			(Path	import_lib.hmc616lp3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/07/11,14:10:31)
+
+			(User	Sergey)
+
+			(Path	import_lib.hmc616lp3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b20a7390)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/11,14:06:58)
+
+							(User	Sergey)
+
+							(Path	import_lib.hmc616lp3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000078030379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000acafde67)
+
+			(Primitives	1
+
+				(Primitive	HMC616LP3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/11,14:09:18)
+
+							(User	Sergey)
+
+							(Path	import_lib.hmc616lp3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC616LP3
+
+							(PackType	HMC616LP3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000553203a7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000098c5034b)
+
+)
+

@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Aug 31 15:33:23 2004' ;
+primitive 'JUMP5';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1,3,5,7,9)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(2,4,6,8,10)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='JUMP5';
+    PHYS_DES_PREFIX='XP';
+    JEDEC_TYPE='JUMP5';
+    BODY_NAME='JUMP5';
+  end_body;
+end_primitive;
+END.

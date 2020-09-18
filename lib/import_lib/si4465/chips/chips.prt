@@ -1,0 +1,40 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu May 27 18:21:47 2004' ;
+primitive 'SI4465';
+  pin
+    'D1':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D3':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D4':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'G':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'S1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'S2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'S3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SI4465';
+    PHYS_DES_PREFIX='VT';
+    JEDEC_TYPE='SO8';
+    FAMILY='MOSFET';
+    PACK_TYPE='SO8';
+    BODY_NAME='SI4465';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Jul 03 10:38:58 2003' ;
+primitive 'SN74LVC1G08';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:5)';
+    POWER_PINS='(GNDD:3)';
+    CLASS='IC';
+    PART_NAME='SN74LVC1G08';
+    JEDEC_TYPE='soic8';
+    BODY_NAME='sn74lvc1g08';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

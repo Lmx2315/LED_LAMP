@@ -1,0 +1,29 @@
+( ConstraintFile "interf_m5"
+    ( constraintHeader
+        ( deltaType
+            ( archive )
+        )
+        ( objectKey
+            ( physical )
+        )
+        ( version
+            ( 15.2 )
+        )
+        ( revisionNumber
+            ( logicalViewRevNum 0 )
+            ( physicalViewRevNum 0 )
+            ( otherViewRevNum 0 )
+        )
+    )
+    ( designConstraints
+        ( ruleChanges
+            ( allRules )
+            ( design "interf_m5"
+                ( attribute "DESIGN_UNITS" "1.000"
+                    ( Units "uPrecision" "mil" 1.000000)
+                    ( Origin gFrontEnd )
+                )
+            )
+        )
+    )
+)

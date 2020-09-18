@@ -1,0 +1,170 @@
+(Cell	hg8002
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/22/11,13:29:37)
+
+			(User	senzenist_s_n)
+
+			(Path	vcxo.hg8002)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/22/11,13:31:59)
+
+			(User	senzenist_s_n)
+
+			(Path	vcxo.hg8002)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ffd45590)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/11,13:29:40)
+
+							(User	senzenist_s_n)
+
+							(Path	vcxo.hg8002)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000663003b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f316a8a6)
+
+			(Primitives	1
+
+				(Primitive	HG8002
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/11,13:31:41)
+
+							(User	senzenist_s_n)
+
+							(Path	vcxo.hg8002)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HG8002
+
+							(PackType	HG8002)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000063c703b8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f6c80381)
+
+)
+

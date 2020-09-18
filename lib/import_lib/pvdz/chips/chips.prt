@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jun 30 16:02:43 2004' ;
+primitive 'PVDZ';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CATHODE':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DRAIN':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SOURCE':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='PVDZ';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F185';
+    BODY_NAME='PVDZ';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

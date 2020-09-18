@@ -1,0 +1,71 @@
+
+	(Comment
+		(Time 04/19/06,10:47:34)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package AD8132AR added to cell")
+		(Param1 AD8132AR)
+	)
+
+	(Comment
+		(Time 04/19/06,11:33:48)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 04/19/06,11:38:06)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/19/06,11:39:20)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/19/06,11:39:33)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 04/19/06,11:40:13)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 04/19/06,11:44:34)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/19/06,11:44:41)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/19/06,11:44:41)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+
+

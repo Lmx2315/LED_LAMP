@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 01/10/12,12:53:42)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 01/10/12,12:56:11)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package wiz820io added to cell")
+		(Param1 wiz820io)
+	)
+
+

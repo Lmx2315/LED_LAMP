@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Sep 08 16:52:38 2003' ;
+primitive '521_9450';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='521_9450';
+    JEDEC_TYPE='DO4';
+    BODY_NAME='521_9450';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

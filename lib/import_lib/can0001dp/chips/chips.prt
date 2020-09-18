@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jul 08 09:58:05 2003' ;
+primitive 'CAN0001DP';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='CAN0001DP';
+    JEDEC_TYPE='res500';
+    BODY_NAME='can0001dp';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

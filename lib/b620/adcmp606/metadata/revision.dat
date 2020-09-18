@@ -1,0 +1,180 @@
+(Cell	adcmp606
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/22/14,15:58:44)
+
+			(User	imk)
+
+			(Path	b620.adcmp606)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/22/14,16:05:38)
+
+			(User	imk)
+
+			(Path	b620.adcmp606)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008260835b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/22/14,15:58:49)
+
+							(User	imk)
+
+							(Path	b620.adcmp606)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a670353)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007a05071b)
+
+			(Primitives	1
+
+				(Primitive	ADCMP606
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/22/14,16:00:24)
+
+							(User	imk)
+
+							(Path	b620.adcmp606)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCMP606
+
+							(PackType	ADCMP606)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	f58)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001beb03b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001d9e03d3)
+
+)
+

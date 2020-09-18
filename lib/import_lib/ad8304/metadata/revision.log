@@ -1,0 +1,31 @@
+
+	(Comment
+		(Time 03/01/12,18:44:29)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 03/01/12,18:48:20)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package AD8304 added to cell")
+		(Param1 AD8304)
+	)
+	(Comment
+		(Time 03/01/12,18:48:35)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package AD8304 deleted from cell")
+		(Param1 AD8304)
+	)
+	(Comment
+		(Time 03/01/12,18:48:38)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package ad8304 added to cell")
+		(Param1 ad8304)
+	)
+

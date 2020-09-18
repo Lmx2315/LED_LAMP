@@ -1,0 +1,88 @@
+(Cell	p2v8m
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/22/05,14:15:51)
+
+			(User	Sergey)
+
+			(Path	import_lib.p2v8m)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000de674dc4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/22/05,14:15:51)
+
+							(User	Sergey)
+
+							(Path	import_lib.p2v8m)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000434203e6)
+
+		)
+
+		(Checksum	00000000a8ac034c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000063cc03d8)
+
+)
+

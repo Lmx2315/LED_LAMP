@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Nov 22 17:02:07 2004' ;
+primitive 'RCMD';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '4':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '6':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '8':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '10':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '12':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '14':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '18':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(1,3,5,7,9,11,13,15,16,17,19,20)';
+    CLASS='IC';
+    PART_NAME='RCMD';
+  end_body;
+end_primitive;
+END.

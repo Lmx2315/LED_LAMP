@@ -1,0 +1,88 @@
+@@(#)$CDS: Archiver version 15.20-s001 21-Mar-2005
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\worklib\interf_m8_v1, from library trudolubie_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\max3384eeap, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\c, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\hcpl_063, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\r, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\power_my\mic39100, from library power_my
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\c_el, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\blm18a, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\max3535, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\sn74lvc2g17_1, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\cap, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\led, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\cwf#2d2r, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\pld#2d2, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\sda90325_16, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\idc_30mr, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\sn74lvcc3245, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\my_transceiver\ds9503, from library my_transceiver
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\tsm0505s, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\idcc_10mr, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\drb#2d9ma, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\mw_2mr, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\sn74lvc1g08, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\pesd12vs4ud, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\interfeysnaya\miniusb, from library interfeysnaya
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\at25256a, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\cap_el, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\ds1339, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\interfeysnaya\zq, from library interfeysnaya
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\m25pe16#2dvmw6, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\lpc2129, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\adm811sart, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\sg8002ca, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\cwf#2d4, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\discrete_niitp\vt_npn, from library discrete_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\bh_20, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\import_lib\ft2232d, from library import_lib
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\standard\origin, from library standard
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\standard\replicate, from library standard
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\power_niitp\p5v0_1, from library power_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\power_niitp\shield, from library power_niitp
+
+Archiving cellview C:\PSD_DATA\Projects\Modulator2\power_niitp\n3v3, from library power_niitp
+
+Executing compression command.....
+zip -r D:\лсянп\GLORI\trudolubie_compress trudolubie_archive 
+Compression command could not be executed sucessfully !

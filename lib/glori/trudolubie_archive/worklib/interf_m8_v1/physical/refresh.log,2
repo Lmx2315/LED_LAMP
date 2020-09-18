@@ -1,0 +1,140 @@
+Update Symbols/Modules Logfile
+	Wed Dec 08 14:48:16 2010
+
+------ Module Refresh Messages ------
+
+------ End Module Messages     ------
+
+
+
+Wed Dec 08 14:48:17 2010				Page     1
+
+Cadence Design Systems, Inc.
+
+Symbol Refresh Logfile
+
+------ Symbol Refresh Directives ------
+
+OLD_LAYOUT_NAME = '#Taaaaaa03324.tmp';
+NEW_LAYOUT_NAME = '';
+REFRESH_MECHANICAL_SYMBOLS = 'NO';
+REFRESH_FORMAT_SYMBOLS = 'NO';
+REFRESH_PACKAGE_SYMBOLS = 'YES';
+REFRESH_SHAPE_SYMBOLS = 'NO';
+REFRESH_SYMBOL_PAD_STACKS = 'YES';
+REFRESH_SYMBOL_TEXT_LOCATIONS = 'YES';
+REFRESH_CUSTOM_DRILL_DATA = 'YES';
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\SPB_15.2\share\local\pcb/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/allegrolib/symbols 
+           C:\PSD_data\PSD_data\footprints\My_symbols\ 
+           C:\PSD_data\PSD_data\footprints\SYMBOLS\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\SPB_15.2\share\local\pcb/padstacks 
+           C:\Cadence\SPB_15.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/allegrolib/symbols 
+           C:\PSD_data\PSD_data\footprints\PADSTACKS\ 
+
+
+------ Symbol Refresh Messages ------
+
+'AT25256'  symbol refreshed successfully.
+'BH_20'  symbol refreshed successfully.
+'PESD12VS4UD'  symbol refreshed successfully.
+'CWF_4'  symbol refreshed successfully.
+'MW_2MR'  symbol refreshed successfully.
+'F52'  symbol refreshed successfully.
+'F843'  symbol refreshed successfully.
+'F154'  symbol refreshed successfully.
+'DS1339U-33'  symbol refreshed successfully.
+'F24'  symbol refreshed successfully.
+'ADM811SART'  symbol refreshed successfully.
+'F236'  symbol refreshed successfully.
+'F5'  symbol refreshed successfully.
+'HC_49_SSMD'  symbol refreshed successfully.
+'F40'  symbol refreshed successfully.
+'F364'  symbol refreshed successfully.
+'SOT223'  symbol refreshed successfully.
+'F330'  symbol refreshed successfully.
+'F55'  symbol refreshed successfully.
+'F91'  symbol refreshed successfully.
+'F136'  symbol refreshed successfully.
+'TSM'  symbol refreshed successfully.
+'PLD_2'  symbol refreshed successfully.
+'SN74LVCC3245APW'  symbol refreshed successfully.
+'F56'  symbol refreshed successfully.
+'F30'  symbol refreshed successfully.
+'F568'  symbol refreshed successfully.
+'F58'  symbol refreshed successfully.
+'F64'  symbol refreshed successfully.
+'CWF_2R'  symbol refreshed successfully.
+'SDA90325_16'  symbol refreshed successfully.
+'IDCC_10MR'  symbol refreshed successfully.
+'DRB_9MA'  symbol refreshed successfully.
+'F561'  symbol refreshed successfully.
+'SOIC28_16'  symbol refreshed successfully.
+'IDC_30MR'  symbol refreshed successfully.
+'MUSB'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA1400X1200'  pad stack refreshed successfully.
+'VIA1600X1000'  pad stack refreshed successfully.
+Wed Dec 08 14:48:17 2010				Page     2
+
+Cadence Design Systems, Inc.
+
+Symbol Refresh Logfile
+
+'VIA1800X1200'  pad stack refreshed successfully.
+'VIA1600X0900'  pad stack refreshed successfully.
+'RC0600X1000TS_C'  pad stack refreshed successfully.
+'RC2100X3400TS_C'  pad stack refreshed successfully.
+'RC1700X3200TS_C'  pad stack refreshed successfully.
+'CR4000X3000TH'  pad stack refreshed successfully.
+'RC2100X3400TS_C1'  pad stack refreshed successfully.
+'CR1800X1200TH'  pad stack refreshed successfully.
+'RC1700X3200TS_C1'  pad stack refreshed successfully.
+'CR1750X1100TH'  pad stack refreshed successfully.
+'RC3200X1000TS'  pad stack refreshed successfully.
+'CR3800X3400TH'  pad stack refreshed successfully.
+'RC1000X1500TS'  pad stack refreshed successfully.
+'RC1500X2000TS'  pad stack refreshed successfully.
+'RC1700X1000TS'  pad stack refreshed successfully.
+'RC1200X1600TS'  pad stack refreshed successfully.
+'RC0600X1300TS'  pad stack refreshed successfully.
+'RC2000X0800TS'  pad stack refreshed successfully.
+'RC1300X1600TS'  pad stack refreshed successfully.
+'RC4600X2000TS'  pad stack refreshed successfully.
+'RC0800X0400TS'  pad stack refreshed successfully.
+'RC2500X1500TS'  pad stack refreshed successfully.
+'RC1400X1700TS'  pad stack refreshed successfully.
+'RC1300X0900TS'  pad stack refreshed successfully.
+'RC1400X0450TS'  pad stack refreshed successfully.
+'RC1700X0600TS'  pad stack refreshed successfully.
+'RC1600X0800TS'  pad stack refreshed successfully.
+'RC1900X1800TS'  pad stack refreshed successfully.
+'RC1800X0750TS'  pad stack refreshed successfully.
+'RC1300X1600TS_VD'  pad stack refreshed successfully.
+'RC1500X0300TS_NS'  pad stack refreshed successfully.
+'RC2000X0450TS_NS'  pad stack refreshed successfully.
+'RC1700X0300TS_NS'  pad stack refreshed successfully.
+'RC1300X0450TS_NS'  pad stack refreshed successfully.
+'RC2300X0435TS_NS'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

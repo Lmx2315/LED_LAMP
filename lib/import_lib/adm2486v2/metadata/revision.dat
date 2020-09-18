@@ -1,0 +1,178 @@
+(Cell	adm2486v2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/14/11,14:52:02)
+
+			(User	Sergey)
+
+			(Path	import_lib.adm2486v2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/14/11,14:56:53)
+
+			(User	Sergey)
+
+			(Path	import_lib.adm2486v2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000005e04e07d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,14:52:05)
+
+							(User	Sergey)
+
+							(Path	import_lib.adm2486v2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d4cb03af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b17dd0ce)
+
+			(Primitives	1
+
+				(Primitive	ADM2486V2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/14/11,14:55:27)
+
+							(User	Sergey)
+
+							(Path	import_lib.adm2486v2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADM2486V2
+
+							(PackType	ADM2486V2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d5b9038f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000451003b6)
+
+)
+

@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Sep 16 12:16:26 2003' ;
+primitive 'JUMP';
+  pin
+    '1':
+      PIN_NUMBER='(1,3)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2,4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='JUMP';
+    JEDEC_TYPE='F113';
+    BODY_NAME='JUMP';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

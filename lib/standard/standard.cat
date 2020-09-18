@@ -1,0 +1,120 @@
+"VCC"
+{
+					"PVCC"
+					"VCC_ARROW"
+					"VCC_BAR"
+					"VCC_CIRCLE"
+					"VCC_WAVE"
+
+}
+
+"GND"
+{
+					"PGROUND"
+					"GND_EARTH"
+					"GND_SIGNAL"
+					"GND_POWER"
+					"GND_FIELD SIGNAL"
+}
+                                         
+
+"MISC"
+{
+"CONCAT"
+{
+					"10 MERGE"
+					"2 MERGE"
+					"3 MERGE"
+					"4 MERGE"
+					"5 MERGE"
+					"6 MERGE"
+					"7 MERGE"
+					"8 MERGE"
+					"9 MERGE"
+					"CONCAT10"
+					"CONCAT2"
+					"CONCAT3"
+					"CONCAT4"
+					"CONCAT5"
+					"CONCAT6"
+					"CONCAT7"
+					"CONCAT8"
+					"CONCAT9"
+}
+"DIRECTIVE"
+{
+					"SIM_DIRECTIVES"
+					"TIME_DIRECTIVES"
+}
+"PAGE"
+{
+					"A SIZE PAGE"
+					"B SIZE PAGE"
+					"C SIZE PAGE"
+					"D SIZE PAGE"
+					"E SIZE PAGE"
+					"F SIZE PAGE"
+					"CADENCE A SIZE PAGE"
+					"CADENCE B SIZE PAGE"
+					"VALID A SIZE PAGE"
+					"VALID B SIZE PAGE"
+}
+"PORT"
+{
+					"AOUTPORT"
+					"BUFPORT"
+					"INPORT"
+					"IOPORT"
+					"LNKPORT"
+					"OUTPORT"
+					"FLAG"
+					"OFFPAGE"
+					
+}
+"TAP"
+{
+					"BIT TAP"
+					"CTAP"
+					"LSB TAP"
+					"MSB TAP"
+					"TAP"
+}
+
+"ALIAS"
+{
+					"ALIAS"
+}
+"TEXT"
+{
+					"DECLARATIONS"
+					"DEFINE"
+					"DRAWING"
+					"MENU"
+}
+"OTHER"
+{
+					"ORIGIN"
+					"PIN NAMES"
+					"NOT"
+					"REPLICATE"
+					"SIGN EXTEND"
+					"SLASH"
+					"SLICE"
+					"SYNONYM"
+					"TIE"
+					"CONN_GEN"
+					"CONN_BRK"
+}
+"SUPPLY"
+{
+					"SUPPLY_0"
+					"SUPPLY_1"
+}
+"DECS"
+{
+					"HDL_DECS"
+					"VERILOG_DECS"
+					"VHDL_DECS"
+					"SYNOP_DEC"
+}
+}

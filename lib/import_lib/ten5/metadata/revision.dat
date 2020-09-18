@@ -1,0 +1,170 @@
+(Cell	ten5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/23/11,15:16:21)
+
+			(User	Sergey)
+
+			(Path	import_lib.ten5)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/23/11,15:17:37)
+
+			(User	Sergey)
+
+			(Path	import_lib.ten5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000023e2b053)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/11,15:16:21)
+
+							(User	Sergey)
+
+							(Path	import_lib.ten5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000579b0377)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d6d95855)
+
+			(Primitives	1
+
+				(Primitive	TEN5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/11,15:16:54)
+
+							(User	Sergey)
+
+							(Path	import_lib.ten5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEN5
+
+							(PackType	TEN5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f22003e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000027c70374)
+
+)
+

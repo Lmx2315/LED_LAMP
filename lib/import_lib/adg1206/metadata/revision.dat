@@ -1,0 +1,170 @@
+(Cell	adg1206
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,14:17:08)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.adg1206)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,14:22:00)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.adg1206)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004775faf3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,14:17:11)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.adg1206)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000063f303b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006737bfde)
+
+			(Primitives	1
+
+				(Primitive	ADG1206
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,14:19:25)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.adg1206)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADG1206
+
+							(PackType	ADG1206)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c42703de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000b4af03ad)
+
+)
+

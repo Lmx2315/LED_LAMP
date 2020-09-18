@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Oct 17 14:47:19 2003' ;
+primitive 'LTC1440IS8';
+  pin
+    'IN+':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN-':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'REF':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'HYST':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GNDD':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'P3V3':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'N3V3':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='LTC1440IS8';
+    JEDEC_TYPE='soic8';
+    BODY_NAME='LTC1440IS8';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

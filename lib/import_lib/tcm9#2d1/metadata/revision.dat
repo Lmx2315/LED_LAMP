@@ -1,0 +1,180 @@
+(Cell	tcm9-1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/01/12,11:49:25)
+
+			(User	Sergey)
+
+			(Path	import_lib.tcm9-1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/01/12,12:03:35)
+
+			(User	Sergey)
+
+			(Path	import_lib.tcm9-1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000529aa0d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/01/12,11:49:29)
+
+							(User	Sergey)
+
+							(Path	import_lib.tcm9-1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c1d03a7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e80a289b)
+
+			(Primitives	1
+
+				(Primitive	TCM9-1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/01/12,11:51:38)
+
+							(User	Sergey)
+
+							(Path	import_lib.tcm9-1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TCM9-1
+
+							(PackType	TCM9-1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tsm9-1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a8f034a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c6f03a9)
+
+)
+

@@ -1,0 +1,313 @@
+***** Pspice Netlist      (Cadence Design Systems Inc.)
+***** Design : sint
+***** Date   : MARCH 22' 2005		Time : 15:13:51
+****************************************************************
+
+X_XP2_sec2	 UNCN_001  UNCN_002 p3v3  UNCN_003  UNCN_004 scs2  UNCN_005  UNCN_006  UNCN_007  UNCN_008  UNCN_009  
++UNCN_010  UNCN_011  UNCN_012  UNCN_013  UNCN_014 p3v3  UNCN_015  UNCN_016  UNCN_017  UNCN_018  UNCN_019 0  UNCN_020  
++UNCN_021 0  UNCN_022  UNCN_023  UNCN_024  UNCN_025  UNCN_026  UNCN_027  UNCN_028  UNCN_029  UNCN_030  UNCN_031 0  
++UNCN_032 0  UNCN_033  UNCN_034 p5v0  UNCN_035 0  UNCN_036  UNCN_037  UNCN_038  UNCN_039  UNCN_040  UNCN_041  UNCN_042  
++UNCN_043  UNCN_044 0  UNCN_045  UNCN_046 scs0  UNCN_047 p5v0  UNCN_048  UNCN_049 0  UNCN_050 scs1  UNCN_051  UNCN_052  
++UNCN_053  UNCN_054  UNCN_055  UNCN_056  UNCN_057  UNCN_058  UNCN_059 p5v0  UNCN_060  UNCN_061 0  UNCN_062 0  UNCN_063  
++UNCN_064  UNCN_065  UNCN_066  UNCN_067  UNCN_068  UNCN_069  UNCN_070  UNCN_071  UNCN_072  UNCN_073  UNCN_074  UNCN_075  
++UNCN_076 0  UNCN_077  UNCN_078 p5v0  UNCN_079 alert_STAR_  UNCN_080  UNCN_081  UNCN_082  UNCN_083  UNCN_084  UNCN_085  
++UNCN_086  UNCN_087  UNCN_088  UNCN_089  UNCN_090  UNCN_091  UNCN_092  UNCN_093  UNCN_094 0  UNCN_095  UNCN_096 0  
++UNCN_097  UNCN_098  UNCN_099  UNCN_100  UNCN_101  UNCN_102  UNCN_103  UNCN_104  UNCN_105  UNCN_106  UNCN_107  UNCN_108  
++UNCN_109  UNCN_110    erni64785
+X_C44	vcco 0    c
+X_R25	N001 N002    r
+X_DD10	clkin cin_en clk_in N003    sn74lvc1g125
+X_R12	vcco rst_STAR_    r
+X_C15	0 N004    c
+X_C2	0 N005    c
+X_XP2_sec4	 UNCN_111 0  UNCN_112  UNCN_113  UNCN_114  UNCN_115  UNCN_116  UNCN_117  UNCN_118  UNCN_119  UNCN_120  
++UNCN_121  UNCN_122 0  UNCN_123 0  UNCN_124  UNCN_125  UNCN_126 0  UNCN_127 0  UNCN_128  UNCN_129  UNCN_130  UNCN_131  
++UNCN_132  UNCN_133  UNCN_134  UNCN_135  UNCN_136  UNCN_137  UNCN_138 out_OP_33_CP_  UNCN_139 lock_b  UNCN_140  UNCN_141 
++ UNCN_142  UNCN_143 0  UNCN_144  UNCN_145  UNCN_146  UNCN_147  UNCN_148  UNCN_149  UNCN_150 0  UNCN_151  UNCN_152  
++UNCN_153 0  UNCN_154  UNCN_155 0  UNCN_156  UNCN_157  UNCN_158  UNCN_159 0  UNCN_160  UNCN_161  UNCN_162  UNCN_163  
++UNCN_164  UNCN_165  UNCN_166 0  UNCN_167  UNCN_168  UNCN_169 lock_a  UNCN_170  UNCN_171 out_OP_28_CP_  UNCN_172  
++UNCN_173  UNCN_174  UNCN_175  UNCN_176  UNCN_177  UNCN_178  UNCN_179  UNCN_180  UNCN_181  UNCN_182  UNCN_183 0  
++UNCN_184  UNCN_185  UNCN_186 0  UNCN_187  UNCN_188 0  UNCN_189  UNCN_190  UNCN_191  UNCN_192  UNCN_193  UNCN_194  
++UNCN_195  UNCN_196  UNCN_197  UNCN_198  UNCN_199  UNCN_200  UNCN_201  UNCN_202 0  UNCN_203  UNCN_204 out_OP_30_CP_  
++UNCN_205  UNCN_206  UNCN_207  UNCN_208  UNCN_209  UNCN_210  UNCN_211  UNCN_212  UNCN_213  UNCN_214 out_OP_31_CP_  
++UNCN_215  UNCN_216  UNCN_217  UNCN_218  UNCN_219 0  UNCN_220 
++    erni64785
+X_C33	vcco 0    c
+X_R17	vcco hold_STAR_    r
+X_R4	N006 ref_c2    r
+X_L8	vcco vcco_er    blm18a
+X_R1	N007 N005    r
+X_C1	0 N008    c
+X_C58	vcco 0    c
+X_C9	0 vcco    c
+X_C21	0 N009    c
+X_C18	0 N004    c
+X_C47	vcco 0    c
+X_L10	vcc_aux N003    blm18a
+X_C3	0 N010    c
+X_X1	clk_in    xt
+X_C6	0 N011    c
+X_C43	p3v3 0    c
+X_XP2	 UNCN_221  UNCN_222  UNCN_223  UNCN_224  UNCN_225  UNCN_226  UNCN_227  UNCN_228 0  UNCN_229  UNCN_230 0  UNCN_231 
++ UNCN_232 p5v0  UNCN_233  UNCN_234 p3v3  UNCN_235  UNCN_236  UNCN_237  UNCN_238  UNCN_239  UNCN_240  UNCN_241  UNCN_242 
++ UNCN_243  UNCN_244 p5v0  UNCN_245  UNCN_246 p5v0  UNCN_247  UNCN_248 0  UNCN_249  UNCN_250  UNCN_251  UNCN_252  
++UNCN_253  UNCN_254  UNCN_255  UNCN_256  UNCN_257  UNCN_258  UNCN_259  UNCN_260  UNCN_261  UNCN_262  UNCN_263 0  
++UNCN_264  UNCN_265  UNCN_266 reset_STAR_  UNCN_267  UNCN_268  UNCN_269  UNCN_270  UNCN_271  UNCN_272  UNCN_273  
++UNCN_274  UNCN_275  UNCN_276  UNCN_277  UNCN_278  UNCN_279  UNCN_280  UNCN_281 p3v3  UNCN_282  UNCN_283  UNCN_284 0  
++UNCN_285  UNCN_286  UNCN_287  UNCN_288  UNCN_289  UNCN_290  UNCN_291  UNCN_292 0  UNCN_293  UNCN_294  UNCN_295  
++UNCN_296  UNCN_297  UNCN_298 0  UNCN_299  UNCN_300  UNCN_301 pwron_p  UNCN_302  UNCN_303  UNCN_304  UNCN_305  UNCN_306  
++UNCN_307  UNCN_308  UNCN_309 p3v3  UNCN_310  UNCN_311  UNCN_312  UNCN_313 N012  UNCN_314  UNCN_315 pwron_n  UNCN_316  
++UNCN_317  UNCN_318  UNCN_319  UNCN_320  UNCN_321  UNCN_322  UNCN_323 p3v3  UNCN_324  UNCN_325 pg_STAR_  UNCN_326 0  
++UNCN_327  UNCN_328 0  UNCN_329  UNCN_330 0    erni64785
+X_DD12	0 N013 N014 c1_led1 c1_led2 N015    sn74lvc2g14
+X_C24	N016 0    c
+X_DD6	vcco out_OP_33_CP_ v3_c1 v0_c2 r0_c2 d0 vcco out_OP_28_CP_ mosi 0 dbmosi N017 0 r1_c1 clkh_p c2_led1 0 vcco 
++ rst_STAR_ clk_c1 0 vcco N004 tms alert_STAR_ s1_c1 0 vcco out_OP_32_CP_ v4_c1 0 r1_c2 vcco out_OP_27_CP_ sclk 0 
++ hold_STAR_ r6_c2 ref_c1 0 N004 r2_c1 v2_c2 clkl_en c1_led2 v0_c1 vcco N004 scs0 s2_c1 0 vcco rom_tdo out_OP_31_CP_ 
++ v5_c1 0 r2_c2 updclk_a 0 wp_STAR_ s0_c2 r0_c1 0 N004 N009 r3_c1 v3_c2 cclk clkh_en c1_led1 tdo v8_c2 v1_c1 vcco scs1 0 
++ vcco v1_c2 out_OP_30_CP_ v6_c1 r3_c2 tck updclk_b 0 vcco  UNCN_331 s1_c2 0 N004 N009 r4_c1 v4_c2 0 vcco cout_en 
++pwrdn_c2 v2_c1 
++ vcco scs2 0 vcco dbsclk out_OP_29_CP_ v7_c1 clkl_n r4_c2 lock_a 0 vcco 0  UNCN_332 s2_c2 0 N004 N009 0 r5_c1 v5_c2 0 
++vcco 0 
++ cin_en f_cint2 vcco oe_STAR_ 0 0 vcco dbcs_STAR_ v8_c1 0 init_STAR_ clkl_p r5_c2 lock_b 0 done vcco  UNCN_333 clk_c2 
++0 N004 N009 
++ clkout v6_c2 r6_c1 0 vcco out_OP_34_CP_ ref_c2 vcco miso 0 0 vcco dbmiso pwrdn_c1 0 clkh_n c2_led2 0 vcco refclk 0 vcco 
++ N004 clkin v7_c2 s0_c1 0    xc2vxxxx
+X_R15	dbmosi vcco    r
+X_FU1	N018 vcco    fu
+X_DD3	r5_c2 r6_c2  UNCN_334 clk_c2 0 N011 v0_c2 v1_c2 v2_c2 v3_c2 v4_c2 v5_c2 v6_c2 v7_c2 pwrdn_c2 v8_c2 N019 N020 N006 
++s0_c2 
++ s1_c2 s2_c2 r0_c2 r1_c2 r2_c2 r3_c2 r4_c2    ics525
+X_C34	vcco 0    c
+X_C25	N021 0    c
+X_R2	N022 ref_c1    r
+X_X2	clk_out    xt
+X_R16	dbmiso vcco    r
+X_DD5	d0 tms  UNCN_335  UNCN_336 done tdi  UNCN_337 rom_tdo rst_STAR_ tck  UNCN_338 init_STAR_  UNCN_339 cclk  UNCN_340 
++ UNCN_341  UNCN_342    xcv18vxxx
+X_DD2	r5_c1 r6_c1  UNCN_343 clk_c1 0 N023 v0_c1 v1_c1 v2_c1 v3_c1 v4_c1 v5_c1 v6_c1 v7_c1 pwrdn_c1 v8_c1 f_cint1 N010 
++N022 s0_c1 
++ s1_c1 s2_c1 r0_c1 r1_c1 r2_c1 r3_c1 r4_c1    ics525
+X_L2	N008 vcc_aux    blm18a
+X_C45	vcco 0    c
+X_C23	N003 0    c
+X_R10	init_STAR_ vcco    r
+X_C53	vcco 0    c
+X_L15	N024 vcco    blm18a
+X_L7	p1v5 N004    blm18a
+X_C41	p3v3 0    c
+X_C36	vcco 0    c
+X_X3	   a3_2
+X_C12	0 N004    c
+X_DD4	p1v5 vcco reset_STAR_ rst_STAR_    max6736
+X_C29	vcco 0    c
+X_XP2_sec5	clkhf_n  UNCN_344  UNCN_345 N025  UNCN_346  UNCN_347 N025  UNCN_348  UNCN_349 0  UNCN_350  UNCN_351 0  
++UNCN_352  UNCN_353  UNCN_354  UNCN_355  UNCN_356 0  UNCN_357 clkhf_p  UNCN_358  UNCN_359 clklf_p  UNCN_360  UNCN_361 
++out_OP_29_CP_  UNCN_362  UNCN_363 0  UNCN_364  UNCN_365 0  UNCN_366  UNCN_367  UNCN_368  UNCN_369 N025  UNCN_370 0  
++UNCN_371  UNCN_372 clklf_n  UNCN_373 0 N025  UNCN_374 0  UNCN_375  UNCN_376  UNCN_377 0  UNCN_378  UNCN_379  UNCN_380  
++UNCN_381  UNCN_382 out_OP_32_CP_  UNCN_383 0  UNCN_384  UNCN_385 N025  UNCN_386 0 
++ updclk_b  UNCN_387 0  UNCN_388  UNCN_389  UNCN_390 0  UNCN_391  UNCN_392  UNCN_393  UNCN_394  UNCN_395 N025  UNCN_396 
++N025  UNCN_397 0  UNCN_398  UNCN_399 0 N025  UNCN_400 0  UNCN_401  UNCN_402  UNCN_403 0  UNCN_404  UNCN_405  UNCN_406  
++UNCN_407  UNCN_408 out_OP_34_CP_  UNCN_409 N025  UNCN_410 0  UNCN_411  UNCN_412 N025  UNCN_413 0  UNCN_414  UNCN_415 0  
++UNCN_416  UNCN_417 N025  UNCN_418  UNCN_419 N025  UNCN_420  UNCN_421 out_OP_27_CP_  UNCN_422  UNCN_423 0  UNCN_424  
++UNCN_425  UNCN_426  UNCN_427 updclk_a  UNCN_428  UNCN_429 0  UNCN_430  UNCN_431    erni64785
+X_C57	vcco 0    c
+X_C30	vcco 0    c
+X_R23	N026 N027    r
+X_VD2	N028 0 N026 0    rg_leds
+X_R7	vcco tck    r
+X_R19	clkl_n clkl_p    r
+X_L12	N021 vcc_aux    blm18a
+X_C19	0 N009    c
+X_DD1	0 0 N005 refclk N008    actste01
+X_C46	vcco 0    c
+X_DD14	0  UNCN_432 N029 done 0 N002    sn74lvc2g14
+X_R22	N030 N013    r
+X_DD8	N016  UNCN_433 clklf_p clkl_n clklf_n N016 clkl_p    fin1102
+X_R6	vcco done    r
+X_C17	0 N004    c
+X_C38	vcco 0    c
+X_C28	N024 0    c
+X_C14	0 N004    c
+X_DD7	dbmiso hold_STAR_ dbcs_STAR_ dbmosi dbsclk wp_STAR_    25lc040
+X_XP1	0 tms 0 tdi 0 tdo tck 0 0 0 N018 0    jtag
+X_C55	vcco 0    c
+X_L14	N014 vcco    blm18a
+X_R13	vcco dbcs_STAR_    r
+X_C8	0 p1v5    c
+X_L4	N023 vcc_aux    blm18a
+X_L5	N011 vcc_aux    blm18a
+X_RP1	0 N007 N008    pvm4a_1
+X_C54	vcco 0    c
+X_R20	clkh_n clkh_p    r
+X_R3	f_cint1 N017    r
+X_C39	vcco 0    c
+X_R5	N019 f_cint2    r
+X_C5	0 N023    c
+X_C49	p3v3 0    c
+X_C35	N029 0    c
+X_R24	N028 N031    r
+X_VD3	0 N001    led
+X_R9	vcco tdi    r
+X_C10	0 vcco_er    c
+X_C7	0 vcco_ir    c
+X_C32	vcco 0    c
+X_R14	vcco dbsclk    r
+X_C48	vcco 0    c
+X_R21	N032 N015    r
+X_DD9	N021  UNCN_434 clkhf_p clkh_n clkhf_n N021 clkh_p    fin1102
+X_C52	vcco 0    c
+X_L11	N016 vcc_aux    blm18a
+X_C27	N014 0    c
+X_C26	N033 0    c
+X_DD11	clk_out cout_en clkout N033    sn74lvc1g125
+X_C31	vcco 0    c
+X_C20	0 N009    c
+X_C13	0 N004    c
+X_DD13	0 N031 N024 c2_led1 c2_led2 N027    sn74lvc2g14
+X_C50	N012 0    c
+X_R8	vcco tms    r
+X_L6	vcco vcco_ir    blm18a
+X_C4	0 N020    c
+X_L18	vcco vcc0    blm18a
+X_C51	vcco 0    c
+X_L17	N029 vcc0    blm18a
+X_C16	0 N004    c
+X_XP2_sec3	 UNCN_435  UNCN_436  UNCN_437  UNCN_438 0  UNCN_439  UNCN_440 0  UNCN_441  UNCN_442 oe_STAR_  UNCN_443  
++UNCN_444  UNCN_445  UNCN_446  UNCN_447  UNCN_448  UNCN_449  UNCN_450  UNCN_451  UNCN_452  UNCN_453  UNCN_454  UNCN_455 
++p3v3  UNCN_456  UNCN_457 p3v3  UNCN_458  UNCN_459 0  UNCN_460  UNCN_461  UNCN_462  UNCN_463  UNCN_464  UNCN_465  
++UNCN_466  UNCN_467  UNCN_468  UNCN_469  UNCN_470  UNCN_471  UNCN_472  UNCN_473  UNCN_474 0  UNCN_475  UNCN_476 mosi  
++UNCN_477  UNCN_478  UNCN_479  UNCN_480  UNCN_481  UNCN_482  UNCN_483  UNCN_484  UNCN_485  UNCN_486  UNCN_487  UNCN_488  
++UNCN_489  UNCN_490  UNCN_491  UNCN_492 p3v3  UNCN_493  UNCN_494 0  UNCN_495  UNCN_496  UNCN_497  UNCN_498  UNCN_499  
++UNCN_500  UNCN_501  UNCN_502  UNCN_503  UNCN_504 sclk  UNCN_505 0  UNCN_506  UNCN_507  UNCN_508 0  UNCN_509  UNCN_510 
++p3v3  UNCN_511  UNCN_512  UNCN_513  UNCN_514  UNCN_515  UNCN_516  UNCN_517  UNCN_518  UNCN_519  UNCN_520 0  UNCN_521 
++p3v3  UNCN_522  UNCN_523 p3v3  UNCN_524 p3v3  UNCN_525  UNCN_526  UNCN_527  UNCN_528  UNCN_529  UNCN_530  UNCN_531  
++UNCN_532 p3v3  UNCN_533  UNCN_534 miso  UNCN_535  UNCN_536 0  UNCN_537  UNCN_538  UNCN_539  UNCN_540 0  UNCN_541  
++UNCN_542  UNCN_543  UNCN_544    erni64785
+X_C40	vcco 0    c
+X_L3	vcc_aux N020    blm18a
+X_L1	vcc_aux N010    blm18a
+X_C37	vcco 0    c
+X_L13	N033 vcc_aux    blm18a
+X_R18	vcco wp_STAR_    r
+X_X4	   a3_2
+X_C42	p5v0 0    c
+X_C11	0 N004    c
+X_C56	vcco 0    c
+X_L9	vcc_aux N009    blm18a
+X_VD1	N030 0 N032 0    rg_leds
+X_C22	0 N009    c
+
+
+
+*** Subcircuit definition for empty blocks.
+
+.subckt  xcv18vxxx	d0 tms d_OP_1_CP_ d_OP_7_CP_ ce_STAR_ tdi d_OP_6_CP_ tdo cf_STAR_ tck ceo_STAR_ oe_rst_STAR_ 
++ d_OP_5_CP_ clk d_OP_4_CP_ d_OP_3_CP_ d_OP_2_CP_ 
+.ends
+
+
+.subckt  led	2 1 
+.ends
+
+
+.subckt  fin1102	en n.c. dout- rin- dout+ vcc rin+ 
+.ends
+
+
+.subckt  fu	2 1 
+.ends
+
+
+.subckt  sn74lvc1g125	y oe_STAR_ a vcc 
+.ends
+
+
+.subckt  pvm4a_1	3 2 1 
+.ends
+
+
+.subckt  jtag	gnd_OP_0_CP_ tms gnd_OP_6_CP_ tdi gnd_OP_5_CP_ tdo tck gnd_OP_4_CP_ gnd_OP_3_CP_ gnd_OP_2_CP_ vref 
++ gnd_OP_1_CP_ 
+.ends
+
+
+.subckt  25lc040	miso hold_STAR_ cs_STAR_ mosi sck wp_STAR_ 
+.ends
+
+
+.subckt  rg_leds	4 3 2 1 
+.ends
+
+
+.subckt  a3_2	
+.ends
+
+
+.subckt  ics525	r5 r6 x2 x1/iclk gnd1 vdd1 v0 v1 v2 v3 v4 v5 v6 v7 pd_STAR_ v8 clk vdd ref s0 s1 s2 r0 r1 r2 r3 r4 
+.ends
+
+
+.subckt  c	2 1 
+.ends
+
+
+.subckt  max6736	vcc1 vcc2 mr_STAR_ rst_STAR_ 
+.ends
+
+
+.subckt  r	2 1 
+.ends
+
+
+.subckt  erni64785	e_OP_21_CP_ d_OP_13_CP_ b_OP_4_CP_ e_OP_4_CP_ c_OP_21_CP_ b_OP_13_CP_ e_OP_16_CP_ c_OP_6_CP_ 
++ a_OP_21_CP_ f_OP_6_CP_ c_OP_16_CP_ a_OP_8_CP_ f_OP_19_CP_ d_OP_8_CP_ a_OP_16_CP_ d_OP_19_CP_ b_OP_19_CP_ a_OP_1_CP_ 
++ f_OP_12_CP_ d_OP_1_CP_ e_OP_20_CP_ d_OP_12_CP_ b_OP_3_CP_ e_OP_3_CP_ c_OP_20_CP_ b_OP_12_CP_ e_OP_15_CP_ c_OP_5_CP_ 
++ a_OP_20_CP_ f_OP_5_CP_ c_OP_15_CP_ a_OP_7_CP_ f_OP_18_CP_ d_OP_7_CP_ a_OP_15_CP_ d_OP_18_CP_ b_OP_9_CP_ e_OP_9_CP_ 
++ b_OP_18_CP_ f_OP_11_CP_ d_OP_11_CP_ b_OP_2_CP_ e_OP_2_CP_ b_OP_11_CP_ f_OP_22_CP_ e_OP_14_CP_ c_OP_4_CP_ f_OP_4_CP_ 
++ d_OP_22_CP_ c_OP_14_CP_ a_OP_6_CP_ f_OP_17_CP_ d_OP_6_CP_ b_OP_22_CP_ a_OP_14_CP_ d_OP_17_CP_ b_OP_8_CP_ e_OP_8_CP_ 
++ b_OP_17_CP_ f_OP_10_CP_ d_OP_10_CP_ b_OP_1_CP_ e_OP_1_CP_ b_OP_10_CP_ f_OP_21_CP_ e_OP_13_CP_ c_OP_3_CP_ f_OP_3_CP_ 
++ d_OP_21_CP_ c_OP_13_CP_ a_OP_5_CP_ f_OP_16_CP_ d_OP_5_CP_ b_OP_21_CP_ a_OP_13_CP_ d_OP_16_CP_ b_OP_7_CP_ e_OP_7_CP_ 
++ b_OP_16_CP_ e_OP_19_CP_ c_OP_9_CP_ f_OP_9_CP_ c_OP_19_CP_ a_OP_19_CP_ f_OP_20_CP_ e_OP_12_CP_ c_OP_2_CP_ f_OP_2_CP_ 
++ d_OP_20_CP_ c_OP_12_CP_ a_OP_4_CP_ f_OP_15_CP_ d_OP_4_CP_ b_OP_20_CP_ a_OP_12_CP_ d_OP_15_CP_ b_OP_6_CP_ e_OP_6_CP_ 
++ b_OP_15_CP_ e_OP_18_CP_ c_OP_8_CP_ f_OP_8_CP_ c_OP_18_CP_ a_OP_18_CP_ e_OP_11_CP_ c_OP_1_CP_ f_OP_1_CP_ c_OP_11_CP_ 
++ a_OP_3_CP_ f_OP_14_CP_ d_OP_3_CP_ a_OP_11_CP_ e_OP_22_CP_ d_OP_14_CP_ b_OP_5_CP_ e_OP_5_CP_ c_OP_22_CP_ b_OP_14_CP_ 
++ e_OP_17_CP_ c_OP_7_CP_ a_OP_22_CP_ f_OP_7_CP_ c_OP_17_CP_ a_OP_9_CP_ d_OP_9_CP_ a_OP_17_CP_ e_OP_10_CP_ c_OP_10_CP_ 
++ a_OP_2_CP_ f_OP_13_CP_ d_OP_2_CP_ a_OP_10_CP_ 
+.ends
+
+
+.subckt  actste01	gnd1 gnd2 vc out vdd 
+.ends
+
+
+.subckt  sn74lvc2g14	gndd y2_STAR_ p3v3 a1 a2 y1_STAR_ 
+.ends
+
+
+.subckt  blm18a	a b 
+.ends
+
+
+.subckt  xc2vxxxx	vcco_OP_16_CP_ i/o_74 i/o_19 i/o_90 i/o_35 d0 vcco_OP_2_CP_ i/o_69 i/o_51 gnd_OP_27_CP_ i/o_85 
++ i/o_12 gnd_OP_7_CP_ i/o_9 i/o_46 i/o_62 gnd_OP_20_CP_ vcco_OP_20_CP_ program_STAR_ i/o_23 gnd_OP_0_CP_ vcco_OP_8_CP_ 
++ vccint_OP_1_CP_ tms i/o_57 i/o_2 gnd_OP_15_CP_ vcco_OP_15_CP_ i/o_73 i/o_18 gnd_OP_31_CP_ i/o_34 vcco_OP_1_CP_ i/o_68 
++ i/o_50 gnd_OP_26_CP_ i/o_84 i/o_29 i/o_11 gnd_OP_6_CP_ vccint_OP_7_CP_ i/o_8 i/o_45 i/o_79 i/o_61 i/o_22 vcco_OP_7_CP_ 
++ vccint_OP_0_CP_ i/o_56 i/o_1 gnd_OP_14_CP_ vcco_OP_14_CP_ tdi i/o_72 i/o_17 gnd_OP_30_CP_ i/o_33 i/o_67 gnd_OP_25_CP_ 
++ i/o_83 i/o_28 i/o_10 gnd_OP_5_CP_ vccint_OP_6_CP_ vccaux_OP_3_CP_ i/o_7 i/o_44 cclk i/o_78 i/o_60 tdo i/o_39 i/o_21 
++ vcco_OP_6_CP_ i/o_55 gnd_OP_13_CP_ vcco_OP_13_CP_ i/o_89 i/o_71 i/o_16 i/o_32 tck i/o_66 gnd_OP_24_CP_ vcco_OP_24_CP_ 
++ i/o_82 i/o_27 gnd_OP_4_CP_ vccint_OP_5_CP_ vccaux_OP_2_CP_ i/o_6 i/o_43 gnd_OP_19_CP_ vcco_OP_19_CP_ i/o_77 i/o_38 
++ i/o_20 vcco_OP_5_CP_ i/o_54 gnd_OP_12_CP_ vcco_OP_12_CP_ i/o_88 i/o_70 i/o_15 i/o_49 i/o_31 i/o_65 gnd_OP_23_CP_ 
++ vcco_OP_23_CP_ m0 i/o_81 i/o_26 gnd_OP_3_CP_ vccint_OP_4_CP_ vccaux_OP_1_CP_ m1 i/o_5 i/o_42 gnd_OP_18_CP_ 
++ vcco_OP_18_CP_ m2 i/o_76 i/o_37 vcco_OP_4_CP_ i/o_53 gnd_OP_29_CP_ gnd_OP_11_CP_ vcco_OP_11_CP_ i/o_87 i/o_14 
++ gnd_OP_9_CP_ init_STAR_ i/o_48 i/o_30 i/o_64 gnd_OP_22_CP_ done vcco_OP_22_CP_ i/o_80 i/o_25 gnd_OP_2_CP_ 
++ vccint_OP_3_CP_ vccaux_OP_0_CP_ i/o_59 i/o_41 i/o_4 gnd_OP_17_CP_ vcco_OP_17_CP_ i/o_75 i/o_36 vcco_OP_3_CP_ i/o_52 
++ gnd_OP_28_CP_ gnd_OP_10_CP_ vcco_OP_10_CP_ i/o_86 i/o_13 gnd_OP_8_CP_ i/o_47 i/o_63 gnd_OP_21_CP_ vcco_OP_21_CP_ i/o_24 
++ gnd_OP_1_CP_ vcco_OP_9_CP_ vccint_OP_2_CP_ i/o_58 i/o_40 i/o_3 gnd_OP_16_CP_ 
+.ends
+
+
+.subckt  xt	1 
+.ends
+
+

@@ -1,0 +1,37 @@
+
+	(Comment
+		(Time 11/23/09,10:07:36)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 11/23/09,10:09:30)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package tes5wi added to cell")
+		(Param1 tes5wi)
+	)
+
+
+
+
+
+
+
+
+	(Comment
+		(Time 12/23/11,15:11:28)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package TES5WI deleted from cell")
+		(Param1 TES5WI)
+	)
+	(Comment
+		(Time 12/23/11,15:11:47)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package tes5wi added to cell")
+		(Param1 tes5wi)
+	)

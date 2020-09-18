@@ -1,0 +1,254 @@
+(Cell	kv
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	Major)
+
+		(Status	Modified)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	)
+
+			(User	)
+
+			(Path	)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/11/07,17:33:39)
+
+			(User	Validol)
+
+			(Path	import_lib.kv)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	3
+
+				(Symbol	sym_3
+
+					(Checksum	3fe14eb4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Checksum	d5274f16)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Checksum	8e5e454c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	3e440204)
+
+		)
+
+		(View	Chips
+
+			(Checksum	f6e1a738)
+
+			(Primitives	1
+
+				(Primitive	KV
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	KV
+
+							(PackType	KV)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	3
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0f960141)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	7f7800e8)
+
+)
+

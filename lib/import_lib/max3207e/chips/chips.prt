@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MAX3207E';
+  pin
+    'I01':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'I02':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='MAX3207E';
+    BODY_NAME='MAX3207E';
+    JEDEC_TYPE='sot23-6';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:2)';
+    POWER_PINS='(VCC:5)';
+    NC_PINS='(3,6)';
+  end_body;
+end_primitive;
+
+END.

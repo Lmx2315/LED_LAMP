@@ -1,0 +1,98 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Sep 10 17:48:58 2020
+\t (00:00:03)         Host=LMX_PK User=Lmx Pid=3252 CPUs=12
+\t (00:00:03) CmdLine= allegro -proj D:\SPB_Data\LED_lamp\led_drv1.cpm -product Concept_HDL_expert -mpssession Lmx_ProjectMgr6398 -mpshost Lmx_pk
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/SPB_Data/LED_lamp/worklib/led_v2/physical/soic_8narrow_expostermal.dra
+\i (00:00:04) trapsize 36
+\i (00:00:04) trapsize 35
+\i (00:00:04) trapsize 36
+\i (00:00:04) trapsize 33
+\i (00:00:04) trapsize 33
+\i (00:00:05) generaledit 
+\i (00:00:07) new 
+\i (00:00:26) newdrawfillin "pl1.brd" "Board (Wizard)"
+\t (00:00:26) Starting new design...
+\i (00:00:26) trapsize 60
+\i (00:00:26) trapsize 59
+\i (00:00:26) trapsize 60
+\i (00:00:27) trapsize 60
+\i (00:00:27) trapsize 60
+\i (00:00:27) layout wizard 
+\i (00:00:27) generaledit 
+\i (00:00:29) setwindow form.brd_wizard
+\i (00:00:29) FORM brd_wizard wiz_next  
+   (00:00:29) Loading cmds.cxt 
+   (00:00:29) Loading axlcore.cxt 
+\i (00:00:33) FORM brd_wizard wiz_next  
+\i (00:00:36) FORM brd_wizard wiz_next  
+\i (00:00:39) FORM brd_wizard wiz_next  
+\i (00:00:42) FORM brd_wizard board_units Millimeter 
+\i (00:00:44) FORM brd_wizard board_size A4 
+\i (00:00:51) FORM brd_wizard wiz_next  
+\i (00:00:58) FORM brd_wizard grid_spacing 0.1000 
+\i (00:01:01) FORM brd_wizard etch_layer_count 4 
+\i (00:01:01) FORM brd_wizard wiz_next  
+\i (00:01:03) FORM brd_wizard etch_layer_details cell 2,1 
+\i (00:01:10) FORM brd_wizard etch_layer_details change 2,1 gnd 
+\i (00:01:10) FORM brd_wizard etch_layer_details cell 3,1 
+\i (00:01:25) FORM brd_wizard etch_layer_details change 3,1 pwr 
+\i (00:01:25) FORM brd_wizard etch_layer_details cell 2,1 
+\i (00:01:30) FORM brd_wizard etch_layer_details change 2,1 int1 
+\i (00:01:30) FORM brd_wizard etch_layer_details cell 3,1 
+\i (00:01:34) FORM brd_wizard etch_layer_details change 3,1 int2 
+\i (00:01:34) FORM brd_wizard wiz_next  
+\i (00:01:39) FORM brd_wizard min_line_width 0.2000 
+\i (00:01:40) FORM brd_wizard def_via_browse  
+\i (00:01:48) fillin "Via0700x0300"
+\i (00:01:49) FORM brd_wizard wiz_next  
+\i (00:01:51) FORM brd_wizard rectangular_board YES 
+\i (00:01:52) FORM brd_wizard wiz_next  
+\i (00:02:20) FORM brd_wizard rb_outline_height 100.0000 
+\i (00:02:20) FORM brd_wizard wiz_next  
+\i (00:02:22) FORM brd_wizard wiz_finish  
+\i (00:02:22) setwindow pcb
+\i (00:02:22) trapsize 602
+\t (00:02:22) Performing DRC...
+\t (00:02:22) Multithreaded DRC update (12 threads).
+\t (00:02:22) No DRC errors detected.
+\i (00:02:22) trapsize 602
+\i (00:02:22) trapsize 602
+\i (00:02:22) generaledit 
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -134.1343 -94.4243
+\i (00:02:26) trapsize 1203
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -119.7687 -83.8485
+\i (00:02:26) trapsize 2406
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out -91.0374 -62.6971
+\i (00:02:27) trapsize 4813
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out -33.5747 -20.3942
+\i (00:02:27) trapsize 7698
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 2.5337 32.7932
+\i (00:02:28) trapsize 3849
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 2.5338 32.7932
+\i (00:02:28) trapsize 1924
+\i (00:02:28) zoom out 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom out 2.5338 32.7932
+\i (00:02:28) trapsize 3849
+\i (00:02:28) zoom out 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom out 2.5339 32.7932
+\i (00:02:28) trapsize 7698
+\i (00:02:31) save 
+\i (00:02:31) generaledit 
+\i (00:02:33) exit 
+\t (00:02:33)     Journal end - Thu Sep 10 17:51:28 2020

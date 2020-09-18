@@ -1,0 +1,32 @@
+
+	(Comment
+		(Time 07/27/11,14:42:25)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 07/27/11,15:32:22)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package PLD24 added to cell")
+		(Param1 PLD24)
+	)
+	(Comment
+		(Time 07/27/11,15:32:40)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package PLD24 deleted from cell")
+		(Param1 PLD24)
+	)
+	(Comment
+		(Time 07/27/11,15:32:46)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package pld24 added to cell")
+		(Param1 pld24)
+	)
+
+

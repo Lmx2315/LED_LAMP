@@ -1,0 +1,170 @@
+(Cell	cwf-8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/23/13,15:52:04)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.cwf-8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/23/13,15:52:52)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.cwf-8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000fa15f17f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/23/13,15:52:07)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.cwf-8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000035703e2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007ecaa938)
+
+			(Primitives	1
+
+				(Primitive	CWF-8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/23/13,15:52:32)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.cwf-8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CWF-8
+
+							(PackType	CWF-8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000349803a5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000088d0352)
+
+)
+

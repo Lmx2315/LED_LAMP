@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 01 11:58:23 2004' ;
+primitive 'SN74LVC1G86';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P5V0':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'GNDD':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SN74LVC1G86';
+    JEDEC_TYPE='SOIC28';
+    BODY_NAME='SN74LVC1G86';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

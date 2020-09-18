@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 02/27/14,15:15:00)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/27/14,15:29:29)
+		(User chuprikov_pavel)
+		(MsgId ECO_021)
+		(Text "Package dds_1508pl8t added to cell")
+		(Param1 dds_1508pl8t)
+	)
+
+

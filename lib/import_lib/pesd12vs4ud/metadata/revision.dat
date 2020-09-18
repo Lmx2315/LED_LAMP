@@ -1,0 +1,170 @@
+(Cell	pesd12vs4ud
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/28/10,17:00:42)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.pesd12vs4ud)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/28/10,17:03:26)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.pesd12vs4ud)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000c6a2ba56)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/28/10,17:00:46)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.pesd12vs4ud)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000093d003db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000014254d2)
+
+			(Primitives	1
+
+				(Primitive	PESD12VS4UD
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/28/10,17:02:56)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.pesd12vs4ud)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PESD12VS4UD
+
+							(PackType	PESD12VS4UD)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000025d50384)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000e93d0350)
+
+)
+

@@ -1,0 +1,19 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Mar 15 15:06:28 2004' ;
+primitive 'QTE_020_K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='QTE_020_K';
+    JEDEC_TYPE='F163';
+    BODY_NAME='qte_020_k';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

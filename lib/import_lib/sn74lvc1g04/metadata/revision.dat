@@ -1,0 +1,166 @@
+(Cell	sn74lvc1g04
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/17/07,11:12:52)
+
+			(User	Validol)
+
+			(Path	import_lib.sn74lvc1g04)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	7e579977)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/07,11:13:05)
+
+							(User	Validol)
+
+							(Path	import_lib.sn74lvc1g04)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	5f0101e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	8abf1dce)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC1G04
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/07,11:14:00)
+
+							(User	Validol)
+
+							(Path	import_lib.sn74lvc1g04)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC1G04
+
+							(PackType	SN74LVC1G04)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	cdef027d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	bdc6023c)
+
+)
+

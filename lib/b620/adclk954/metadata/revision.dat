@@ -1,0 +1,180 @@
+(Cell	adclk954
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/19/14,14:54:43)
+
+			(User	imk)
+
+			(Path	b620.adclk954)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/19/14,16:07:33)
+
+			(User	imk)
+
+			(Path	b620.adclk954)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f090fb5e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/14,16:07:27)
+
+							(User	imk)
+
+							(Path	b620.adclk954)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2303e2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000073dfc4a7)
+
+			(Primitives	1
+
+				(Primitive	ADCLK954
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/14,15:43:31)
+
+							(User	imk)
+
+							(Path	b620.adclk954)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCLK954
+
+							(PackType	ADCLK954)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cp-40-8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ae60359)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c67037f)
+
+)
+

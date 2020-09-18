@@ -1,0 +1,31 @@
+
+	(Comment
+		(Time 07/12/07,15:40:19)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 07/12/07,15:43:09)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package max810 added to cell")
+		(Param1 max810)
+	)
+
+
+	(Comment
+		(Time 07/12/07,15:46:28)
+		(User Validol)
+		(MsgId ECO_022)
+		(Text "Package MAX810 deleted from cell")
+		(Param1 MAX810)
+	)
+	(Comment
+		(Time 07/12/07,15:46:31)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package max810 added to cell")
+		(Param1 max810)
+	)

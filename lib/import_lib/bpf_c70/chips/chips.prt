@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'BPF_C70';
+  pin
+    'IN':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OUT':
+      PIN_NUMBER='(9)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='BPF_C70';
+    BODY_NAME='BPF_C70';
+    JEDEC_TYPE='bpf_c70';
+    PHYS_DES_PREFIX='ZL';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:1,3,4,5,7,8,10,11,12,14)';
+    CDS_LMAN_UNMAPPED_PHYS_PIN='(6,13)';
+  end_body;
+end_primitive;
+
+END.

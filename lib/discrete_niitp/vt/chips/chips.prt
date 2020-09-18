@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'VT';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='VT';
+    BODY_NAME='VT';
+    FAMILY='TRANSISTORS';
+    JEDEC_TYPE='irlml6402';
+    PHYS_DES_PREFIX='VT';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'FP3P7_765_7_01';
+  pin
+    'IN':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OUT':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='FP3P7_765_7_01';
+    BODY_NAME='FP3P7_765_7_01';
+    JEDEC_TYPE='fp3p7_765_7_01';
+    PHYS_DES_PREFIX='ZL';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:6,1,3,4)';
+  end_body;
+end_primitive;
+
+END.

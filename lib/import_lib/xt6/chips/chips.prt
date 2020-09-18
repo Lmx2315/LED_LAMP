@@ -1,0 +1,19 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Jan 31 18:49:08 2005' ;
+primitive 'XT6';
+  pin
+    '1':
+      PIN_NUMBER='(1,2,3,4,5,6)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='XT6';
+    JEDEC_TYPE='F323';
+    BODY_NAME='XT6';
+    FAMILY='XT';
+  end_body;
+end_primitive;
+END.

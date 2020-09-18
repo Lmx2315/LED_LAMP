@@ -1,0 +1,21 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jan 06 13:12:16 2004' ;
+primitive 'L';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PHYS_DES_PREFIX='L';
+    PART_NAME='L';
+    JEDEC_TYPE='cap196';
+    BODY_NAME='l';
+    LIBRARIAN='?';
+  end_body;
+end_primitive;
+END.

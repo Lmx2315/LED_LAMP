@@ -1,0 +1,180 @@
+(Cell	hmc900lp
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/10/12,12:21:01)
+
+			(User	Sergey)
+
+			(Path	b620.hmc900lp)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/10/12,12:58:26)
+
+			(User	Sergey)
+
+			(Path	b620.hmc900lp)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007e39ce7b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/12,12:21:09)
+
+							(User	Sergey)
+
+							(Path	b620.hmc900lp)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2503ea)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000061f8b193)
+
+			(Primitives	1
+
+				(Primitive	HMC900LP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/12,12:27:00)
+
+							(User	Sergey)
+
+							(Path	b620.hmc900lp)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC900LP
+
+							(PackType	HMC900LP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h900)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6503e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bb9037e)
+
+)
+

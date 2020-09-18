@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Aug 30 20:08:55 2004' ;
+primitive 'SG8002CA';
+  pin
+    'OE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CLK':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(GNDD:2)';
+    POWER_PINS='(P3V3:4)';
+    CLASS='IC';
+    PART_NAME='SG8002CA';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='f236';
+    BODY_NAME='SG8002CA';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,1230 @@
+***** Pspice Netlist      (Cadence Design Systems Inc.)
+***** Design : digital_dspblock_m6
+***** Date   : JUNE 25' 2010		Time : 10:55:36
+****************************************************************
+
+X_DA11M	+15v N001 N001 shield -15v ch13 ch14    ina152
+X_C346	N002 -5vma_bp    c
+X_DA80	-5vma N003 N004 N005 N006 +5vma shield N007    ina128
+X_R425	N008 shield    r
+X_C282	+5vma -5vma    c
+X_R277	N009 N010    r
+X_C286	shield -5vma    c
+X_R100	ch2n ch2p    r
+X_R139	N011 N012    r
+X_DA13	-5vma N013 N014 N015 N016 N017 +5vma N018 clkr1 N019 N020 N021 N022 shield N023 shield N024 shield N025 shield 
++ N026 N027 N028    ltc1264
+X_R60	N029 N030    r
+X_C69	+5vdd dgnd    cap_el
+X_C61	+5vma dgnd    cap_el
+X_L2	N031 +1.2v    blm18a
+X_DA14M	ch3_n N032 -15v ch3_p ch3_n +15v ch3_p    drv135
+X_C340	N033 N034    c
+X_R204	clkr7 N035    r
+X_C204	+5vma shield    c
+X_R286	N036 N037    r
+X_R281	N038 N039    r
+X_C274	+5vma -5vma    c
+X_C145	N040 N041    c
+X_L16	clk_20khz_in N042    r
+X_C118	dgnd N043    cap
+X_R59	N044 N045    r
+X_R98	tck N046    r
+X_C120	dgnd +2.5v    cap
+X_CXX1	N047 +5vdd    cap
+X_C50	dgnd +3.3vdd    cap
+X_C46	dgnd +3.3vdd    cap
+X_R39	+3.3vdd N048    r
+X_R1	N049 N050    r
+X_C38M	shield +15v    c
+X_DD24	+5vma clr_r1_a clr_r1_a N035  UNCN_001 shield    sn74lvc2g17_1
+X_DD22	+5vma clr_r1_a clr_r1_a N051 N052 shield    sn74lvc2g17_1
+X_C281	shield +5vma    c
+X_R306	N053 N054    r
+X_C271	N055 N056    c
+X_DA52	-5vma -5vma N057 N058 +5vma shield N059    ltc1569-7
+X_DA38	-5vma -5vma N060 N061 +5vma shield N062    ltc1569-7
+X_R150	N063 N064    r
+X_C180	shield +5vma    c
+X_C188	shield -5vma    c
+X_R137	N065 N066    r
+X_L10	clk_r_3v3 N067    r
+X_C71	+15v dgnd    c
+X_ZQ2	N068 N069    zq
+X_C19	dgnd +3.3vdd    cap
+X_C20	dgnd +3.3vdd    cap
+X_C29M	shield -15v    c
+X_C26M	shield -15v    c
+X_C420	N070 N071    c
+X_L26	+24v -24v N072 N073    b827
+X_XP17	shield sin_n +15v shield shield shield ch5p sin_p ch3p cos_p ch7n shield ch5n shield ch3n cos_n shield ch1p 
++ -15v ch4p shield shield shield shield ch1n shield ch4n -15v shield shield ch6p shield shield +15v ch2p ch7p ch6n shield 
++ N074 ch2n    pld2-40
+X_C267	shield -15v    c
+X_C268	shield +15v    c
+X_R294	N075 +5vma    r
+X_C314	shield -5vma    c
+X_R225	N076 N077    r
+X_C257	+5vma -5vma    c
+X_R125	N078 N079    r
+X_R121	N080 N081    r
+X_C187	shield -5vma    c
+X_C149	shield +5vma    c
+X_XP7	dgnd sin_p sin_n dgnd cos_p cos_n dgnd led_on_from_spart dgnd dgnd ch3 dgnd ch2 dgnd ch1 dgnd dgnd clk_r dgnd 
++ ch7 dgnd ch6 dgnd ch5 dgnd ch4    idc-26
+X_R212	N082 N083    r
+X_HL13	N084 N085    led
+X_R53	N086 +3.3vdd    r
+X_C80	dgnd -5vma    cap_el
+X_DA7	N087 overflow_adc N088 N089 N090 N091 N092 N093 N094 N095 dgnd +3.3vdd dgnd N096 N097 N098 cml_adc N099 N100 
++ N101 N030 N102 N103 N104    ad9225
+X_C93	N095 N100    cap
+X_R63	+3.3vdd N105    r
+X_C64	+5vma dgnd    c
+X_XP4_R1	+5vma_bp bp_gnd    cwf
+X_R24	+5vdd N106    r
+X_R15	+3.3vdd sclk    r
+X_C14	dgnd +1.2v    cap
+X_C33M	shield +15v    c
+X_C39M	shield +15v    c
+X_R4M	N107 N108    r
+X_C336	N072 N073    c
+X_VD16	-15v shield    vd_new
+X_R435	shield N109    r
+X_R420	shield N110    r
+X_R262	N111 N112    r
+X_VD18	N113 +5vma -5vma    bat54s
+X_R259	N113 shield    r
+X_DA48	-5vma N009 N036 N114 N115 N116 +5vma N117 clkr7 N118 N119 N120 N121 shield N010 shield N037 shield N122 shield 
++ N123 N124 N125    ltc1264
+X_R267	N126 N127    r
+X_R276	N128 N129    r
+X_C241	shield +5vma    c
+X_R161	N130 N131    r
+X_C143	shield +15v    c
+X_R214	N132 N133    r
+X_DA32	-15v +15v N082 N134 N135 N136 N082 N137    ad822
+X_R71	senres_3.3v N138    r
+X_R72	+3.3vdd N138    r
+X_FU1	+3.3vdd N139    r
+X_R25	dgnd N140    r
+X_HL3	dgnd N106    led
+X_R7M	N141 N142    r
+X_C4M	ch5 N142    c
+X_L25	+24v -24v N143 N033    b827
+X_R201	clkr2 N144    r
+X_C294	N109 N145    c
+X_C235	shield +5vma    c
+X_R145	N146 +5vma    r
+X_C161	shield -5vma    c
+X_L15	N147 N148    blm18a
+X_C126	dgnd +2.5v    cap
+X_C119	dgnd +3.3vdd    cap
+X_C25M	shield -15v    c
+X_C418	+15v bp_gnd    c
+X_L32	+15v N149 bp_gnd N071    bnx016
+X_R423	N150 N151    r
+X_R256	N152 N112    r
+X_DA54	-5vma -5vma N153 N154 +5vma shield N006    ltc1569-7
+X_R246	N060 +5vma    r
+X_C263	sig4 N155    c
+X_DA14	+5vma -5vma N156 N157 +5vma shield N158    ltc1569-7
+X_C170	shield +5vma    c
+X_C160	shield -5vma    c
+X_R117	N013 N018    r
+X_R135	N017 N015    r
+X_C134	dgnd +3.3vdd    cap
+X_C135	dgnd +1.2v    cap
+X_R35	+3.3vdd eesk    r
+X_R8	spartan_cs +3.3vdd    r
+X_DA9M	+15v N159 N159 shield -15v ch9 ch10    ina152
+X_C40M	shield +15v    c
+X_DA6M	+15v N160 N160 shield -15v ch3 ch4    ina152
+X_DA74	N161 N162 N163  UNCN_002 N164    ten15
+X_C256	+15v shield    c
+X_R279	N009 N124    r
+X_C273	N165 N112    c
+X_R295	N166 N167    r
+X_C313	shield -5vma    c
+X_R231	N077 N168    r
+X_C198	sig2 N169    c
+X_C184	+5vma -5vma    c
+X_R183	N170 +5vma    r
+X_R57	dgnd N171    r
+X_R28	N172 N173    r
+X_L3	N174 +3.3vdd    blm18a
+X_XP1	dgnd N175    ipl1_02
+X_HL1	N176 N177    led
+X_XP2M	ch5p gnd_bp +15v_bp led_on_from_spart gnd_bp shield ch5n gnd_bp ch3p gnd_bp shield shield shield -15v_bp ch3n 
++ gnd_bp ch7p sin_n +15v_bp ch4p -15v_bp ch2p cos_p ch7n sin_p -15v_bp ch4n +15v_bp ch2n cos_n ch6p gnd_bp -15v_bp 
++ +15v_bp ch1p shield ch6n gnd_bp gnd_bp ch1n    pld2-40
+X_C48M	shield -15v    c
+X_DA13M	ch2_n N160 -15v ch2_p ch2_n +15v ch2_p    drv135
+X_C19M	shield +15v    c
+X_R205	led_on_from_spart N074    r
+X_R200	clkr1 N178    r
+X_L19	-5vma bp_gnd shield -5vma_bp    bnx016
+X_DA78	-5vma N179 N180 N181 N062 +5vma shield N182    ina128
+X_R421	N183 shield    r
+X_R252	ch6n ch6p    r
+X_DA56	 UNCN_003 -5vma sig5 N184 +5vma  UNCN_004  UNCN_005 N185    ad8610
+X_C264	shield -5vma    c
+X_C168	N186 N157    c
+X_DA20	-5vma -5vma N170 N187 +5vma shield N188    ltc1569-7
+X_DA24	 UNCN_006 -5vma sig1 N189 +5vma  UNCN_007  UNCN_008 N190    ad8610
+X_C178	shield -5vma    c
+X_R114	N013 N023    r
+X_R123	N014 N020    r
+X_C208	dgnd +5vma    c
+X_RXXX_BOOT1	cs_boot_dsp N191    r
+X_R9	reset +3.3vdd    r
+X_R7	+3.3vdd N177    r
+X_C16	dgnd +1.2v    cap
+X_R18M	N192 shield    r
+X_C15M	shield -15v    c
+X_R14M	N193 N194    r
+X_C7M	ch8 N194    c
+X_XP1M	shield shield shield shield ch10 shield ch11 shield ch12 shield shield ch13 shield ch1 shield shield shield 
++ ch14 ch5 ch2 shield shield ch6 ch3 shield shield ch7 ch4 shield ch8 shield ch9    idc24
+X_HL17	N195 +15v    led
+X_R354	-15v N196    r
+X_C255	shield -15v    c
+X_R199	clkr5 N197    r
+X_C327	shield -5vma    c
+X_R228	N198 N199    r
+X_C242	N181 N200    c
+X_VD9	N201 +5vma -5vma    bat54s
+X_DD19	+3.3vdd N202 N203 N204 N205 dgnd    sn74lvc2g17_1
+X_L17	N206 N207    blm18a
+X_C113	+3.3vdd dgnd    cap_el
+X_R46	tx_ftdi N208    r
+X_R29	dgnd N209    r
+X_C21	dgnd +3.3vdd    cap
+X_C22	dgnd +3.3vdd    cap
+X_C350	+5vma_bp bp_gnd    c
+X_XP4_R4	+5vma_bp bp_gnd    cwf
+X_DD21	+5vma clr_r1_a clr_r1_a N178 N144 shield    sn74lvc2g17_1
+X_R428	N179 N180    r
+X_R106	N210 N041    r
+X_C277	shield +5vma    c
+X_R347	N211 sig7    r
+X_R337	N153 +5vma    r
+X_C324	sig6 N212    c
+X_R101	ch3n ch3p    r
+X_R140	N213 N131    r
+X_R129	N214 N065    r
+X_C225	dgnd -15v    c
+X_DA34	sin_n N135 -15v sin_p sin_n +15v sin_p    drv135
+X_R54	N215 dgnd    r
+X_R61	N045 N101    r
+X_C90	dgnd +3.3vdd    cap
+X_C94	dgnd +3.3vdd    cap
+X_R67	N216 +3.3vdd    r
+X_C101	dgnd +3.3vdd    c
+X_C123	dgnd +3.3vdd    cap
+X_C130	dgnd +2.5v    cap
+X_C66	+15v dgnd    cap_el
+X_R47	+3.3vdd N217    r
+X_R18	N218 sa10    r
+X_L1M	-15v gnd_bp shield -15v_bp    bnx016
+X_DA16M	ch5_n N159 -15v ch5_p ch5_n +15v ch5_p    drv135
+X_C14M	ch13 N219    c
+X_XP30	bp_gnd -15v -5vma_bp bp_gnd bp_gnd -5vma_bp +5vma_bp +15v -5vma_bp +5vma_bp +15v bp_gnd -15v +5vma_bp bp_gnd 
++ bp_gnd +5vma_bp bp_gnd bp_gnd bp_gnd    idc20
+X_C417	+15v bp_gnd    cap_el
+X_C285	shield -5vma    c
+X_R341	shield N211    r
+X_C280	shield +5vma    c
+X_R271	N220 N221    r
+X_C272	N222 N113    c
+X_R266	N126 N223    r
+X_C296	shield +5vma    c
+X_C196	sig3 N224    c
+X_R147	N081 N066    r
+X_R141	N225 +5vma    r
+X_R193	N190 shield    r
+X_DD16	+5vma N226 N226  UNCN_009 N102 dgnd    sn74lvc2g17_1
+X_R64	dgnd N084    r
+X_C138	dgnd +1.2v    cap
+X_DD8	+3.3vdd cs_boot_dsp sclk N217 +3.3vdd mosi miso    at25256a
+X_R43	N227 N228    r
+X_R37	N229 +1.2v    r
+X_C56M	+15v shield    c
+X_DA7M	+15v N032 N032 shield -15v ch5 ch6    ina152
+X_R8M	N230 N231    r
+X_C52M	+15v shield    c
+X_R432	shield N007    r
+X_C287	shield -5vma    c
+X_C311	+5vma -5vma    c
+X_C283	shield -5vma    c
+X_VD10	N232 +5vma -5vma    bat54s
+X_R237	N233 N168    r
+X_R113	N234 N235    r
+X_C174	shield +5vma    c
+X_C211	-5vma dgnd    c
+X_C229	N136 N135    c
+X_L13	N236 N237    blm18a
+X_DD18	+3.3vdd N238 N239 N240 N241 dgnd    sn74lvc2g17_1
+X_C59	+3.3vdd dgnd    c
+X_C24M	shield -15v    c
+X_R2M	N242 N243    r
+X_C2M	ch3 N244    c
+X_R351	dgnd N195    r
+X_HL20	N196 dgnd    led
+X_C203	+5vdd shield    c
+X_C265	shield -15v    c
+X_R264	N222 N038    r
+X_C290	N245 N246    c
+X_C157	shield -5vma    c
+X_R74	+5vma N226    r
+X_C82	dgnd +3.3vdd    c
+X_XP6	dgnd spi_clk_mk_5v dgnd spi_cs_mk_5v +5vdd dgnd spi_miso_mk_5v dgnd spi_mosi_mk_5v dgnd senres_5v dgnd 
++ note_present_5v dgnd result_3lvl_h_5v dgnd result_3lvl_l_5v dgnd +5vdd rx_com_5v dgnd dgnd tx_com_5v dgnd 
++ clock_money_drv_5v dgnd rts_5v dgnd cts_5v dgnd    idc30
+X_HL12	N247 N105    led
+X_C125	dgnd +3.3vdd    cap
+X_C129	dgnd +3.3vdd    cap
+X_C28M	shield -15v    c
+X_C10M	ch9 N248    c
+X_C423	+24v -24v    c
+X_L31	+24v -24v N163 N162    b827
+X_R418	N249 N250    r
+X_DA41	+15v N251 N251 ch6p -15v shield ch6n    ina152
+X_R280	N009 N117    r
+X_C291	N005 N252    c
+X_R151	N253 N064    r
+X_C167	N008 N130    c
+X_R105	N041 shield    r
+X_C109	dgnd +2.5v    cap
+X_R89	+3.3vdd vs2    r
+X_C40	dgnd N031    c_el
+X_DD5	d3 a12 d4 scas d5 d6 swe d7 d8 d9 sms sras abe1/sdqm1 d10 d11 d12 d13 a1 abe0/sdqm0 d14 a2 d15 a3 a4 a5 a6 a7 
++ clk_out a8 a9 scke a10 a13 d0 a18 d1 a19 d2 sa10    mt48lc32m16a2p
+X_XP3	dgnd N254    ipl1_02
+X_R17	+3.3vdd N255    r
+X_R4	N256 N257    r
+X_R15M	N258 +15v    r
+X_C413	N163 N162    c
+X_C330	+24v -24v    c
+X_R430	shield N245    r
+X_C284	shield -5vma    c
+X_DA53	-5vma -5vma N259 N260 +5vma shield N261    ltc1569-7
+X_DA43	+5vma -5vma N262 N246 +5vma shield N263    ltc1569-7
+X_R289	N264 N054    r
+X_C323	sig5 N184    c
+X_DA35	+5vma -5vma N265 N266 +5vma shield N267    ltc1569-7
+X_C186	+5vma -5vma    c
+X_DD9	+3.3vdd +5vdd dgnd dgnd tx_com_5v N171 result_3lvl_l_5v rts_5v N268 result_3lvl_h_5v spi_mosi_mk_5v spi_cs_mk_5v 
++ spi_clk_mk_5v  UNCN_010  UNCN_011 tx_com result_3lvl_l rts result_3lvl_h spi_mosi_mk spi_cs_mk spi_clk_mk dgnd    
++sn74lvcc3245
+X_R51	N236 +3.3vdd    r
+X_C75	dgnd +5vma    cap
+X_C133	dgnd +2.5v    cap
+X_XP15	dgnd N269 dgnd N270 dgnd tdo N046 dgnd dgnd dgnd N139 dgnd    jtag
+X_C43	+3.3vdd dgnd    c
+X_R48	N271 N191    r
+X_C35	dgnd +5vdd    c_el
+X_R13M	N272 N248    r
+X_C341	N073 N002    c
+X_DA76	-5vma N249 N250 N183 N273 +5vma shield N274    ina128
+X_VD22	dgnd +5vma -5vma    bat54s
+X_R260	N275 N113    r
+X_R255	N251 N113    r
+X_DA45	-5vma N126 N128 N167 N054 N276 +5vma N166 clkr5 N127 N277 N278 N053 shield N223 shield N129 shield N279 shield 
++ N280 N264 N281    ltc1264
+X_R229	N198 N282    r
+X_DA16	-5vma N078 N235 N064 N131 N283 +5vma N063 clkr3 N284 N285 N253 N286 shield N079 shield N287 shield N288 shield 
++ N289 N213 N130    ltc1264
+X_DA11	+5vma -5vma N225 N290 +5vma shield N210    ltc1569-7
+X_C193	shield +5vma    c
+X_DD12	+5vdd clk_r_3v3 led_on_from_spartan_3v3 clk_r led_on_from_spart dgnd    sn74lvc2g17_1
+X_R209	N291 N292    r
+X_C222	+15v dgnd    c
+X_R216	N133 dgnd    r
+X_C230	N293 N294    c
+X_L11	N086 N295    blm18a
+X_L34	+5vdd bp_gnd dgnd +5vma_bp    bnx016
+X_XP4	bp_gnd -15v -5vma_bp bp_gnd dgnd -5vma_bp +5vma_bp +15v -5vma_bp +5vma_bp +15v bp_gnd -15v +5vma_bp dgnd bp_gnd 
++ +5vma_bp bp_gnd bp_gnd bp_gnd    idc20
+X_C23M	shield -15v    c
+X_VD3M	-15v N192    led
+X_C13M	ch12 N296    c
+X_DA19M	-15v cos cos cos_n +15v shield cos_p    ina134
+X_C345	N034 bp_gnd    c
+X_VD15	shield +15v    vd_new
+X_L18	+5vma bp_gnd shield +5vma_bp    bnx016
+X_R307	N281 N054    r
+X_C223	shield +15v    c
+X_C236	shield +5vma    c
+X_C140	shield -15v    c
+X_R124	N014 N024    r
+X_R136	N027 N016    r
+X_DA26	N297 N298 N291 -5vma N298 clk_20khz_in +5vma -5vma    ltc1064-2
+X_DD17	sclk ppi9 sram_a11 N299  UNCN_012 sram_data1 sram_a12 sram_data2 clk_timer_uc N067 sram_a13 sram_data3 ale_m 
++sram_a14 
++ sram_we_HASH_ ppi_clk sram_data4 sram_a15 sram_data5 tx_com rx_atmega128 sram_data6 tms sram_data7 N097 rx_ftdi  
++UNCN_013 
++ sram_data8 N092 spi_mosi_mk  UNCN_014 sram_data9 N089 ad4_m spi_cs_mk sram_data10 sram_cs_HASH_ miso result_3level_h 
++ppi_fs3 
++ sram_a0 N300 rx_com N301 N087 sram_a1 din sram_a2 N302  UNCN_015  UNCN_016 sram_a3 ad0_m mosi sram_oe_HASH_ sram_a4 
++vs0 init_b cclk ad5_m 
++ sram_a5 vs1 sram_a6 vs2 tdo sram_a7 result_3level_l N099 senres N202 N094 tck N303 N203  UNCN_017 N042 N091  UNCN_018 
++N304  UNCN_019 ad1_m N305 N295 
++ led_on_from_spartan_3v3 note_present  UNCN_020 ad6_m cts  UNCN_021 ppi10 N237 sram_data11 ppi12 ppi11 N148 
++sram_data12 ppi13 sram_a8 N207 
++ sram_data13 ppi14 N104 sram_a9 m0 sram_data14 ppi15 tx_atmega128 m1  UNCN_022 sram_data15 N306 m2 sram_data16 
++sram_lb_HASH_ N238 
++ N239 ad2_m  UNCN_023 sram_ub_HASH_ tx_dsp spi_miso_mk  UNCN_024 rts done  UNCN_025 N098 ad7_m tx_ftdi  UNCN_026 N093 
++sram_a16 ppi0 N090 sram_a17 ppi1 ppi2  UNCN_027 ppi3 
++ ppi4 cs_spartan  UNCN_028 ppi5 ppi6 rx_dsp ppi7 N088 ad3_m spi_clk_mk clock_money_drv ppi8 sram_a10    xc3s500e
+X_R90	done +2.5v    r
+X_C110	dgnd +3.3vdd    cap
+X_HL11	N271 +3.3vdd    led
+X_R41	+5vdd N307    r
+X_DA4	N308 N174    mic39100
+X_L2M	+15v gnd_bp shield +15v_bp    bnx016
+X_C51M	+15v shield    c
+X_R198	clkr4 N052    r
+X_VD13	shield +5vma    vd_new
+X_R257	N056 shield    r
+X_R312	N121 N115    r
+X_R272	N220 N309    r
+X_VD11	N310 +5vma -5vma    bat54s
+X_R226	N076 N311    r
+X_R127	N078 N213    r
+X_C152	shield +5vma    c
+X_C150	shield +5vma    c
+X_VD21	dgnd +5vma -5vma    bat54s
+X_R82	m0 dgnd    r
+X_R79	dgnd N305    r
+X_L4	+5vma bp_gnd dgnd +5vma_bp    bnx016
+X_C38	dgnd +5vdd    cap
+X_L1	N308 +2.5v    blm18a
+X_C2	N050 dgnd    c
+X_C6	dgnd +3.3vdd    cap
+X_C42M	shield +15v    c
+X_C47M	shield -15v    c
+X_DA12M	ch1_n N312 -15v ch1_p ch1_n +15v ch1_p    drv135
+X_FU2	+24v N313    fu
+X_VD24	dgnd +5vma -5vma    bat54s
+X_R343	shield N212    r
+X_R296	N278 N167    r
+X_R345	N185 shield    r
+X_C144	shield +15v    c
+X_R133	N235 N285    r
+X_C185	+5vma -5vma    c
+X_DA12	+5vma -5vma N146 N314 +5vma shield N315    ltc1569-7
+X_R218	N293 dgnd    r
+X_C102	dgnd N316    cap
+X_C108	dgnd +3.3vdd    cap
+X_C53	+3.3vdd dgnd    cap_el
+X_R40	N317 +2.5v    r
+X_R14	+3.3vdd miso    r
+X_C55M	-15v shield    c
+X_R3M	N318 N319    r
+X_R10M	N320 N244    r
+X_C53M	shield -15v    c
+X_C416	+24v -24v    c
+X_C411	bp_gnd -15v    c
+X_R304	N122 N114    r
+X_C293	N321 N125    c
+X_DA47	-5vma N220 N038 N322 N323 N039 +5vma N324 clkr6 N221 N325 N326 N327 shield N328 shield N329 shield N330 shield 
++ N331 N309 N252    ltc1264
+X_R220	N310 shield    r
+X_C243	N182 N266    c
+X_R191	shield N169    r
+X_DA25	 UNCN_029 -5vma sig2 N169 +5vma  UNCN_030  UNCN_031 N332    ad8610
+X_R207	fmain20khz_in N297    r
+X_C224	dgnd -15v    c
+X_L9	N333 N303    blm18a
+X_DA6	-5vma N045 N029 N334 +5vma cml_adc N044    ad8138
+X_C79	dgnd -5vma    cap
+X_C105	+3.3vdd dgnd    cap_el
+X_R93	+3.3vdd N335    r
+X_R38	+3.3vdd N336    r
+X_C10	dgnd +1.2v    cap
+X_C11	dgnd +1.2v    cap
+X_R6	+3.3vdd N337    r
+X_C41M	shield +15v    c
+X_C412	N164 N161    c
+X_R350	bp_gnd N338    r
+X_DA44	+5vma -5vma N075 N339 +5vma shield N275    ltc1569-7
+X_R346	N340 shield    r
+X_C259	N341 N061    c
+X_C254	shield +5vma    c
+X_R152	N288 N064    r
+X_R119	N080 N342    r
+X_C155	+5vma -5vma    c
+X_DA15	-5vma N080 N214 N066 N012 N065 +5vma N081 clkr2 N342 N343 N344 N345 shield N346 shield N347 shield N348 shield 
++ N349 N011 N350    ltc1264
+X_C139	shield -15v    c
+X_R102	N351 N041    r
+X_VD6	N030 +5vma dgnd    bat54s
+X_C100	N103 dgnd    cap
+X_R95	tms N269    r
+X_C124	+1.2v dgnd    cap_el
+X_R26	N140 N352    r
+X_R45	rx_ftdi N353    r
+X_DD1	+3.3vdd +1.2v N175 reset    max6736
+X_R21	N354 a5 N355 a6 a7 a8 N356 N357    res4_array
+X_R16M	N258 +15v    r
+X_C419	N358 N070    c
+X_A3	bp_gnd N033 N143  UNCN_032 +5vma_bp    ten15
+X_DA81	-5vma N359 N360 N321 N261 +5vma shield N109    ina128
+X_R108	N315 N201    r
+X_R265	N165 N036    r
+X_R290	N309 N323    r
+X_C322	sig7 N211    c
+X_R107	N201 shield    r
+X_R156	N349 N012    r
+X_R131	N214 N347    r
+X_C181	shield +5vma    c
+X_C209	dgnd +5vma    c
+X_C228	N133 N132    c
+X_C117	dgnd N361    cap
+X_R92	N043 N205    r
+X_C76	cml_adc dgnd    cap
+X_C116	dgnd +2.5v    cap
+X_C55	dgnd +5vdd    cap
+X_C5	+3.3vdd dgnd    cap_el
+X_R19	N362 clk_out    r
+X_DA2M	N363 N320 N230 N141 N141 -15v N230 cos N320 +15v sin N363 sin cos    opa4134
+X_L33	+24v -24v N358 N364    b827
+X_R353	-5vma_bp N365    r
+X_HL16	N338 +5vma_bp    led
+X_R426	shield N182    r
+X_R258	N263 N056    r
+X_R268	N126 N264    r
+X_C310	+5vma -5vma    c
+X_R248	shield N155    r
+X_R192	N366 shield    r
+X_C153	shield +5vma    c
+X_R148	N344 N066    r
+X_R99	ch1p ch1n    r
+X_C226	N294 dgnd    c
+X_R66	dgnd N367    r
+X_C78	dgnd +5vdd    c
+X_C86	dgnd +5vma    cap
+X_C89	dgnd +5vma    cap
+X_DD11	+3.3vdd +1.2v N368 prog_b    max6736
+X_R33	N369 N172    r
+X_R_JTAG_DSP1	+3.3vdd trst_dsp    r
+X_C8	+1.2v dgnd    cap_el
+X_C7	dgnd +3.3vdd    cap
+X_C22M	shield +15v    c
+X_C5M	ch6 N231    c
+X_C8M	ch1 N370    c
+X_C37M	shield +15v    c
+X_C266	shield -15v    c
+X_C275	+5vma -5vma    c
+X_R208	ch4n ch4p    r
+X_R112	N371 N214    r
+X_C103	dgnd N316    cap
+X_R70	N372 dgnd    r
+X_R83	m1 dgnd    r
+X_R55	dgnd N334    r
+X_R68	dgnd N096    r
+X_HL15	N241 N373    led
+X_C36	dgnd +3.3vdd    cap
+X_A1	N209 +5vdd N047 N031    pth05010w
+X_C50M	shield -15v    c
+X_DA17M	ch6_n N374 -15v ch6_p ch6_n +15v ch6_p    drv135
+X_DA15M	ch4_n N375 -15v ch4_p ch4_n +15v ch4_p    drv135
+X_DA20M	-15v sin sin sin_p +15v shield sin_n    ina134
+X_XP18	bp_gnd -15v -5vma_bp bp_gnd shield -5vma_bp +5vma_bp +15v -5vma_bp +5vma_bp +15v bp_gnd -15v +5vma_bp shield 
++ bp_gnd +5vma_bp bp_gnd bp_gnd bp_gnd    idc20
+X_R202	clkr3 N051    r
+X_R434	N005 shield    r
+X_R417	N376 N377    r
+X_R254	N378 N056    r
+X_R309	N327 N323    r
+X_C309	shield +5vma    c
+X_R263	N055 N128    r
+X_R249	N341 shield    r
+X_R128	N078 N063    r
+X_R206	fcos_correct N379    r
+X_C239	dgnd -15v    c
+X_R75	N226 dgnd    r
+X_R50	N147 +3.3vdd    r
+X_R76	N305 +3.3vdd    r
+X_R77	N300 N380    r
+X_R34	+3.3vdd eedata    r
+X_C52	N307 dgnd    cap
+X_C12	dgnd +1.2v    cap
+X_C44M	shield -15v    c
+X_R297	N279 N167    r
+X_R234	N381 N382    r
+X_C430	N274 N314    c
+X_R185	N383 +5vma    r
+X_C96	dgnd +5vdd    cap
+X_C210	-5vma dgnd    c
+X_C84	N095 dgnd    cap
+X_R88	+3.3vdd vs1    r
+X_R44	N384 N385    r
+X_VD2	dgnd +15v    vd_new
+X_C35M	shield +15v    c
+X_L30	-15v N164 bp_gnd N161    bnx016
+X_C410	bp_gnd -15v    cap_el
+X_VD23	dgnd +5vma -5vma    bat54s
+X_R301	N386 +5vma    r
+X_C289	N387 N281    c
+X_R213	N388 N310    r
+X_R236	N389 N168    r
+X_R250	N155 sig4    r
+X_R146	N156 +5vma    r
+X_DA36	-5vma N076 N198 N382 N168 N390 +5vma N311 clkr4 N391 N199 N381 N233 shield N392 shield N282 shield N393 shield 
++ N389 N077 N200    ltc1264
+X_R210	N394 N134    r
+X_C74	dgnd +5vma    cap
+X_R81	tck +2.5v    r
+X_C122	dgnd +2.5v    cap
+X_C60	+3.3vdd dgnd    c
+X_VD5	dgnd +5vma    vd_new
+X_C44	dgnd +3.3vdd    cap
+X_C45	dgnd +3.3vdd    cap
+X_XP2	N255 dgnd    ipl1_02
+X_R13	+3.3vdd cs_boot_dsp    r
+X_C32M	shield +15v    c
+X_C45M	shield -15v    c
+X_R17M	N192 shield    r
+X_C21M	shield +15v    c
+X_C16M	shield -15v    c
+X_C270	shield +15v    c
+X_C306	shield -5vma    c
+X_DA30	+15v N388 N388 ch4p -15v shield ch4n    ina152
+X_R233	N311 N382    r
+X_C190	N366 N395    c
+X_R197	N169 sig2    r
+X_C201	shield -5vma    c
+X_C148	+5vma -5vma    c
+X_C164	N110 N290    c
+X_R153	N026 N016    r
+X_DA33	cos_n N132 -15v cos_p cos_n +15v cos_p    drv135
+X_C92	dgnd +5vma    cap
+X_HL14	N240 N335    led
+X_DA3	N173 dgnd dgnd_usb N396    ds9503
+X_C57	N069 dgnd    c
+X_R42	+3.3vdd N397    r
+X_C23	dgnd +3.3vdd    cap
+X_C17	dgnd +1.2v    cap
+X_C27M	shield -15v    c
+X_C43M	shield +15v    c
+X_DA5M	+15v N312 N312 shield -15v ch1 ch2    ina152
+X_C422	N071 N149    c
+X_C331	+24v -24v    c
+X_HL19	N365 bp_gnd    led
+X_R437	N321 shield    r
+X_R110	N158 N232    r
+X_VD19	N112 +5vma -5vma    bat54s
+X_DA40	+15v N378 N378 ch5p -15v shield ch5n    ina152
+X_R284	N036 N116    r
+X_C318	N340 N154    c
+X_R344	N398 shield    r
+X_C317	N185 N058    c
+X_DA39	 UNCN_033 -5vma sig4 N155 +5vma  UNCN_034  UNCN_035 N341    ad8610
+X_C158	shield -5vma    c
+X_C197	sig1 N189    c
+X_VD14	dgnd +5vma -5vma    bat54s
+X_L12	fmain20khz_in N301    r
+X_C227	N083 dgnd    c
+X_VD7	N101 +5vma dgnd    bat54s
+X_R58	N334 N029    r
+X_R80	init_b +3.3vdd    r
+X_C54	dgnd +5vdd    cap
+X_HL5	N399 +3.3vdd    led
+X_C42	N400 dgnd    c
+X_C37	dgnd N308    c_el
+X_R5	dgnd nmi    r
+X_C15	dgnd +1.2v    cap
+X_C9M	ch14 N108    c
+X_C17M	shield -15v    c
+X_DA79	-5vma N401 N402 N387 N059 +5vma shield N245    ina128
+X_VD25	dgnd +5vma -5vma    bat54s
+X_R311	N123 N115    r
+X_R269	N126 N166    r
+X_R227	N198 N390    r
+X_R184	N403 +5vma    r
+X_R149	N348 N066    r
+X_C151	shield +5vma    c
+X_C427	shield -5vma    c
+X_VD8	N041 +5vma -5vma    bat54s
+X_A2	N174 +5vdd    mic39100
+X_HL10	N384 +3.3vdd    led
+X_R203	clkr6 N404    r
+X_R424	shield N186    r
+X_R299	N326 N322    r
+X_C305	shield -5vma    c
+X_R349	N212 sig6    r
+X_C276	shield +5vma    c
+X_R223	N076 N392    r
+X_R132	N235 N283    r
+X_C426	shield +5vma    c
+X_C163	N405 N028    c
+X_R115	N013 N019    r
+X_C233	+15v dgnd    c
+X_C72	-15v dgnd    c
+X_R73	N406 N302    r
+X_C121	dgnd +3.3vdd    cap
+X_C127	dgnd +3.3vdd    cap
+X_DD20	tms +2.5v din +3.3vdd done jtag_tdi N380 tck prog_b +3.3vdd  UNCN_036 cclk init_b    xcf04svo20
+X_C65	dgnd -15v    cap_el
+X_C62	dgnd -5vma    cap_el
+X_XP4_R2	-15v_bp +15v_bp dgnd dgnd    xp02
+X_C39	dgnd N174    c_el
+X_HL2	N407 N337    led
+X_C25	dgnd +3.3vdd    cap
+X_VD1M	shield led_on_from_spart    led
+X_R5M	N408 N219    r
+X_C11M	ch10 N319    c
+X_R427	N181 shield    r
+X_R273	N220 N324    r
+X_R282	N038 N325    r
+X_R308	N331 N323    r
+X_R275	N128 N277    r
+X_C141	shield -15v    c
+X_R159	N289 N131    r
+X_R195	N224 sig3    r
+X_C200	shield +5vma    c
+X_C192	N332 N409    c
+X_R154	N022 N016    r
+X_C132	dgnd +1.2v    cap
+X_C51	dgnd +3.3vdd    cap
+X_C49M	shield -15v    c
+X_C54M	shield -15v    c
+X_C205	+5vma shield    c
+X_R302	N117 N114    r
+X_R298	N324 N322    r
+X_C292	N007 N339    c
+X_R235	N393 N382    r
+X_C195	shield +5vma    c
+X_R215	N135 N136    r
+X_C221	+15v dgnd    c
+X_C91	N101 N030    cap
+X_VD1X	+5vdd dgnd    c_el
+X_R16	+3.3vdd N254    r
+X_C24	dgnd +3.3vdd    cap
+X_DA10M	+15v N374 N374 shield -15v ch11 ch12    ina152
+X_DD23	+5vma clr_r1_a clr_r1_a N197 N404 shield    sn74lvc2g17_1
+X_C202	+5vma shield    c
+X_R433	N003 N004    r
+X_R422	shield N274    r
+X_C300	shield +5vma    c
+X_R336	N259 +5vma    r
+X_R103	N410 N201    r
+X_R157	N345 N012    r
+X_C146	N371 N201    c
+X_C183	shield +5vma    c
+X_R142	N018 N015    r
+X_R219	N137 dgnd    r
+X_DD13	+3.3vdd +5vdd dgnd dgnd rx_com_5v N367 cts_5v clock_money_drv_5v N372 senres_5v note_present_5v dgnd 
++ spi_miso_mk_5v  UNCN_037 dgnd rx_com cts clock_money_drv senres_3.3v note_present  UNCN_038 spi_miso  UNCN_039    
++sn74lvcc3245
+X_R62	N268 +3.3vdd    r
+X_R84	+2.5v tms    r
+X_C128	dgnd +1.2v    cap
+X_C131	dgnd +3.3vdd    cap
+X_HL9	N227 +3.3vdd    led
+X_HL6	N411 N336    led
+X_R11	cs_at45 +3.3vdd    r
+X_C34M	shield +15v    c
+X_XP19	shield sin_p sin_n shield cos_p cos_n shield led_on_from_spart shield shield ch3 shield ch2 shield ch1 shield 
++ shield clk_r shield ch7 shield ch6 shield ch5 shield ch4    idc-26
+X_VD12	-5vma shield    vd_new
+X_R278	N009 N118    r
+X_C279	shield +5vma    c
+X_C325	shield -5vma    c
+X_R335	N057 +5vma    r
+X_R232	N265 +5vma    r
+X_C232	N412 N310    c
+X_R230	N390 N382    r
+X_C247	shield -5vma    c
+X_C258	shield -5vma    c
+X_C431	N183 N350    c
+X_C142	shield +15v    c
+X_DD15	N216 N406    sg8002ca
+X_DD14	N138 reset_vd_spartan +2.5v N368    max6825suk_t
+X_R27	N413 N414    r
+X_C58	+3.3vdd dgnd    c
+X_VD3	-15v dgnd    vd_new
+X_R10	trst_dsp dgnd    r
+X_C4	N415 dgnd    c
+X_R23	+3.3vdd ardy    r
+X_DD3_sec2	 UNCN_040 a15  UNCN_041 a16  UNCN_042 a17  UNCN_043 d10 a18  UNCN_044 d11 a19  UNCN_045 d12 bgh  UNCN_046 
++d13  UNCN_047  UNCN_048 d14 N416  UNCN_049  UNCN_050  UNCN_051  UNCN_052 d15 N417  UNCN_053  UNCN_054 are N418  
++UNCN_055  UNCN_056 N419  UNCN_057  UNCN_058  UNCN_059  UNCN_060 N355  UNCN_061  UNCN_062  UNCN_063 N354  UNCN_064  
++UNCN_065  UNCN_066  UNCN_067 N357  UNCN_068  UNCN_069  UNCN_070  UNCN_071  UNCN_072 N356  UNCN_073  UNCN_074 ardy a9  
++UNCN_075  UNCN_076  UNCN_077  UNCN_078  UNCN_079  UNCN_080 bg  UNCN_081  UNCN_082 N255 
++ ame N254  UNCN_083 d0  UNCN_084 d1  UNCN_085  UNCN_086 d2 d3  UNCN_087 d4  UNCN_088 d5 d6  UNCN_089 d7  UNCN_090 d8 
++ams0  UNCN_091  UNCN_092 d9  UNCN_093 aoe ams1 ams2  UNCN_094 ams3  UNCN_095  UNCN_096  UNCN_097  UNCN_098  UNCN_099  
++UNCN_100  UNCN_101  UNCN_102  UNCN_103  UNCN_104 a10  UNCN_105  UNCN_106 a11  UNCN_107 a12  UNCN_108 a13 a14    
++adsp_bf533
+X_R6M	N420 N421    r
+X_C335	N143 N033    c
+X_R431	N387 shield    r
+X_R221	N267 N310    r
+X_R348	N184 sig5    r
+X_C326	shield -5vma    c
+X_R189	shield N224    r
+X_R118	N080 N346    r
+X_R130	N214 N343    r
+X_R111	N040 N014    r
+X_L14	fcos_correct N304    r
+X_R86	m2 dgnd    r
+X_R97	jtag_tdi N270    r
+X_C136	dgnd +2.5v    cap
+X_C56	N068 dgnd    c
+X_VT2	N317 N422 dgnd    vt_npn
+X_DD3	N257  UNCN_109  UNCN_110  UNCN_111 miso  UNCN_112 emu  UNCN_113  UNCN_114 ppi_clk  UNCN_115  UNCN_116 cs_at45  
++UNCN_117  UNCN_118 spartan_cs  UNCN_119 tms_dsp cs_boot_dsp  UNCN_120  UNCN_121 swe N050 ppi_fs3 dr0sec  UNCN_122  
++UNCN_123 ppi15 mosi  UNCN_124  UNCN_125 N218 ppi14  UNCN_126  UNCN_127 ppi13 
++ ppi9  UNCN_128  UNCN_129 ppi_fram_syn1 ppi12 ppi8  UNCN_130  UNCN_131 ppi_f_syn2 ppi11 ppi7  UNCN_132  UNCN_133 
++rx_dsp N049 ppi10 ppi6  UNCN_134 sclk ppi5  UNCN_135  UNCN_136 tdi_dsp ppi4 tsclk dt0sec  UNCN_137 reset  UNCN_138 
++ trst_dsp tdo_dsp  UNCN_139  UNCN_140  UNCN_141 abe1/sdqm1  UNCN_142 abe0/sdqm0  UNCN_143 tck_dsp  UNCN_144  UNCN_145  
++UNCN_146 rsclk0  UNCN_147  UNCN_148  UNCN_149  UNCN_150 br  UNCN_151 tfs0  UNCN_152  UNCN_153  UNCN_154 scas  UNCN_155 
++N362  UNCN_156  UNCN_157  UNCN_158 ppi0  UNCN_159 ppi1  UNCN_160 dr0pri ppi2 nmi N415 ppi3 sras scke 
++ dt0pri  UNCN_161 sms rfs0  UNCN_162  UNCN_163  UNCN_164 tx_dsp  UNCN_165  UNCN_166    adsp_bf533
+X_VD2M	shield N258    led
+X_C415	N423 N164    c
+X_A4	-5vma_bp N073 N072  UNCN_167 bp_gnd    ten15
+X_C253	shield -5vma    c
+X_R313	N125 N115    r
+X_C308	shield +5vma    c
+X_R109	N232 shield    r
+X_C237	+5vma -5vma    c
+X_R222	N412 N198    r
+X_C154	shield +5vma    c
+X_C189	shield -5vma    c
+X_R438	+5vma N316    r
+X_C231	N137 N083    c
+X_R49	N206 +3.3vdd    r
+X_DA5	N333 N086 N236 N147 N206 dgnd ch6 N215 dgnd ch7 ch1 dgnd dgnd ch2 dgnd dgnd dgnd ch3 dgnd ch4 dgnd ch5    adg1206
+X_C87	+3.3vdd dgnd    cap_el
+X_C106	+2.5v dgnd    cap_el
+X_C137	dgnd +3.3vdd    cap
+X_R32	N424 N399    r
+X_DA1	reset_ft2232d dgnd dgnd_usb N140    ds9503
+X_DD6	+3.3vdd  UNCN_168 +3.3vdd reset_ft2232d  UNCN_169 N400 N413  UNCN_170 +5vdd N172  UNCN_171 N068 dgnd dgnd dgnd  
++UNCN_172 N228 N385  UNCN_173 N369  UNCN_174 eesk trst N424 N425 eedata 
++ N069 dgnd +5vdd N208 N353  UNCN_175  UNCN_176 N307  UNCN_177  UNCN_178 tck_dsp  UNCN_179 tdi_dsp  UNCN_180  UNCN_181 
++tdo_dsp tms_dsp trst_dsp eecs emu    ft2232d
+X_VT1	N229 N411 dgnd    vt_npn
+X_R436	N359 N360    r
+X_DA77	-5vma N150 N151 N008 N426 +5vma shield N186    ina128
+X_R253	ch7n ch7p    r
+X_R251	ch5n ch5p    r
+X_R126	N078 N284    r
+X_C156	+5vma -5vma    c
+X_R134	N235 N287    r
+X_C199	shield -5vma    c
+X_R116	N013 N027    r
+X_C213	-5vma dgnd    c
+X_C104	N306 N226    cap
+X_DD10	+3.3vdd done reset_vd_spartan N247 N085 dgnd    sn74lvc2g17_1
+X_L5	-5vma bp_gnd dgnd -5vma_bp    bnx016
+X_R2	N427 +3.3vdd    r
+X_R12	+3.3vdd mosi    r
+X_R22	+3.3vdd br    r
+X_DA8M	+15v N375 N375 shield -15v ch7 ch8    ina152
+X_C30M	shield +15v    c
+X_DA3M	N193 N428 N318 N272 N272 -15v N318 cos N428 +15v sin N193 sin cos    opa4134
+X_C18M	shield -15v    c
+X_XP20	-24v N313 N313 -24v    xp02
+X_XP4_R5	-15v_bp +15v_bp shield shield    xp02
+X_DA42	+15v N152 N152 ch7p -15v shield ch7n    ina152
+X_R261	N112 shield    r
+X_DA46	+5vma -5vma N386 N145 +5vma shield N111    ltc1569-7
+X_R291	N116 N114    r
+X_R283	N038 N329    r
+X_R274	N128 N276    r
+X_C240	shield -5vma    c
+X_R238	N200 N168    r
+X_C162	shield +5vma    c
+X_DA23	 UNCN_182 -5vma sig3 N224 +5vma  UNCN_183  UNCN_184 N366    ad8610
+X_C206	dgnd N297    c
+X_C73	+5vma dgnd    cap_el
+X_R96	N380 +2.5v    r
+X_HL8	N422 N397    led
+X_DD4	+3.3vdd spartan_cs reset N407 N176 dgnd    sn74lvc2g17_1
+X_C36M	shield +15v    c
+X_DA18M	ch7_n N001 -15v ch7_p ch7_n +15v ch7_p    drv135
+X_R11M	N363 N429    r
+X_R9M	N430 N370    r
+X_C352	bp_gnd -5vma_bp    c
+X_R288	N039 N322    r
+X_C315	shield -5vma    c
+X_R293	N262 +5vma    r
+X_R342	shield N184    r
+X_C245	shield +5vma    c
+X_R138	N283 N064    r
+X_DA22	-5vma -5vma N383 N409 +5vma shield N273    ltc1569-7
+X_C212	-5vma dgnd    c
+X_R217	N136 dgnd    r
+X_C31M	shield +15v    c
+X_R1M	N431 N296    r
+X_C20M	shield +15v    c
+X_C1M	ch2 N421    c
+X_XP23	bp_gnd -15v -5vma_bp bp_gnd bp_gnd -5vma_bp +5vma_bp +15v -5vma_bp +5vma_bp +15v bp_gnd -15v +5vma_bp bp_gnd 
++ bp_gnd +5vma_bp bp_gnd bp_gnd bp_gnd    idc20
+X_C421	N358 N364    c
+X_R285	N036 N119    r
+X_DA55	 UNCN_185 -5vma sig7 N211 +5vma  UNCN_186  UNCN_187 N398    ad8610
+X_C319	shield +5vma    c
+X_DA57	 UNCN_188 -5vma sig6 N212 +5vma  UNCN_189  UNCN_190 N340    ad8610
+X_C182	shield +5vma    c
+X_R158	N350 N012    r
+X_DA8	+15v N351 N351 ch1n -15v shield ch1p    ina152
+X_R143	N021 N015    r
+X_C207	dgnd N379    c
+X_DA27	N379 N432 N394 -5vma N432 clk_20khz_in +5vma -5vma    ltc1064-2
+X_C81	dgnd -5vma    cap
+X_C63	dgnd -5vma    c
+X_XS1	dgnd_usb N433 dgnd_usb  UNCN_191 dgnd_usb N396 dgnd_usb N352 dgnd_usb dgnd_usb    miniusb
+X_DA2	N414 dgnd dgnd_usb N433    ds9503
+X_R36	+3.3vdd eecs    r
+X_ZQ1	N049 N050    zq
+X_C9	dgnd +1.2v    cap
+X_DA4M	N434 N435 N420 N430 N430 -15v N420 cos N435 +15v sin N434 N436 N436    opa4134
+X_R429	N401 N402    r
+X_C321	shield +5vma    c
+X_R305	N280 N054    r
+X_C307	shield +5vma    c
+X_C97	dgnd +5vdd    c
+X_C95	dgnd +5vma    cap
+X_HL4	N437 +3.3vdd    led
+X_C49	dgnd +3.3vdd    c
+X_DD2	N427 N256    sg8002ca
+X_C3	dgnd +3.3vdd    c
+X_C249	shield -5vma    cap_el
+X_C248	+5vma shield    cap_el
+X_C252	+5vma shield    c
+X_R292	N124 N115    r
+X_C316	N398 N260    c
+X_C220	shield -15v    c
+X_DA10	+15v N438 N438 ch3p -15v shield ch3n    ina152
+X_R224	N076 N391    r
+X_R120	N080 N011    r
+X_R122	N014 N017    r
+X_C99	dgnd +3.3vdd    c
+X_R91	N361 N204    r
+X_R52	N333 +3.3vdd    r
+X_R56	N215 N044    r
+X_C107	dgnd +3.3vdd    cap
+X_C115	dgnd +3.3vdd    cap
+X_R31	N425 N437    r
+X_DD7	reset_at45 cs_at45 sclk +3.3vdd +3.3vdd mosi miso    at45db161d
+X_VD20	dgnd +5vdd    vd_new
+X_C34	dgnd +3.3vdd    cap
+X_C33	dgnd +3.3vdd    cap
+X_C47	dgnd +3.3vdd    cap
+X_R12M	N428 N439    r
+X_C6M	ch7 N439    c
+X_C414	N163 N423    c
+X_R419	N405 shield    r
+X_R310	N252 N323    r
+X_C298	shield +5vma    c
+X_R104	N438 N232    r
+X_R160	N286 N131    r
+X_C147	N234 N232    c
+X_R190	shield N189    r
+X_C191	N190 N187    c
+X_R211	N440 N294    r
+X_C41	dgnd +5vdd    cap
+X_VD4	-5vma dgnd    vd_new
+X_C18	dgnd +3.3vdd    cap
+X_C46M	shield -15v    c
+X_DA1M	N431 N242 N107 N408 N408 -15v N107 cos N242 +15v sin N431 sin cos    opa4134
+X_C12M	ch11 N243    c
+X_C3M	ch4 N429    c
+X_C269	shield +15v    c
+X_VD17	N056 +5vma -5vma    bat54s
+X_R303	N120 N114    r
+X_C288	shield -5vma    c
+X_C278	shield +5vma    c
+X_R287	N276 N167    r
+X_C304	shield -5vma    c
+X_C194	shield +5vma    c
+X_DA21	-5vma -5vma N403 N395 +5vma shield N426    ltc1569-7
+X_DA9	+15v N410 N410 ch2p -15v shield ch2n    ina152
+X_R196	N189 sig1    r
+X_R155	N028 N016    r
+X_DA31	-15v +15v N440 N292 N132 N133 N440 N293    ad822
+X_C85	N100 dgnd    cap
+X_C88	N095 N100    cap
+X_XP8	dgnd N138    ipl1_02
+X_C111	dgnd +3.3vdd    cap
+X_C112	dgnd +2.5v    cap
+X_C114	dgnd +2.5v    cap
+X_R94	+3.3vdd N373    r
+X_R85	+3.3vdd vs0    r
+X_C32	dgnd +3.3vdd    cap
+X_R20	N417 a1 N416 a2 a3 a4 N419 N418    res4_array
+X_DA75	N149 N364 N358  UNCN_192 N071    ten15
+X_DA17	-5vma N376 N377 N405 N188 +5vma shield N110    ina128
+X_R270	N220 N328    r
+X_R300	N330 N322    r
+X_C312	+5vma -5vma    c
+X_C320	shield +5vma    c
+X_C261	shield +5vma    c
+X_C159	shield +5vma    c
+X_R194	N332 shield    r
+X_R144	N025 N015    r
+X_C234	+15v dgnd    c
+X_C238	dgnd -15v    c
+X_R78	prog_b N299    r
+X_XP5	dgnd cs_boot_dsp dgnd dgnd N191 miso +3.3vdd dgnd mosi sclk    idc10
+X_C48	N307 dgnd    cap
+X_HL7	dgnd N048    led
+X_R3	senres_3.3v N175    r
+X_C1	N049 dgnd    c
+X_C13	dgnd +1.2v    cap
+
+
+
+*** Subcircuit definition for empty blocks.
+
+.subckt  idc10	6 5 4 10 3 9 2 8 1 7 
+.ends
+
+
+.subckt  at45db161d	reset_HASH_ cs_HASH_ sck wp_HASH_ vcc si so 
+.ends
+
+
+.subckt  ina152	p3v3 v0 sense v_in- n3v3 ref v_in+ 
+.ends
+
+
+.subckt  mic39100	out in 
+.ends
+
+
+.subckt  idc24	in30 in31 in32 in20 in21 in22 in23 in24 in25 in26 in1 in27 in2 in3 in28 in10 in4 in29 in11 in5 in12 in6 
++ in13 in7 in14 in8 in15 in9 in16 in17 in18 in19 
+.ends
+
+
+.subckt  ad9225	bit2 otr bit3 bit4 bit5 bit6 bit7 bit8 bit9 capb refcom drvdd drvss sense bit10 bit11 cml bit12 capt 
++ vina vinb clk vref bit1 
+.ends
+
+
+.subckt  led	2 1 
+.ends
+
+
+.subckt  sn74lvc2g17_1	p3v3m a b y1 y2 gnddm 
+.ends
+
+
+.subckt  cap_el	a_OP_0_CP_ b_OP_0_CP_ 
+.ends
+
+
+.subckt  fu	2 1 
+.ends
+
+
+.subckt  pld2-40	24 6 40 19 35 12 23 5 18 34 29 11 22 4 17 33 28 10 39 21 3 16 32 27 9 38 20 2 15 31 26 8 37 1 14 30 
++ 25 7 36 13 
+.ends
+
+
+.subckt  drv135	-vo vin v- +vo -sense v+ +sense 
+.ends
+
+
+.subckt  ina128	-v rg1 rg2 -in vo +v ref +in 
+.ends
+
+
+.subckt  res4_array	lpin_OP_2_CP_ rpin_OP_8_CP_ lpin_OP_1_CP_ rpin_OP_7_CP_ rpin_OP_6_CP_ rpin_OP_5_CP_ lpin_OP_4_CP_ 
++ lpin_OP_3_CP_ 
+.ends
+
+
+.subckt  jtag	gnd_OP_0_CP_ tms gnd_OP_6_CP_ tdi gnd_OP_5_CP_ tdo tck gnd_OP_4_CP_ gnd_OP_3_CP_ gnd_OP_2_CP_ vref 
++ gnd_OP_1_CP_ 
+.ends
+
+
+.subckt  vd_new	a b 
+.ends
+
+
+.subckt  zq	2 1 
+.ends
+
+
+.subckt  sn74lvcc3245	vcca vccb gnd1 gnd2 b1 oe_HASH_ b2 b3 dir b4 b5 b6 b7 nc b8 a1 a2 a3 a4 a5 a6 a7 a8 
+.ends
+
+
+.subckt  sg8002ca	oe clk 
+.ends
+
+
+.subckt  xc3s500e	spi_cs_sck ppi9 a11 prog_b dout d0 a12 d1 clk_timer_uc clk_f_20khz_out a13 d2 ale_m a14 we_HASH_ 
++ ppi_clk d3 a15 d4 tx_com rx_atmega128 d5 tms d6 adc3_in rx_ftdi dr0sec d7 adc6_in spi_mosi_mk mosi d8 adc9_in ad4_m 
++ spi_cs_mk d9 cs_HASH_ spi_miso tx_can ppi_frame_sync ad0 tdi rx_com clk_f1 adc11_in ad1 din ad2 25mhz_in_g tsclk0 
++ dt0sec ad3 ad0_m spi_mosi oe_HASH_ ad4 vs0 init_b cclk ad5_m ad5 vs1 ad6 vs2 tdo ad7 rx_can adc1_in re_485 debag_pwm1 
++ adc4_in tck mux_en debag_pwm2 cso_b clk_r1 adc7_in clk_r_20khz clk_r2 rsclk0 ad1_m hswap mux0 f_main_20khz_out de_485 
++ cs_r_20khz ad6_m tx_485 tfs0 ppi10 mux1 d10 ch_addr0 ppi11 mux2 d11 ch_addr1 a8 mux3 d12 ch_addr2 adc12_in a9 m0 d13 
++ ch_addr3 tx_atmega128 m1 dr0pri d14 clk_adc_out m2 d15 lb_HASH_ debag_led1 debag_led2 ad2_m 27mhz_in_g ub_HASH_ tx_dsp 
++ spi_miso_mk debag_led3 rx_485 done debag_led4 adc2_in ad7_m tx_ftdi data_r_20khz adc5_in ad16 ppi0 adc8_in ad17 ppi1 
++ ppi2 dt0pri ppi3 ppi4 spi_cs_spartan rfs0 ppi5 ppi6 rx_dsp ppi7 adc10_in ad3_m spi_clk_mk re_com ppi8 a10 
+.ends
+
+
+.subckt  ltc1064-2	vin out_c vout v- rina fclk v+ 50/100 
+.ends
+
+
+.subckt  c	2 1 
+.ends
+
+
+.subckt  xcf04svo20	tms vccj do vcco ce_HASH_ tdi tdo tck cf_HASH_ vccint ceo_HASH_ clk oe/reset_HASH_ 
+.ends
+
+
+.subckt  ad8138	v- -out +out -in v+ vocm +in 
+.ends
+
+
+.subckt  bnx016	cb psg cg b 
+.ends
+
+
+.subckt  b827	a b y1 y2 
+.ends
+
+
+.subckt  adsp_bf533	clkin addr15 dr1pri addr16 miso addr17 emu data10 addr18 ppi_clk data11 addr19 pf0 data12 bgh pf1 
++ data13 tms pf2 data14 addr1 swe rtxi pf3 dr0sec data15 addr2 pf4 mosi are addr3 sa10 pf5 addr4 tmr0 pf6 pf10 dt1pri 
++ addr5 tmr1 pf7 pf11 addr6 vrout0 tmr2 pf8 pf12 addr7 vrout1 rx rtxo pf9 pf13 addr8 sck pf14 ardy addr9 tdi pf15 tsclk0 
++ dt0sec tsclk1 reset bg trst tdo bmode0 awe bmode1 abe0 data0 abe1 data1 tck dr1sec data2 data3 rsclk0 data4 rsclk1 
++ data5 data6 br data7 tfs0 data8 ams0 tfs1 scas data9 clkout aoe ams1 ams2 ppi_0 ams3 ppi_1 dt1sec dr0pri ppi_2 nmi xtal 
++ ppi_3 sras scke dt0pri addr10 sms rfs0 addr11 rfs1 addr12 tx addr13 addr14 
+.ends
+
+
+.subckt  max6736	vcc1 vcc2 mr_STAR_ rst_STAR_ 
+.ends
+
+
+.subckt  idc30	i1 i2 i3 i4 i30 i5 i6 i7 i8 i9 i20 i21 i22 i23 i24 i25 i26 i27 i28 i10 i29 i11 i12 i13 i14 i15 i16 i17 
++ i18 i19 
+.ends
+
+
+.subckt  ad822	v- v+ -in2 +in2 out1 -in1 out2 +in1 
+.ends
+
+
+.subckt  r	2 1 
+.ends
+
+
+.subckt  vt_npn	b c e 
+.ends
+
+
+.subckt  xp02	34 0vm reset 3 
+.ends
+
+
+.subckt  ina134	v- sense out -in v+ ref +in 
+.ends
+
+
+.subckt  mt48lc32m16a2p	dq3 a11 dq4 cas_HASH_ dq5 dq6 we_HASH_ dq7 dq8 dq9 cs_HASH_ ras_HASH_ dqmh dq10 dq11 dq12 dq13 
++ a0 dqml dq14 a1 dq15 a2 a3 a4 a5 a6 clk a7 a8 cke a9 a12/nc dq0 ba0 dq1 ba1 dq2 a10 
+.ends
+
+
+.subckt  blm18a	a b 
+.ends
+
+
+.subckt  miniusb	shield_OP_2_CP_ data- shield_OP_1_CP_ nc shield_OP_6_CP_ data+ shield_OP_5_CP_ +5v shield_OP_4_CP_ 
++ shield_OP_3_CP_ 
+.ends
+
+
+.subckt  ds9503	6 5 2 1 
+.ends
+
+
+.subckt  opa4134	out_a out_b out_c out_d -in_d v- -in_c +in_d -in_b v+ +in_c -in_a +in_b +in_a 
+.ends
+
+
+.subckt  c_el	2 1 
+.ends
+
+
+.subckt  idc-26	i1 i2 i3 i4 i5 i6 i7 i8 i9 i20 i21 i22 i23 i24 i25 i26 i10 i11 i12 i13 i14 i15 i16 i17 i18 i19 
+.ends
+
+
+.subckt  cap	a_OP_0_CP_ b_OP_0_CP_ 
+.ends
+
+
+.subckt  adg1206	en a0 a1 a2 a3 s10 s11 d s12 s13 s1 s2 s14 s3 s15 s4 s16 s5 s6 s7 s8 s9 
+.ends
+
+
+.subckt  pth05010w	r vin track v0 
+.ends
+
+
+.subckt  at25256a	hold_HASH_ cs_HASH_ sck wp_HASH_ vcc si so 
+.ends
+
+
+.subckt  idc20	6 19 12 5 18 11 4 17 10 3 16 9 20 2 15 8 1 14 7 13 
+.ends
+
+
+.subckt  ad8610	null2 v- out -in v+ nc null +in 
+.ends
+
+
+.subckt  ltc1264	v- inv_a inv_b inv_c inv_d hpb/nb v+ hpc/nc clk bpa bpb bpc bpd sa lpa sb lpb sc lpc sd lpd hpa/na 
++ hpd/nd 
+.ends
+
+
+.subckt  ipl1_02	2 1 
+.ends
+
+
+.subckt  ten15	-vout -vin +vin common +vout 
+.ends
+
+
+.subckt  cwf	3.3v 5v 
+.ends
+
+
+.subckt  ft2232d	vccioa adbus6 vcciob reset_HASH_ adbus7 3v3out usbdm si/wua vcc2 usbdp pwren_HASH_ xtout gnd2 gnd3 
++ gnd4 bcbus0 bcbus1 bcbus2 bcbus3 rstout_HASH_ acbus0 eesk acbus1 acbus2 acbus3 eedata xtin test vcc bdbus0 bdbus1 
++ bdbus2 bdbus3 avcc bdbus4 bdbus5 adbus0 bdbus6 adbus1 si/wub bdbus7 adbus2 adbus3 adbus4 eecs adbus5 
+.ends
+
+
+.subckt  max6825suk_t	mr_STAR_ reset vcc reset_STAR_ 
+.ends
+
+
+.subckt  bat54s	3 2 1 
+.ends
+
+
+.subckt  ltc1569-7	div/clk v- rx out v+ in- in+ 
+.ends
+
+
+
+*** Include Paths 

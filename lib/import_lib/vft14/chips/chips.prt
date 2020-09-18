@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Dec 07 16:39:50 2004' ;
+primitive 'VFT14';
+  pin
+    'FA':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VCC':
+      PIN_NUMBER='(14)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(7)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    NC_PINS='(2)';
+    CLASS='IC';
+    PART_NAME='VFT14';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F326';
+    FAMILY='VFT';
+    BODY_NAME='VFT14';
+  end_body;
+end_primitive;
+END.

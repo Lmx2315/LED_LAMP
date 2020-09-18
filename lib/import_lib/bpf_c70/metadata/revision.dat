@@ -1,0 +1,204 @@
+(Cell	bpf_c70
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/16/18,13:39:35)
+
+			(User	Pavel)
+
+			(Path	import_lib.bpf_c70)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/16/18,13:41:55)
+
+			(User	Pavel)
+
+			(Path	import_lib.bpf_c70)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000182158cc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/16/18,13:39:38)
+
+							(User	Pavel)
+
+							(Path	import_lib.bpf_c70)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001aa60380)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006319b2bf)
+
+			(Primitives	1
+
+				(Primitive	BPF_C70
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/16/18,13:39:41)
+
+							(User	Pavel)
+
+							(Path	import_lib.bpf_c70)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BPF_C70
+
+							(PackType	BPF_C70)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	bpf_c70)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e840415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000001b62034d)
+
+)
+

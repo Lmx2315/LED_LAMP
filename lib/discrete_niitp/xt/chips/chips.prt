@@ -1,0 +1,17 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Nov 12 14:46:31 2003' ;
+primitive 'XT';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='XT';
+    JEDEC_TYPE='f134';
+    BODY_NAME='xt';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,1 @@
+pdv_170,Cell 'dsub15':Pins 16,17 are not present in any of the packages or symbols.,Warning

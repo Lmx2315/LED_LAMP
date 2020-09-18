@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Jul 29 17:12:48 2004' ;
+primitive 'PVM4A_PVM4A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '3':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='PVM4A';
+    PHYS_DES_PREFIX='R';
+    JEDEC_TYPE='F223';
+    BODY_NAME='PVM4A';
+    FAMILY='PVM4A';
+  end_body;
+end_primitive;
+END.

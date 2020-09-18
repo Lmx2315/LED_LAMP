@@ -1,0 +1,216 @@
+(Cell	adsp_bf533
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.18)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,11:06:58)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.adsp_bf533)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,11:52:46)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.adsp_bf533)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000002d4108c3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,11:48:57)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.adsp_bf533)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000050080fed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,11:07:00)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.adsp_bf533)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000027010384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000a2bc217)
+
+			(Primitives	1
+
+				(Primitive	ADSP_BF533
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,11:52:38)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.adsp_bf533)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADSP_BF533
+
+							(PackType	ADSP_BF533)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	2
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b46f03ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000092f003db)
+
+)
+

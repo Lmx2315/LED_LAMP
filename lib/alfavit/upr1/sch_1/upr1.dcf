@@ -1,0 +1,106 @@
+( ConstraintFile "upr1"
+	( constraintHeader
+		( objectKey
+			( logical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 2 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "upr1"
+			)
+			( gate "@alfavit.upr1(sch_1):page1_i1"
+				( attribute "CDS_LIB" "b620"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-200,225,200,-225"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(150,1850)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CDCLVP1204"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CDCLVP1204"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I1" )
+				( pin "in_sel"
+				)
+				( pin "inn0"
+				)
+				( pin "inn1"
+				)
+				( pin "inp0"
+				)
+				( pin "inp1"
+				)
+				( pin "outn0"
+				)
+				( pin "outn1"
+				)
+				( pin "outn2"
+				)
+				( pin "outn3"
+				)
+				( pin "outp0"
+				)
+				( pin "outp1"
+				)
+				( pin "outp2"
+				)
+				( pin "outp3"
+				)
+				( pin "vac_ref"
+				)
+			)
+		)
+	)
+)

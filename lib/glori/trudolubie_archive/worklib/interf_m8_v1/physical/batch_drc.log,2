@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : interf_m8_v13_exp.brd            )
+(        Software Version : 15.2s086                         )
+(        Date/Time        : Fri Nov 09 10:29:44 2012         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Fri Nov 09 10:29:44 2012
+ ========= check standalone pins              Fri Nov 09 10:29:44 2012
+ ========= check symbols (pins,lines,text)    Fri Nov 09 10:29:44 2012
+ ========= check nets                         Fri Nov 09 10:29:44 2012
+ ========= check standalone branches          Fri Nov 09 10:29:44 2012
+ ========= check standalone filled rectangles Fri Nov 09 10:29:44 2012
+ ========= check standalone lines             Fri Nov 09 10:29:44 2012
+ ========= check standalone text              Fri Nov 09 10:29:44 2012
+ ========= check standalone rectangles        Fri Nov 09 10:29:44 2012
+
+ ..... Total number of DRC errors  69
+
+ ..... end batch DRC at                       Fri Nov 09 10:29:44 2012
+ *************************************************************************
+

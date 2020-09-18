@@ -1,0 +1,180 @@
+(Cell	adm6320
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/02/13,11:28:27)
+
+			(User	Sergey)
+
+			(Path	import_lib.adm6320)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/02/13,11:32:24)
+
+			(User	Sergey)
+
+			(Path	import_lib.adm6320)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006d5e917b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/02/13,11:28:30)
+
+							(User	Sergey)
+
+							(Path	import_lib.adm6320)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cba03b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000befcc6d2)
+
+			(Primitives	1
+
+				(Primitive	ADM6320
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/02/13,11:31:04)
+
+							(User	Sergey)
+
+							(Path	import_lib.adm6320)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADM6320
+
+							(PackType	ADM6320)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot-23-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f78043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ba90381)
+
+)
+

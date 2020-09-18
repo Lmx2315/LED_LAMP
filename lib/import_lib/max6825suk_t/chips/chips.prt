@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Dec 23 17:19:59 2004' ;
+primitive 'MAX6825SUK_T';
+  pin
+    '-RESET':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-MR':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'VCC':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX6825SUK_T';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='F57';
+    FAMILY='MAX682x';
+    BODY_NAME='MAX6825SUK_T';
+  end_body;
+end_primitive;
+END.

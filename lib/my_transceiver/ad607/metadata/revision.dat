@@ -1,0 +1,170 @@
+(Cell	ad607
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/06/11,15:10:03)
+
+			(User	senzenist_s_n)
+
+			(Path	my_transceiver.ad607)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/06/11,15:16:46)
+
+			(User	senzenist_s_n)
+
+			(Path	my_transceiver.ad607)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008dc2f06c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/11,15:10:13)
+
+							(User	senzenist_s_n)
+
+							(Path	my_transceiver.ad607)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f31203e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009bf3c6ff)
+
+			(Primitives	1
+
+				(Primitive	AD607
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/11,15:16:41)
+
+							(User	senzenist_s_n)
+
+							(Path	my_transceiver.ad607)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD607
+
+							(PackType	AD607)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c2e803de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000d2e503df)
+
+)
+

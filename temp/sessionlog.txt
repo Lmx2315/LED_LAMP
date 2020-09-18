@@ -1,0 +1,17 @@
+09/10/20  18:05:03		Opening project D:/SPB_Data/LED_lamp/led_drv1.cpm
+09/10/20  18:05:03		cdslib D:/SPB_Data/LED_lamp/cds.lib opened
+09/10/20  18:05:03		Project D:/SPB_Data/LED_lamp/led_drv1.cpm opened
+09/10/20  18:05:05		Loading cell b130 from library import_lib
+09/10/20  18:05:05		Loading view sym_1 of cell b130
+09/10/20  18:05:05		Loading view chips of cell b130
+09/10/20  18:05:05		Loading cell b130 from library import_lib
+09/10/20  18:05:05		Analyzing view relationships of cell b130 in library import_lib
+09/10/20  18:05:05		Completed loading cell b130 from library import_lib
+09/10/20  18:05:05		Starting validations on cell b130 of library import_lib
+09/10/20  18:05:05		Completed validations on cell b130 of library import_lib
+09/10/20  18:06:15		Loading view sym_1 of cell b130
+09/10/20  18:06:15		Loading view sym_1 of cell b130
+09/10/20  18:06:16		Starting validations on cell b130 of library import_lib
+09/10/20  18:06:16		Completed validations on cell b130 of library import_lib
+09/10/20  18:06:17		Completed saving cell b130 in library import_lib 
+09/10/20  18:06:18		Project D:/SPB_Data/LED_lamp/led_drv1.cpm is closed.

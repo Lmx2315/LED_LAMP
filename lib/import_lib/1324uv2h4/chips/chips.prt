@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive '1324UV2H4';
+  pin
+    'IN':
+      PIN_NUMBER='(6)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OUT':
+      PIN_NUMBER='(12)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='1324UV2H4';
+    BODY_NAME='1324UV2H4';
+    JEDEC_TYPE='1324uv2h4';
+    PHYS_DES_PREFIX='DA';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:2,3,5,8,9,11)';
+    NC_PINS='(1,4,7,10)';
+    CDS_LMAN_UNMAPPED_PHYS_PIN='()';
+  end_body;
+end_primitive;
+
+END.

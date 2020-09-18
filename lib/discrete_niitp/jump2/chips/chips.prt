@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Oct 08 16:48:06 2003' ;
+primitive 'JUMP2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='JUMP2';
+    JEDEC_TYPE='F117';
+    BODY_NAME='JUMP2';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

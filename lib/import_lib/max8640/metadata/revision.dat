@@ -1,0 +1,170 @@
+(Cell	max8640
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,10:47:36)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.max8640)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,10:50:23)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.max8640)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008fdfb2fa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,10:47:39)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.max8640)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001eb70444)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ea4651c1)
+
+			(Primitives	1
+
+				(Primitive	MAX8640
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,10:48:50)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.max8640)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX8640
+
+							(PackType	MAX8640)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000274c0384)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000e9110350)
+
+)
+

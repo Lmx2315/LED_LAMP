@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Aug 02 19:20:16 2004' ;
+primitive 'LED';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='LED';
+    PHYS_DES_PREFIX='HL';
+    JEDEC_TYPE='0805';
+    FAMILY='LED';
+    BODY_NAME='LED';
+    LOCATION='VD';
+    PACK_TYPE='?';
+  end_body;
+end_primitive;
+END.

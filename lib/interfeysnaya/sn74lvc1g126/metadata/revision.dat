@@ -1,0 +1,162 @@
+(Cell	sn74lvc1g126
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/08/06,10:10:33)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.sn74lvc1g126)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000baf4c399)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,10:10:33)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.sn74lvc1g126)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000440103e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005c4d8864)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC1G125
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,10:10:33)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.sn74lvc1g126)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC1G125
+
+							(PackType	SN74LVC1G125)
+
+							(PackType	SN74LVC1G125_SC70-5)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000930e03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000944f03ab)
+
+)
+

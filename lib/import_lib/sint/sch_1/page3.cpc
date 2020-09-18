@@ -1,0 +1,537 @@
+#CELL
+  import_lib sn74lvc1g08 *
+  page4_i10
+#CELL
+  import_lib led *
+  page4_i100
+#CELL
+  import_lib led *
+  page4_i101
+#CELL
+  import_lib blm18a *
+  page4_i143
+#CELL
+  import_lib blm18a *
+  page4_i144
+#CELL
+  import_lib blm18a *
+  page4_i145
+#CELL
+  import_lib blm18a *
+  page4_i150
+#ISCELL
+  power_niitp shield *
+  page4_i179
+#ISCELL
+  power_niitp p3v3 *
+  page4_i180
+#CELL
+  discrete_niitp r *
+  page4_i181
+#CELL
+  discrete_niitp c *
+  page4_i182
+#ISCELL
+  power_niitp shield *
+  page4_i183
+#ISCELL
+  power_niitp shield *
+  page4_i184
+#ISCELL
+  power_niitp shield *
+  page4_i185
+#ISCELL
+  power_niitp shield *
+  page4_i186
+#ISCELL
+  power_niitp shield *
+  page4_i187
+#ISCELL
+  power_niitp shield *
+  page4_i188
+#ISCELL
+  power_niitp shield *
+  page4_i189
+#ISCELL
+  power_niitp shield *
+  page4_i190
+#CELL
+  discrete_niitp r *
+  page4_i191
+#CELL
+  discrete_niitp r *
+  page4_i192
+#CELL
+  discrete_niitp r *
+  page4_i193
+#CELL
+  discrete_niitp c *
+  page4_i194
+#CELL
+  discrete_niitp c *
+  page4_i195
+#CELL
+  import_lib a3_2 *
+  page4_i196
+#ISCELL
+  power_niitp p3v3 *
+  page4_i197
+#ISCELL
+  power_niitp p3v3 *
+  page4_i198
+#ISCELL
+  power_niitp shield *
+  page4_i199
+#ISCELL
+  power_niitp shield *
+  page4_i200
+#ISCELL
+  power_niitp shield *
+  page4_i201
+#ISCELL
+  power_niitp shield *
+  page4_i202
+#ISCELL
+  power_niitp shield *
+  page4_i203
+#ISCELL
+  power_niitp shield *
+  page4_i204
+#ISCELL
+  power_niitp p3v3 *
+  page4_i205
+#ISCELL
+  power_niitp shield *
+  page4_i206
+#ISCELL
+  power_niitp shield *
+  page4_i207
+#ISCELL
+  power_niitp shield *
+  page4_i208
+#ISCELL
+  power_niitp shield *
+  page4_i209
+#ISCELL
+  standard replicate *
+  page4_i21
+#ISCELL
+  power_niitp shield *
+  page4_i210
+#ISCELL
+  power_niitp shield *
+  page4_i211
+#ISCELL
+  power_niitp shield *
+  page4_i212
+#ISCELL
+  power_niitp shield *
+  page4_i213
+#ISCELL
+  power_niitp shield *
+  page4_i214
+#ISCELL
+  power_niitp shield *
+  page4_i215
+#ISCELL
+  power_niitp p3v3 *
+  page4_i216
+#ISCELL
+  power_niitp p3v3 *
+  page4_i217
+#ISCELL
+  power_niitp p3v3 *
+  page4_i218
+#ISCELL
+  power_niitp p3v3 *
+  page4_i219
+#ISCELL
+  standard replicate *
+  page4_i22
+#ISCELL
+  power_niitp p3v3 *
+  page4_i220
+#CELL
+  discrete_niitp c *
+  page4_i221
+#CELL
+  discrete_niitp c *
+  page4_i222
+#CELL
+  discrete_niitp c *
+  page4_i223
+#CELL
+  discrete_niitp c *
+  page4_i224
+#CELL
+  discrete_niitp c *
+  page4_i225
+#ISCELL
+  power_niitp p3v3 *
+  page4_i226
+#ISCELL
+  power_niitp p3v3 *
+  page4_i227
+#CELL
+  discrete_niitp r *
+  page4_i228
+#CELL
+  discrete_niitp r *
+  page4_i229
+#CELL
+  discrete_niitp r *
+  page4_i230
+#CELL
+  discrete_niitp r *
+  page4_i231
+#CELL
+  discrete_niitp r *
+  page4_i232
+#CELL
+  discrete_niitp r *
+  page4_i233
+#CELL
+  discrete_niitp r *
+  page4_i234
+#CELL
+  discrete_niitp r *
+  page4_i235
+#CELL
+  discrete_niitp r *
+  page4_i236
+#CELL
+  discrete_niitp r *
+  page4_i237
+#CELL
+  discrete_niitp r *
+  page4_i238
+#CELL
+  discrete_niitp r *
+  page4_i239
+#CELL
+  discrete_niitp c *
+  page4_i240
+#CELL
+  discrete_niitp c *
+  page4_i241
+#CELL
+  discrete_niitp c *
+  page4_i242
+#CELL
+  discrete_niitp r *
+  page4_i243
+#CELL
+  discrete_niitp c *
+  page4_i244
+#CELL
+  discrete_niitp r *
+  page4_i245
+#CELL
+  discrete_niitp r *
+  page4_i246
+#CELL
+  discrete_niitp r *
+  page4_i247
+#CELL
+  discrete_niitp c *
+  page4_i248
+#CELL
+  discrete_niitp c_el *
+  page4_i249
+#CELL
+  discrete_niitp c_el *
+  page4_i250
+#CELL
+  discrete_niitp c_el *
+  page4_i251
+#CELL
+  discrete_niitp c_el *
+  page4_i252
+#CELL
+  discrete_niitp c_el *
+  page4_i253
+#ISCELL
+  power_niitp p3v3 *
+  page4_i254
+#CELL
+  discrete_niitp c_el *
+  page4_i255
+#CELL
+  discrete_niitp c_el *
+  page4_i256
+#CELL
+  discrete_niitp c_nfm21c *
+  page4_i257
+#ISCELL
+  power_niitp shield *
+  page4_i258
+#ISCELL
+  power_niitp shield *
+  page4_i259
+#ISCELL
+  power_niitp p3v3 *
+  page4_i260
+#ISCELL
+  power_niitp p3v3 *
+  page4_i261
+#ISCELL
+  power_niitp p3v3 *
+  page4_i262
+#ISCELL
+  power_niitp p3v3 *
+  page4_i263
+#ISCELL
+  power_niitp p3v3 *
+  page4_i264
+#CELL
+  discrete_niitp r *
+  page4_i265
+#CELL
+  discrete_niitp r *
+  page4_i266
+#CELL
+  discrete_niitp c *
+  page4_i268
+#CELL
+  discrete_niitp c *
+  page4_i269
+#ISCELL
+  standard replicate *
+  page4_i27
+#CELL
+  discrete_niitp c *
+  page4_i270
+#CELL
+  discrete_niitp c_el *
+  page4_i271
+#CELL
+  discrete_niitp h11a817 *
+  page4_i272
+#CELL
+  discrete_niitp r *
+  page4_i273
+#CELL
+  discrete_niitp r *
+  page4_i274
+#CELL
+  discrete_niitp r *
+  page4_i275
+#ISCELL
+  power_niitp p3v3 *
+  page4_i278
+#ISCELL
+  power_niitp p3v3 *
+  page4_i279
+#CELL
+  discrete_niitp c *
+  page4_i280
+#CELL
+  discrete_niitp c *
+  page4_i281
+#CELL
+  discrete_niitp l *
+  page4_i282
+#ISCELL
+  power_niitp shield *
+  page4_i283
+#CELL
+  import_lib max6736 *
+  page4_i286
+#CELL
+  discrete_niitp r *
+  page4_i287
+#CELL
+  discrete_niitp c_el *
+  page4_i288
+#CELL
+  import_lib mc74vhc1gt125 *
+  page4_i292
+#ISCELL
+  power_niitp shield *
+  page4_i293
+#ISCELL
+  power_niitp shield *
+  page4_i294
+#ISCELL
+  power_niitp shield *
+  page4_i295
+#CELL
+  discrete_niitp c *
+  page4_i296
+#ISCELL
+  power_niitp shield *
+  page4_i297
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i299
+#CELL
+  import_lib max803 *
+  page4_i3
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i300
+#ISCELL
+  power_niitp p3v3 *
+  page4_i301
+#ISCELL
+  power_niitp p3v3 *
+  page4_i302
+#ISCELL
+  power_niitp p3v3 *
+  page4_i303
+#ISCELL
+  power_niitp p3v3 *
+  page4_i304
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i305
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i306
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i307
+#ISCELL
+  power_niitp p3v3 *
+  page4_i308
+#ISCELL
+  power_niitp p3v3 *
+  page4_i309
+#CELL
+  import_lib tps5461x *
+  page4_i31
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i310
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i311
+#CELL
+  discrete_niitp c *
+  page4_i312
+#ISCELL
+  power_niitp shield *
+  page4_i313
+#CELL
+  import_lib blm18a *
+  page4_i314
+#CELL
+  import_lib sn74lvc2g00_1 *
+  page4_i315
+#CELL
+  discrete_niitp c *
+  page4_i316
+#ISCELL
+  power_niitp shield *
+  page4_i317
+#ISCELL
+  power_niitp p3v3 *
+  page4_i318
+#CELL
+  import_lib sn74lvc2g17_1 *
+  page4_i319
+#ISCELL
+  power_niitp shield *
+  page4_i320
+#CELL
+  discrete_niitp c *
+  page4_i321
+#ISCELL
+  power_niitp shield *
+  page4_i322
+#CELL
+  import_lib sn74lvc2g17_1 *
+  page4_i323
+#ISCELL
+  power_niitp shield *
+  page4_i324
+#CELL
+  discrete_niitp c *
+  page4_i325
+#ISCELL
+  power_niitp shield *
+  page4_i326
+#ISCELL
+  power_niitp shield *
+  page4_i327
+#CELL
+  import_lib blm18a *
+  page4_i328
+#ISCELL
+  power_niitp p3v3 *
+  page4_i329
+#CELL
+  import_lib sn74lvc2g07_1 *
+  page4_i330
+#ISCELL
+  power_niitp shield *
+  page4_i331
+#CELL
+  import_lib blm18a *
+  page4_i332
+#ISCELL
+  power_niitp p3v3 *
+  page4_i333
+#CELL
+  discrete_niitp c *
+  page4_i334
+#ISCELL
+  power_niitp shield *
+  page4_i335
+#CELL
+  import_lib blm18a *
+  page4_i336
+#CELL
+  import_lib blm18a *
+  page4_i338
+#ISCELL
+  discrete_niitp net_bus *
+  page4_i339
+#ISCELL
+  power_niitp shield *
+  page4_i340
+#CELL
+  discrete_niitp c_el *
+  page4_i341
+#ISCELL
+  power_niitp shield *
+  page4_i342
+#ISCELL
+  power_niitp shield *
+  page4_i343
+#ISCELL
+  power_niitp shield *
+  page4_i344
+#CELL
+  import_lib jump5 *
+  page4_i345
+#CELL
+  discrete_niitp vt_npn *
+  page4_i36
+#CELL
+  discrete_niitp vt_npn *
+  page4_i43
+#CELL
+  discrete_niitp vt_npn *
+  page4_i46
+#CELL
+  import_lib led *
+  page4_i65
+#CELL
+  import_lib led *
+  page4_i67
+#CELL
+  import_lib led *
+  page4_i84
+#CELL
+  import_lib iru1207_33cs *
+  page4_i86
+#CELL
+  discrete_niitp vt_npn *
+  page4_i87
+#CELL
+  import_lib si4465 *
+  page4_i88
+#CELL
+  discrete_niitp vt_npn *
+  page4_i93

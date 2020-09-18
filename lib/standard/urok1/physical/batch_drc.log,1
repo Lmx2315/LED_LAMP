@@ -1,0 +1,25 @@
+
+
+ *************************************************************************
+
+                   Drawing Name   d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra
+
+ ..... start batch DRC at                     Wed Dec 03 16:53:11 2003 
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Wed Dec 03 16:53:11 2003
+ ========= check standalone pins              Wed Dec 03 16:53:11 2003
+ ========= check symbols (pins,lines,text)    Wed Dec 03 16:53:11 2003
+ ========= check nets                         Wed Dec 03 16:53:11 2003
+ ========= check standalone branches          Wed Dec 03 16:53:11 2003
+ ========= check standalone filled rectangles Wed Dec 03 16:53:11 2003
+ ========= check standalone lines             Wed Dec 03 16:53:11 2003
+ ========= check standalone text              Wed Dec 03 16:53:11 2003
+ ========= check standalone rectangles        Wed Dec 03 16:53:11 2003
+ ..... Total number of DRC errors 0 
+ ..... end batch DRC at                       Wed Dec 03 16:53:11 2003
+ *************************************************************************
+
+

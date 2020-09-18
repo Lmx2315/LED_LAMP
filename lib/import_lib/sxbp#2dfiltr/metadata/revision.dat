@@ -1,0 +1,170 @@
+(Cell	sxbp-filtr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/21/11,14:13:32)
+
+			(User	Sergey)
+
+			(Path	import_lib.sxbp-filtr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/21/11,14:14:45)
+
+			(User	Sergey)
+
+			(Path	import_lib.sxbp-filtr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000002fdb5bc5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/11,14:13:35)
+
+							(User	Sergey)
+
+							(Path	import_lib.sxbp-filtr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c141040e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006278a891)
+
+			(Primitives	1
+
+				(Primitive	SXBP-FILTR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/11,14:14:10)
+
+							(User	Sergey)
+
+							(Path	import_lib.sxbp-filtr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SXBP-FILTR
+
+							(PackType	SXBP-FILTR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000320e03e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000066f00378)
+
+)
+

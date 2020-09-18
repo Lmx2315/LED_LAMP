@@ -1,0 +1,20 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v9_nev.brd*
+G04 Film Name:    brd*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  15.2-s015*
+G04 Origin Date:  Tue May 03 13:49:26 2011*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX55Y55*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.15*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X11220000Y11820000D02*
+X0D01*
+Y0D01*
+X11220000D01*
+Y11820000D01*
+M02*

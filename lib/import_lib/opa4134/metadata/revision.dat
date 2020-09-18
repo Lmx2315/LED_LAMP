@@ -1,0 +1,170 @@
+(Cell	opa4134
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/17/09,16:55:06)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.opa4134)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/17/09,16:58:16)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.opa4134)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000794b6edf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/09,16:55:08)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.opa4134)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a15003ec)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a976d02c)
+
+			(Primitives	1
+
+				(Primitive	OPA4134
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/09,16:57:17)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.opa4134)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA4134
+
+							(PackType	OPA4134)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f59c03b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000c58c03ae)
+
+)
+

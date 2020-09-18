@@ -1,0 +1,21 @@
+
+	(Comment
+		(Time 12/14/09,15:42:46)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 12/14/09,16:12:58)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package atmega128l added to cell")
+		(Param1 atmega128l)
+	)
+
+
+
+
+

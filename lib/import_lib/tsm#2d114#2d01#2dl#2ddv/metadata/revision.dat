@@ -1,0 +1,178 @@
+(Cell	tsm-114-01-l-dv
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/20/09,13:22:19)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tsm-114-01-l-dv)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/20/09,13:24:31)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.tsm-114-01-l-dv)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000035e2898b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/09,13:22:46)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tsm-114-01-l-dv)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000009628038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000077f7be47)
+
+			(Primitives	1
+
+				(Primitive	TSM-114-01-L-DV
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/09,13:24:03)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.tsm-114-01-l-dv)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TSM-114-01-L-DV
+
+							(PackType	TSM-114-01-L-DV)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000636c03d8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000006990382)
+
+)
+

@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 24 10:25:37 2003' ;
+primitive 'MAX3490EESA';
+  pin
+    'A':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DI':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-RO':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-Z':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:1)';
+    POWER_PINS='(GNDD:4)';
+    CLASS='IC';
+    PART_NAME='MAX3490EESA';
+    JEDEC_TYPE='soic8';
+    BODY_NAME='max3490eesa';
+    FAMILY='tpansceiver';
+  end_body;
+end_primitive;
+END.

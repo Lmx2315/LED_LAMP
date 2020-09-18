@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Nov 13 10:50:01 2003' ;
+primitive 'C';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='C';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='f171';
+    BODY_NAME='C';
+  end_body;
+end_primitive;
+END.

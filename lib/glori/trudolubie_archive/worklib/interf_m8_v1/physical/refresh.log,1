@@ -1,0 +1,53 @@
+Update Symbols/Modules Logfile
+	Mon Feb 01 17:13:59 2010
+
+------ Module Refresh Messages ------
+
+------ End Module Messages     ------
+
+
+
+Mon Feb 01 17:13:59 2010				Page     1
+
+Cadence Design Systems, Inc.
+
+Symbol Refresh Logfile
+
+------ Symbol Refresh Directives ------
+
+OLD_LAYOUT_NAME = '#Taaaaap04856.tmp';
+NEW_LAYOUT_NAME = '';
+REFRESH_MECHANICAL_SYMBOLS = 'NO';
+REFRESH_FORMAT_SYMBOLS = 'NO';
+REFRESH_PACKAGE_SYMBOLS = 'NO';
+REFRESH_SHAPE_SYMBOLS = 'NO';
+REFRESH_SYMBOL_PAD_STACKS = 'YES';
+REFRESH_SYMBOL_TEXT_LOCATIONS = 'NO';
+REFRESH_CUSTOM_DRILL_DATA = 'NO';
+SYMBOL_LIST = 'C:\DOCUME~1\SENZEN~1\LOCALS~1\Temp\#Taaaagc04856.tmp';
+
+
+------ Library Paths ------
+PSMPATH =  C:\PSD_Data\footprints\SYMBOLS\ 
+           C:\Cadence\SPB_15.2\share\pcb\pcb_lib\symbols\ 
+           C:\PSD_Data\My_symbols\ 
+
+PADPATH =  C:\PSD_Data\footprints\PADSTACKS\ 
+           C:\Cadence\SPB_15.2\share\pcb\pcb_lib\symbols\ 
+           C:\PSD_Data\My 
+           symbols\ 
+
+
+------ Symbol Refresh Messages ------
+
+'PLD32'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'CR1750X1100TH'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

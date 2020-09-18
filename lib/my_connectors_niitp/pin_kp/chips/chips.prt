@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PIN_KP';
+  pin
+    'KP':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='PIN_KP';
+    BODY_NAME='PIN_KP';
+    JEDEC_TYPE='pin_kp';
+    PHYS_DES_PREFIX='XT';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

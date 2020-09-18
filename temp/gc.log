@@ -1,0 +1,49 @@
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Sep 10 18:44:12 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   location = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @led_drv1_lib.led_v2:sch_1 (page 2)
+   Objects to Process  :   Components, Wires, Pins
+   Save Modified Pages :   No
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 1)  
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 2)  
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 3)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  3
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Sep 10 18:44:12 2020
+    End Time                   :  Sep 10 18:44:12 2020
+    Elapsed Time               :  00:00:00  (hrs:min:sec)
+

@@ -1,0 +1,170 @@
+(Cell	sdcmf-209
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/14/10,11:06:14)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.sdcmf-209)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/14/10,12:40:24)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.sdcmf-209)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a8b632bd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/10,11:06:16)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.sdcmf-209)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b30703dd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004066488b)
+
+			(Primitives	1
+
+				(Primitive	SDCMF-209
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/10,11:30:47)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.sdcmf-209)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SDCMF-209
+
+							(PackType	SDCMF-209)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000751f03b9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000069d0382)
+
+)
+

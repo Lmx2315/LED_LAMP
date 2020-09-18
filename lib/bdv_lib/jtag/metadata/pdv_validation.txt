@@ -1,0 +1,1 @@
+pdv_506,Cell 'jtag':For logical part JTAG, pack type 87333-1420 is missing in chips.prt file but present in part table file,Warning

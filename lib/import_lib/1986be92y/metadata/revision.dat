@@ -1,0 +1,170 @@
+(Cell	1986be92y
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/30/14,11:08:46)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.1986be92y)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/30/14,12:06:18)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.1986be92y)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000af1e0b6a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/30/14,11:08:52)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.1986be92y)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000051c40407)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008934c3f8)
+
+			(Primitives	1
+
+				(Primitive	1986BE92Y
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/30/14,11:52:57)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.1986be92y)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1986BE92Y
+
+							(PackType	1986BE92Y)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000007ed2044a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000a56803ac)
+
+)
+

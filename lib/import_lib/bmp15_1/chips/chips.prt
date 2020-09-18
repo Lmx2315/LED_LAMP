@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'BMP6';
+  pin
+    'IN+':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OFF':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN-':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT-':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT+':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='BMP6';
+    BODY_NAME='BMP15_1';
+    FAMILY='?';
+    JEDEC_TYPE='f181';
+    PHYS_DES_PREFIX='U';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

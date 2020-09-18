@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/26/20,11:52:26)
+		(User Lmx)
+		(MsgId ECO_021)
+		(Text "Package PLD_4 added to cell")
+		(Param1 "PLD_4")
+	)
+	(Comment
+		(Time 08/26/20,11:54:07)
+		(User Lmx)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

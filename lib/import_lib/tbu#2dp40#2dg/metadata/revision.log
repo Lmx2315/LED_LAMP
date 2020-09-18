@@ -1,0 +1,28 @@
+	(Comment
+		(Time 04/22/13,11:49:21)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/22/13,11:50:51)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package TBU-P40-G added to cell")
+		(Param1 TBU-P40-G)
+	)
+	(Comment
+		(Time 04/22/13,11:51:45)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package TBU-P40-G deleted from cell")
+		(Param1 TBU-P40-G)
+	)
+	(Comment
+		(Time 04/22/13,11:51:48)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package TBU-P40-G added to cell")
+		(Param1 TBU-P40-G)
+	)

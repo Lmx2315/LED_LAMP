@@ -1,0 +1,170 @@
+(Cell	bnx_02
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/01/13,18:49:34)
+
+			(User	Admin)
+
+			(Path	import_lib.bnx_02)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/01/13,19:01:16)
+
+			(User	Admin)
+
+			(Path	import_lib.bnx_02)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000adc08990)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/01/13,18:49:39)
+
+							(User	Admin)
+
+							(Path	import_lib.bnx_02)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000164803b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000067b03f9)
+
+			(Primitives	1
+
+				(Primitive	BNX_02
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/01/13,18:51:10)
+
+							(User	Admin)
+
+							(Path	import_lib.bnx_02)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BNX_02
+
+							(PackType	BNX_02)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000431b03d6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000066f50378)
+
+)
+

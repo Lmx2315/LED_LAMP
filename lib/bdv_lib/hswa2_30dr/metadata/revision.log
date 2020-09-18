@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 02/13/09,15:09:28)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 02/13/09,15:20:58)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package hswa2_30dr added to cell")
+		(Param1 hswa2_30dr)
+	)
+

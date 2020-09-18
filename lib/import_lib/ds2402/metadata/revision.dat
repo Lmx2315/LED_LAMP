@@ -1,0 +1,170 @@
+(Cell	ds2402
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/09/10,17:33:06)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds2402)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/09/10,17:42:57)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds2402)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000033225456)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,17:33:08)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds2402)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000daf2031f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009bf29a09)
+
+			(Primitives	1
+
+				(Primitive	DS2402
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,17:34:04)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds2402)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS2402
+
+							(PackType	DS2402)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d671038f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000026e00384)
+
+)
+

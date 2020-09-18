@@ -1,0 +1,47 @@
+Log File: C:\DOCUME~1\Sergey\LOCALS~1\Temp\s2rg.
+Markers File: C:\DOCUME~1\Sergey\LOCALS~1\Temp\s2rg.1
+Debug File: C:\DOCUME~1\Sergey\LOCALS~1\Temp\s2rg.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:00)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+INFO(SPCODD-215): Merging part rows for PPT 'LED'.
+INFO(SPCODD-215): Merging part rows for PPT 'SI4465'.
+INFO(SPCODD-215): Merging part rows for PPT 'VT_NPN'.
+INFO(SPCODD-215): Merging part rows for PPT 'LAT'.
+INFO(SPCODD-215): Merging part rows for PPT 'CY7C68013A_56'.
+INFO(SPCODD-215): Merging part rows for PPT 'LED'.
+INFO(SPCODD-216): Created merged part 'LED_0805-BASE' for PPT 'LED'.
+INFO(SPCODD-216): Created merged part 'LED_F330-BASE' for PPT 'LED'.
+INFO(SPCODD-216): Created merged part 'LED_L53_S-BASE' for PPT 'LED'.
+INFO(SPCODD-216): Created merged part 'VT_NPN_F364-BASE' for PPT 'VT_NPN'.
+INFO(SPCODD-216): Created merged part 'VT_NPN_F138-BASE' for PPT 'VT_NPN'.
+INFO(SPCODD-216): Created merged part 'VT_NPN_F341-BASE' for PPT 'VT_NPN'.
+INFO(SPCODD-216): Created merged part 'VT_NPN_SOT323-BASE' for PPT 'VT_NPN'.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+ERROR(SPCODD-156): Page 1 not found in design for module @TRUDOLUBIE_LIB.GLBL(INTERF_M8_V1_CFG_PACKAGE) of type GLBL.
+        Information for the page is available in the pxl subdesign state file of the module but not present in the schematic.
+        To update the subdesign state file, set the module as root and package. Once the subdesign state file is corrected, set the top as root and package again.
+Elapsed time since start = (00:00:02)
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+
+ **************************************************
+ *  FATAL ERROR PackagerXL exiting with status 2  *
+ **************************************************
+

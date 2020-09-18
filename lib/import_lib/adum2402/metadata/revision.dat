@@ -1,0 +1,168 @@
+(Cell	adum2402
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/30/11,14:51:19)
+
+			(User	Sergey)
+
+			(Path	import_lib.adum2402)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/30/11,14:55:22)
+
+			(User	Sergey)
+
+			(Path	import_lib.adum2402)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000006c6a056a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/30/11,14:51:21)
+
+							(User	Sergey)
+
+							(Path	import_lib.adum2402)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b52003ad)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d7282a6f)
+
+			(Primitives	1
+
+				(Primitive	ADUM2402
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/30/11,14:54:06)
+
+							(User	Sergey)
+
+							(Path	import_lib.adum2402)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADUM2402
+
+							(PackType	ADUM2402)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000248f03b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000c6c4037e)
+
+)
+

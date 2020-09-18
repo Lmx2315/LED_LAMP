@@ -1,0 +1,64 @@
+
+	(Comment
+		(Time 12/09/09,11:07:00)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/09/09,11:07:21)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package adsp_bf533 added to cell")
+		(Param1 adsp_bf533)
+	)
+
+
+
+	(Comment
+		(Time 12/09/09,11:38:37)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+
+
+	(Comment
+		(Time 12/09/09,11:48:31)
+		(User senzenist_s_n)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 12/09/09,11:48:43)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package ADSP_BF533 deleted from cell")
+		(Param1 ADSP_BF533)
+	)
+	(Comment
+		(Time 12/09/09,11:48:57)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 12/09/09,11:52:38)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package adsp_bf533 added to cell")
+		(Param1 adsp_bf533)
+	)
+
+
+
+
+
+

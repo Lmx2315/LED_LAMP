@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@my_connectors_niitp.har_bus64(SYM_2)	0	0	1	0	0	
+END_MODULEORDER

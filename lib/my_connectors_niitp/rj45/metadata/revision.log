@@ -1,0 +1,31 @@
+
+	(Comment
+		(Time 06/27/06,15:28:36)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package RJ45 added to cell")
+		(Param1 RJ45)
+	)
+
+	(Comment
+		(Time 06/27/06,15:29:36)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/27/06,15:29:48)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 06/27/06,15:30:52)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

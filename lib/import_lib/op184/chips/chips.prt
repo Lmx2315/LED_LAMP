@@ -1,0 +1,42 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jun 30 14:41:41 2004' ;
+primitive 'OP184_SO-8';
+  pin
+    'NULL1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'NULL2':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-IN_A':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN_A':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT_A':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'N.C.':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'V+':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'V-':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='OP184';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='f25';
+    BODY_NAME='op184';
+    FAMILY='OP';
+  end_body;
+end_primitive;
+END.

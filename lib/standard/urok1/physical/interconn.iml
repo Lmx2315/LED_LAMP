@@ -1,0 +1,108 @@
+("d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml" 
+ (Trace 
+  (STL_0S_1R_41 
+   (IDL ".subckt STL_0S_1R_41
++X1 0
++X2 0
+*EMIinfo Type NoGroundPlane
+*EMIinfo Conductor Width=50 botDist=0.0002032
+*EMIinfo Dielectric Eps=4.5 Thick=0.0002032
+.layerstack Layerstack1
++dielectric( 0.0002032 4.5 0.035 )
+.crosssection
++rectangle ( 5.959e+007 0 0.0002032 0.000127 0.00023368 )
++Length=length
+.rlgc RLGCSTL_0S_1R_41 ( Length=length N=1 )
+.C 0
++ 4.707700e-011 
+.L 0
++ 4.189800e-007 
+.G 0
++ 0.000000e+000 
+.R 0
++ 4.335200e+000 
+.endrlgc RLGCSTL_0S_1R_41 
+**The Characteristic Modal Delay, Admittance and
+**Impedance Matrices of these Transmission Lines:
+*Delay Matrix.
+*Td 0 (n=1)
+*  4.441200e-009 
+*Admittance Matrix.
+*Y 0 (n=1)
+* 1.060000e-002 
+*Impedance Matrix.
+*Z 0 (n=1)
+*  9.433900e+001 
+**The Near-End Crosstalk Coefficent of these Transmission
+**Lines based on Near-End Resistance=50 ohm assumption:
+*Near-End Crosstalk Coefficent Matrix, Z0*Inv(R+Z0).
+*  0 (n=1)
+*  6.535900e-001 
+.ends STL_0S_1R_41
+" ) 
+   (KSPICE "DATAPOINTS RLGC STL_0S_1R_41
+FREQUENCY=0
+CMATRIX
+ 4.707700e-011 
+LMATRIX
+ 4.189800e-007 
+GMATRIX
+ 0.000000e+000 
+RMATRIX
+ 4.335200e+000 
+END RLGC
+" ) 
+   (Frequency 0 ) ) 
+  (STL_0S_1R_8467 
+   (IDL ".subckt STL_0S_1R_8467
++X1 0
++X2 0
+*EMIinfo Type NoGroundPlane
+*EMIinfo Dielectric Eps=4.5 Thick=0.0002032
+*EMIinfo Conductor Width=50 topDist=0.0002032
+.layerstack Layerstack1
++dielectric( 0.0002032 4.5 0.035 )
+.crosssection
++rectangle ( 5.959e+007 0 -3.048e-005 0.000127 0 )
++Length=length
+.rlgc RLGCSTL_0S_1R_8467 ( Length=length N=1 )
+.C 0
++ 4.700800e-011 
+.L 0
++ 4.189800e-007 
+.G 0
++ 0.000000e+000 
+.R 0
++ 4.335200e+000 
+.endrlgc RLGCSTL_0S_1R_8467 
+**The Characteristic Modal Delay, Admittance and
+**Impedance Matrices of these Transmission Lines:
+*Delay Matrix.
+*Td 0 (n=1)
+*  4.438000e-009 
+*Admittance Matrix.
+*Y 0 (n=1)
+* 1.059200e-002 
+*Impedance Matrix.
+*Z 0 (n=1)
+*  9.440800e+001 
+**The Near-End Crosstalk Coefficent of these Transmission
+**Lines based on Near-End Resistance=50 ohm assumption:
+*Near-End Crosstalk Coefficent Matrix, Z0*Inv(R+Z0).
+*  0 (n=1)
+*  6.537600e-001 
+.ends STL_0S_1R_8467
+" ) 
+   (KSPICE "DATAPOINTS RLGC STL_0S_1R_8467
+FREQUENCY=0
+CMATRIX
+ 4.700800e-011 
+LMATRIX
+ 4.189800e-007 
+GMATRIX
+ 0.000000e+000 
+RMATRIX
+ 4.335200e+000 
+END RLGC
+" ) 
+   (Frequency 0 ) ) ) ) 

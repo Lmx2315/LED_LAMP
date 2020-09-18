@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:shoppingCart xmlns:sc="http://www.cadence.com/SPB/shopping_cart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" checksum="0">
+	<component cell="r" library="discrete_niitp" partname="R" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="F56"/>
+	</component>
+	<component cell="res" library="my_passive_niitp" partname="RES" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="0603"/>
+	</component>
+	<component cell="cap" library="discrete_niitp" partname="CAP" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="0603"/>
+	</component>
+	<component cell="cap" library="discrete_niitp" partname="CAP" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="F135"/>
+	</component>
+	<component cell="cap_el" library="discrete_niitp" partname="CAP_EL" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="D"/>
+	</component>
+	<component cell="c" library="discrete_niitp" partname="C" partno="" quantity="1" >
+	</component>
+</sc:shoppingCart>

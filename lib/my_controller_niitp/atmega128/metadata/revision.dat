@@ -1,0 +1,170 @@
+(Cell	atmega128
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.26)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/05/06,11:40:09)
+
+			(User	admin)
+
+			(Path	my_controller_niitp.atmega128)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/05/06,12:06:00)
+
+			(User	admin)
+
+			(Path	my_controller_niitp.atmega128)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000141dda43)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/06,12:05:57)
+
+							(User	admin)
+
+							(Path	my_controller_niitp.atmega128)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000552203a7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b1c7be43)
+
+			(Primitives	1
+
+				(Primitive	ATMEGA128
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.14)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/06,11:40:12)
+
+							(User	admin)
+
+							(Path	my_controller_niitp.atmega128)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ATMEGA128
+
+							(PackType	ATMEGA128)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e22b03e0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000025e503a4)
+
+)
+

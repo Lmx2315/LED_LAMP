@@ -1,0 +1,156 @@
+(Cell	ros-1631-119
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/09/08,13:20:43)
+
+			(User	Validol)
+
+			(Path	vco.ros-1631-119)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	bb72710d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/09/08,13:50:45)
+
+							(User	Validol)
+
+							(Path	vco.ros-1631-119)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	be0001ac)
+
+		)
+
+		(View	Chips
+
+			(Checksum	d109d7e6)
+
+			(Primitives	1
+
+				(Primitive	ROS-1631-119
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/09/08,13:53:14)
+
+							(User	Validol)
+
+							(Path	vco.ros-1631-119)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ROS-1631-119
+
+							(PackType	ROS-1631-119)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	4f440205)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	af10009b)
+
+)
+

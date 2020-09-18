@@ -1,0 +1,178 @@
+(Cell	adcmp600
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/11,16:32:32)
+
+			(User	Sergey)
+
+			(Path	import_lib.adcmp600)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/11,16:38:54)
+
+			(User	Sergey)
+
+			(Path	import_lib.adcmp600)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000dc5f6d2c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/11,16:32:36)
+
+							(User	Sergey)
+
+							(Path	import_lib.adcmp600)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000015b0412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006d56d222)
+
+			(Primitives	1
+
+				(Primitive	ADCMP600
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/11,16:38:24)
+
+							(User	Sergey)
+
+							(Path	import_lib.adcmp600)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCMP600
+
+							(PackType	ADCMP600)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e5b603b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000065f803a8)
+
+)
+

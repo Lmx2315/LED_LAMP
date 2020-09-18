@@ -1,0 +1,170 @@
+(Cell	mbrd1040ct
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/09/06,15:44:53)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.mbrd1040ct)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/09/06,15:50:57)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.mbrd1040ct)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a0fc670f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/09/06,15:44:57)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.mbrd1040ct)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c37103de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004533c5d1)
+
+			(Primitives	1
+
+				(Primitive	MBRD1040CT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/09/06,15:50:37)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.mbrd1040ct)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MBRD1040CT
+
+							(PackType	MBRD1040CT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000020c03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000e73c0370)
+
+)
+

@@ -1,0 +1,8 @@
+
+Section 2 - Conflicts on Net Synonyms
+--------------------------------------
+
+DRAWING = @LED_DRV1_LIB.LED_V2(SCH_1)
+NET_NAME = 12V
+   OPF: VOLTAGE = 12; NET = 12V
+ * SCH: VOLTAGE = 3.3

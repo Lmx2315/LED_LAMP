@@ -1,0 +1,16 @@
+
+	(Comment
+		(Time 05/16/07,17:38:39)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 05/16/07,17:40:43)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package adp3300 added to cell")
+		(Param1 adp3300)
+	)
+

@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Dec 23 09:12:52 2004' ;
+primitive 'FAN2503S';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'EN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-ERR':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VOUT':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='FAN2503S';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='fan2503';
+    FAMILY='FAN';
+    BODY_NAME='FAN2503S';
+  end_body;
+end_primitive;
+END.

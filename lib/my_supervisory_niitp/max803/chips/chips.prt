@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Aug 24 17:28:01 2004' ;
+primitive 'MAX803';
+  pin
+    '-RESET':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VCC':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    POWER_PINS='(GND:1)';
+    CLASS='IC';
+    PART_NAME='MAX803';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='f138';
+    FAMILY='SUPERVISOR';
+    BODY_NAME='MAX803';
+    PACK_TYPE='f138';
+  end_body;
+end_primitive;
+END.

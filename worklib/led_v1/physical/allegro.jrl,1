@@ -1,0 +1,66 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Wed Aug 26 12:54:04 2020
+\t (00:00:03)         Host=LMX_PK User=Lmx Pid=9892 CPUs=12
+\t (00:00:03) CmdLine= allegro -proj D:\SPB_Data\LED_lamp\led_drv1.cpm -product Concept_HDL_expert -mpssession Lmx_ProjectMgr11026 -mpshost Lmx_pk
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/SPB_Data/LED_lamp/worklib/led/physical/Zigbee_cc2530.dra
+\t (00:00:03) Grids are drawn 0.128, 0.128 apart for enhanced viewability.
+\i (00:00:03) trapsize 132
+\i (00:00:03) trapsize 130
+\i (00:00:03) trapsize 132
+\i (00:00:04) trapsize 121
+\t (00:00:04) Grids are drawn 0.128, 0.128 apart for enhanced viewability.
+\i (00:00:04) trapsize 121
+\i (00:00:04) generaledit 
+\i (00:00:06) new 
+\i (00:00:27) newdrawfillin "pc817_dip4.dra" "Package Symbol (Wizard)"
+\t (00:00:27) Starting new design...
+\i (00:00:27) trapsize 228
+\i (00:00:27) trapsize 228
+\i (00:00:28) package symbol wizard 
+\i (00:00:28) generaledit 
+   (00:00:29) Loading cmds.cxt 
+   (00:00:29) Loading axlcore.cxt 
+\i (00:00:29) setwindow form.sym_wizard
+\i (00:00:29) FORM sym_wizard soic YES 
+\i (00:00:30) FORM sym_wizard dip YES 
+\i (00:00:31) FORM sym_wizard wiz_next  
+\i (00:00:32) FORM sym_wizard load_template  
+\t (00:00:32) Opening existing design...
+\i (00:00:33) fillin yes 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) trapsize 125
+\d (00:00:33) Design opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:34) setwindow form.sym_wizard
+\i (00:00:34) FORM sym_wizard wiz_next  
+\i (00:00:35) FORM sym_wizard pack_units Millimeter 
+\i (00:00:37) FORM sym_wizard pack_units_create Millimeter 
+\i (00:00:38) FORM sym_wizard wiz_next  
+\i (00:00:57) FORM sym_wizard dip_pin_count 4 
+\i (00:01:05) FORM sym_wizard dip_width 6.500 
+\i (00:01:24) FORM sym_wizard dip_len 4.580 
+\i (00:01:24) FORM sym_wizard wiz_next  
+\i (00:01:26) FORM sym_wizard default_pad_browse  
+\i (00:02:11) fillin "Via1000x0700"
+\i (00:02:12) FORM sym_wizard wiz_next  
+\i (00:02:13) FORM sym_wizard wiz_next  
+\i (00:02:14) FORM sym_wizard wiz_finish  
+\w (00:02:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:14) setwindow pcb
+\i (00:02:14) trapsize 3166
+\t (00:02:14) Performing DRC...
+\t (00:02:14) No DRC errors detected.
+\i (00:02:14) trapsize 3166
+\i (00:02:14) trapsize 447
+\i (00:02:14) trapsize 60
+\i (00:02:14) trapsize 60
+\t (00:02:14) Creating package symbol 'D:/SPB_Data/LED_lamp/worklib/led/physical/pc817_dip4.psm'.
+\t (00:02:14) Starting Create symbol...
+\i (00:02:14) generaledit 
+\i (00:02:22) save 
+\i (00:02:24) fillin yes 
+\t (00:02:24) Symbol 'pc817_dip4.psm' created.
+\i (00:02:24) generaledit 
+\i (00:02:26) exit 
+\t (00:02:26)     Journal end - Wed Aug 26 12:56:27 2020

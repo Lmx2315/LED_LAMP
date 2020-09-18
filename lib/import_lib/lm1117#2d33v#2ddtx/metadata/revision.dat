@@ -1,0 +1,170 @@
+(Cell	lm1117-33v-dtx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/11/10,14:51:48)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.lm1117-33v-dtx)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/11/10,14:53:35)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.lm1117-33v-dtx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000006ac26869)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,14:51:51)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.lm1117-33v-dtx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000008740038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000030eca7d)
+
+			(Primitives	1
+
+				(Primitive	LM1117-33V-DTX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,14:52:42)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.lm1117-33v-dtx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM1117-33V-DTX
+
+							(PackType	LM1117-33V-DTX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000033c03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000027240374)
+
+)
+

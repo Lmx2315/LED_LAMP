@@ -1,0 +1,180 @@
+(Cell	vpb30w8m400aa
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/12/13,13:02:55)
+
+			(User	Sergey)
+
+			(Path	b620.vpb30w8m400aa)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/12/13,14:31:27)
+
+			(User	Sergey)
+
+			(Path	b620.vpb30w8m400aa)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000008f985bc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/12/13,14:22:59)
+
+							(User	Sergey)
+
+							(Path	b620.vpb30w8m400aa)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bff03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001b99ccd1)
+
+			(Primitives	1
+
+				(Primitive	VPB30W8M400AA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/12/13,14:27:15)
+
+							(User	Sergey)
+
+							(Path	b620.vpb30w8m400aa)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	VPB30W8M400AA
+
+							(PackType	VPB30W8M400AA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	vpb30w8m400)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b49038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b85037d)
+
+)
+

@@ -1,0 +1,52 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Aug 30 19:07:23 2004' ;
+primitive 'SN74LV164A';
+  pin
+    'CLK':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-CLR':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Q'<0>:
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<1>:
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<2>:
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<3>:
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<4>:
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<5>:
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<6>:
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'Q'<7>:
+      PIN_NUMBER='(13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:14)';
+    POWER_PINS='(GND:7)';
+    CLASS='IC';
+    PART_NAME='SN74LV164A';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='f249';
+    BODY_NAME='SN74LV164A';
+  end_body;
+end_primitive;
+END.

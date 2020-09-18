@@ -1,0 +1,166 @@
+(Cell	cy7c68013a_56
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/28/08,15:10:09)
+
+			(User	Validol)
+
+			(Path	bdv_lib.cy7c68013a_56)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	21080183)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/08,15:10:11)
+
+							(User	Validol)
+
+							(Path	bdv_lib.cy7c68013a_56)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	e02200ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	8180c44f)
+
+			(Primitives	1
+
+				(Primitive	CY7C68013A_56
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/08,15:21:40)
+
+							(User	Validol)
+
+							(Path	bdv_lib.cy7c68013a_56)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CY7C68013A_56
+
+							(PackType	CY7C68013A_56)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	5f6502c6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	cf7f018d)
+
+)
+

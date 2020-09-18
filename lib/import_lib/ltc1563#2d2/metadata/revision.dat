@@ -1,0 +1,178 @@
+(Cell	ltc1563-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/07/06,09:53:26)
+
+			(User	Sergey)
+
+			(Path	import_lib.ltc1563-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/07/06,10:42:26)
+
+			(User	Sergey)
+
+			(Path	import_lib.ltc1563-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000184392f7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/06,09:53:30)
+
+							(User	Sergey)
+
+							(Path	import_lib.ltc1563-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000781f0359)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c75a1a8b)
+
+			(Primitives	1
+
+				(Primitive	LTC1563-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/07/06,10:23:03)
+
+							(User	Sergey)
+
+							(Path	import_lib.ltc1563-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC1563-2
+
+							(PackType	LTC1563-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000747503b9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000048580356)
+
+)
+

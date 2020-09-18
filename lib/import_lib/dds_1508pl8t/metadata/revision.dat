@@ -1,0 +1,170 @@
+(Cell	dds_1508pl8t
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/27/14,15:14:57)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.dds_1508pl8t)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/27/14,15:33:10)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.dds_1508pl8t)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000dc2e09e8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/27/14,15:15:00)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.dds_1508pl8t)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000338903e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008684c41a)
+
+			(Primitives	1
+
+				(Primitive	DDS_1508PL8T
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/27/14,15:29:29)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.dds_1508pl8t)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DDS_1508PL8T
+
+							(PackType	DDS_1508PL8T)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000bf0b043e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000053fe03d7)
+
+)
+

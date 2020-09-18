@@ -1,0 +1,170 @@
+(Cell	ltc1569-7
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/08/10,17:05:59)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1569-7)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/08/10,17:09:37)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1569-7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000038d7d85b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/10,17:06:01)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1569-7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000843403ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002014b179)
+
+			(Primitives	1
+
+				(Primitive	LTC1569-7
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/10,17:08:17)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1569-7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC1569-7
+
+							(PackType	LTC1569-7)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d79d037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000074cd03b9)
+
+)
+

@@ -1,0 +1,51 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Oct 15 17:15:57 2003' ;
+primitive 'DC/DC_4_6W';
+  pin
+    'V1IN+':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V1IN-':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V2IN-':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V2IN+':
+      PIN_NUMBER='(22)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V3IN-':
+      PIN_NUMBER='(24)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V1O-':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V1O+':
+      PIN_NUMBER='(13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V2O+':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V2O-':
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V3O+':
+      PIN_NUMBER='(15)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V3O-':
+      PIN_NUMBER='(16)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V3IN+':
+      PIN_NUMBER='(23)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(9,10)';
+    CLASS='DISCRETE';
+    PART_NAME='DC/DC_4_6W';
+    JEDEC_TYPE='F53';
+    NC_PIN='(9,10)';
+    BODY_NAME='DC/DC_4_6W';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Mar 17 12:06:12 2005' ;
+primitive 'SN74LVC1G125','SN74LVC1G125_SC70-5';
+  pin
+    '-OE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='GROUND';
+    'VCC':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='SN74LVC1G125';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='SC70-5';
+    FAMILY='SN74LVC';
+    BODY_NAME='SN74LVC1G125';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Mar 09 17:53:47 2005' ;
+primitive 'ACTSTE01';
+  pin
+    'VC':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VDD':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='GROUND';
+    'GND1':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+    'GND2':
+      PIN_NUMBER='(6)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='ACTSTE01';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F363';
+    FAMILY='ACT';
+    BODY_NAME='ACTSTE01';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,28 @@
+	(Comment
+		(Time 08/16/18,12:27:58)
+		(User Pavel)
+		(MsgId ECO_021)
+		(Text "Package TC2_1T added to cell")
+		(Param1 "TC2_1T")
+	)
+	(Comment
+		(Time 08/16/18,12:30:17)
+		(User Pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 08/16/18,12:33:13)
+		(User Pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)
+	(Comment
+		(Time 08/16/18,12:33:22)
+		(User Pavel)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 "sym_2")
+	)

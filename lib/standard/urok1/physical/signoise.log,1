@@ -1,0 +1,7 @@
+ANNOTATION: Loading default interconnect libraries
+ANNOTATION: Using default signal_icnlibs = "interconn.iml *.iml"
+INFO: Created default Working Interconnect Library 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml'
+ANNOTATION: Existing device library : d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml
+ANNOTATION: Library d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml is loaded
+ANNOTATION: Field Solver for STL_0S_1R_41
+ANNOTATION: Field Solver for STL_0S_1R_8467

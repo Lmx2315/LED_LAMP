@@ -1,0 +1,198 @@
+(Cell	sn74lvc2g07
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/05/05,14:53:32)
+
+			(User	rifch)
+
+			(Path	my_logics_niitp.sn74lvc2g07)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000010c6593d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/05,14:53:32)
+
+							(User	rifch)
+
+							(Path	my_logics_niitp.sn74lvc2g07)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000007a83523c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/05,14:53:32)
+
+							(User	rifch)
+
+							(Path	my_logics_niitp.sn74lvc2g07)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000094a903bb)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007857681c)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC2G07
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/05,14:53:32)
+
+							(User	rifch)
+
+							(Path	my_logics_niitp.sn74lvc2g07)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC2G07
+
+							(PackType	SN74LVC2G07)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000074f803a9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s006)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000569c0387)
+
+)
+

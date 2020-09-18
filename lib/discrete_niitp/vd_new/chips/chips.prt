@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jan 26 11:00:48 2005' ;
+primitive 'VD_NEW';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='VD_NEW';
+    JEDEC_TYPE='F129';
+    BODY_NAME='VD_NEW';
+    FAMILY='DIODES';
+  end_body;
+end_primitive;
+END.

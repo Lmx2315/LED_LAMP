@@ -1,0 +1,262 @@
+(Cell	din-96_vme
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.19)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/27/11,10:21:16)
+
+			(User	Sergey)
+
+			(Path	import_lib.din-96_vme)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/27/11,10:51:13)
+
+			(User	Sergey)
+
+			(Path	import_lib.din-96_vme)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	3
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000bcf3c785)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,10:36:24)
+
+							(User	Sergey)
+
+							(Path	import_lib.din-96_vme)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000d107fe68)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,10:29:07)
+
+							(User	Sergey)
+
+							(Path	import_lib.din-96_vme)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000052be7066)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,10:21:22)
+
+							(User	Sergey)
+
+							(Path	import_lib.din-96_vme)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000964303ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e730bf61)
+
+			(Primitives	1
+
+				(Primitive	DIN-96_VME
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,10:25:17)
+
+							(User	Sergey)
+
+							(Path	import_lib.din-96_vme)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIN-96_VME
+
+							(PackType	DIN-96_VME)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	3
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e4e403b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000065f903a8)
+
+)
+

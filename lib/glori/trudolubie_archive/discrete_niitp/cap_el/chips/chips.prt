@@ -1,0 +1,72 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Aug 30 20:36:25 2004' ;
+primitive 'CAP_EL','CAP_EL_A';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='CAP_EL';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='A';
+    BODY_NAME='CAP_EL';
+  end_body;
+end_primitive;
+primitive 'CAP_EL_B';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='CAP_EL';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='B';
+    BODY_NAME='CAP_EL';
+  end_body;
+end_primitive;
+primitive 'CAP_EL_D';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='CAP_EL';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='d';
+    BODY_NAME='CAP_EL';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,204 @@
+(Cell	tc4_1w_17ln
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/17,09:57:29)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tc4_1w_17ln)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/25/17,10:11:11)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tc4_1w_17ln)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d53ea409)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/17,09:57:32)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tc4_1w_17ln)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4703b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040182ad9)
+
+			(Primitives	1
+
+				(Primitive	TC4_1W_17LN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/17,10:07:15)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tc4_1w_17ln)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TC4_1W_17LN
+
+							(PackType	TC4_1W_17LN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	at224-1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1003bd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bab03a0)
+
+)
+

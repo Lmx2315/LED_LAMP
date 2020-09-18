@@ -1,0 +1,58 @@
+(marker_file
+ (version 5.0)
+ (markers
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1109)
+   (short_msg "ERROR(SPCOPK-1109): Cannot package instance into package VD.")
+   (long_msg "ERROR(SPCOPK-1109): Cannot package instance into package VD.
+        Schematic instance: @LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I57@IMPORT_LIB.LED(CHIPS) (MODULE: LED_V2; PART: LED)
+        Physical Path: @led_drv1_lib.led_v2(sch_1):page1_i57@import_lib.led(chips)
+        The instances have the same location property value. Change the location property value for any one of the instances in the Design Entry HDL Schematic.
+       Section 1 is assigned @LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I62@IMPORT_LIB.LED(CHIPS) (MODULE: LED_V2; PART: LED)
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I57;")
+     (parent_canonical_name "DRAWERROR inst I57")
+     (drawing_name "@led_drv1_lib.led_v2(sch_1):page1")
+    )
+   	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I62;")
+     (parent_canonical_name "DRAWERROR inst I62")
+     (drawing_name "@led_drv1_lib.led_v2(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 101)
+   (short_msg "ERROR(SPCODD-101): Primitive @LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I57@IMPORT_LIB.LED(CHIPS) is not packaged.")
+   (long_msg "ERROR(SPCODD-101): Primitive @LED_DRV1_LIB.LED_V2(SCH_1):PAGE1_I57@IMPORT_LIB.LED(CHIPS) is not packaged.
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I57;")
+     (parent_canonical_name "DRAWERROR inst I57")
+     (drawing_name "@led_drv1_lib.led_v2(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 100)
+   (short_msg "ERROR(SPCODD-100): State file not written for design LED_V2.")
+   (long_msg "ERROR(SPCODD-100): State file not written for design LED_V2.
+")
+  )
+ )
+)

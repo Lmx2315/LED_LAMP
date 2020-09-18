@@ -1,0 +1,170 @@
+(Cell	cwf-2r
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/28/10,10:55:08)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.cwf-2r)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/28/10,10:56:14)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.cwf-2r)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000003a63591d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,10:55:11)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.cwf-2r)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f6c00381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e13395d5)
+
+			(Primitives	1
+
+				(Primitive	CWF-2R
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,10:55:42)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.cwf-2r)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CWF-2R
+
+							(PackType	CWF-2R)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000017330393)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000cb07031e)
+
+)
+

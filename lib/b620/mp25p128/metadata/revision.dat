@@ -1,0 +1,180 @@
+(Cell	mp25p128
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/21/14,18:09:46)
+
+			(User	imk)
+
+			(Path	b620.mp25p128)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/21/14,18:16:54)
+
+			(User	imk)
+
+			(Path	b620.mp25p128)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c45db1d1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,18:09:49)
+
+							(User	imk)
+
+							(Path	b620.mp25p128)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9a03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000483b6b64)
+
+			(Primitives	1
+
+				(Primitive	MP25P128
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,18:15:05)
+
+							(User	imk)
+
+							(Path	b620.mp25p128)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MP25P128
+
+							(PackType	MP25P128)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so-16w)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2803b8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ba6037c)
+
+)
+

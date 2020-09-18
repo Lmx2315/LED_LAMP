@@ -1,0 +1,180 @@
+(Cell	xcf16p
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/05/12,11:22:45)
+
+			(User	Sergey)
+
+			(Path	import_lib.xcf16p)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/05/12,12:57:08)
+
+			(User	Sergey)
+
+			(Path	import_lib.xcf16p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e69014d1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,11:22:48)
+
+							(User	Sergey)
+
+							(Path	import_lib.xcf16p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c11037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d199c2d2)
+
+			(Primitives	1
+
+				(Primitive	XCF16P
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,11:27:42)
+
+							(User	Sergey)
+
+							(Path	import_lib.xcf16p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XCF16P
+
+							(PackType	XCF16P)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	f525)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001fa8040b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c9e03a7)
+
+)
+

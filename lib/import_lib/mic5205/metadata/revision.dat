@@ -1,0 +1,170 @@
+(Cell	mic5205
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/18/13,12:32:04)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.mic5205)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/18/13,14:38:36)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.mic5205)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000aaf59a93)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/13,12:32:07)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.mic5205)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000023fa03e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b33b2314)
+
+			(Primitives	1
+
+				(Primitive	MIC5205
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/13,14:37:47)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.mic5205)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MIC5205
+
+							(PackType	MIC5205)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000086c2038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000e6b90380)
+
+)
+

@@ -1,0 +1,32 @@
+
+	(Comment
+		(Time 11/16/09,09:43:58)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package INA128 added to cell")
+		(Param1 INA128)
+	)
+	(Comment
+		(Time 11/16/09,09:44:02)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package INA128 deleted from cell")
+		(Param1 INA128)
+	)
+	(Comment
+		(Time 11/16/09,09:44:04)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 11/16/09,09:45:18)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package ina128 added to cell")
+		(Param1 ina128)
+	)
+
+
+

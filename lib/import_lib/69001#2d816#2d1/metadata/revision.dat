@@ -1,0 +1,342 @@
+(Cell	69001-816-1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/31/07,14:23:10)
+
+			(User	Validol)
+
+			(Path	import_lib.69001-816-1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	5
+
+				(Symbol	sym_4
+
+					(Checksum	4357985a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,14:30:45)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Checksum	4f64aec5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,14:29:48)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Checksum	84460787)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,14:28:06)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Checksum	7b41b72f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,14:24:10)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Checksum	27ce7fd7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,15:55:29)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	eef601ff)
+
+		)
+
+		(View	Chips
+
+			(Checksum	305fb900)
+
+			(Primitives	1
+
+				(Primitive	69001-816-1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/31/07,14:27:37)
+
+							(User	Validol)
+
+							(Path	import_lib.69001-816-1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	69001-816-1
+
+							(PackType	69001-816-1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	5
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	f039022f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	adf7015b)
+
+)
+

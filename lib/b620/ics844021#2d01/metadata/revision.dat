@@ -1,0 +1,180 @@
+(Cell	ics844021-01
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/22/14,17:42:24)
+
+			(User	imk)
+
+			(Path	b620.ics844021-01)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/22/14,17:47:21)
+
+			(User	imk)
+
+			(Path	b620.ics844021-01)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001933a3f6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/22/14,17:42:27)
+
+							(User	imk)
+
+							(Path	b620.ics844021-01)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b370381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f30f3fbb)
+
+			(Primitives	1
+
+				(Primitive	ICS844021-01
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/22/14,17:43:42)
+
+							(User	imk)
+
+							(Path	b620.ics844021-01)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS844021-01
+
+							(PackType	ICS844021-01)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	f255)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b94037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b8c0380)
+
+)
+

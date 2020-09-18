@@ -1,0 +1,170 @@
+(Cell	tlp117
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/15/13,09:40:57)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tlp117)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/15/13,09:59:07)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tlp117)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ed82a47a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/13,09:41:00)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tlp117)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f37003e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003719de82)
+
+			(Primitives	1
+
+				(Primitive	TLP117
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/13,09:43:34)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tlp117)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TLP117
+
+							(PackType	TLP117)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000472e0386)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000028f00354)
+
+)
+

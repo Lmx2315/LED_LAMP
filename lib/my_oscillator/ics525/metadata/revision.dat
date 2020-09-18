@@ -1,0 +1,162 @@
+(Cell	ics525
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/13/06,18:07:39)
+
+			(User	admin)
+
+			(Path	my_oscillator.ics525)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000078c94cd7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/06,18:07:39)
+
+							(User	admin)
+
+							(Path	my_oscillator.ics525)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7703be)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c37abb0f)
+
+			(Primitives	1
+
+				(Primitive	ICS525
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/06,18:07:39)
+
+							(User	admin)
+
+							(Path	my_oscillator.ics525)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS525
+
+							(PackType	ICS525)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ff40470)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c84037d)
+
+)
+

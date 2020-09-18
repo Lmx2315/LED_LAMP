@@ -1,0 +1,7 @@
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1)
+NET_NAME = MASHINE CLOCK
+   PNN = MASHINECLOCK

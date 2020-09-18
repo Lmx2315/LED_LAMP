@@ -1,0 +1,41 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Sat Jun 21 14:36:46 2003' ;
+primitive 'PKF2610ASI';
+  pin
+    'SYNC':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VADJ':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'NOR':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TOA':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RC':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN+':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN-':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RTN':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(3,4,5,6,12,13,14,15,16)';
+    CLASS='DISCRETE';
+    PART_NAME='PKF2610ASI';
+    JEDEC_TYPE='SOIC20';
+    BODY_NAME='PKF2610ASI';
+  end_body;
+end_primitive;
+END.

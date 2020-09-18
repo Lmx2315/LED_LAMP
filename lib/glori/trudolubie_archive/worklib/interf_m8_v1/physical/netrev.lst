@@ -1,0 +1,104 @@
+Cadence Design Systems, Inc. netrev 15.2 Fri Mar 25 11:41:37 2011
+(C) Copyright 2002 Cadence Design Systems, Inc.
+
+------ Directives ------
+
+RIPUP_ETCH TRUE;
+RIPUP_SYMBOLS ALWAYS;
+MISSING SYMBOL AS ERROR FALSE;
+SCHEMATIC_DIRECTORY 'C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\packaged';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v8_nev.brd';
+NEW_BOARD_NAME 'C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v8_nev.brd';
+
+CmdLine: netrev -proj C:\PSD_data\PSD_data\Projects\DSP_M5\trudolubie.cpm -5 -y 1 -x -u -z -O C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v8_nev.brd C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v8_nev.brd -$
+
+------ Preparing to read pst files ------
+
+Starting to read C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstchip.dat 
+   Finished reading C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstchip.dat (00:00:00.03)
+Starting to read C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstxprt.dat 
+   Finished reading C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstxprt.dat (00:00:00.00)
+Starting to read C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstxnet.dat 
+   Finished reading C:/PSD_data/PSD_data/Projects/DSP_M5/worklib/interf_m8_v1/packaged/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:\Cadence\SPB_15.2\share\local\pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\SPB_15.2\share\local\pcb/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/allegrolib/symbols 
+           C:\PSD_data\PSD_data\footprints\My_symbols\ 
+           C:\PSD_data\PSD_data\footprints\SYMBOLS\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\SPB_15.2\share\local\pcb/padstacks 
+           C:\Cadence\SPB_15.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\SPB_15.2\share\pcb/allegrolib/symbols 
+           C:\PSD_data\PSD_data\footprints\PADSTACKS\ 
+
+
+
+
+===========================================================
+Start Constraint Diff3 Import
+	Constraint File:    C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\packaged\pstcmdb.dat
+	Allegro Baseline:   C:\DOCUME~1\CHUPRI~1\LOCALS~1\Temp\#Taaaaac00236.tmp
+	Schematic Baseline: C:\PSD_data\PSD_data\Projects\DSP_M5\worklib\interf_m8_v1\packaged\pstcmbc.dat
+	Start time: Fri Mar 25 11:41:38 2011
+===========================================================
+===========================================================
+Finished Constraint Update	Time: Fri Mar 25 11:41:38 2011
+===========================================================
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 25 11:41:37 2011
+   DESIGN NAME : 'INTERF_M8_V1'
+   PACKAGING ON 25-Mar-2011 AT 11:41:35
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   DIRECTORIES  <none>
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   LIBRARIES  'trudolubie_lib' 'discrete_niitp' 'import_lib' 'leds_niitp'
+              'logic_niitp' 'max_niitp' 'standard' 'supervisor_niitp'
+              'interfeysnaya' 'power_my' 'power_niitp' 'pll' 'vco'
+              'power_divider' 'attenuator' 'rf_amplifer' 'ldo' 'vcxo' 'rbu'
+              'bushprit' 'bdv_lib' 'my_passive_niitp' 'my_supervisory_niitp'
+              'my_memory_niitp' 'my_leds_niitp' 'my_connectors_niitp'
+              'my_transceiver'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:53
+elapsed time  0:00:01
+

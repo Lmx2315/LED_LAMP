@@ -1,0 +1,170 @@
+(Cell	drb-9ma
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/29/10,11:57:54)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.drb-9ma)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/29/10,11:59:12)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.drb-9ma)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000072800f35)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/29/10,11:57:56)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.drb-9ma)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e8bf0350)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000015c7d971)
+
+			(Primitives	1
+
+				(Primitive	DRB-9MA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/29/10,11:58:55)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.drb-9ma)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DRB-9MA
+
+							(PackType	DRB-9MA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000031500415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000002b7f0314)
+
+)
+

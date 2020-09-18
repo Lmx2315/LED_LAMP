@@ -1,0 +1,180 @@
+(Cell	tbu-p40-g
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/22/13,11:49:18)
+
+			(User	Sergey)
+
+			(Path	import_lib.tbu-p40-g)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/22/13,11:52:17)
+
+			(User	Sergey)
+
+			(Path	import_lib.tbu-p40-g)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fe3e86ce)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/13,11:49:21)
+
+							(User	Sergey)
+
+							(Path	import_lib.tbu-p40-g)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e9b041a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b60afc9f)
+
+			(Primitives	1
+
+				(Primitive	TBU-P40-G
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/13,11:51:48)
+
+							(User	Sergey)
+
+							(Path	import_lib.tbu-p40-g)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TBU-P40-G
+
+							(PackType	TBU-P40-G)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tbu-p40-g)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cfd03ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001de20405)
+
+)
+

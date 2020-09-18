@@ -1,0 +1,180 @@
+(Cell	hmc221b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/14/14,11:50:40)
+
+			(User	imk)
+
+			(Path	b620.hmc221b)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/14/14,11:58:24)
+
+			(User	imk)
+
+			(Path	b620.hmc221b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000053b097dc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/14,11:51:47)
+
+							(User	imk)
+
+							(Path	b620.hmc221b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bcd03b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ad2b2e76)
+
+			(Primitives	1
+
+				(Primitive	HMC221B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/14,11:54:38)
+
+							(User	imk)
+
+							(Path	b620.hmc221b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC221B
+
+							(PackType	HMC221B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	hmc221b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cea0389)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001d5203af)
+
+)
+

@@ -1,0 +1,178 @@
+(Cell	tps76328
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/22/05,15:17:18)
+
+			(User	Sergey)
+
+			(Path	import_lib.tps76328)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/23/05,11:24:40)
+
+			(User	Sergey)
+
+			(Path	import_lib.tps76328)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008bde8e06)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/22/05,15:17:23)
+
+							(User	Sergey)
+
+							(Path	import_lib.tps76328)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000536603e7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003a13bb57)
+
+			(Primitives	1
+
+				(Primitive	TPS76328
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/05,11:23:19)
+
+							(User	Sergey)
+
+							(Path	import_lib.tps76328)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS76328
+
+							(PackType	TPS76328)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b20a03ed)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s011)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000033d03d2)
+
+)
+

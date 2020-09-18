@@ -1,0 +1,146 @@
+Cadence Design Systems, Inc. netrev  Tue Mar 22 15:58:15 2005
+(C) Copyright 2002 Cadence Design Systems, Inc.
+
+------ Directives ------
+
+RIPUP_ETCH TRUE;
+RIPUP_SYMBOLS ALWAYS;
+MISSING SYMBOL AS ERROR FALSE;
+SCHEMATIC_DIRECTORY 'D:\Radio\PSD_Data\projects\most\worklib\sint\packaged';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:\Radio\PSD_Data\projects\most\worklib\sint\physical\sint-plis_18-03_12-13_v2.brd';
+NEW_BOARD_NAME 'D:\Radio\PSD_Data\projects\most\worklib\sint\physical\sint-plis_18-03_12-13_v2.brd';
+UPDATE_DEPTABLE FALSE;
+
+CmdLine: netrev -proj D:\Radio\PSD_Data\projects\most\most3.cpm -5 -y 1 -x D:\Radio\PSD_Data\projects\most\worklib\sint\physical\sint-plis_18-03_12-13_v2.brd D:\Radio\PSD_Data\projects\most\worklib\sint\physical\sint-plis_18-03_12-13_v2.brd -$
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstchip.dat 
+   Finished reading D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstchip.dat (00:00:00.03)
+Starting to read D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstxprt.dat 
+   Finished reading D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstxprt.dat (00:00:00.00)
+Starting to read D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstxnet.dat 
+   Finished reading D:/Radio/PSD_Data/projects/most/worklib/sint/packaged/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'SOIC8' for device '25LC040' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'F363' for device 'ACTSTE01' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'ERNI64785' for device 'ERNI64785' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'SOIC-8' for device 'FIN1102_SOIC-8' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'SSOP-28' for device 'ICS525_SSOP-28' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(304) Device/Symbol check warning detected.
+
+Symbol '87331-1420' for device 'JTAG' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(304) Device/Symbol check warning detected.
+
+Symbol '0805' for device 'LED' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'SC70' for device 'MAX6736' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'DUAL_LEDS' for device 'RG_LEDS' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'SC70-5' for device 'SN74LVC1G125_SC70-5' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(304) Device/Symbol check warning detected.
+
+Symbol 'PQFP44' for device 'XCV18VXXX' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:\Radio\Cadence\PSD_14.2\share\local\pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:\Cadence\PSD_14.2\share\local\pcb/symbols 
+           d:\Cadence\PSD_14.2\share\pcb/pcb_lib/symbols 
+           d:\Cadence\PSD_14.2\share\pcb/allegrolib/symbols 
+           D:\PSD_Data\footprints\symbols\ 
+           I:\ 
+           J:\ 
+           K:\ 
+           L:\ 
+           \\Hd1srv\CDNC_LIBRARY\PHYSICAL\PADSTACKS\ 
+           \\Hd1srv\CDNC_LIBRARY\PHYSICAL\FOOTPRINTS\SYMBOLS\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:\Cadence\PSD_14.2\share\local\pcb/padstacks 
+           d:\Cadence\PSD_14.2\share\pcb/pcb_lib/symbols 
+           d:\Cadence\PSD_14.2\share\pcb/allegrolib/symbols 
+           D:\PSD_DATA\padstacks\ 
+           \\Hd1srv\CDNC_LIBRARY\PHYSICAL\PADSTACKS\ 
+           M:\ 
+           N:\ 
+           O:\ 
+           \\Hd1srv\CDNC_LIBRARY\PHYSICAL\FOOTPRINTS\SYMBOLS\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 22 15:58:15 2005
+   DESIGN NAME : 'SINT'
+   PACKAGING ON 22-Mar-2005 AT 15:58:13
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   DIRECTORIES  <none>
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   LIBRARIES  'r_maxim_lib' 'most3_lib' 'standard' 'discrete_niitp'
+              'power_niitp' 'converter_niitp' 'filter_niitp' 'import_lib'
+              'r_int_rectifier_lib' 'r_logic_lib' 'r_sinergy_lib' 'r_ad_lib'
+              'r_mini_circuits_lib' 'r_philips_lib' 'r_linear_tech_lib'
+              'r_murata_lib' 'r_intersil_lib' 'r_vf_tech_lib' 'r_bourns_lib'
+              'r_fairchild_lib' 'r_c_mac_lib' 'r_agilent_lib' 'r_contact_lib'
+              'r_ics_lib' 'r_act_lib' 'r_ti_lib' 'r_xilinx_lib'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 11 warnings detected
+
+cpu time      0:00:56
+elapsed time  0:00:00
+

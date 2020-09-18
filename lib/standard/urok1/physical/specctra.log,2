@@ -1,0 +1,214 @@
+# 
+# ===============================================================================
+#                     SPECCTRA ShapeBased Automation Software                    
+# Copyright 1990-2000 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Thu Nov 27 17:57:38 2003
+# 
+# SPECCTRA ShapeBased Automation Software V10.2 made 2002/03/20 at 12:04:09
+# Running on: men, OS Version: WindowsNT 5.0.2195, Architecture: Intel Pentium
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Batch File Name: pasde.do
+# SPECCTRA ShapeBased Automation Software running in Windows 2000 Professional
+# Did File Name: d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\specctra.did
+# Current time = Thu Nov 27 17:57:39 2003
+# PCB d:\Cadence\PSD_14.2\share\library\standard\urok1\physical
+# Master Unit set up as: MIL 100
+# PCB Limits xlo=-20.0000 ylo=-20.0000 xhi=21020.0000 yhi=17020.0000
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 2, Vias Processed 0
+# Layers Processed: Signal Layers 2
+# Components Placed 2, Images Processed 4, Padstacks Processed 7
+# Nets Processed 1, Net Terminals 0
+# PCB Area=357000000.000  EIC=3  Area/EIC=119000000.000  SMDs=1
+# Total Pin Count: 42
+# Checked out license feature SPECCTRA_expert_system
+# Signal Connections Created 0
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:\DOCUME~1\Sergey\LOCALS~1\Temp\#Taaaaab01404.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# All Wires Protected.
+# Wires on layer TOP were Unprotected.
+# Wires on layer BOTTOM were Unprotected.
+# Fanout in any direction.
+# Fanout inside and outside component outline.
+# Fanout..Signal Nets.
+# Fanout..Power Nets.
+# Current time = Thu Nov 27 17:57:40 2003
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Fanout Pass 1 of 5
+# <<WARNING:>> No Surface Mount Breakouts to do.
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 25
+# Routing 0 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 0 Successes 0 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|     0|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Overall Routing Time: 0:00:00
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 0 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 0 Successes 0 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|     0|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Clean    |  2|     0|     0|   0|    0|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Overall Routing Time: 0:00:00
+# 
+# Wiring Statistics ----------------- d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\unnamed.dsn
+# Nets 1 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length 3451.0281 Horizontal 2827.5000 Vertical 975.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routing Written to File C:\DOCUME~1\Sergey\LOCALS~1\Temp\#Taaaaac01404.tmp

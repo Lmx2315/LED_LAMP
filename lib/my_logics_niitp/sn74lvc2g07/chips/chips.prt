@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SN74LVC2G07';
+  pin
+    'A':
+      PIN_NUMBER='(1,3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(6,4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='SN74LVC2G07';
+    BODY_NAME='SN74LVC2G07';
+    FAMILY='?';
+    JEDEC_TYPE='SC70';
+    PHYS_DES_PREFIX='DD';
+    CLASS='IC';
+    POWER_PINS='(P3V3:5)';
+    POWER_PINS='(GNDD:2)';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,28 @@
+	(Comment
+		(Time 12/28/17,12:03:10)
+		(User Lmx2315)
+		(MsgId ECO_021)
+		(Text "Package K5572IN2AH4 added to cell")
+		(Param1 "K5572IN2AH4")
+	)
+	(Comment
+		(Time 12/28/17,12:08:58)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 12/28/17,12:14:57)
+		(User Lmx2315)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 12/28/17,12:15:08)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

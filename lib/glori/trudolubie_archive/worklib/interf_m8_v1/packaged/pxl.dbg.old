@@ -1,0 +1,148 @@
+Log File: C:\DOCUME~1\CHUPRI~1\LOCALS~1\Temp\s25s.
+Markers File: C:\DOCUME~1\CHUPRI~1\LOCALS~1\Temp\s25s.1
+Debug File: C:\DOCUME~1\CHUPRI~1\LOCALS~1\Temp\s25s.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:00)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+DDB_INFO: Merging part rows for PPT 'LED'.
+DDB_INFO: Merging part rows for PPT 'SI4465'.
+DDB_INFO: Merging part rows for PPT 'VT_NPN'.
+DDB_INFO: Merging part rows for PPT 'LAT'.
+DDB_INFO: Merging part rows for PPT 'CY7C68013A_56'.
+EDB info: Null connection to port \cts1/p0.11  in instance page2_i2.
+EDB info: Null connection to port \dsr1/p0.12  in instance page2_i2.
+EDB info: Null connection to port \dtr1/p0.13  in instance page2_i2.
+EDB info: Null connection to port \eint0/p0.16  in instance page2_i2.
+EDB info: Null connection to port \p1.20  in instance page2_i2.
+EDB info: Null connection to port \p1.25/extino  in instance page2_i2.
+EDB info: Null connection to port \rd1/p0.25  in instance page2_i2.
+EDB info: Null connection to port \rd2/p0.23  in instance page2_i2.
+EDB info: Null connection to port \ri1/p0.15  in instance page2_i2.
+EDB info: Null connection to port td1 in instance page2_i2.
+EDB info: Null connection to port \td2/p0.24  in instance page2_i2.
+EDB info: Null connection to port acbus0 in instance page2_i40.
+EDB info: Null connection to port acbus1 in instance page2_i40.
+EDB info: Null connection to port acbus2 in instance page2_i40.
+EDB info: Null connection to port acbus3 in instance page2_i40.
+EDB info: Null connection to port adbus0 in instance page2_i40.
+EDB info: Null connection to port adbus1 in instance page2_i40.
+EDB info: Null connection to port adbus2 in instance page2_i40.
+EDB info: Null connection to port adbus3 in instance page2_i40.
+EDB info: Null connection to port adbus4 in instance page2_i40.
+EDB info: Null connection to port adbus5 in instance page2_i40.
+EDB info: Null connection to port adbus6 in instance page2_i40.
+EDB info: Null connection to port adbus7 in instance page2_i40.
+EDB info: Null connection to port bcbus0 in instance page2_i40.
+EDB info: Null connection to port bcbus1 in instance page2_i40.
+EDB info: Null connection to port bdbus3 in instance page2_i40.
+EDB info: Null connection to port bdbus5 in instance page2_i40.
+EDB info: Null connection to port bdbus6 in instance page2_i40.
+EDB info: Null connection to port bdbus7 in instance page2_i40.
+EDB info: Null connection to port eecs in instance page2_i40.
+EDB info: Null connection to port eedata in instance page2_i40.
+EDB info: Null connection to port eesk in instance page2_i40.
+EDB info: Null connection to port \pwren#  in instance page2_i40.
+EDB info: Null connection to port \si/wua  in instance page2_i40.
+EDB info: Null connection to port \si/wub  in instance page2_i40.
+EDB info: Null connection to port nc in instance page2_i117.
+EDB info: Null connection to port \17  in instance page2_i345.
+EDB info: Null connection to port \19  in instance page2_i345.
+EDB info: Null connection to port ro2 in instance page9_i26.
+EDB info: Null connection to port \slo#  in instance page9_i26.
+EDB info: Null connection to port st1 in instance page9_i26.
+EDB info: Null connection to port st2 in instance page9_i26.
+EDB info: Null connection to port r2in in instance page9_i119.
+EDB info: Null connection to port r2out in instance page9_i119.
+EDB info: Null connection to port t2in in instance page9_i119.
+EDB info: Null connection to port t2out in instance page9_i119.
+EDB info: Null connection to port an2 in instance page9_i135.
+EDB info: Null connection to port cat2 in instance page9_i135.
+EDB info: Null connection to port \v02*  in instance page9_i135.
+EDB info: Null connection to port b in instance page9_i393.
+EDB info: Null connection to port y2 in instance page9_i393.
+EDB info: Null connection to port nc in instance page9_i419.
+EDB info: Null connection to port a8 in instance page9_i439.
+EDB info: Null connection to port b8 in instance page9_i439.
+EDB info: Null connection to port nc in instance page9_i439.
+EDB info: Null connection to port an2 in instance page9_i466.
+EDB info: Null connection to port cat2 in instance page9_i466.
+EDB info: Null connection to port \v02*  in instance page9_i466.
+EDB info: Null connection to port a in instance page9_i609.
+EDB info: Null connection to port b in instance page9_i609.
+EDB info: Null connection to port \re#  in instance page9_i609.
+EDB info: Null connection to port ro1 in instance page9_i609.
+EDB info: Null connection to port ro2 in instance page9_i609.
+EDB info: Null connection to port \slo#  in instance page9_i609.
+EDB info: Null connection to port st1 in instance page9_i609.
+EDB info: Null connection to port st2 in instance page9_i609.
+EDB info: Null connection to port ro2 in instance page9_i623.
+EDB info: Null connection to port \slo#  in instance page9_i623.
+EDB info: Null connection to port st1 in instance page9_i623.
+EDB info: Null connection to port st2 in instance page9_i623.
+EDB info: Null connection to port de in instance page9_i641.
+EDB info: Null connection to port di in instance page9_i641.
+EDB info: Null connection to port ro2 in instance page9_i641.
+EDB info: Null connection to port \slo#  in instance page9_i641.
+EDB info: Null connection to port st1 in instance page9_i641.
+EDB info: Null connection to port st2 in instance page9_i641.
+EDB info: Null connection to port y in instance page9_i641.
+EDB info: Null connection to port z in instance page9_i641.
+EDB info: Null connection to port b in instance page9_i678.
+EDB info: Null connection to port y2 in instance page9_i678.
+EDB info: Null connection to port \9  in instance page9_i687.
+EDB info: Null connection to port \10  in instance page9_i687.
+EDB info: Null connection to port \1  in instance page9_i690.
+EDB info: Null connection to port \4  in instance page9_i690.
+EDB info: Null connection to port \6  in instance page9_i690.
+EDB info: Null connection to port \7  in instance page9_i690.
+EDB info: Null connection to port \8  in instance page9_i690.
+EDB info: Null connection to port \9  in instance page9_i690.
+EDB info: Null connection to port \3  in instance page9_i756.
+EDB info: Null connection to port \4  in instance page9_i756.
+EDB info: Null connection to port \2  in instance page9_i772.
+EDB info: Null connection to port \5  in instance page9_i772.
+EDB info: Null connection to port \10  in instance page9_i772.
+EDB info: Null connection to port \13  in instance page9_i772.
+EDB info: Null connection to port \15  in instance page9_i772.
+EDB info: Null connection to port \16  in instance page9_i772.
+DDB_INFO: Merging part rows for PPT 'LED'.
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+DDB_INFO: Created merged part 'LED_0805-BASE' for PPT 'LED'.
+DDB_INFO: Created merged part 'LED_F330-BASE' for PPT 'LED'.
+DDB_INFO: Created merged part 'LED_L53_S-BASE' for PPT 'LED'.
+DDB_INFO: Created merged part 'VT_NPN_F364-BASE' for PPT 'VT_NPN'.
+DDB_INFO: Created merged part 'VT_NPN_F138-BASE' for PPT 'VT_NPN'.
+DDB_INFO: Created merged part 'VT_NPN_F341-BASE' for PPT 'VT_NPN'.
+DDB_INFO: Created merged part 'VT_NPN_SOT323-BASE' for PPT 'VT_NPN'.
+Elapsed time since start = (00:00:00)
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+Elapsed time since start = (00:00:01)
+
+ *******************************
+ *  End packaging  (00:00:01)  *
+ *******************************
+
+DDB_INFO: State file for design INTERF_M8_V1 successfully written.
+DDB_INFO: Pst files for design INTERF_M8_V1 successfully written.
+
+ *********************************************
+ *  ERROR Packager-XL exiting with status 1  *
+ *********************************************
+

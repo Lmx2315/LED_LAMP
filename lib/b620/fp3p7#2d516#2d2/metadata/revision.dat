@@ -1,0 +1,170 @@
+(Cell	fp3p7-516-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/13/14,14:52:54)
+
+			(User	imk)
+
+			(Path	b620.fp3p7-516-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/13/14,14:54:14)
+
+			(User	imk)
+
+			(Path	b620.fp3p7-516-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005f0f5155)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/13/14,14:53:02)
+
+							(User	imk)
+
+							(Path	b620.fp3p7-516-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c660382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e2399fa5)
+
+			(Primitives	1
+
+				(Primitive	FP3P7-516-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/13/14,14:53:46)
+
+							(User	imk)
+
+							(Path	b620.fp3p7-516-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FP3P7-516-2
+
+							(PackType	FP3P7-516-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ecf03e8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001dc603e0)
+
+)
+

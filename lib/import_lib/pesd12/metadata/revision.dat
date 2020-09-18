@@ -1,0 +1,170 @@
+(Cell	pesd12
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/06/11,10:39:33)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pesd12)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/06/11,10:42:15)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pesd12)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000946be135)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/11,10:39:37)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pesd12)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000026fc0384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000caaf4e61)
+
+			(Primitives	1
+
+				(Primitive	PESD12
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/06/11,10:41:48)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pesd12)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PESD12
+
+							(PackType	PESD12)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000093d003db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000848e03aa)
+
+)
+

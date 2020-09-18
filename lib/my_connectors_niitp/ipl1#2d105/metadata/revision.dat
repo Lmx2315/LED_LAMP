@@ -1,0 +1,166 @@
+(Cell	ipl1-105
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/21/06,14:28:53)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.ipl1-105)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/21/06,14:29:28)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.ipl1-105)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	aff6ac5d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/06,14:29:26)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.ipl1-105)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	edd102af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	8bea17ee)
+
+			(Primitives	1
+
+				(Primitive	IPL1-105
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/06,14:28:55)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.ipl1-105)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IPL1-105
+
+							(PackType	IPL1-105)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	cec301ed)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	fe580280)
+
+)
+

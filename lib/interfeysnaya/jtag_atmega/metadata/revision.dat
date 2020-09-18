@@ -1,0 +1,170 @@
+(Cell	jtag_atmega
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/17/06,14:12:14)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.jtag_atmega)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/01/06,14:15:58)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.jtag_atmega)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000bb7d888b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/06,14:12:18)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.jtag_atmega)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000832803ea)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ccc9c44d)
+
+			(Primitives	1
+
+				(Primitive	JTAG_ATMEGA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/01/06,14:09:57)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.jtag_atmega)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	JTAG_ATMEGA
+
+							(PackType	JTAG_ATMEGA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000656203b8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000f8820351)
+
+)
+

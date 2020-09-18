@@ -1,0 +1,43 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive '93LC46';
+  pin
+    'CS':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SK':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'DI':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DO':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'ORG':
+      PIN_NUMBER='(8)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='93LC46';
+    BODY_NAME='93LC46';
+    JEDEC_TYPE='f70';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    GROUND_NETS='VSS';
+    POWER_PINS='(VCC:2)';
+    POWER_PINS='(VSS:7)';
+    NC_PINS='(1)';
+  end_body;
+end_primitive;
+
+END.

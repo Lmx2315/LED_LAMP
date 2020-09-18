@@ -1,0 +1,182 @@
+(Cell	mt41j128m8v2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/05/14,18:55:52)
+
+			(User	imk)
+
+			(Path	b620.mt41j128m8v2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/05/14,18:21:49)
+
+			(User	imk)
+
+			(Path	b620.mt41j128m8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e736eeab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/14,18:55:52)
+
+							(User	imk)
+
+							(Path	b620.mt41j128m8v2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001da00413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001a6dc5d0)
+
+			(Primitives	1
+
+				(Primitive	mt41j128m8v2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/14,18:55:52)
+
+							(User	imk)
+
+							(Path	b620.mt41j128m8v2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT41J128M8)
+
+						(LogicalPart	mt41j128m8v2
+
+							(PackType	mt41j128m8v2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fbga78)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c3803b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ba80379)
+
+)
+

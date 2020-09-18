@@ -1,0 +1,40 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'FIN1002';
+  pin
+    'RIN+':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'RIN-':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'ROUT':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='FIN1002';
+    BODY_NAME='FIN1002';
+    PHYS_DES_PREFIX='DD';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(VCC:1)';
+    POWER_PINS='(GND:2)';
+  end_body;
+end_primitive;
+
+END.

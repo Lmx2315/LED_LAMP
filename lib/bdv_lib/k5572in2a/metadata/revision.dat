@@ -1,0 +1,210 @@
+(Cell	k5572in2a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/08/17,15:23:42)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.k5572in2a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/08/17,15:41:10)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.k5572in2a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fd8fae95)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/08/17,15:41:08)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.k5572in2a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f64041d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f9daad95)
+
+			(Primitives	1
+
+				(Primitive	K5572IN2A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/08/17,15:23:46)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.k5572in2a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	K5572IN2A
+
+							(PackType	K5572IN2A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h0624-1b)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	kristal_5572in2u)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2c03ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ca503d0)
+
+)
+

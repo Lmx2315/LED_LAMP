@@ -1,0 +1,170 @@
+(Cell	tps51200
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/17/12,14:14:34)
+
+			(User	Sergey)
+
+			(Path	b620.tps51200)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/17/12,14:16:44)
+
+			(User	Sergey)
+
+			(Path	b620.tps51200)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000002c452d94)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,14:14:38)
+
+							(User	Sergey)
+
+							(Path	b620.tps51200)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000007180382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000043af41fb)
+
+			(Primitives	1
+
+				(Primitive	TPS51200
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,14:16:10)
+
+							(User	Sergey)
+
+							(Path	b620.tps51200)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS51200
+
+							(PackType	TPS51200)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000024f203b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000067340378)
+
+)
+

@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Jul 26 11:50:35 2004' ;
+primitive 'FIS_10_7_102S';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND1':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'GND2':
+      PIN_NUMBER='(3)';
+      PINUSE='GROUND';
+    'GND3':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'GND4':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+    'GND5':
+      PIN_NUMBER='(6)';
+      PINUSE='GROUND';
+    'GND6':
+      PIN_NUMBER='(7)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='FIS_10_7';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F279';
+    BODY_NAME='fis_10_7';
+    FAMILY='FIS';
+  end_body;
+end_primitive;
+END.

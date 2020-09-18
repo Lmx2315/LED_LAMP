@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Dec 17 09:37:37 2003' ;
+primitive 'INDUCTOR';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='INDUCTOR';
+    PHYS_DES_PREFIX='L';
+    JEDEC_TYPE='f55';
+    FAMILY='?';
+    BODY_NAME='inductor';
+  end_body;
+end_primitive;
+END.

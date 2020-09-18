@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Dec 05 15:19:05 2003' ;
+primitive '564LA8';
+  pin
+    '2':
+      PIN_NUMBER='(2,9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3,10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '4':
+      PIN_NUMBER='(4,11)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '5':
+      PIN_NUMBER='(5,12)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-1':
+      PIN_NUMBER='(1,13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(6,8)';
+    POWER_PINS='(GNDD:7)';
+    POWER_PINS='(P5V0:14)';
+    CLASS='IC';
+    PART_NAME='564LA8';
+    JEDEC_TYPE='F39';
+    BODY_NAME='564LA8';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,43 @@
+
+	(Comment
+		(Time 12/09/09,16:05:37)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 12/09/09,16:17:30)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 12/09/09,16:25:48)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package xc3s500e added to cell")
+		(Param1 xc3s500e)
+	)
+
+	(Comment
+		(Time 12/15/09,16:15:26)
+		(User senzenist_s_n)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 01/10/12,15:30:17)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+
+

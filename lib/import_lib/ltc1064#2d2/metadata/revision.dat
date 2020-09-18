@@ -1,0 +1,178 @@
+(Cell	ltc1064-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/16/09,10:13:36)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1064-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/16/09,10:19:14)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ltc1064-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000aa7dd3db)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/09,10:13:38)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1064-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000008f4d043b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b9e7bc87)
+
+			(Primitives	1
+
+				(Primitive	LTC1064-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/09,10:17:50)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ltc1064-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC1064-2
+
+							(PackType	LTC1064-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c6ab037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000a39103dc)
+
+)
+

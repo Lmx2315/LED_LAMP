@@ -1,0 +1,170 @@
+(Cell	ds90c402m
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/09/10,15:51:29)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds90c402m)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/09/10,15:55:41)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ds90c402m)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000c1fdda6b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,15:51:31)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds90c402m)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000009f45043c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009b51b0fe)
+
+			(Primitives	1
+
+				(Primitive	DS90C402M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/09/10,15:53:37)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ds90c402m)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS90C402M
+
+							(PackType	DS90C402M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e4d003b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000162f03a3)
+
+)
+

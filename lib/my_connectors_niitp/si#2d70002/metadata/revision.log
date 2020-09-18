@@ -1,0 +1,34 @@
+
+	(Comment
+		(Time 06/30/06,14:24:58)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package SI-70002 added to cell")
+		(Param1 SI-70002)
+	)
+
+
+
+
+	(Comment
+		(Time 06/30/06,14:46:43)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/30/06,14:46:47)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 06/30/06,14:46:49)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+

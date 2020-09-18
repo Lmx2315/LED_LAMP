@@ -1,0 +1,170 @@
+(Cell	isp
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/20/09,10:28:09)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.isp)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/20/09,10:46:48)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.isp)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ffa2b270)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/09,10:28:11)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.isp)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000094a903db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000282c5d0e)
+
+			(Primitives	1
+
+				(Primitive	ISP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/20/09,10:29:14)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.isp)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ISP
+
+							(PackType	ISP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000013d303e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000057330377)
+
+)
+

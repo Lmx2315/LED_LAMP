@@ -1,0 +1,46 @@
+
+	(Comment
+		(Time 03/10/10,17:21:28)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 03/10/10,17:22:30)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package lm1117 added to cell")
+		(Param1 lm1117)
+	)
+
+	(Comment
+		(Time 03/11/10,14:47:03)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package LM1117 deleted from cell")
+		(Param1 LM1117)
+	)
+	(Comment
+		(Time 03/11/10,14:47:07)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package lm1117 added to cell")
+		(Param1 lm1117)
+	)
+	(Comment
+		(Time 03/11/10,14:47:14)
+		(User senzenist_s_n)
+		(MsgId ECO_022)
+		(Text "Package LM1117 deleted from cell")
+		(Param1 LM1117)
+	)
+	(Comment
+		(Time 03/11/10,14:47:24)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package lm1117 added to cell")
+		(Param1 lm1117)
+	)
+
+

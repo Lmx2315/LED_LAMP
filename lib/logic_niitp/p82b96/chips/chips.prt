@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 24 12:38:52 2003' ;
+primitive 'P82B96_SO8';
+  pin
+    'SX':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'RX':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TX':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SY':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'RY':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TY':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:8)';
+    POWER_PINS='(GNDD:4)';
+    CLASS='IC';
+    PART_NAME='P82B96';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='SO8';
+    LIBRARY_NAME='my_library';
+    BODY_NAME='P82B96';
+  end_body;
+end_primitive;
+END.

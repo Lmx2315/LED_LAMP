@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Jul 01 17:35:01 2004' ;
+primitive 'AD8361ARM_RM-8';
+  pin
+    'IREF':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RFIN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'PWDN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'FLTR':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VRMS':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SREF':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VPOS':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'COMM':
+      PIN_NUMBER='(5)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='AD8361ARM';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='RM-8';
+    BODY_NAME='AD8361ARM';
+    FAMILY='AD';
+  end_body;
+end_primitive;
+END.

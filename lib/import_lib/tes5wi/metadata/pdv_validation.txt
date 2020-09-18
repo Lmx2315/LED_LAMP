@@ -1,0 +1,2 @@
+pdv_117,Package Pin:No mapping between Logical Pin 'ON/OFF' and section number S1. Blank values not allowed for any Section Number,Error
+pdv_170,Cell 'tes5wi':Pins NC are not present in any of the packages or symbols.,Warning

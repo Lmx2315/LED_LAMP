@@ -1,0 +1,170 @@
+(Cell	drb-37
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/12,12:39:03)
+
+			(User	Sergey)
+
+			(Path	import_lib.drb-37)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/05/12,12:40:28)
+
+			(User	Sergey)
+
+			(Path	import_lib.drb-37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008a94e88f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/12,12:39:06)
+
+							(User	Sergey)
+
+							(Path	import_lib.drb-37)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000040703c2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003369beca)
+
+			(Primitives	1
+
+				(Primitive	DRB-37
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/12,12:39:46)
+
+							(User	Sergey)
+
+							(Path	import_lib.drb-37)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DRB-37
+
+							(PackType	DRB-37)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000006400382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000006b4c0318)
+
+)
+

@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Jun 07 17:01:11 2004' ;
+primitive 'MAX7424';
+  pin
+    'COM':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OS':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CLK':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-SHDN':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P3V3':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'GNDD':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX7424';
+    JEDEC_TYPE='MAX';
+    BODY_NAME='MAX7424';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

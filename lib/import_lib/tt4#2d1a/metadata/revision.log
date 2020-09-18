@@ -1,0 +1,18 @@
+
+	(Comment
+		(Time 12/22/11,12:05:47)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package TX1-1 deleted from cell")
+		(Param1 TX1-1)
+	)
+
+	(Comment
+		(Time 12/22/11,12:06:51)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package tt4-1a added to cell")
+		(Param1 tt4-1a)
+	)
+
+

@@ -1,0 +1,172 @@
+(Cell	bav99lt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/27/06,17:30:22)
+
+			(User	admin)
+
+			(Path	my_passive_niitp.bav99lt)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/27/06,17:31:17)
+
+			(User	admin)
+
+			(Path	my_passive_niitp.bav99lt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e29f6962)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,17:31:14)
+
+							(User	admin)
+
+							(Path	my_passive_niitp.bav99lt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ccb038e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002490bee5)
+
+			(Primitives	1
+
+				(Primitive	BAV99LT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,17:30:28)
+
+							(User	admin)
+
+							(Path	my_passive_niitp.bav99lt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BAV99LT
+
+							(PackType	BAV99LT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bb2037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c7603a5)
+
+)
+

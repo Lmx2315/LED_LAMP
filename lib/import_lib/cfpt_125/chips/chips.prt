@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Dec 23 09:13:32 2004' ;
+primitive 'CFPT_125';
+  pin
+    'OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VC':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VCC':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='CFPT_125';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='cfpt125';
+    FAMILY='CFPT';
+    BODY_NAME='CFPT_125';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,178 @@
+(Cell	trf372017
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/14/12,17:04:50)
+
+			(User	Sergey)
+
+			(Path	b620.trf372017)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/14/12,17:14:56)
+
+			(User	Sergey)
+
+			(Path	b620.trf372017)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000fcd9e543)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,17:04:52)
+
+							(User	Sergey)
+
+							(Path	b620.trf372017)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000641a03e8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ce4ec919)
+
+			(Primitives	1
+
+				(Primitive	TRF372017
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,17:11:12)
+
+							(User	Sergey)
+
+							(Path	b620.trf372017)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TRF372017
+
+							(PackType	TRF372017)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b6dd037d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000d37403df)
+
+)
+

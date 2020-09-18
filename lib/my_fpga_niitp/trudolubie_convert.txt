@@ -1,0 +1,22 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/dpu/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/dpu/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/dpu_t/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/dpu_t/psp_sim_1
+    master.tag
+
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/scu/cfg_analog
+    master.tag
+    expand.cfg
+D:/Works/trudolubie/cadence/trudolubie/my_fpga_niitp/scu/psp_sim_1
+    master.tag

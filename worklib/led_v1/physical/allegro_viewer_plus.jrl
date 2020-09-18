@@ -1,0 +1,15 @@
+\t (00:00:02) allegro_viewer_plus 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:02)     Journal start - Tue Aug 25 17:05:51 2020
+\t (00:00:02)         Host=LMX_PK User=Lmx Pid=10972 CPUs=12
+\t (00:00:02) CmdLine= allegro_viewer_plus -product Concept_HDL_expert -proj D:\SPB_Data\LED_lamp\led_drv1.cpm
+\t (00:00:02) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 647
+\i (00:00:03) trapsize 635
+\i (00:00:03) trapsize 649
+\i (00:00:04) trapsize 661
+\i (00:00:04) trapsize 573
+\i (00:00:04) trapsize 897
+\i (00:00:11) trapsize 623
+\i (00:00:25) exit 
+\t (00:00:25)     Journal end - Tue Aug 25 17:06:14 2020

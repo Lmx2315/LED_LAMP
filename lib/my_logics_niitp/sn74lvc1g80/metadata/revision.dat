@@ -1,0 +1,172 @@
+(Cell	sn74lvc1g80
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/20/06,17:07:07)
+
+			(User	admin)
+
+			(Path	my_logics_niitp.sn74lvc1g80)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/20/06,17:09:04)
+
+			(User	admin)
+
+			(Path	my_logics_niitp.sn74lvc1g80)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e78b6d0c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/20/06,17:09:00)
+
+							(User	admin)
+
+							(Path	my_logics_niitp.sn74lvc1g80)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7a03e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e5bd71a9)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC1G80
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/20/06,17:07:11)
+
+							(User	admin)
+
+							(Path	my_logics_niitp.sn74lvc1g80)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC1G80
+
+							(PackType	SN74LVC1G80)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a520357)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b310349)
+
+)
+

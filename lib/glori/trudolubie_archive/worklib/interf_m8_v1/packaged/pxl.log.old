@@ -1,0 +1,134 @@
+
+
+    Cadence Design Systems, Inc.
+    Packager-XL 15.20-s003 WIN32 14-Apr-2005 12:00:00 IST
+    (C) Copyright 1994, Cadence Design Systems, Inc.
+
+    Run on Wed Oct 17 16:00:05 2012
+
+
+ **********************************************
+ *  Processing project file and command line  *
+ **********************************************
+
+
+
+    ANNOTATE  'BODY' 'PIN'
+    COMP_DEF_PROP  'ALT_SYMBOLS' 'JEDEC_TYPE' 'NC_PINS' 'MERGE_NC_PINS'
+                   'POWER_GROUP' 'POWER_PINS' 'MERGE_POWER_PINS' 'PINCOUNT'
+    COMP_INST_PROP  'GROUP' 'ROOM' 'REUSE_INSTANCE' 'REUSE_ID' 'REUSE_NAME'
+                    'SIGNAL_MODEL' 'DEFAULT_SIGNAL_MODEL'
+                    'VOLT_TEMP_SIGNAL_MODEL'
+    SUPPRESS_GLOBAL_SHORT_CHECK OFF
+    DEBUG    0
+    DEFAULT_PHYS_DES_PREFIX U
+    FEEDBACK  'OFF'
+    MAX_ERRORS 999
+    NET_NAME_CHARS   @  -  !  #  %  &  (  )  *  .  /  :  ?  [  ]  ^  _  `  +
+                     =  >  0  1  2  3  4  5  6  7  8  9
+    NET_NAME_LENGTH 31
+    NUM_OLD_VERSIONS 3
+    OPTIMIZE OFF
+    REUSE_REFDES ON
+    OPF_OPTIMIZATION OFF
+    HARD_LOC_SEC OFF
+    FORCE_PTF_ENTRY OFF
+    REGENERATE_PHYSICAL_NET_NAME ON
+    SCH_POWER_GROUP_WINS_OVER_PPT OFF
+    NULL_OPT_VALID OFF
+    USE_VECTOR_NOTATION ON
+    FILTER_ECS_FROM_XNET ON
+    OUTPUT  'ON'
+    PACKAGE_PROP  'GROUP' 'ROOM'
+    PART_TYPE_LENGTH 31
+    PPT  ./prt_bp.ptf 
+    REF_DES_LENGTH 31
+    REPACKAGE ON
+    ELECTRICAL_CONSTRAINTS ON
+    OVERWRITE_CONSTRAINTS OFF
+    RUN_DIR ./worklib/interf_m8_v1/packaged/
+    STRICT_PACKAGE_PROP  'REUSE_INSTANCE'
+    USE_LIBRARY_PPT ON
+    USE_STATE OFF
+    WARNINGS ON
+    LIBRARY  'trudolubie_lib' 'discrete_niitp' 'import_lib' 'leds_niitp'
+             'logic_niitp' 'max_niitp' 'standard' 'supervisor_niitp'
+             'interfeysnaya' 'power_my' 'power_niitp' 'pll' 'vco'
+             'power_divider' 'attenuator' 'rf_amplifer' 'ldo' 'vcxo' 'rbu'
+             'bushprit' 'bdv_lib' 'modulator_digital' 'my_connectors_niitp'
+             'my_leds_niitp' 'my_memory_niitp' 'my_supervisory_niitp'
+             'my_transceiver'
+    CDSPROP_FILE 
+    VIEW_PTF part_table
+    VIEW_PACKAGER packaged
+    VIEW_CONSTRAINTS constraints
+    DESIGN_LIBRARY trudolubie_lib
+    DESIGN_NAME interf_m8_v1
+    VIEW_CONFIG_PHYSICAL cfg_package
+    SD_SUFFIX_SEPARATOR _
+    CACHE_ENABLED OFF
+    CACHE_NAME cache
+    PTF_NAME cache.ptf
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+
+Creating Configuration "cfg_package" for Design "interf_m8_v1"
+
+Processing Constraints File ./worklib/interf_m8_v1/constraints/interf_m8_v1.dc~
+f. 
+Loading C:\Cadence\SPB_15.2\share\cdssetup\cdsprop.tmf.
+Loading C:\Cadence\SPB_15.2\share\cdssetup\cdsprop.paf.
+Loading ./prt_bp.ptf.
+
+ *********************************
+ *  Loading the design database  *
+ *********************************
+
+Loading occurrence properties from ./worklib/interf_m8_v1/opf/props.opf.
+Loading ./import_lib/led/part_table/part.ptf.
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+ #1  ERROR(1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: MIC39100
+        Schematic instance: @TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I132@POW~
+ER_MY.MIC39100(CHIPS)
+        Property Name: PACK_TYPE
+        Property Value: 
+ #2  ERROR(1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: MIC39100
+        Schematic instance: @TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I206@POW~
+ER_MY.MIC39100(CHIPS)
+        Property Name: PACK_TYPE
+        Property Value: 
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:01)  *
+ *******************************
+
+
+2 errors detected
+No warnings detected
+    Start time   16:00:05
+    End time     16:00:06
+    Elapsed time  0:00:01
+
+ *********************************************
+ *  ERROR Packager-XL exiting with status 1  *
+ *********************************************
+

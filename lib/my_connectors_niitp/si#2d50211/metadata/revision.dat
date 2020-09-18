@@ -1,0 +1,172 @@
+(Cell	si-50211
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/19/06,12:08:05)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.si-50211)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/19/06,12:11:12)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.si-50211)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bc6337e9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/19/06,12:08:05)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.si-50211)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4c03b7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000019b73f1)
+
+			(Primitives	1
+
+				(Primitive	SI-50211
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/19/06,12:08:05)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.si-50211)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SI-50211
+
+							(PackType	SI-50211)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0703ba)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bc503a3)
+
+)
+

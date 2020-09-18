@@ -1,0 +1,170 @@
+(Cell	idc24
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/23/09,11:31:19)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.idc24)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/23/09,11:32:12)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.idc24)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000f10bf19f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/09,11:31:21)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.idc24)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e2f703e0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004724c0db)
+
+			(Primitives	1
+
+				(Primitive	IDC24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/23/09,11:31:58)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.idc24)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IDC24
+
+							(PackType	IDC24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000010fe0403)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000027ed0374)
+
+)
+

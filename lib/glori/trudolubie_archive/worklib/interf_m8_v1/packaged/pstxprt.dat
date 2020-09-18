@@ -1,0 +1,4751 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 17-Oct-2012 AT 16:00:05 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='INTERF_M8_V1';
+ POST_TIME='17-Oct-2012 AT 16:00:05';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I207@DISCRETE_NIITP.C_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i207@discrete_niitp.c_el(chip~
+s)',
+ PATH='I207',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3375,4725)',
+ VER='1',
+ ROT='3',
+ LOCATION='C1',
+ VALUE='10',
+ PACK_TYPE='F136',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c_el/chips/chips.prt';
+
+PART_NAME
+ C2 'C_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I56@DISCRETE_NIITP.C_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i56@discrete_niitp.c_el(chips~
+)',
+ PATH='I56',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3300,5600)',
+ VER='1',
+ ROT='3',
+ PACK_TYPE='F136',
+ VALUE='10',
+ LOCATION='C2',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c_el/chips/chips.prt';
+
+PART_NAME
+ C3 'C_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I63@DISCRETE_NIITP.C_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i63@discrete_niitp.c_el(chips~
+)',
+ PATH='I63',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-4125,5575)',
+ VER='1',
+ ROT='3',
+ LOCATION='C3',
+ VALUE='10',
+ PACK_TYPE='F136',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c_el/chips/chips.prt';
+
+PART_NAME
+ C4 'C_0805-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I740@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i740@discrete_niitp.c(chips)',
+ PATH='I740',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2800,5275)',
+ VER='1',
+ ROT='1',
+ LOCATION='C4',
+ PACK_TYPE='0805',
+ VALUE='1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C5 'C_0805-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I741@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i741@discrete_niitp.c(chips)',
+ PATH='I741',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2775,4375)',
+ VER='1',
+ ROT='1',
+ LOCATION='C5',
+ PACK_TYPE='0805',
+ VALUE='1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C6 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I426@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i426@discrete_niitp.c(chips)',
+ PATH='I426',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1650,2050)',
+ VER='1',
+ ROT='1',
+ LOCATION='C6',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C7 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I447@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i447@discrete_niitp.c(chips)',
+ PATH='I447',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1650,175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C7',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C8 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I396@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i396@discrete_niitp.cap(chips~
+)',
+ PATH='I396',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1300,5825)',
+ VER='1',
+ ROT='1',
+ LOCATION='C8',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C9 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I404@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i404@discrete_niitp.cap(chips~
+)',
+ PATH='I404',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1275,4850)',
+ VER='1',
+ ROT='1',
+ LOCATION='C9',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C10 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I424@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i424@discrete_niitp.c(chips)',
+ PATH='I424',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-875,2050)',
+ VER='1',
+ ROT='1',
+ LOCATION='C10',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C11 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I443@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i443@discrete_niitp.c(chips)',
+ PATH='I443',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-875,175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C11',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C12 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I47@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i47@discrete_niitp.c(chips)',
+ PATH='I47',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1850,5050)',
+ VER='1',
+ ROT='0',
+ LOCATION='C12',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C13 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I482@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i482@discrete_niitp.c(chips)',
+ PATH='I482',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1850,3950)',
+ VER='1',
+ ROT='0',
+ LOCATION='C13',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C14 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I502@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i502@discrete_niitp.c(chips)',
+ PATH='I502',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1850,2675)',
+ VER='1',
+ ROT='0',
+ VALUE='0.1',
+ LOCATION='C14',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C15 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I523@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i523@discrete_niitp.c(chips)',
+ PATH='I523',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1875,1550)',
+ VER='1',
+ ROT='0',
+ LOCATION='C15',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C16 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I554@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i554@discrete_niitp.c(chips)',
+ PATH='I554',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1875,-700)',
+ VER='1',
+ ROT='0',
+ LOCATION='C16',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C17 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I570@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i570@discrete_niitp.c(chips)',
+ PATH='I570',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1875,-1825)',
+ VER='1',
+ ROT='0',
+ LOCATION='C17',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C18 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I592@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i592@discrete_niitp.c(chips)',
+ PATH='I592',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1875,-2975)',
+ VER='1',
+ ROT='0',
+ LOCATION='C18',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C19 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I153@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i153@discrete_niitp.c(chips)',
+ PATH='I153',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1900,375)',
+ VER='1',
+ ROT='0',
+ LOCATION='C19',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C20 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I131@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i131@discrete_niitp.c(chips)',
+ PATH='I131',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5125,1875)',
+ VER='1',
+ ROT='0',
+ VALUE='0.1',
+ LOCATION='C20',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C21 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I134@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i134@discrete_niitp.c(chips)',
+ PATH='I134',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(4950,1675)',
+ VER='1',
+ ROT='0',
+ LOCATION='C21',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C22 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I129@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i129@discrete_niitp.c(chips)',
+ PATH='I129',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5975,1850)',
+ VER='1',
+ ROT='0',
+ LOCATION='C22',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C23 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I130@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i130@discrete_niitp.c(chips)',
+ PATH='I130',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5975,1675)',
+ VER='1',
+ ROT='0',
+ LOCATION='C23',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C24 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I290@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i290@discrete_niitp.cap(chips~
+)',
+ PATH='I290',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5500,750)',
+ VER='1',
+ ROT='1',
+ LOCATION='C24',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C25 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I721@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i721@discrete_niitp.cap(chips~
+)',
+ PATH='I721',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5525,-200)',
+ VER='1',
+ ROT='1',
+ LOCATION='C25',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C26 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I727@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i727@discrete_niitp.cap(chips~
+)',
+ PATH='I727',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5500,-1125)',
+ VER='1',
+ ROT='1',
+ LOCATION='C26',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C27 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I298@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i298@discrete_niitp.cap(chips~
+)',
+ PATH='I298',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5475,-2300)',
+ VER='1',
+ ROT='1',
+ LOCATION='C27',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C28 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I672@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i672@discrete_niitp.cap(chips~
+)',
+ PATH='I672',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5475,-3325)',
+ VER='1',
+ ROT='1',
+ LOCATION='C28',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C29 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I683@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i683@discrete_niitp.cap(chips~
+)',
+ PATH='I683',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5475,-4275)',
+ VER='1',
+ ROT='1',
+ LOCATION='C29',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C30 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I16@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i16@discrete_niitp.c(chips)',
+ PATH='I16',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(4775,5650)',
+ VER='1',
+ ROT='0',
+ LOCATION='C30',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C31 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I621@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i621@discrete_niitp.c(chips)',
+ PATH='I621',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(4775,4075)',
+ VER='1',
+ ROT='0',
+ LOCATION='C31',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C32 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I19@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i19@discrete_niitp.c(chips)',
+ PATH='I19',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6400,4825)',
+ VER='1',
+ ROT='0',
+ LOCATION='C32',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C33 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I612@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i612@discrete_niitp.c(chips)',
+ PATH='I612',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6400,3250)',
+ VER='1',
+ ROT='0',
+ LOCATION='C33',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C34 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I122@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i122@discrete_niitp.c(chips)',
+ PATH='I122',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5525,2300)',
+ VER='1',
+ ROT='0',
+ LOCATION='C34',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C35 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I124@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i124@discrete_niitp.c(chips)',
+ PATH='I124',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5525,2100)',
+ VER='1',
+ ROT='0',
+ LOCATION='C35',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C36 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I636@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i636@discrete_niitp.c(chips)',
+ PATH='I636',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(7825,5650)',
+ VER='1',
+ ROT='0',
+ LOCATION='C36',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C37 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I652@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i652@discrete_niitp.c(chips)',
+ PATH='I652',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(7825,4225)',
+ VER='1',
+ ROT='0',
+ LOCATION='C37',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C38 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I625@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i625@discrete_niitp.c(chips)',
+ PATH='I625',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9450,4825)',
+ VER='1',
+ ROT='0',
+ LOCATION='C38',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C39 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I644@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i644@discrete_niitp.c(chips)',
+ PATH='I644',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9450,3400)',
+ VER='1',
+ ROT='0',
+ LOCATION='C39',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C40 'C_0805-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I179@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i179@discrete_niitp.c(chips)',
+ PATH='I179',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1875,2925)',
+ VER='1',
+ ROT='1',
+ LOCATION='C40',
+ VALUE='1',
+ PACK_TYPE='0805',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C41 'C_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I249@DISCRETE_NIITP.C_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i249@discrete_niitp.c_el(chip~
+s)',
+ PATH='I249',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2075,3500)',
+ VER='1',
+ ROT='3',
+ LOCATION='C41',
+ VALUE='10',
+ PACK_TYPE='F136',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c_el/chips/chips.prt';
+
+PART_NAME
+ C42 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I170@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i170@discrete_niitp.c(chips)',
+ PATH='I170',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4650,5475)',
+ VER='1',
+ ROT='1',
+ LOCATION='C42',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C43 'CAP_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I20@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i20@discrete_niitp.cap_el(chi~
+ps)',
+ PATH='I20',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(775,3600)',
+ VER='1',
+ ROT='5',
+ LOCATION='C43',
+ PACK_TYPE='F136',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C44 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I19@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i19@discrete_niitp.cap(chips)~
+',
+ PATH='I19',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(900,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C44',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C45 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I17@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i17@discrete_niitp.cap(chips)~
+',
+ PATH='I17',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1050,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C45',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C46 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I16@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i16@discrete_niitp.cap(chips)~
+',
+ PATH='I16',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1200,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C46',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C47 'CAP_EL_F136-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I13@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i13@discrete_niitp.cap_el(chi~
+ps)',
+ PATH='I13',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1425,3600)',
+ VER='1',
+ ROT='5',
+ LOCATION='C47',
+ PACK_TYPE='F136',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C48 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I11@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i11@discrete_niitp.cap(chips)~
+',
+ PATH='I11',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1550,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C48',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C49 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I10@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i10@discrete_niitp.cap(chips)~
+',
+ PATH='I10',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1700,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C49',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C50 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I122@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i122@discrete_niitp.c(chips)',
+ PATH='I122',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3825,4150)',
+ VER='1',
+ ROT='1',
+ LOCATION='C50',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C51 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I9@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i9@discrete_niitp.cap(chips)',
+ PATH='I9',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1850,3600)',
+ VER='1',
+ ROT='1',
+ LOCATION='C51',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C52 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I7@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i7@discrete_niitp.c(chips)',
+ PATH='I7',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2075,3575)',
+ VER='1',
+ ROT='1',
+ LOCATION='C52',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C53 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I25@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i25@discrete_niitp.c(chips)',
+ PATH='I25',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2950,700)',
+ VER='1',
+ ROT='0',
+ VALUE='22PF',
+ LOCATION='C53',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C54 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I30@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i30@discrete_niitp.c(chips)',
+ PATH='I30',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2950,350)',
+ VER='1',
+ ROT='0',
+ LOCATION='C54',
+ VALUE='22PF',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C55 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I23@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i23@discrete_niitp.c(chips)',
+ PATH='I23',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3075,1475)',
+ VER='1',
+ ROT='0',
+ LOCATION='C55',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C56 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I153@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i153@discrete_niitp.c(chips)',
+ PATH='I153',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4775,3025)',
+ VER='1',
+ ROT='1',
+ LOCATION='C56',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C57 'CAP_EL_F154-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I161@DISCRETE_NIITP.CAP_EL(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i161@discrete_niitp.cap_el(ch~
+ips)',
+ PATH='I161',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5375,2625)',
+ VER='1',
+ ROT='5',
+ LOCATION='C57',
+ PACK_TYPE='F154',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap_el/chips/chips.prt';
+
+PART_NAME
+ C58 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I144@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i144@discrete_niitp.c(chips)',
+ PATH='I144',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6100,3000)',
+ VER='1',
+ ROT='4',
+ LOCATION='C58',
+ PACK_TYPE='0603',
+ VALUE='27PF',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C59 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I158@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i158@discrete_niitp.c(chips)',
+ PATH='I158',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6100,2550)',
+ VER='1',
+ ROT='4',
+ LOCATION='C59',
+ PACK_TYPE='0603',
+ VALUE='27PF',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C60 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I44@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i44@discrete_niitp.c(chips)',
+ PATH='I44',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3175,6375)',
+ VER='1',
+ ROT='4',
+ LOCATION='C60',
+ PACK_TYPE='0603',
+ VALUE='27PF',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C61 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I46@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i46@discrete_niitp.c(chips)',
+ PATH='I46',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3175,5925)',
+ VER='1',
+ ROT='4',
+ LOCATION='C61',
+ PACK_TYPE='0603',
+ VALUE='27PF',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C62 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I225@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i225@discrete_niitp.cap(chips~
+)',
+ PATH='I225',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1050,7200)',
+ VER='1',
+ ROT='1',
+ LOCATION='C62',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C63 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I66@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i66@discrete_niitp.cap(chips)~
+',
+ PATH='I66',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(550,7225)',
+ VER='1',
+ ROT='1',
+ LOCATION='C63',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C64 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I56@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i56@discrete_niitp.cap(chips)~
+',
+ PATH='I56',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1975,6575)',
+ VER='1',
+ ROT='1',
+ LOCATION='C64',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C65 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I72@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i72@discrete_niitp.c(chips)',
+ PATH='I72',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1850,4975)',
+ VER='1',
+ ROT='1',
+ LOCATION='C65',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C66 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I224@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i224@discrete_niitp.cap(chips~
+)',
+ PATH='I224',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1200,7200)',
+ VER='1',
+ ROT='1',
+ LOCATION='C66',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C67 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I64@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i64@discrete_niitp.cap(chips)~
+',
+ PATH='I64',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(700,7225)',
+ VER='1',
+ ROT='1',
+ LOCATION='C67',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C68 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I55@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i55@discrete_niitp.cap(chips)~
+',
+ PATH='I55',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2125,6575)',
+ VER='1',
+ ROT='1',
+ LOCATION='C68',
+ PACK_TYPE='0603',
+ HAS_FIXED_SIZE='1',
+ CDS_LIB='discrete_niitp',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C69 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I84@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i84@discrete_niitp.c(chips)',
+ PATH='I84',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(825,5175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C69',
+ VALUE='0.1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C70 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I83@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i83@discrete_niitp.c(chips)',
+ PATH='I83',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(650,6100)',
+ VER='1',
+ ROT='0',
+ LOCATION='C70',
+ VALUE='33NF',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C71 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I326@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i326@discrete_niitp.cap(chips~
+)',
+ PATH='I326',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-325,9150)',
+ VER='1',
+ ROT='1',
+ LOCATION='C71',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C72 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I321@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i321@discrete_niitp.cap(chips~
+)',
+ PATH='I321',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-350,7800)',
+ VER='1',
+ ROT='1',
+ LOCATION='C72',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C73 'CAP_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I296@DISCRETE_NIITP.CAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i296@discrete_niitp.cap(chips~
+)',
+ PATH='I296',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6125,1150)',
+ VER='1',
+ ROT='1',
+ LOCATION='C73',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ HAS_FIXED_SIZE='1',
+ SIZE='1',
+ PRIM_FILE='./discrete_niitp/cap/chips/chips.prt';
+
+PART_NAME
+ C74 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I743@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i743@discrete_niitp.c(chips)',
+ PATH='I743',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1300,-1325)',
+ VER='1',
+ ROT='0',
+ LOCATION='C74',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C75 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I339@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i339@discrete_niitp.c(chips)',
+ PATH='I339',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3775,-800)',
+ VER='1',
+ ROT='0',
+ LOCATION='C75',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C76 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I349@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i349@discrete_niitp.c(chips)',
+ PATH='I349',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2875,-850)',
+ VER='1',
+ ROT='0',
+ LOCATION='C76',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ C77 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I357@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i357@discrete_niitp.c(chips)',
+ PATH='I357',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4625,-950)',
+ VER='1',
+ ROT='0',
+ LOCATION='C77',
+ PACK_TYPE='0603',
+ VALUE='0.1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/c/chips/chips.prt';
+
+PART_NAME
+ DA1 'TSM0505S':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I59@IMPORT_LIB.TSM0505S(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i59@import_lib.tsm0505s(chips~
+)',
+ PATH='I59',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3750,5575)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA1',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/tsm0505s/chips/chips.prt';
+
+PART_NAME
+ DA2 'MIC39100-GND2=GND,SOT223':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I206@POWER_MY.MIC39100(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i206@power_my.mic39100(chips)~
+',
+ PATH='I206',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ POWER_GROUP='GND2=GND',
+ XY='(-3750,4825)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA2',
+ JEDEC_TYPE='SOT223',
+ CDS_LIB='power_my',
+ PRIM_FILE='./power_my/mic39100/chips/chips.prt';
+
+PART_NAME
+ DA5 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I476@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i476@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I476',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2750,4150)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA5',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA6 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I491@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i491@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I491',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,3300)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA6',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA7 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I500@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i500@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I500',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,2750)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA7',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='my_transceiver',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA8 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I589@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i589@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I589',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3125,-2775)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA8',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='my_transceiver',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA9 'MIC39100-GND2=GND,SOT223':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I132@POWER_MY.MIC39100(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i132@power_my.mic39100(chips)~
+',
+ PATH='I132',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ POWER_GROUP='GND2=GND',
+ XY='(-2450,3600)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA9',
+ JEDEC_TYPE='SOT223',
+ CDS_LIB='power_my',
+ PRIM_FILE='./power_my/mic39100/chips/chips.prt';
+
+PART_NAME
+ DA10 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I304@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i304@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I304',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1600,7350)',
+ VER='1',
+ ROT='2',
+ LOCATION='DA10',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA11 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I303@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i303@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I303',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1600,6925)',
+ VER='1',
+ ROT='2',
+ LOCATION='DA11',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA12 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I106@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i106@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I106',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1600,6325)',
+ VER='1',
+ ROT='2',
+ LOCATION='DA12',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA13 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I115@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i115@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I115',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1700,5825)',
+ VER='1',
+ ROT='2',
+ LOCATION='DA13',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='my_transceiver',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA14 'DS9503':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I108@MY_TRANSCEIVER.DS9503(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i108@my_transceiver.ds9503(ch~
+ips)',
+ PATH='I108',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1425,5500)',
+ VER='1',
+ ROT='2',
+ LOCATION='DA14',
+ SEC='1',
+ CDS_LIB='my_transceiver',
+ SEC_TYPE='',
+ PRIM_FILE='./my_transceiver/ds9503/chips/chips.prt';
+
+PART_NAME
+ DA15 'PESD12VS4UD':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I756@IMPORT_LIB.PESD12VS4UD(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i756@import_lib.pesd12vs4ud(c~
+hips)',
+ PATH='I756',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(7725,1925)',
+ VER='1',
+ ROT='0',
+ LOCATION='DA15',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/pesd12vs4ud/chips/chips.prt';
+
+PART_NAME
+ DD1 'SN74LVCC3245-SN74LVCC3245APW':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I419@IMPORT_LIB.SN74LVCC3245(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i419@import_lib.sn74lvcc3245(~
+chips)',
+ PATH='I419',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1250,1375)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD1',
+ JEDEC_TYPE='SN74LVCC3245APW',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/sn74lvcc3245/chips/chips.prt';
+
+PART_NAME
+ DD2 'SN74LVCC3245-SN74LVCC3245APW':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I439@IMPORT_LIB.SN74LVCC3245(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i439@import_lib.sn74lvcc3245(~
+chips)',
+ PATH='I439',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1250,-500)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD2',
+ JEDEC_TYPE='SN74LVCC3245APW',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/sn74lvcc3245/chips/chips.prt';
+
+PART_NAME
+ DD3 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I393@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i393@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I393',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1325,5425)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD3',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD4 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I401@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i401@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I401',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1300,4450)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD4',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD5 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I499@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i499@import_lib.hcpl_063(chip~
+s)',
+ PATH='I499',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1925,5325)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD5',
+ PACK_TYPE='F30',
+ PART_NAME='HCPL_063',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD6 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I466@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i466@import_lib.hcpl_063(chip~
+s)',
+ PATH='I466',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1900,4225)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD6',
+ PACK_TYPE='F30',
+ CDS_LIB='import_lib',
+ PART_NAME='HCPL_063',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD7 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I484@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i484@import_lib.hcpl_063(chip~
+s)',
+ PATH='I484',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1900,2950)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD7',
+ PACK_TYPE='F30',
+ PART_NAME='HCPL_063',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD8 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I506@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i506@import_lib.hcpl_063(chip~
+s)',
+ PATH='I506',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1925,1825)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD8',
+ PACK_TYPE='F30',
+ PART_NAME='HCPL_063',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD9 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I135@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i135@import_lib.hcpl_063(chip~
+s)',
+ PATH='I135',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1925,800)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD9',
+ PACK_TYPE='F30',
+ CDS_LIB='import_lib',
+ PART_NAME='HCPL_063',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD10 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I538@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i538@import_lib.hcpl_063(chip~
+s)',
+ PATH='I538',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1950,-325)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD10',
+ PACK_TYPE='F30',
+ CDS_LIB='import_lib',
+ PART_NAME='HCPL_063',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD11 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I560@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i560@import_lib.hcpl_063(chip~
+s)',
+ PATH='I560',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1950,-1450)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD11',
+ PACK_TYPE='F30',
+ CDS_LIB='import_lib',
+ PART_NAME='HCPL_063',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD12 'HCPL_063_F30-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I580@IMPORT_LIB.HCPL_063(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i580@import_lib.hcpl_063(chip~
+s)',
+ PATH='I580',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1950,-2600)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD12',
+ PACK_TYPE='F30',
+ CDS_LIB='import_lib',
+ PART_NAME='HCPL_063',
+ PRIM_FILE='./import_lib/hcpl_063/chips/chips.prt';
+
+PART_NAME
+ DD13 'MAX3535':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I26@IMPORT_LIB.MAX3535(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i26@import_lib.max3535(chips)~
+',
+ PATH='I26',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5425,5125)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD13',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/max3535/chips/chips.prt';
+
+PART_NAME
+ DD14 'MAX3535':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I609@IMPORT_LIB.MAX3535(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i609@import_lib.max3535(chips~
+)',
+ PATH='I609',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5425,3550)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD14',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/max3535/chips/chips.prt';
+
+PART_NAME
+ DD15 'MAX3384EEAP-GNDDM=DGND,P3V3M=+A':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I119@IMPORT_LIB.MAX3384EEAP(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i119@import_lib.max3384eeap(c~
+hips)',
+ PATH='I119',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ POWER_GROUP='P3V3M=+3.3VCC;GNDDM=DGND',
+ XY='(5550,1575)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD15',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/max3384eeap/chips/chips.prt';
+
+PART_NAME
+ DD16 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I288@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i288@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I288',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5450,400)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='DCK',
+ LOCATION='DD16',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PART_NAME='SN74LVC2G17_1',
+ SEC_TYPE='DCK',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD17 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I717@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i717@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I717',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5475,-550)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD17',
+ PACK_TYPE='DCK',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PART_NAME='SN74LVC2G17_1',
+ SEC_TYPE='DCK',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD18 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I723@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i723@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I723',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5450,-1475)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD18',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD19 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I308@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i308@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I308',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5450,-2700)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='DCK',
+ LOCATION='DD19',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PART_NAME='SN74LVC2G17_1',
+ SEC_TYPE='DCK',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD20 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I670@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i670@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I670',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5450,-3725)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD20',
+ PACK_TYPE='DCK',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PART_NAME='SN74LVC2G17_1',
+ SEC_TYPE='DCK',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD21 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I678@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i678@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I678',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5450,-4675)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD21',
+ PACK_TYPE='DCK',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PART_NAME='SN74LVC2G17_1',
+ SEC_TYPE='DCK',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD22 'MAX3535':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I623@IMPORT_LIB.MAX3535(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i623@import_lib.max3535(chips~
+)',
+ PATH='I623',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(8475,5125)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD22',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/max3535/chips/chips.prt';
+
+PART_NAME
+ DD23 'MAX3535':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I641@IMPORT_LIB.MAX3535(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i641@import_lib.max3535(chips~
+)',
+ PATH='I641',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(8475,3700)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD23',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/max3535/chips/chips.prt';
+
+PART_NAME
+ DD24 'M25PE16-VMW6':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I174@IMPORT_LIB.M25PE16-VMW6(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i174@import_lib.\m25pe16-vmw6~
+\(chips)',
+ PATH='I174',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4600,5000)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD24',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/m25pe16#2dvmw6/chips/chips.prt';
+
+PART_NAME
+ DD25 'LPC2129':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I2@IMPORT_LIB.LPC2129(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i2@import_lib.lpc2129(chips)',
+ PATH='I2',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1100,1650)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD25',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/lpc2129/chips/chips.prt';
+
+PART_NAME
+ DD26 'AT25256A':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I120@IMPORT_LIB.AT25256A(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i120@import_lib.at25256a(chip~
+s)',
+ PATH='I120',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4275,3825)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD26',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/at25256a/chips/chips.prt';
+
+PART_NAME
+ DD27 'SG8002CA-GNDD=GND,P3V3=+3.3VDD':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I24@IMPORT_LIB.SG8002CA(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i24@import_lib.sg8002ca(chips~
+)',
+ PATH='I24',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ POWER_GROUP='P3V3=+3.3VDD;GNDD=GND',
+ XY='(3125,1175)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD27',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sg8002ca/chips/chips.prt';
+
+PART_NAME
+ DD28 'DS1339':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I142@IMPORT_LIB.DS1339(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i142@import_lib.ds1339(chips)~
+',
+ PATH='I142',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5000,2700)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD28',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/ds1339/chips/chips.prt';
+
+PART_NAME
+ DD29 'ADM811SART':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I232@IMPORT_LIB.ADM811SART(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i232@import_lib.adm811sart(ch~
+ips)',
+ PATH='I232',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3725,-575)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD29',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/adm811sart/chips/chips.prt';
+
+PART_NAME
+ DD30 'FT2232D':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I40@IMPORT_LIB.FT2232D(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i40@import_lib.ft2232d(chips)~
+',
+ PATH='I40',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1300,5500)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD30',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/ft2232d/chips/chips.prt';
+
+PART_NAME
+ DD31 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I323@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i323@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I323',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-375,8800)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD31',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD32 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I317@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i317@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I317',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-400,7450)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD32',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD33 'SN74LVC2G17_1_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I291@IMPORT_LIB.SN74LVC2G17_1(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i291@import_lib.sn74lvc2g17_1~
+(chips)',
+ PATH='I291',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6075,800)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD33',
+ PACK_TYPE='DCK',
+ SEC='1',
+ SEC_TYPE='DCK',
+ PART_NAME='SN74LVC2G17_1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc2g17_1/chips/chips.prt';
+
+PART_NAME
+ DD34 'SN74LVC1G08_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I733@IMPORT_LIB.SN74LVC1G08(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i733@import_lib.sn74lvc1g08(c~
+hips)',
+ PATH='I733',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1300,-1625)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD34',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc1g08/chips/chips.prt';
+
+PART_NAME
+ DD36 'SN74LVC1G08_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I346@IMPORT_LIB.SN74LVC1G08(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i346@import_lib.sn74lvc1g08(c~
+hips)',
+ PATH='I346',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2925,-475)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD36',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/sn74lvc1g08/chips/chips.prt';
+
+PART_NAME
+ DD37 'SN74LVC1G08_DCK-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I353@IMPORT_LIB.SN74LVC1G08(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i353@import_lib.sn74lvc1g08(c~
+hips)',
+ PATH='I353',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4675,-575)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD37',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/sn74lvc1g08/chips/chips.prt';
+
+PART_NAME
+ HL1 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I329@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i329@import_lib.led(chips)',
+ PATH='I329',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3550,3875)',
+ VER='1',
+ ROT='4',
+ LOCATION='HL1',
+ PACK_TYPE='F330',
+ FAMILY='LED',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL2 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I325@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i325@import_lib.led(chips)',
+ PATH='I325',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3550,3625)',
+ VER='1',
+ ROT='4',
+ LOCATION='HL2',
+ PACK_TYPE='F330',
+ CDS_LIB='import_lib',
+ FAMILY='LED',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL3 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I334@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i334@import_lib.led(chips)',
+ PATH='I334',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3550,3400)',
+ VER='1',
+ ROT='4',
+ LOCATION='HL3',
+ PACK_TYPE='F330',
+ FAMILY='LED',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL4 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I39@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i39@import_lib.led(chips)',
+ PATH='I39',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(100,3175)',
+ VER='1',
+ ROT='0',
+ LOCATION='HL4',
+ PACK_TYPE='F330',
+ CDS_LIB='import_lib',
+ FAMILY='LED',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL5 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I75@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i75@import_lib.led(chips)',
+ PATH='I75',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2100,4425)',
+ VER='1',
+ ROT='4',
+ LOCATION='HL5',
+ PACK_TYPE='F330',
+ FAMILY='LED',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ HL6 'LED_F330-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I41@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i41@import_lib.led(chips)',
+ PATH='I41',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2075,4625)',
+ VER='1',
+ ROT='4',
+ LOCATION='HL6',
+ PACK_TYPE='F330',
+ FAMILY='LED',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/led/chips/chips.prt';
+
+PART_NAME
+ L1 'BLM18A_F55-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I343@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i343@import_lib.blm18a(chips)~
+',
+ PATH='I343',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2950,5925)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='MPZ2012S331A',
+ LOCATION='L1',
+ PACK_TYPE='F55',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/blm18a/chips/chips.prt';
+
+PART_NAME
+ L2 'BLM18A_F55-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I209@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i209@import_lib.blm18a(chips)~
+',
+ PATH='I209',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2925,4825)',
+ VER='1',
+ ROT='0',
+ LOCATION='L2',
+ PACK_TYPE='F55',
+ PART_NUMBER='MPZ2012S331A',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/blm18a/chips/chips.prt';
+
+PART_NAME
+ L3 'BLM18A_F55-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I133@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i133@import_lib.blm18a(chips)~
+',
+ PATH='I133',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1625,3600)',
+ VER='1',
+ ROT='0',
+ LOCATION='L3',
+ PACK_TYPE='F55',
+ PART_NUMBER='MPZ2012S331A',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/blm18a/chips/chips.prt';
+
+PART_NAME
+ LX_SCR 'BLM18A_F55-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I705@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i705@import_lib.blm18a(chips)~
+',
+ PATH='I705',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1375,-2300)',
+ VER='1',
+ ROT='0',
+ LOCATION='LX_SCR',
+ PART_NUMBER='MPZ2012S331A',
+ PACK_TYPE='F55',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/blm18a/chips/chips.prt';
+
+PART_NAME
+ R1 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I328@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i328@discrete_niitp.r(chips)',
+ PATH='I328',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3300,3875)',
+ VER='1',
+ ROT='0',
+ LOCATION='R1',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R2 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I323@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i323@discrete_niitp.r(chips)',
+ PATH='I323',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3300,3625)',
+ VER='1',
+ ROT='0',
+ LOCATION='R2',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R3 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I332@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i332@discrete_niitp.r(chips)',
+ PATH='I332',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3300,3400)',
+ VER='1',
+ ROT='0',
+ LOCATION='R3',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R4 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I429@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i429@discrete_niitp.r(chips)',
+ PATH='I429',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1650,1750)',
+ VER='1',
+ ROT='2',
+ LOCATION='R4',
+ PACK_TYPE='0603',
+ VALUE='4,7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R5 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I449@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i449@discrete_niitp.r(chips)',
+ PATH='I449',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1650,-125)',
+ VER='1',
+ ROT='2',
+ LOCATION='R5',
+ VALUE='4,7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R6 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I409@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i409@discrete_niitp.r(chips)',
+ PATH='I409',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1275,3400)',
+ VER='1',
+ ROT='2',
+ LOCATION='R6',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R7 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I410@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i410@discrete_niitp.r(chips)',
+ PATH='I410',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1275,3150)',
+ VER='1',
+ ROT='2',
+ LOCATION='R7',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R8 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I411@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i411@discrete_niitp.r(chips)',
+ PATH='I411',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1275,2900)',
+ VER='1',
+ ROT='2',
+ LOCATION='R8',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R9 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I412@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i412@discrete_niitp.r(chips)',
+ PATH='I412',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-1275,2650)',
+ VER='1',
+ ROT='2',
+ LOCATION='R9',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R10 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I425@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i425@discrete_niitp.r(chips)',
+ PATH='I425',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-825,1850)',
+ VER='1',
+ ROT='2',
+ LOCATION='R10',
+ VALUE='4,7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R11 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I444@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i444@discrete_niitp.r(chips)',
+ PATH='I444',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-825,-25)',
+ VER='1',
+ ROT='2',
+ LOCATION='R11',
+ VALUE='4,7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R12 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I43@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i43@discrete_niitp.r(chips)',
+ PATH='I43',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1325,5575)',
+ VER='1',
+ ROT='2',
+ LOCATION='R12',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R13 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I44@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i44@discrete_niitp.r(chips)',
+ PATH='I44',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1325,5425)',
+ VER='1',
+ ROT='2',
+ LOCATION='R13',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R14 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I464@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i464@discrete_niitp.r(chips)',
+ PATH='I464',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1275,4475)',
+ VER='1',
+ ROT='2',
+ LOCATION='R14',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R15 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I494@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i494@discrete_niitp.r(chips)',
+ PATH='I494',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1325,3200)',
+ VER='1',
+ ROT='2',
+ LOCATION='R15',
+ PACK_TYPE='0603',
+ VALUE='1K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R16 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I496@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i496@discrete_niitp.r(chips)',
+ PATH='I496',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1325,3050)',
+ VER='1',
+ ROT='2',
+ VALUE='2K',
+ LOCATION='R16',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R17 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I518@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i518@discrete_niitp.r(chips)',
+ PATH='I518',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1350,2075)',
+ VER='1',
+ ROT='2',
+ LOCATION='R17',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R18 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I520@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i520@discrete_niitp.r(chips)',
+ PATH='I520',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1350,1925)',
+ VER='1',
+ ROT='2',
+ LOCATION='R18',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R19 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I712@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i712@discrete_niitp.r(chips)',
+ PATH='I712',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,100)',
+ VER='1',
+ ROT='2',
+ LOCATION='R19',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R20 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I550@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i550@discrete_niitp.r(chips)',
+ PATH='I550',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,-75)',
+ VER='1',
+ ROT='2',
+ LOCATION='R20',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R21 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I556@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i556@discrete_niitp.r(chips)',
+ PATH='I556',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,-225)',
+ VER='1',
+ ROT='2',
+ LOCATION='R21',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R22 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I574@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i574@discrete_niitp.r(chips)',
+ PATH='I574',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,-1200)',
+ VER='1',
+ ROT='2',
+ LOCATION='R22',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R23 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I575@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i575@discrete_niitp.r(chips)',
+ PATH='I575',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,-1350)',
+ VER='1',
+ ROT='2',
+ LOCATION='R23',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R24 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I698@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i698@discrete_niitp.r(chips)',
+ PATH='I698',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1400,-2350)',
+ VER='1',
+ ROT='2',
+ LOCATION='R24',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R25 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I598@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i598@discrete_niitp.r(chips)',
+ PATH='I598',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1375,-2500)',
+ VER='1',
+ ROT='2',
+ LOCATION='R25',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R26 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I732@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i732@discrete_niitp.r(chips)',
+ PATH='I732',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(975,-2750)',
+ VER='1',
+ ROT='2',
+ LOCATION='R26',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R27 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I159@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i159@discrete_niitp.r(chips)',
+ PATH='I159',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1475,1050)',
+ VER='1',
+ ROT='2',
+ LOCATION='R27',
+ PACK_TYPE='0603',
+ VALUE='180',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R28 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I710@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i710@discrete_niitp.r(chips)',
+ PATH='I710',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(1200,900)',
+ VER='1',
+ ROT='2',
+ LOCATION='R28',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R29 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I165@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i165@discrete_niitp.r(chips)',
+ PATH='I165',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,5975)',
+ VER='1',
+ ROT='2',
+ LOCATION='R29',
+ VALUE='200',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R30 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I166@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i166@discrete_niitp.r(chips)',
+ PATH='I166',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,5425)',
+ VER='1',
+ ROT='2',
+ LOCATION='R30',
+ VALUE='200',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R31 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I470@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i470@discrete_niitp.r(chips)',
+ PATH='I470',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2725,4475)',
+ VER='1',
+ ROT='2',
+ LOCATION='R31',
+ VALUE='51',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R32 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I487@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i487@discrete_niitp.r(chips)',
+ PATH='I487',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,3575)',
+ VER='1',
+ ROT='2',
+ LOCATION='R32',
+ VALUE='51',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R33 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I488@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i488@discrete_niitp.r(chips)',
+ PATH='I488',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,3050)',
+ VER='1',
+ ROT='2',
+ LOCATION='R33',
+ VALUE='51',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R34 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I508@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i508@discrete_niitp.r(chips)',
+ PATH='I508',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2850,2075)',
+ VER='1',
+ ROT='2',
+ VALUE='360',
+ LOCATION='R34',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R35 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I510@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i510@discrete_niitp.r(chips)',
+ PATH='I510',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2850,1925)',
+ VER='1',
+ ROT='2',
+ VALUE='360',
+ LOCATION='R35',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R36 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I711@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i711@discrete_niitp.r(chips)',
+ PATH='I711',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2600,1275)',
+ VER='1',
+ ROT='2',
+ LOCATION='R36',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R37 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I145@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i145@discrete_niitp.r(chips)',
+ PATH='I145',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2600,1050)',
+ VER='1',
+ ROT='2',
+ LOCATION='R37',
+ PACK_TYPE='0603',
+ VALUE='1K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R38 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I540@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i540@discrete_niitp.r(chips)',
+ PATH='I540',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2825,-75)',
+ VER='1',
+ ROT='2',
+ LOCATION='R38',
+ VALUE='180',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R39 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I713@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i713@discrete_niitp.r(chips)',
+ PATH='I713',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2375,-125)',
+ VER='1',
+ ROT='2',
+ LOCATION='R39',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R40 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I541@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i541@discrete_niitp.r(chips)',
+ PATH='I541',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2825,-400)',
+ VER='1',
+ ROT='2',
+ LOCATION='R40',
+ VALUE='180',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R41 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I565@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i565@discrete_niitp.r(chips)',
+ PATH='I565',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,-1200)',
+ VER='1',
+ ROT='2',
+ LOCATION='R41',
+ PACK_TYPE='0603',
+ VALUE='180',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R42 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I563@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i563@discrete_niitp.r(chips)',
+ PATH='I563',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(2875,-1350)',
+ VER='1',
+ ROT='2',
+ LOCATION='R42',
+ PACK_TYPE='0603',
+ VALUE='180',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R43 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I700@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i700@discrete_niitp.r(chips)',
+ PATH='I700',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3075,-2350)',
+ VER='1',
+ ROT='2',
+ LOCATION='R43',
+ PACK_TYPE='0603',
+ VALUE='180',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R44 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I586@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i586@discrete_niitp.r(chips)',
+ PATH='I586',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3075,-2500)',
+ VER='1',
+ ROT='2',
+ LOCATION='R44',
+ VALUE='51',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R45 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I716@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i716@discrete_niitp.r(chips)',
+ PATH='I716',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6050,5500)',
+ VER='1',
+ ROT='0',
+ LOCATION='R45',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R46 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I9@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i9@discrete_niitp.r(chips)',
+ PATH='I9',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6050,5400)',
+ VER='1',
+ ROT='0',
+ LOCATION='R46',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R47 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I608@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i608@discrete_niitp.r(chips)',
+ PATH='I608',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6050,5300)',
+ VER='1',
+ ROT='0',
+ LOCATION='R47',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R48 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I715@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i715@discrete_niitp.r(chips)',
+ PATH='I715',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6050,5200)',
+ VER='1',
+ ROT='0',
+ LOCATION='R48',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R49 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I615@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i615@discrete_niitp.r(chips)',
+ PATH='I615',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6050,3725)',
+ VER='1',
+ ROT='0',
+ LOCATION='R49',
+ VALUE='4,7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R50 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I23@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i23@discrete_niitp.r(chips)',
+ PATH='I23',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5950,4850)',
+ VER='1',
+ ROT='3',
+ LOCATION='R50',
+ PACK_TYPE='0603',
+ VALUE='120',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R51 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I729@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i729@discrete_niitp.r(chips)',
+ PATH='I729',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,5500)',
+ VER='1',
+ ROT='0',
+ LOCATION='R51',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R52 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I627@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i627@discrete_niitp.r(chips)',
+ PATH='I627',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,5400)',
+ VER='1',
+ ROT='0',
+ LOCATION='R52',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R53 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I628@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i628@discrete_niitp.r(chips)',
+ PATH='I628',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,5300)',
+ VER='1',
+ ROT='0',
+ LOCATION='R53',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R54 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I730@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i730@discrete_niitp.r(chips)',
+ PATH='I730',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,5200)',
+ VER='1',
+ ROT='0',
+ LOCATION='R54',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R55 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I731@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i731@discrete_niitp.r(chips)',
+ PATH='I731',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,4075)',
+ VER='1',
+ ROT='0',
+ LOCATION='R55',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R56 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I645@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i645@discrete_niitp.r(chips)',
+ PATH='I645',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9100,3975)',
+ VER='1',
+ ROT='0',
+ LOCATION='R56',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R57 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I631@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i631@discrete_niitp.r(chips)',
+ PATH='I631',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9000,4850)',
+ VER='1',
+ ROT='3',
+ LOCATION='R57',
+ VALUE='120',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R58 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I648@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i648@discrete_niitp.r(chips)',
+ PATH='I648',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9000,3425)',
+ VER='1',
+ ROT='3',
+ LOCATION='R58',
+ VALUE='120',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R59 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I175@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i175@discrete_niitp.r(chips)',
+ PATH='I175',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3850,5000)',
+ VER='1',
+ ROT='0',
+ LOCATION='R59',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R60 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I163@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i163@discrete_niitp.r(chips)',
+ PATH='I163',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4775,2225)',
+ VER='1',
+ ROT='1',
+ LOCATION='R60',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R61 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I164@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i164@discrete_niitp.r(chips)',
+ PATH='I164',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4575,2225)',
+ VER='1',
+ ROT='1',
+ LOCATION='R61',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R62 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I166@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i166@discrete_niitp.r(chips)',
+ PATH='I166',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4375,2225)',
+ VER='1',
+ ROT='1',
+ LOCATION='R62',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R63 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I213@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i213@discrete_niitp.r(chips)',
+ PATH='I213',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5925,4725)',
+ VER='1',
+ ROT='2',
+ LOCATION='R63',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R64 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I212@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i212@discrete_niitp.r(chips)',
+ PATH='I212',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5925,4475)',
+ VER='1',
+ ROT='2',
+ LOCATION='R64',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R65 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I214@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i214@discrete_niitp.r(chips)',
+ PATH='I214',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5925,4250)',
+ VER='1',
+ ROT='2',
+ LOCATION='R65',
+ PACK_TYPE='0603',
+ VALUE='1K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R66 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I215@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i215@discrete_niitp.r(chips)',
+ PATH='I215',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5925,4000)',
+ VER='1',
+ ROT='2',
+ LOCATION='R66',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R67 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I197@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i197@discrete_niitp.r(chips)',
+ PATH='I197',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,1475)',
+ VER='1',
+ ROT='2',
+ LOCATION='R67',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R68 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I196@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i196@discrete_niitp.r(chips)',
+ PATH='I196',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,1225)',
+ VER='1',
+ ROT='2',
+ LOCATION='R68',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R69 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I198@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i198@discrete_niitp.r(chips)',
+ PATH='I198',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,1000)',
+ VER='1',
+ ROT='2',
+ LOCATION='R69',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R70 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I199@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i199@discrete_niitp.r(chips)',
+ PATH='I199',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,750)',
+ VER='1',
+ ROT='2',
+ LOCATION='R70',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R71 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I203@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i203@discrete_niitp.r(chips)',
+ PATH='I203',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,500)',
+ VER='1',
+ ROT='2',
+ LOCATION='R71',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R72 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I204@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i204@discrete_niitp.r(chips)',
+ PATH='I204',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-850,250)',
+ VER='1',
+ ROT='2',
+ LOCATION='R72',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R73 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I210@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i210@discrete_niitp.r(chips)',
+ PATH='I210',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-825,25)',
+ VER='1',
+ ROT='2',
+ LOCATION='R73',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R74 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I37@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i37@discrete_niitp.r(chips)',
+ PATH='I37',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(325,3175)',
+ VER='1',
+ ROT='0',
+ LOCATION='R74',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R75 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I220@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i220@discrete_niitp.r(chips)',
+ PATH='I220',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5950,3750)',
+ VER='1',
+ ROT='2',
+ LOCATION='R75',
+ PACK_TYPE='0603',
+ VALUE='4.7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R76 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I124@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i124@discrete_niitp.r(chips)',
+ PATH='I124',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4800,3900)',
+ VER='1',
+ ROT='0',
+ LOCATION='R76',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R77 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I50@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i50@discrete_niitp.r(chips)',
+ PATH='I50',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2775,5550)',
+ VER='1',
+ ROT='0',
+ LOCATION='R77',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R78 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I247@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i247@discrete_niitp.r(chips)',
+ PATH='I247',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2025,2300)',
+ VER='1',
+ ROT='0',
+ LOCATION='R78',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R79 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I49@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i49@discrete_niitp.r(chips)',
+ PATH='I49',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2775,5450)',
+ VER='1',
+ ROT='0',
+ LOCATION='R79',
+ PACK_TYPE='0603',
+ VALUE='33',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R80 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I248@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i248@discrete_niitp.r(chips)',
+ PATH='I248',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2500,2250)',
+ VER='1',
+ ROT='0',
+ LOCATION='R80',
+ VALUE='33',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R81 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I129@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i129@discrete_niitp.r(chips)',
+ PATH='I129',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3525,3950)',
+ VER='1',
+ ROT='0',
+ LOCATION='R81',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R82 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I27@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i27@discrete_niitp.r(chips)',
+ PATH='I27',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2825,1175)',
+ VER='1',
+ ROT='6',
+ LOCATION='R82',
+ PACK_TYPE='0603',
+ VALUE='10K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R83 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I337@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i337@discrete_niitp.r(chips)',
+ PATH='I337',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2650,2050)',
+ VER='1',
+ ROT='2',
+ LOCATION='R83',
+ PACK_TYPE='0603',
+ VALUE='10K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R84 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I235@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i235@discrete_niitp.r(chips)',
+ PATH='I235',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(4975,50)',
+ VER='1',
+ ROT='2',
+ LOCATION='R84',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R85 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I76@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i76@discrete_niitp.r(chips)',
+ PATH='I76',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1900,4425)',
+ VER='1',
+ ROT='0',
+ LOCATION='R85',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R86 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I77@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i77@discrete_niitp.r(chips)',
+ PATH='I77',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(1875,4625)',
+ VER='1',
+ ROT='0',
+ LOCATION='R86',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R87 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I54@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i54@discrete_niitp.r(chips)',
+ PATH='I54',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2250,6400)',
+ VER='1',
+ ROT='0',
+ LOCATION='R87',
+ PACK_TYPE='0603',
+ VALUE='470',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R88 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I80@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i80@discrete_niitp.r(chips)',
+ PATH='I80',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(825,6200)',
+ VER='1',
+ ROT='0',
+ LOCATION='R88',
+ VALUE='1.5K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R89 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I330@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i330@discrete_niitp.r(chips)',
+ PATH='I330',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-975,9100)',
+ VER='1',
+ ROT='1',
+ LOCATION='R89',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R90 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I315@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i315@discrete_niitp.r(chips)',
+ PATH='I315',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1000,7750)',
+ VER='1',
+ ROT='1',
+ LOCATION='R90',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R91 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I227@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i227@discrete_niitp.r(chips)',
+ PATH='I227',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1275,5825)',
+ VER='1',
+ ROT='0',
+ LOCATION='R91',
+ VALUE='27',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R92 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I228@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i228@discrete_niitp.r(chips)',
+ PATH='I228',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-975,5500)',
+ VER='1',
+ ROT='0',
+ LOCATION='R92',
+ PACK_TYPE='0603',
+ VALUE='27',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R93 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I334@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i334@discrete_niitp.r(chips)',
+ PATH='I334',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1525,8575)',
+ VER='1',
+ ROT='1',
+ LOCATION='R93',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R94 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I333@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i333@discrete_niitp.r(chips)',
+ PATH='I333',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1525,8850)',
+ VER='1',
+ ROT='1',
+ LOCATION='R94',
+ PACK_TYPE='0603',
+ VALUE='2K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R95 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I111@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i111@discrete_niitp.r(chips)',
+ PATH='I111',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2025,6475)',
+ VER='1',
+ ROT='1',
+ LOCATION='R95',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R96 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I113@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i113@discrete_niitp.r(chips)',
+ PATH='I113',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2025,6200)',
+ VER='1',
+ ROT='1',
+ LOCATION='R96',
+ PACK_TYPE='0603',
+ VALUE='4,7K',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R97 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I305@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i305@discrete_niitp.r(chips)',
+ PATH='I305',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2200,6200)',
+ VER='1',
+ ROT='1',
+ LOCATION='R97',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R98 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I306@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i306@discrete_niitp.r(chips)',
+ PATH='I306',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2425,6475)',
+ VER='1',
+ ROT='1',
+ LOCATION='R98',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R99 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I307@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i307@discrete_niitp.r(chips)',
+ PATH='I307',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2425,6200)',
+ VER='1',
+ ROT='1',
+ LOCATION='R99',
+ VALUE='2K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R100 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I298@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i298@discrete_niitp.r(chips)',
+ PATH='I298',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6650,125)',
+ VER='1',
+ ROT='0',
+ LOCATION='R100',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R101 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I301@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i301@discrete_niitp.r(chips)',
+ PATH='I301',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6650,25)',
+ VER='1',
+ ROT='0',
+ LOCATION='R101',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R102 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I748@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i748@discrete_niitp.r(chips)',
+ PATH='I748',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(7725,2575)',
+ VER='1',
+ ROT='0',
+ LOCATION='R102',
+ VALUE='270',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R103 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I746@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i746@discrete_niitp.r(chips)',
+ PATH='I746',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(7725,2350)',
+ VER='1',
+ ROT='0',
+ LOCATION='R103',
+ PACK_TYPE='0603',
+ VALUE='270',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R104 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I750@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i750@discrete_niitp.r(chips)',
+ PATH='I750',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3575,5675)',
+ VER='1',
+ ROT='2',
+ LOCATION='R104',
+ VALUE='330',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R105 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I751@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i751@discrete_niitp.r(chips)',
+ PATH='I751',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3575,5125)',
+ VER='1',
+ ROT='2',
+ LOCATION='R105',
+ VALUE='330',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R106 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I752@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i752@discrete_niitp.r(chips)',
+ PATH='I752',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3400,4150)',
+ VER='1',
+ ROT='2',
+ VALUE='120',
+ LOCATION='R106',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R107 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I753@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i753@discrete_niitp.r(chips)',
+ PATH='I753',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3450,3300)',
+ VER='1',
+ ROT='2',
+ LOCATION='R107',
+ VALUE='120',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R108 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I754@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i754@discrete_niitp.r(chips)',
+ PATH='I754',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3450,2750)',
+ VER='1',
+ ROT='2',
+ VALUE='120',
+ LOCATION='R108',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R109 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I755@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i755@discrete_niitp.r(chips)',
+ PATH='I755',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(3600,-2775)',
+ VER='1',
+ ROT='2',
+ LOCATION='R109',
+ VALUE='120',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R110 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I359@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i359@discrete_niitp.r(chips)',
+ PATH='I359',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3200,-200)',
+ VER='1',
+ ROT='2',
+ LOCATION='R110',
+ VALUE='4.7K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R111 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I760@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i760@discrete_niitp.r(chips)',
+ PATH='I760',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6875,-3625)',
+ VER='1',
+ ROT='2',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ VALUE='10K',
+ LOCATION='R111',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R112 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I762@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i762@discrete_niitp.r(chips)',
+ PATH='I762',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6900,-3800)',
+ VER='1',
+ ROT='2',
+ CDS_LIB='discrete_niitp',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ LOCATION='R112',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R113 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I764@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i764@discrete_niitp.r(chips)',
+ PATH='I764',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(6900,-3975)',
+ VER='1',
+ ROT='2',
+ CDS_LIB='discrete_niitp',
+ VALUE='10K',
+ PACK_TYPE='0603',
+ LOCATION='R113',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R114 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I766@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i766@discrete_niitp.r(chips)',
+ PATH='I766',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5125,-2600)',
+ VER='1',
+ ROT='2',
+ LOCATION='R114',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ R115 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I767@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i767@discrete_niitp.r(chips)',
+ PATH='I767',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(5125,-2700)',
+ VER='1',
+ ROT='2',
+ LOCATION='R115',
+ VALUE='1K',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ RQZ 'R_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I3@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i3@discrete_niitp.r(chips)',
+ PATH='I3',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3100,525)',
+ VER='1',
+ ROT='7',
+ LOCATION='RQZ',
+ VALUE='1M',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/r/chips/chips.prt';
+
+PART_NAME
+ VT1 'VT_NPN_F364-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I332@DISCRETE_NIITP.VT_NPN(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i332@discrete_niitp.vt_npn(ch~
+ips)',
+ PATH='I332',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1025,8750)',
+ VER='1',
+ ROT='0',
+ LOCATION='VT1',
+ PACK_TYPE='F364',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/vt_npn/chips/chips.prt';
+
+PART_NAME
+ VT2 'VT_NPN_F364-BASE':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I313@DISCRETE_NIITP.VT_NPN(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i313@discrete_niitp.vt_npn(ch~
+ips)',
+ PATH='I313',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1050,7400)',
+ VER='1',
+ ROT='0',
+ LOCATION='VT2',
+ PACK_TYPE='F364',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='./discrete_niitp/vt_npn/chips/chips.prt';
+
+PART_NAME
+ XP1 'CWF-2R':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I365@IMPORT_LIB.CWF-2R(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i365@import_lib.\cwf-2r\(chip~
+s)',
+ PATH='I365',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3750,2800)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP1',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/cwf#2d2r/chips/chips.prt';
+
+PART_NAME
+ XP2 'SDA90325_16':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I369@IMPORT_LIB.SDA90325_16(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i369@import_lib.sda90325_16(c~
+hips)',
+ PATH='I369',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3675,1850)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP2',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/sda90325_16/chips/chips.prt';
+
+PART_NAME
+ XP3 'IDC_30MR':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I377@IMPORT_LIB.IDC_30MR(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i377@import_lib.idc_30mr(chip~
+s)',
+ PATH='I377',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-3750,325)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP3',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/idc_30mr/chips/chips.prt';
+
+PART_NAME
+ XP4 'PLD-2':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I366@IMPORT_LIB.PLD-2(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i366@import_lib.\pld-2\(chips~
+)',
+ PATH='I366',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2900,2800)',
+ VER='1',
+ ROT='2',
+ LOCATION='XP4',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/pld#2d2/chips/chips.prt';
+
+PART_NAME
+ XP5 'PLD-2':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I692@IMPORT_LIB.PLD-2(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i692@import_lib.\pld-2\(chips~
+)',
+ PATH='I692',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-2450,5825)',
+ VER='1',
+ ROT='2',
+ LOCATION='XP5',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/pld#2d2/chips/chips.prt';
+
+PART_NAME
+ XP6 'SDA90325_16':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I772@IMPORT_LIB.SDA90325_16(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i772@import_lib.sda90325_16(c~
+hips)',
+ PATH='I772',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9250,2300)',
+ VER='1',
+ ROT='2',
+ CDS_LIB='import_lib',
+ LOCATION='XP6',
+ PRIM_FILE='./import_lib/sda90325_16/chips/chips.prt';
+
+PART_NAME
+ XP7 'IDCC_10MR':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I687@IMPORT_LIB.IDCC_10MR(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i687@import_lib.idcc_10mr(chi~
+ps)',
+ PATH='I687',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9000,1175)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP7',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/idcc_10mr/chips/chips.prt';
+
+PART_NAME
+ XP8 'DRB-9MA':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I690@IMPORT_LIB.DRB-9MA(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i690@import_lib.\drb-9ma\(chi~
+ps)',
+ PATH='I690',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(9000,525)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP8',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/drb#2d9ma/chips/chips.prt';
+
+PART_NAME
+ XP9 'BH_20':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I345@IMPORT_LIB.BH_20(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i345@import_lib.bh_20(chips)',
+ PATH='I345',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2325,1575)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP9',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/bh_20/chips/chips.prt';
+
+PART_NAME
+ XP10 'PLD-2':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I185@IMPORT_LIB.PLD-2(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i185@import_lib.\pld-2\(chips~
+)',
+ PATH='I185',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-1250,1850)',
+ VER='1',
+ ROT='2',
+ LOCATION='XP10',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/pld#2d2/chips/chips.prt';
+
+PART_NAME
+ XP11 'PLD-2':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I237@IMPORT_LIB.PLD-2(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i237@import_lib.\pld-2\(chips~
+)',
+ PATH='I237',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5750,-50)',
+ VER='1',
+ ROT='2',
+ LOCATION='XP11',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/pld#2d2/chips/chips.prt';
+
+PART_NAME
+ XP12 'CWF-4':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I297@IMPORT_LIB.CWF-4(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i297@import_lib.\cwf-4\(chips~
+)',
+ PATH='I297',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(6100,25)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP12',
+ SEC='1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ PRIM_FILE='./import_lib/cwf#2d4/chips/chips.prt';
+
+PART_NAME
+ XP13 'MW_2MR':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I706@IMPORT_LIB.MW_2MR(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page9_i706@import_lib.mw_2mr(chips)~
+',
+ PATH='I706',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9',
+ XY='(-800,-2350)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP13',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='./import_lib/mw_2mr/chips/chips.prt';
+
+PART_NAME
+ XS1 'MINIUSB-MUSB':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I117@INTERFEYSNAYA.MINIUSB(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i117@interfeysnaya.miniusb(ch~
+ips)',
+ PATH='I117',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(-2675,5775)',
+ VER='1',
+ ROT='2',
+ LOCATION='XS1',
+ JEDEC_TYPE='MUSB',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='interfeysnaya',
+ PRIM_FILE='./interfeysnaya/miniusb/chips/chips.prt';
+
+PART_NAME
+ ZQ1 'ZQ-HC_49_SSMD':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I29@INTERFEYSNAYA.ZQ(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i29@interfeysnaya.zq(chips)',
+ PATH='I29',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(3300,525)',
+ VER='1',
+ ROT='1',
+ JEDEC_TYPE='HC_49_SSMD',
+ LOCATION='ZQ1',
+ SEC='1',
+ CDS_LIB='interfeysnaya',
+ SEC_TYPE='',
+ PRIM_FILE='./interfeysnaya/zq/chips/chips.prt';
+
+PART_NAME
+ ZQ2 'ZQ-F843':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I159@INTERFEYSNAYA.ZQ(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i159@interfeysnaya.zq(chips)',
+ PATH='I159',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(5800,2775)',
+ VER='1',
+ ROT='1',
+ LOCATION='ZQ2',
+ JEDEC_TYPE='F843',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='interfeysnaya',
+ PRIM_FILE='./interfeysnaya/zq/chips/chips.prt';
+
+PART_NAME
+ ZQ3 'ZQ-HC_49_SSMD':;
+
+SECTION_NUMBER 1
+ '@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I47@INTERFEYSNAYA.ZQ(CHIPS)':
+ C_PATH='@trudolubie_lib.interf_m8_v1(sch_1):page2_i47@interfeysnaya.zq(chips)',
+ PATH='I47',
+ DRAWING='@TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2',
+ XY='(2875,6150)',
+ VER='1',
+ ROT='1',
+ LOCATION='ZQ3',
+ JEDEC_TYPE='HC_49_SSMD',
+ SEC='1',
+ CDS_LIB='interfeysnaya',
+ SEC_TYPE='',
+ PRIM_FILE='./interfeysnaya/zq/chips/chips.prt';
+
+END.

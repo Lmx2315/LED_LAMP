@@ -1,0 +1,170 @@
+(Cell	at25256a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/09,11:36:34)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.at25256a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/15/09,11:38:12)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.at25256a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a20cd5a6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,11:36:36)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.at25256a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000538f03d7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000009aab063)
+
+			(Primitives	1
+
+				(Primitive	AT25256A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,11:37:51)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.at25256a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT25256A
+
+							(PackType	AT25256A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e4d403b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000560303a7)
+
+)
+

@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'FP3P7-516-2';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OUT':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='FP3P7-516-2';
+    BODY_NAME='FP3P7-516-2';
+    PHYS_DES_PREFIX='ZL';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:2,4)';
+  end_body;
+end_primitive;
+
+END.

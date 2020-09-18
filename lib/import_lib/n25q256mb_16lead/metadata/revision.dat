@@ -1,0 +1,204 @@
+(Cell	n25q256mb_16lead
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/28/17,10:59:20)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.n25q256mb_16lead)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/28/17,11:02:29)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.n25q256mb_16lead)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	04/28/17,10:59:20)
+
+					(User	Lmx2315)
+
+					(Path	import_lib.n25q256mb_16lead)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007dfab103)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/17,10:59:20)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.n25q256mb_16lead)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e3b03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006c20728f)
+
+			(Primitives	1
+
+				(Primitive	N25Q256MB_16LEAD
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/17,11:01:15)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.n25q256mb_16lead)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	N25Q256MB_16LEAD
+
+							(PackType	N25Q256MB_16LEAD)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sop2-16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c81038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b7e037c)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	stm32f103rbt6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/24/12,17:49:50)
+
+			(User	Sergey)
+
+			(Path	import_lib.stm32f103rbt6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/24/12,18:07:38)
+
+			(User	Sergey)
+
+			(Path	import_lib.stm32f103rbt6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b4613735)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/12,17:49:52)
+
+							(User	Sergey)
+
+							(Path	import_lib.stm32f103rbt6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e99d0350)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000025f3cfe9)
+
+			(Primitives	1
+
+				(Primitive	STM32F103RBT6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/12,18:07:19)
+
+							(User	Sergey)
+
+							(Path	import_lib.stm32f103rbt6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	STM32F103RBT6
+
+							(PackType	STM32F103RBT6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000027390384)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000003acb0325)
+
+)
+

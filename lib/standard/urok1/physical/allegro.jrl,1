@@ -1,0 +1,78 @@
+\t (00:00:17) allegro 14.2 p020 i86
+\t (00:00:17) Internal version = v14-2-56C
+\t (00:00:17) 
+
+\t (00:00:17) Starting new drawing...
+\i (00:00:18) setwindow pcb
+\i (00:00:18) trapsize 861
+\i (00:00:18) trapsize 1142
+\i (00:00:22) cdsdoc algromast DEFAULT 
+\t (00:00:23) cdsdoc is starting, please wait...
+\i (02:34:23) trapsize 918
+\i (02:34:23) trapsize 1142
+\i (02:35:41) quickplace 
+\e (02:35:41) You need to add a board geometry outline
+\i (02:35:53) add rect 
+\i (02:35:54) pick grid 3198.9 13298.4
+\t (02:35:54) last pick:  3200.0  13300.0
+\i (02:35:56) pick grid 19147.8 2810.5
+\t (02:35:56) last pick:  19100.0  2800.0
+\i (02:36:01) quickplace 
+\i (02:36:06) setwindow form.quickplc
+\i (02:36:06) FORM quickplc place_part_num YES 
+\i (02:36:07) FORM quickplc part_num_browse  
+\f (02:36:07) Select part num:
+\i (02:36:12) fillin "menu_cancel"
+\i (02:36:14) FORM quickplc part_num_browse  
+\f (02:36:14) Select part num:
+\i (02:36:15) fillin "menu_cancel"
+\i (02:36:17) FORM quickplc place_net_name YES 
+\i (02:36:18) FORM quickplc place_part_num YES 
+\i (02:36:19) FORM quickplc place_all YES 
+\i (02:36:23) FORM quickplc place  
+\i (02:36:28) FORM quickplc cancel  
+\i (02:38:21) setwindow pcb
+\i (02:38:21) trapsize 918
+\i (02:38:21) trapsize 1142
+\i (02:38:24) place manual 
+\i (02:38:27) setwindow form.plc_manual
+\i (02:38:27) FORM plc_manual advanced_settings  
+\i (02:38:31) FORM plc_manual placement_list  
+\i (02:38:33) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (02:38:33) FORM plc_manual tree  'Components by refdes' 
+\i (02:38:34) FORM plc_manual tree 'MULTISEL NO' 'Components by refdes' 
+\i (02:38:35) FORM plc_manual tree  'Module instances' 
+\i (02:38:36) FORM plc_manual tree 'MULTISEL YES' 'Module instances' 
+\i (02:38:37) FORM plc_manual tree 'MULTISEL NO' 'Module instances' 
+\i (02:38:58) FORM plc_manual cancel  
+\i (02:39:00) setwindow pcb
+\i (02:39:00) quickplace 
+\i (02:39:04) setwindow form.quickplc
+\i (02:39:04) FORM quickplc left_edge YES 
+\i (02:39:04) FORM quickplc left_edge NO 
+\i (02:39:10) FORM quickplc place_part_num YES 
+\i (02:39:12) FORM quickplc place_part_num NO 
+\i (02:39:13) FORM quickplc place_all YES 
+\i (02:39:15) FORM quickplc viewlog  
+\i (02:39:17) setwindow text
+\i (02:39:17) close 
+\i (02:39:22) setwindow form.quickplc
+\i (02:39:22) FORM quickplc place  
+\i (02:39:24) FORM quickplc cancel  
+\i (02:39:41) setwindow pcb
+\i (02:39:41) net logic 
+\i (02:39:42) fillin confirm
+\t (02:39:42) Loading cmds.cxt 
+\i (02:39:47) diff pairs 
+\t (02:39:47) Loading fputil.cxt 
+\t (02:39:47) Loading axlcore.cxt 
+\i (02:39:51) setwindow form.fpconsdiff
+\i (02:39:51) FORM fpconsdiff cancel  
+\i (02:40:00) setwindow pcb
+\i (02:40:00) net schedule 
+\i (04:10:43) trapsize 918
+\i (04:10:43) trapsize 1142
+\i (04:11:04) padeditdb 
+\i (04:12:03) pick grid 8522.8 14692.2
+\t (04:12:03) last pick:  8500.0  14700.0
+\t (04:12:03) No element found

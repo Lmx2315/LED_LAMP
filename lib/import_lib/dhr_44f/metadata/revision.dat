@@ -1,0 +1,170 @@
+(Cell	dhr_44f
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/22/15,15:14:54)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.dhr_44f)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/15,15:18:41)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.dhr_44f)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000003158eabd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/15,15:14:59)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.dhr_44f)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c1a703de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000aa13bece)
+
+			(Primitives	1
+
+				(Primitive	DHR_44F
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/15,15:17:45)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.dhr_44f)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DHR_44F
+
+							(PackType	DHR_44F)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000003f3c0436)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000b7b4037d)
+
+)
+

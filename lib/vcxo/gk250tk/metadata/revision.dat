@@ -1,0 +1,170 @@
+(Cell	gk250tk
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/25/11,10:22:25)
+
+			(User	senzenist_s_n)
+
+			(Path	vcxo.gk250tk)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/25/11,10:33:19)
+
+			(User	senzenist_s_n)
+
+			(Path	vcxo.gk250tk)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a41a5d27)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/25/11,10:22:27)
+
+							(User	senzenist_s_n)
+
+							(Path	vcxo.gk250tk)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000085b003aa)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000097c8aac5)
+
+			(Primitives	1
+
+				(Primitive	GK250TK
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/25/11,10:30:44)
+
+							(User	senzenist_s_n)
+
+							(Path	vcxo.gk250tk)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GK250TK
+
+							(PackType	GK250TK)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000622603e8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f86f0351)
+
+)
+

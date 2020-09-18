@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jul 02 16:53:30 2003' ;
+primitive 'TCN75MUA';
+  pin
+    'SCL':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A0':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A1':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A2':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'INT/CMPTR':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SDA':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:8)';
+    POWER_PINS='(GNDD:4)';
+    CLASS='IC';
+    PART_NAME='TCN75MUA';
+    JEDEC_TYPE='soic8';
+    BODY_NAME='tcn75mua';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

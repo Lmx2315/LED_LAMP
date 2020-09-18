@@ -1,0 +1,180 @@
+(Cell	pex8311
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.17)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/04/13,11:49:44)
+
+			(User	Sergey)
+
+			(Path	b620.pex8311)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/04/13,17:10:05)
+
+			(User	Sergey)
+
+			(Path	b620.pex8311)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000075e21091)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/04/13,11:49:50)
+
+							(User	Sergey)
+
+							(Path	b620.pex8311)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b4a034f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000098c29825)
+
+			(Primitives	1
+
+				(Primitive	PEX8311
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/04/13,16:30:25)
+
+							(User	Sergey)
+
+							(Path	b620.pex8311)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PEX8311
+
+							(PackType	PEX8311)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pbga337_v2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0703b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b940372)
+
+)
+

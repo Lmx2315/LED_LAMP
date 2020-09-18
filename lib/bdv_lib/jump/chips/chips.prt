@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Sep 01 12:51:55 2004' ;
+primitive 'JUMP';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='JUMP';
+    PHYS_DES_PREFIX='XP';
+    JEDEC_TYPE='JUMP';
+    BODY_NAME='JUMP';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,1 @@
+pdv_170,Cell 'dpu':Pins IO<6>,IO<7> are not present in any of the packages or symbols.,Warning

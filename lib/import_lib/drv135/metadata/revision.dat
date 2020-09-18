@@ -1,0 +1,170 @@
+(Cell	drv135
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/26/09,16:49:03)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.drv135)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/26/09,16:53:35)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.drv135)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e76ede38)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/26/09,16:49:25)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.drv135)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a2f503ec)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000498aae3a)
+
+			(Primitives	1
+
+				(Primitive	DRV135
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/26/09,16:51:49)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.drv135)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DRV135
+
+							(PackType	DRV135)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000042f03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000057040377)
+
+)
+

@@ -1,0 +1,31 @@
+Log File: C:\Users\Lmx\AppData\Local\Temp\s49c.
+Markers File: C:\Users\Lmx\AppData\Local\Temp\s49c.1
+Debug File: C:\Users\Lmx\AppData\Local\Temp\s49c.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:00)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+Elapsed time since start = (00:00:01)
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ **************************************************
+ *  FATAL ERROR PackagerXL exiting with status 2  *
+ **************************************************
+

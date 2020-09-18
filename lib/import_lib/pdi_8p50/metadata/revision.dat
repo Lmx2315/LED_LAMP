@@ -1,0 +1,204 @@
+(Cell	pdi_8p50
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/24/17,16:52:07)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.pdi_8p50)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/24/17,17:31:57)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.pdi_8p50)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f4d373f7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/24/17,16:52:11)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.pdi_8p50)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3b03b9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ee7acd2d)
+
+			(Primitives	1
+
+				(Primitive	PDI_8P50
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/24/17,16:52:45)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.pdi_8p50)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PDI_8P50
+
+							(PackType	PDI_8P50)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	opto_diod_pdi)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7c03da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ccf03d8)
+
+)
+

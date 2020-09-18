@@ -1,0 +1,172 @@
+(Cell	quarz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/04/06,16:52:32)
+
+			(User	admin)
+
+			(Path	my_passive_niitp.quarz)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/04/06,16:53:00)
+
+			(User	admin)
+
+			(Path	my_passive_niitp.quarz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ab7b574b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/04/06,16:52:58)
+
+							(User	admin)
+
+							(Path	my_passive_niitp.quarz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfd03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cbe88fcc)
+
+			(Primitives	1
+
+				(Primitive	QUARZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/04/06,16:52:36)
+
+							(User	admin)
+
+							(Path	my_passive_niitp.quarz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	QUARZ
+
+							(PackType	QUARZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8f03e8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cbd03b4)
+
+)
+

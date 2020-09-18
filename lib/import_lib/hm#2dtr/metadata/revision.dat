@@ -1,0 +1,178 @@
+(Cell	hm-tr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/11,10:10:46)
+
+			(User	Sergey)
+
+			(Path	import_lib.hm-tr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/15/11,10:11:50)
+
+			(User	Sergey)
+
+			(Path	import_lib.hm-tr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ad47a7c2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,10:10:49)
+
+							(User	Sergey)
+
+							(Path	import_lib.hm-tr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c3b303de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e43e4d67)
+
+			(Primitives	1
+
+				(Primitive	HM-TR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,10:11:31)
+
+							(User	Sergey)
+
+							(Path	import_lib.hm-tr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HM-TR
+
+							(PackType	HM-TR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e7f80380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000047d60386)
+
+)
+

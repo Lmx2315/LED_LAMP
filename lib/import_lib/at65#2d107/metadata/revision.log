@@ -1,0 +1,81 @@
+
+	(Comment
+		(Time 02/15/07,15:09:17)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 02/15/07,16:06:50)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package at65-107 added to cell")
+		(Param1 at65-107)
+	)
+	(Comment
+		(Time 02/15/07,16:09:56)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package at65-107_1 added to cell")
+		(Param1 at65-107_1)
+	)
+
+	(Comment
+		(Time 02/15/07,16:17:13)
+		(User admin)
+		(MsgId ECO_022)
+		(Text "Package AT65-107_1 deleted from cell")
+		(Param1 AT65-107_1)
+	)
+
+
+
+	(Comment
+		(Time 02/15/07,16:34:16)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package at65-107_1 added to cell")
+		(Param1 at65-107_1)
+	)
+	(Comment
+		(Time 02/15/07,16:34:22)
+		(User admin)
+		(MsgId ECO_022)
+		(Text "Package AT65-107 deleted from cell")
+		(Param1 AT65-107)
+	)
+
+
+	(Comment
+		(Time 02/15/07,16:40:50)
+		(User admin)
+		(MsgId ECO_022)
+		(Text "Package AT65-107_1 deleted from cell")
+		(Param1 AT65-107_1)
+	)
+	(Comment
+		(Time 02/15/07,16:41:12)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package at65-107 added to cell")
+		(Param1 at65-107)
+	)
+
+
+	(Comment
+		(Time 02/15/07,16:51:09)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package at65-107_1 added to cell")
+		(Param1 at65-107_1)
+	)
+	(Comment
+		(Time 02/15/07,16:51:20)
+		(User admin)
+		(MsgId ECO_022)
+		(Text "Package AT65-107_1 deleted from cell")
+		(Param1 AT65-107_1)
+	)
+

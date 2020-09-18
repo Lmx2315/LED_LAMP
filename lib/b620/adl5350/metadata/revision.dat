@@ -1,0 +1,180 @@
+(Cell	adl5350
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/20/14,17:39:10)
+
+			(User	imk)
+
+			(Path	b620.adl5350)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/20/14,17:54:24)
+
+			(User	imk)
+
+			(Path	b620.adl5350)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000031a8844)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/20/14,17:54:13)
+
+							(User	imk)
+
+							(Path	b620.adl5350)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ae4034e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b9de092d)
+
+			(Primitives	1
+
+				(Primitive	ADL5350
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/20/14,17:42:19)
+
+							(User	imk)
+
+							(Path	b620.adl5350)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADL5350
+
+							(PackType	ADL5350)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cp-8-1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6103da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bcf03a5)
+
+)
+

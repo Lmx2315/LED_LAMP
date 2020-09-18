@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SN74LVC2G00';
+  pin
+    '-Y'<0>:
+      PIN_NUMBER='(7,3)';
+      INPUT_LOAD='(*,*)';
+    'B'<0>:
+      PIN_NUMBER='(2,6)';
+      INPUT_LOAD='(*,*)';
+    'A'<0>:
+      PIN_NUMBER='(1,5)';
+      INPUT_LOAD='(*,*)';
+  end_pin;
+  body
+    PART_NAME='SN74LVC2G00';
+    FAMILY='LOGIC';
+    BODY_NAME='SN74LVC2G00';
+    LOCATION='DD';
+    PACK_TAPE='SOIC8';
+    JEDEC_TYPE='f82';
+    PHYS_DES_PREFIX='DD';
+    CLASS='IC';
+    POWER_PINS='(P3V3:8)';
+    POWER_PINS='(GND:4)';
+  end_body;
+end_primitive;
+
+END.

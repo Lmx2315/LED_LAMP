@@ -1,0 +1,1 @@
+pdv_170,Cell 'sn74lvc1g126':Pins OE* are not present in any of the packages or symbols.,Warning

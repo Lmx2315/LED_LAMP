@@ -1,0 +1,2 @@
+pdv_506,Cell 'sn74lvc2g00':For logical part SN74LVC2G00, pack type VSSOP8 is missing in chips.prt file but present in part table file,Warning
+pdv_412,Cell 'sn74lvc2g00':Pin(s) Y<0>*,B<0>,A<0> are present as fixed size but not present as sizeable on any symbol,Warning

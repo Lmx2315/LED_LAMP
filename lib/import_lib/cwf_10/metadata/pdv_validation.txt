@@ -1,0 +1,1 @@
+pdv_140,Symbol 'sym_1':Pin SDA,SCL,INT*,GND1,GND4,ADC2,GND3,GND2,ADC1,ADC0 is not on Standard Grid,Error

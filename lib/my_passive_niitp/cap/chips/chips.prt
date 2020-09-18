@@ -1,0 +1,72 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Sep 03 16:02:56 2004' ;
+primitive 'CAP','CAP_0603';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='CAP';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='0603';
+    BODY_NAME='CAP';
+  end_body;
+end_primitive;
+primitive 'CAP_0402';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='CAP';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='0405';
+    BODY_NAME='CAP';
+  end_body;
+end_primitive;
+primitive 'CAP_f135';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='CAP';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='f135';
+    BODY_NAME='CAP';
+  end_body;
+end_primitive;
+END.

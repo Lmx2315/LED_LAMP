@@ -1,0 +1,170 @@
+(Cell	atmega8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/19/09,16:48:28)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.atmega8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/19/09,16:58:58)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.atmega8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000008fb27110)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/09,16:48:30)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.atmega8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a81a037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003254c32a)
+
+			(Primitives	1
+
+				(Primitive	ATMEGA8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/09,16:54:52)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.atmega8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ATMEGA8
+
+							(PackType	ATMEGA8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f1aa0411)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000e6c803a0)
+
+)
+

@@ -1,0 +1,172 @@
+(Cell	k4s561632e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/26/06,12:31:45)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.k4s561632e)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/26/06,12:47:59)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.k4s561632e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000066db750c)
+
+			(Primitives	1
+
+				(Primitive	K4S561632E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/26/06,12:31:48)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.k4s561632e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	K4S561632E
+
+							(PackType	K4S561632E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000041d1f170)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/26/06,12:46:58)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.k4s561632e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001de503e5)
+
+		)
+
+		(Checksum	000000001cd303ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ce303d4)
+
+)
+

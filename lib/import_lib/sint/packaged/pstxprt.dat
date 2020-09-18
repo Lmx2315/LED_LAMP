@@ -1,0 +1,2204 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 22-Mar-2005 AT 15:58:13 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SINT';
+ POST_TIME='22-Mar-2005 AT 15:58:13';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I322@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i322@discrete_niitp.c(chips)',
+ PATH='I322',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-1550,4475)',
+ VER='1',
+ ROT='5',
+ LOCATION='C1',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C2 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I327@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i327@discrete_niitp.c(chips)',
+ PATH='I327',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-1350,3975)',
+ VER='1',
+ ROT='5',
+ LOCATION='C2',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C3 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I86@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i86@discrete_niitp.c(chips)',
+ PATH='I86',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-700,5350)',
+ VER='1',
+ ROT='5',
+ LOCATION='C3',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C4 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I419@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i419@discrete_niitp.c(chips)',
+ PATH='I419',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-700,2575)',
+ VER='1',
+ ROT='5',
+ LOCATION='C4',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C5 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I79@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i79@discrete_niitp.c(chips)',
+ PATH='I79',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(550,5375)',
+ VER='1',
+ ROT='5',
+ LOCATION='C5',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C6 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I406@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i406@discrete_niitp.c(chips)',
+ PATH='I406',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(800,2625)',
+ VER='1',
+ ROT='5',
+ LOCATION='C6',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C7 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I554@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i554@discrete_niitp.c(chips)',
+ PATH='I554',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1900,6125)',
+ VER='1',
+ ROT='5',
+ LOCATION='C7',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C8 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I549@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i549@discrete_niitp.c(chips)',
+ PATH='I549',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(2250,6375)',
+ VER='1',
+ ROT='5',
+ LOCATION='C8',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C9 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I547@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i547@discrete_niitp.c(chips)',
+ PATH='I547',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(2250,6025)',
+ VER='1',
+ ROT='5',
+ LOCATION='C9',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C10 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I583@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i583@discrete_niitp.c(chips)',
+ PATH='I583',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3500,1950)',
+ VER='1',
+ ROT='5',
+ LOCATION='C10',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C11 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I424@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i424@discrete_niitp.c(chips)',
+ PATH='I424',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3550,5925)',
+ VER='1',
+ ROT='5',
+ LOCATION='C11',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C12 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I504@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i504@discrete_niitp.c(chips)',
+ PATH='I504',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3700,6275)',
+ VER='1',
+ ROT='5',
+ LOCATION='C12',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C13 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I486@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i486@discrete_niitp.c(chips)',
+ PATH='I486',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3800,5925)',
+ VER='1',
+ ROT='5',
+ LOCATION='C13',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C14 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I505@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i505@discrete_niitp.c(chips)',
+ PATH='I505',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3950,6275)',
+ VER='1',
+ ROT='5',
+ LOCATION='C14',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C15 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I492@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i492@discrete_niitp.c(chips)',
+ PATH='I492',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4050,5925)',
+ VER='1',
+ ROT='5',
+ LOCATION='C15',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C16 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I496@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i496@discrete_niitp.c(chips)',
+ PATH='I496',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4200,6275)',
+ VER='1',
+ ROT='5',
+ LOCATION='C16',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C17 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I494@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i494@discrete_niitp.c(chips)',
+ PATH='I494',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4300,5925)',
+ VER='1',
+ ROT='5',
+ LOCATION='C17',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C18 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I498@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i498@discrete_niitp.c(chips)',
+ PATH='I498',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4550,5925)',
+ VER='1',
+ ROT='5',
+ LOCATION='C18',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C19 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I514@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i514@discrete_niitp.c(chips)',
+ PATH='I514',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4950,6275)',
+ VER='1',
+ ROT='5',
+ LOCATION='C19',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C20 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I511@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i511@discrete_niitp.c(chips)',
+ PATH='I511',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4950,5975)',
+ VER='1',
+ ROT='5',
+ LOCATION='C20',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C21 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I508@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i508@discrete_niitp.c(chips)',
+ PATH='I508',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4950,5675)',
+ VER='1',
+ ROT='5',
+ LOCATION='C21',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C22 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I512@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i512@discrete_niitp.c(chips)',
+ PATH='I512',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4950,5325)',
+ VER='1',
+ ROT='5',
+ LOCATION='C22',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C23 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I67@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i67@discrete_niitp.c(chips)',
+ PATH='I67',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1750,1975)',
+ VER='1',
+ ROT='1',
+ LOCATION='C23',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C24 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I47@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i47@discrete_niitp.c(chips)',
+ PATH='I47',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1000,3275)',
+ VER='1',
+ ROT='1',
+ LOCATION='C24',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C25 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I52@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i52@discrete_niitp.c(chips)',
+ PATH='I52',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1000,2525)',
+ VER='1',
+ ROT='1',
+ LOCATION='C25',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C26 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I64@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i64@discrete_niitp.c(chips)',
+ PATH='I64',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1000,1325)',
+ VER='1',
+ ROT='1',
+ LOCATION='C26',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C27 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I93@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i93@discrete_niitp.c(chips)',
+ PATH='I93',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1000,425)',
+ VER='1',
+ ROT='1',
+ LOCATION='C27',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C28 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I92@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i92@discrete_niitp.c(chips)',
+ PATH='I92',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1000,-325)',
+ VER='1',
+ ROT='1',
+ LOCATION='C28',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C29 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I107@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i107@discrete_niitp.c(chips)',
+ PATH='I107',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(100,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C29',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C30 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I131@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i131@discrete_niitp.c(chips)',
+ PATH='I131',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(100,-625)',
+ VER='1',
+ ROT='1',
+ LOCATION='C30',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C31 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I109@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i109@discrete_niitp.c(chips)',
+ PATH='I109',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(350,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C31',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C32 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I128@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i128@discrete_niitp.c(chips)',
+ PATH='I128',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(350,-625)',
+ VER='1',
+ ROT='1',
+ LOCATION='C32',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C33 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I110@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i110@discrete_niitp.c(chips)',
+ PATH='I110',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(600,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C33',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C34 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I130@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i130@discrete_niitp.c(chips)',
+ PATH='I130',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(600,-625)',
+ VER='1',
+ ROT='1',
+ LOCATION='C34',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C35 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I103@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i103@discrete_niitp.c(chips)',
+ PATH='I103',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(850,400)',
+ VER='1',
+ ROT='1',
+ LOCATION='C35',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C36 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I111@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i111@discrete_niitp.c(chips)',
+ PATH='I111',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(850,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C36',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C37 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I129@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i129@discrete_niitp.c(chips)',
+ PATH='I129',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(850,-625)',
+ VER='1',
+ ROT='1',
+ LOCATION='C37',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C38 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I112@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i112@discrete_niitp.c(chips)',
+ PATH='I112',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1150,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C38',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C39 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I113@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i113@discrete_niitp.c(chips)',
+ PATH='I113',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1400,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C39',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C40 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I114@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i114@discrete_niitp.c(chips)',
+ PATH='I114',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1650,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C40',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C41 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I189@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i189@discrete_niitp.c(chips)',
+ PATH='I189',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1750,3575)',
+ VER='1',
+ ROT='1',
+ LOCATION='C41',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0603',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C42 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I192@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i192@discrete_niitp.c(chips)',
+ PATH='I192',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1750,2275)',
+ VER='1',
+ ROT='1',
+ LOCATION='C42',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0603',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C43 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I193@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i193@discrete_niitp.c(chips)',
+ PATH='I193',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1750,1425)',
+ VER='1',
+ ROT='1',
+ LOCATION='C43',
+ PACK_TYPE='0603',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C44 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I115@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i115@discrete_niitp.c(chips)',
+ PATH='I115',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1900,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C44',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C45 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I116@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i116@discrete_niitp.c(chips)',
+ PATH='I116',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2150,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C45',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C46 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I117@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i117@discrete_niitp.c(chips)',
+ PATH='I117',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2400,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C46',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C47 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I120@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i120@discrete_niitp.c(chips)',
+ PATH='I120',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2650,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C47',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C48 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I118@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i118@discrete_niitp.c(chips)',
+ PATH='I118',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2900,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C48',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C49 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I190@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i190@discrete_niitp.c(chips)',
+ PATH='I190',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3000,3525)',
+ VER='1',
+ ROT='1',
+ LOCATION='C49',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0603',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C50 'C_0603-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I191@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i191@discrete_niitp.c(chips)',
+ PATH='I191',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3200,3525)',
+ VER='1',
+ ROT='1',
+ LOCATION='C50',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0603',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C51 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I119@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i119@discrete_niitp.c(chips)',
+ PATH='I119',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3200,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C51',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C52 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I123@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i123@discrete_niitp.c(chips)',
+ PATH='I123',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3450,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C52',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C53 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I121@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i121@discrete_niitp.c(chips)',
+ PATH='I121',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3700,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C53',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C54 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I122@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i122@discrete_niitp.c(chips)',
+ PATH='I122',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3950,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C54',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C55 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I127@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i127@discrete_niitp.c(chips)',
+ PATH='I127',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(4200,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C55',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C56 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I124@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i124@discrete_niitp.c(chips)',
+ PATH='I124',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(4450,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C56',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='0402',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C57 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I126@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i126@discrete_niitp.c(chips)',
+ PATH='I126',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(4700,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C57',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ C58 'C_0402-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I125@DISCRETE_NIITP.C(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i125@discrete_niitp.c(chips)',
+ PATH='I125',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(4950,-175)',
+ VER='1',
+ ROT='1',
+ LOCATION='C58',
+ PACK_TYPE='0402',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/c/ch~
+ips/chips.prt';
+
+PART_NAME
+ DD1 'ACTSTE01':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I389@R_ACT_LIB.ACTSTE01(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i389@r_act_lib.actste01(chips)',
+ PATH='I389',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-950,4150)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD1',
+ PART_NAME='ACTSTE01',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='r_act_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_act_lib/actste01/chips/chi~
+ps.prt';
+
+PART_NAME
+ DD2 'ICS525_SSOP-28':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I379@R_ICS_LIB.ICS525(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i379@r_ics_lib.ics525(chips)',
+ PATH='I379',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(50,5350)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD2',
+ PACK_TYPE='SSOP-28',
+ PART_NAME='ICS525',
+ SEC_TYPE='SSOP-28',
+ SEC='1',
+ CDS_LIB='r_ics_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_ics_lib/ics525/chips/chips~
+.prt';
+
+PART_NAME
+ DD3 'ICS525_SSOP-28':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I393@R_ICS_LIB.ICS525(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i393@r_ics_lib.ics525(chips)',
+ PATH='I393',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(50,2600)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD3',
+ PART_NAME='ICS525',
+ PACK_TYPE='SSOP-28',
+ SEC='1',
+ SEC_TYPE='SSOP-28',
+ CDS_LIB='r_ics_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_ics_lib/ics525/chips/chips~
+.prt';
+
+PART_NAME
+ DD4 'MAX6736':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I437@IMPORT_LIB.MAX6736(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i437@import_lib.max6736(chips)',
+ PATH='I437',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(2850,5850)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD4',
+ BODY_NAME='MAX6736',
+ CDS_LIB='import_lib',
+ FAMILY='SUPERVISOR',
+ SEC_TYPE='',
+ SEC='1',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/max6736/chips/chi~
+ps.prt';
+
+PART_NAME
+ DD5 'XCV18VXXX':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I427@IMPORT_LIB.XCV18VXXX(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i427@import_lib.xcv18vxxx(chips)',
+ PATH='I427',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(2850,5350)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD5',
+ VCCO='VCCO_IR',
+ VCC='VCCO_IR',
+ PART_NAME='XCV18VXXX',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/xcv18vxxx/chips/c~
+hips.prt';
+
+PART_NAME
+ DD6 'XC2VXXXX':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I616@R_XILINX_LIB.XC2VXXXX(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i616@r_xilinx_lib.xc2vxxxx(chips)',
+ PATH='I616',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3950,4000)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD6',
+ PART_NAME='XC2VXXXX',
+ CDS_LIB='r_xilinx_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_xilinx_lib/xc2vxxxx/chips/~
+chips.prt';
+
+PART_NAME
+ DD7 '25LC040':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I436@IMPORT_LIB.25LC040(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i436@import_lib.\25lc040\(chips)',
+ PATH='I436',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(5250,2050)',
+ VER='1',
+ ROT='0',
+ P3V3='P3V3ER',
+ LOCATION='DD7',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/25lc040/chips/chi~
+ps.prt';
+
+PART_NAME
+ DD8 'FIN1102_SOIC-8':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I44@R_FAIRCHILD_LIB.FIN1102(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i44@r_fairchild_lib.fin1102(chips)',
+ PATH='I44',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1400,3800)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD8',
+ PART_NAME='FIN1102',
+ PACK_TYPE='SOIC-8',
+ SEC='1',
+ SEC_TYPE='SOIC-8',
+ CDS_LIB='r_fairchild_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_fairchild_lib/fin1102/chip~
+s/chips.prt';
+
+PART_NAME
+ DD9 'FIN1102_SOIC-8':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I45@R_FAIRCHILD_LIB.FIN1102(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i45@r_fairchild_lib.fin1102(chips)',
+ PATH='I45',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1400,3050)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD9',
+ PART_NAME='FIN1102',
+ PACK_TYPE='SOIC-8',
+ SEC='1',
+ SEC_TYPE='SOIC-8',
+ CDS_LIB='r_fairchild_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_fairchild_lib/fin1102/chip~
+s/chips.prt';
+
+PART_NAME
+ DD10 'SN74LVC1G125_SC70-5':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I42@R_LOGIC_LIB.SN74LVC1G125(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i42@r_logic_lib.sn74lvc1g125(chips)',
+ PATH='I42',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1450,2100)',
+ VER='1',
+ ROT='2',
+ LOCATION='DD10',
+ CDS_LIB='r_logic_lib',
+ SEC_TYPE='SC70-5',
+ SEC='1',
+ PACK_TYPE='SC70-5',
+ PART_NAME='SN74LVC1G125',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_logic_lib/sn74lvc1g125/chi~
+ps/chips.prt';
+
+PART_NAME
+ DD11 'SN74LVC1G125_SC70-5':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I43@R_LOGIC_LIB.SN74LVC1G125(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i43@r_logic_lib.sn74lvc1g125(chips)',
+ PATH='I43',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1350,1450)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD11',
+ SEC_TYPE='SC70-5',
+ SEC='1',
+ PART_NAME='SN74LVC1G125',
+ PACK_TYPE='SC70-5',
+ CDS_LIB='r_logic_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_logic_lib/sn74lvc1g125/chi~
+ps/chips.prt';
+
+PART_NAME
+ DD12 'SN74LVC2G14':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I80@R_LOGIC_LIB.SN74LVC2G14(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i80@r_logic_lib.sn74lvc2g14(chips)',
+ PATH='I80',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1400,825)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD12',
+ CDS_LIB='r_logic_lib',
+ SEC_TYPE='',
+ SEC='1',
+ PART_NAME='SN74LVC2G14',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_logic_lib/sn74lvc2g14/chip~
+s/chips.prt';
+
+PART_NAME
+ DD13 'SN74LVC2G14':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I83@R_LOGIC_LIB.SN74LVC2G14(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i83@r_logic_lib.sn74lvc2g14(chips)',
+ PATH='I83',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1400,75)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD13',
+ CDS_LIB='r_logic_lib',
+ SEC='1',
+ SEC_TYPE='',
+ PART_NAME='SN74LVC2G14',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_logic_lib/sn74lvc2g14/chip~
+s/chips.prt';
+
+PART_NAME
+ DD14 'SN74LVC2G14':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I98@R_LOGIC_LIB.SN74LVC2G14(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i98@r_logic_lib.sn74lvc2g14(chips)',
+ PATH='I98',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(550,725)',
+ VER='1',
+ ROT='0',
+ LOCATION='DD14',
+ CDS_LIB='r_logic_lib',
+ SEC_TYPE='',
+ SEC='1',
+ PART_NAME='SN74LVC2G14',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/r_logic_lib/sn74lvc2g14/chip~
+s/chips.prt';
+
+PART_NAME
+ FU1 'FU_F344-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I434@DISCRETE_NIITP.FU(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i434@discrete_niitp.fu(chips)',
+ PATH='I434',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1400,5475)',
+ VER='1',
+ ROT='5',
+ PACK_TYPE='F344',
+ LOCATION='FU1',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/fu/c~
+hips/chips.prt';
+
+PART_NAME
+ L1 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I421@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i421@import_lib.blm18a(chips)',
+ PATH='I421',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-975,5450)',
+ VER='1',
+ ROT='0',
+ LOCATION='L1',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L2 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I291@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i291@import_lib.blm18a(chips)',
+ PATH='I291',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-975,4600)',
+ VER='1',
+ ROT='0',
+ LOCATION='L2',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L3 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I422@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i422@import_lib.blm18a(chips)',
+ PATH='I422',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-975,2700)',
+ VER='1',
+ ROT='0',
+ LOCATION='L3',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L4 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I545@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i545@import_lib.blm18a(chips)',
+ PATH='I545',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(975,5300)',
+ VER='1',
+ ROT='0',
+ LOCATION='L4',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L5 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I524@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i524@import_lib.blm18a(chips)',
+ PATH='I524',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1225,2700)',
+ VER='1',
+ ROT='0',
+ LOCATION='L5',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L6 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I552@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i552@import_lib.blm18a(chips)',
+ PATH='I552',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1675,6250)',
+ VER='1',
+ ROT='0',
+ LOCATION='L6',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L7 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I520@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i520@import_lib.blm18a(chips)',
+ PATH='I520',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3225,6400)',
+ VER='1',
+ ROT='0',
+ LOCATION='L7',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L8 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I580@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i580@import_lib.blm18a(chips)',
+ PATH='I580',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3225,2050)',
+ VER='1',
+ ROT='0',
+ LOCATION='L8',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L9 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I423@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i423@import_lib.blm18a(chips)',
+ PATH='I423',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4725,6350)',
+ VER='1',
+ ROT='0',
+ LOCATION='L9',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L10 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I66@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i66@import_lib.blm18a(chips)',
+ PATH='I66',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1975,2150)',
+ VER='1',
+ ROT='0',
+ LOCATION='L10',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L11 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I56@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i56@import_lib.blm18a(chips)',
+ PATH='I56',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-575,3450)',
+ VER='1',
+ ROT='0',
+ LOCATION='L11',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L12 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I49@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i49@import_lib.blm18a(chips)',
+ PATH='I49',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-575,2700)',
+ VER='1',
+ ROT='0',
+ LOCATION='L12',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L13 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I62@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i62@import_lib.blm18a(chips)',
+ PATH='I62',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-575,1500)',
+ VER='1',
+ ROT='0',
+ LOCATION='L13',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L14 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I95@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i95@import_lib.blm18a(chips)',
+ PATH='I95',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-575,600)',
+ VER='1',
+ ROT='0',
+ LOCATION='L14',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L15 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I89@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i89@import_lib.blm18a(chips)',
+ PATH='I89',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-575,-150)',
+ VER='1',
+ ROT='0',
+ LOCATION='L15',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L17 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I100@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i100@import_lib.blm18a(chips)',
+ PATH='I100',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1425,525)',
+ VER='1',
+ ROT='0',
+ LOCATION='L17',
+ PACK_TYPE='F56',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ L18 'BLM18A_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I159@IMPORT_LIB.BLM18A(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i159@import_lib.blm18a(chips)',
+ PATH='I159',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1425,-450)',
+ VER='1',
+ ROT='0',
+ LOCATION='L18',
+ CDS_LIB='import_lib',
+ PACK_TYPE='F56',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/blm18a/chips/chip~
+s.prt';
+
+PART_NAME
+ R1 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I326@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i326@discrete_niitp.r(chips)',
+ PATH='I326',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-1550,4100)',
+ VER='1',
+ ROT='4',
+ LOCATION='R1',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R2 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I385@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i385@discrete_niitp.r(chips)',
+ PATH='I385',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1250,4400)',
+ VER='1',
+ ROT='4',
+ LOCATION='R2',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R3 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I602@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i602@discrete_niitp.r(chips)',
+ PATH='I602',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1250,4300)',
+ VER='1',
+ ROT='4',
+ LOCATION='R3',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R4 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I404@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i404@discrete_niitp.r(chips)',
+ PATH='I404',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1250,2400)',
+ VER='1',
+ ROT='4',
+ LOCATION='R4',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R5 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I407@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i407@discrete_niitp.r(chips)',
+ PATH='I407',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1250,2300)',
+ VER='1',
+ ROT='4',
+ LOCATION='R5',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R6 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I523@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i523@discrete_niitp.r(chips)',
+ PATH='I523',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1900,5600)',
+ VER='1',
+ ROT='4',
+ LOCATION='R6',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R7 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I586@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i586@discrete_niitp.r(chips)',
+ PATH='I586',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1900,5050)',
+ VER='1',
+ ROT='4',
+ LOCATION='R7',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R8 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I588@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i588@discrete_niitp.r(chips)',
+ PATH='I588',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1900,4900)',
+ VER='1',
+ ROT='4',
+ LOCATION='R8',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R9 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I587@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i587@discrete_niitp.r(chips)',
+ PATH='I587',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1900,4750)',
+ VER='1',
+ ROT='4',
+ LOCATION='R9',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R10 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I522@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i522@discrete_niitp.r(chips)',
+ PATH='I522',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(2250,5600)',
+ VER='1',
+ ROT='4',
+ LOCATION='R10',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R12 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I521@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i521@discrete_niitp.r(chips)',
+ PATH='I521',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(3300,5950)',
+ VER='1',
+ ROT='1',
+ LOCATION='R12',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R13 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I591@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i591@discrete_niitp.r(chips)',
+ PATH='I591',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4600,2050)',
+ VER='1',
+ ROT='4',
+ LOCATION='R13',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R14 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I592@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i592@discrete_niitp.r(chips)',
+ PATH='I592',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(4600,1900)',
+ VER='1',
+ ROT='4',
+ LOCATION='R14',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R15 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I595@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i595@discrete_niitp.r(chips)',
+ PATH='I595',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(5100,2500)',
+ VER='1',
+ ROT='4',
+ LOCATION='R15',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R16 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I590@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i590@discrete_niitp.r(chips)',
+ PATH='I590',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(5100,2350)',
+ VER='1',
+ ROT='4',
+ LOCATION='R16',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R17 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I594@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i594@discrete_niitp.r(chips)',
+ PATH='I594',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(5400,2500)',
+ VER='1',
+ ROT='4',
+ LOCATION='R17',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R18 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I593@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i593@discrete_niitp.r(chips)',
+ PATH='I593',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(5400,2350)',
+ VER='1',
+ ROT='4',
+ LOCATION='R18',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R19 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I76@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i76@discrete_niitp.r(chips)',
+ PATH='I76',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1950,3750)',
+ VER='1',
+ ROT='5',
+ LOCATION='R19',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R20 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I77@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i77@discrete_niitp.r(chips)',
+ PATH='I77',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1950,3000)',
+ VER='1',
+ ROT='5',
+ LOCATION='R20',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R21 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I82@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i82@discrete_niitp.r(chips)',
+ PATH='I82',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1150,900)',
+ VER='1',
+ ROT='0',
+ LOCATION='R21',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R22 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I81@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i81@discrete_niitp.r(chips)',
+ PATH='I81',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1150,750)',
+ VER='1',
+ ROT='0',
+ LOCATION='R22',
+ PACK_TYPE='F56',
+ CDS_LIB='discrete_niitp',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R23 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I86@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i86@discrete_niitp.r(chips)',
+ PATH='I86',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1150,150)',
+ VER='1',
+ ROT='0',
+ LOCATION='R23',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R24 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I87@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i87@discrete_niitp.r(chips)',
+ PATH='I87',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-1150,0)',
+ VER='1',
+ ROT='0',
+ LOCATION='R24',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ R25 'R_F56-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I99@DISCRETE_NIITP.R(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i99@discrete_niitp.r(chips)',
+ PATH='I99',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(850,800)',
+ VER='1',
+ ROT='0',
+ LOCATION='R25',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F56',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/r/ch~
+ips/chips.prt';
+
+PART_NAME
+ RP1 'PVM4A_1':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I325@IMPORT_LIB.PVM4A_1(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i325@import_lib.pvm4a_1(chips)',
+ PATH='I325',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(-1800,4100)',
+ VER='1',
+ ROT='5',
+ LOCATION='RP1',
+ SEC_TYPE='',
+ SEC='1',
+ CDS_LIB='import_lib',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/pvm4a_1/chips/chi~
+ps.prt';
+
+PART_NAME
+ VD1 'RG_LEDS':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I38@IMPORT_LIB.RG_LEDS(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i38@import_lib.rg_leds(chips)',
+ PATH='I38',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-700,850)',
+ VER='1',
+ ROT='2',
+ LOCATION='VD1',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ SEC='1',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/rg_leds/chips/chi~
+ps.prt';
+
+PART_NAME
+ VD2 'RG_LEDS':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I75@IMPORT_LIB.RG_LEDS(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i75@import_lib.rg_leds(chips)',
+ PATH='I75',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-700,100)',
+ VER='1',
+ ROT='2',
+ LOCATION='VD2',
+ CDS_LIB='import_lib',
+ SEC_TYPE='',
+ SEC='1',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/rg_leds/chips/chi~
+ps.prt';
+
+PART_NAME
+ VD3 'LED':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I40@IMPORT_LIB.LED(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i40@import_lib.led(chips)',
+ PATH='I40',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(1150,800)',
+ VER='1',
+ ROT='0',
+ LOCATION='VD3',
+ CDS_LIB='import_lib',
+ FAMILY='LED',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/led/chips/chips.p~
+rt';
+
+PART_NAME
+ X1 'XT_F300-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I160@DISCRETE_NIITP.XT(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i160@discrete_niitp.xt(chips)',
+ PATH='I160',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-300,2050)',
+ VER='1',
+ ROT='0',
+ LOCATION='X1',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F300',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/xt/c~
+hips/chips.prt';
+
+PART_NAME
+ X2 'XT_F300-BASE':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I161@DISCRETE_NIITP.XT(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i161@discrete_niitp.xt(chips)',
+ PATH='I161',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(-300,1150)',
+ VER='1',
+ ROT='0',
+ LOCATION='X2',
+ CDS_LIB='discrete_niitp',
+ PACK_TYPE='F300',
+ PRIM_FILE='//HD1SRV/CDNC_LIBRARY/PART_SYMBOLS/LIBRARY_NIITP/discrete_niitp/xt/c~
+hips/chips.prt';
+
+PART_NAME
+ XP1 'JTAG':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE2_I426@IMPORT_LIB.JTAG(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page2_i426@import_lib.jtag(chips)',
+ PATH='I426',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE2',
+ XY='(1750,5250)',
+ VER='1',
+ ROT='0',
+ LOCATION='XP1',
+ CDS_LIB='import_lib',
+ BODY_NAME='JTAG',
+ FAMILY='CONNECTOR',
+ SEC_TYPE='',
+ SEC='1',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/jtag/chips/chips.~
+prt';
+
+PART_NAME
+ XP2 'ERNI64785':;
+
+SECTION_NUMBER 1
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I178@IMPORT_LIB.ERNI64785(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i178@import_lib.erni64785(chips)',
+ PATH='I178',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(3950,3250)',
+ VER='1',
+ ROT='0',
+ TEXT='XP2.5',
+ PART_NAME='ERNI64785',
+ LOCATION='XP2',
+ SPLIT_INST='TRUE',
+ SEC='1',
+ SEC_TYPE='',
+ CDS_LIB='import_lib',
+ CDS_PDV_INT_SYM_GNAME='$1',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/erni64785/chips/c~
+hips.prt';
+
+SECTION_NUMBER 2
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I217@IMPORT_LIB.ERNI64785(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i217@import_lib.erni64785(chips)',
+ PATH='I217',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2450,2000)',
+ VER='2',
+ ROT='0',
+ TEXT='XP2.4',
+ LOCATION='XP2',
+ CDS_LIB='import_lib',
+ SPLIT_INST='TRUE',
+ CDS_PDV_INT_SYM_GNAME='$1',
+ PART_NAME='ERNI64785',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/erni64785/chips/c~
+hips.prt';
+
+SECTION_NUMBER 3
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I175@IMPORT_LIB.ERNI64785(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i175@import_lib.erni64785(chips)',
+ PATH='I175',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(2450,3250)',
+ VER='3',
+ ROT='0',
+ TEXT='XP2.3',
+ CDS_PDV_INT_SYM_GNAME='$1',
+ CDS_LIB='import_lib',
+ PART_NAME='ERNI64785',
+ LOCATION='XP2',
+ SPLIT_INST='TRUE',
+ SEC_TYPE='',
+ SEC='3',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/erni64785/chips/c~
+hips.prt';
+
+SECTION_NUMBER 4
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I177@IMPORT_LIB.ERNI64785(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i177@import_lib.erni64785(chips)',
+ PATH='I177',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(950,1850)',
+ VER='4',
+ ROT='0',
+ TEXT='XP2.2',
+ LOCATION='XP2',
+ CDS_LIB='import_lib',
+ SPLIT_INST='TRUE',
+ CDS_PDV_INT_SYM_GNAME='$1',
+ PART_NAME='ERNI64785',
+ SEC='4',
+ SEC_TYPE='',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/erni64785/chips/c~
+hips.prt';
+
+SECTION_NUMBER 5
+ '@MOST3_LIB.SINT(SCH_1):PAGE3_I179@IMPORT_LIB.ERNI64785(CHIPS)':
+ C_PATH='@most3_lib.sint(sch_1):page3_i179@import_lib.erni64785(chips)',
+ PATH='I179',
+ DRAWING='@MOST3_LIB.SINT(SCH_1):PAGE3',
+ XY='(950,3200)',
+ VER='5',
+ ROT='0',
+ TEXT='XP2.1',
+ SPLIT_INST='TRUE',
+ LOCATION='XP2',
+ CDS_PDV_INT_SYM_GNAME='$1',
+ CDS_LIB='import_lib',
+ PART_NAME='ERNI64785',
+ SEC='5',
+ SEC_TYPE='',
+ PRIM_FILE='D:/Radio/PSD_Data/My_CDNC_Library/R_Lib/import_lib/erni64785/chips/c~
+hips.prt';
+
+END.

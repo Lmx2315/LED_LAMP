@@ -1,0 +1,6225 @@
+(PropertyFile "1.0" 
+ (Creator " HDL Direct 15.20-s003 7-Feb-2005" )
+ (Created "Fri Mar 25 15:48:07 2011" )
+ (Cell "interf_m8_v1" 
+  (View "sch_1" 
+   (Inst "page2_I2" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,850,125,-850" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD25" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1100,1650)" ))
+    (IPrt "X2" 
+     (Pr 
+      ("\\$pn\\" "61" )))
+    (IPrt "X1" 
+     (Pr 
+      ("\\$pn\\" "62" )))
+    (IPrt "VSS_PLL" 
+     (Pr 
+      ("\\$pn\\" "58" )))
+    (IPrt "VSSA" 
+     (Pr 
+      ("\\$pn\\" "59" )))
+    (IPrt "VSS5" 
+     (Pr 
+      ("\\$pn\\" "50" )))
+    (IPrt "VSS4" 
+     (Pr 
+      ("\\$pn\\" "42" )))
+    (IPrt "VSS3" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "VSS2" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "VSS1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\vdd3-a\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\vdd3-3\\" 
+     (Pr 
+      ("\\$pn\\" "51" )))
+    (IPrt "\\vdd3-2\\" 
+     (Pr 
+      ("\\$pn\\" "43" )))
+    (IPrt "\\vdd3-1\\" 
+     (Pr 
+      ("\\$pn\\" "23" )))
+    (IPrt "\\vdd1.8-a\\" 
+     (Pr 
+      ("\\$pn\\" "63" )))
+    (IPrt "\\vdd1.8-2\\" 
+     (Pr 
+      ("\\$pn\\" "49" )))
+    (IPrt "\\vdd1.8-1\\" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "\\txd1/p0.8\\" 
+     (Pr 
+      ("\\$pn\\" "33" )))
+    (IPrt "\\txd0/p0.0\\" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "\\td2/p0.24\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "TD1" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\ssel1/p0.20\\" 
+     (Pr 
+      ("\\$pn\\" "55" )))
+    (IPrt "\\sda/p0.3\\" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "\\scl/p0.2\\" 
+     (Pr 
+      ("\\$pn\\" "22" )))
+    (IPrt "\\sck1/p0.17\\" 
+     (Pr 
+      ("\\$pn\\" "47" )))
+    (IPrt "\\sck0/p0.3\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "\\rxd1/p0.9\\" 
+     (Pr 
+      ("\\$pn\\" "34" )))
+    (IPrt "\\rxd0/p0.1\\" 
+     (Pr 
+      ("\\$pn\\" "21" )))
+    (IPrt "\\rts1/p0.10\\" 
+     (Pr 
+      ("\\$pn\\" "35" )))
+    (IPrt "RST" 
+     (Pr 
+      ("\\$pn\\" "57" )))
+    (IPrt "\\ri1/p0.15\\" 
+     (Pr 
+      ("\\$pn\\" "45" )))
+    (IPrt "\\rd2/p0.23\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\rd1/p0.25\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\pwm5/p0.21\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "\\p1.31/trst\\" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "\\p1.30/tms\\" 
+     (Pr 
+      ("\\$pn\\" "52" )))
+    (IPrt "\\p1.29/tck\\" 
+     (Pr 
+      ("\\$pn\\" "56" )))
+    (IPrt "\\p1.28/tdi\\" 
+     (Pr 
+      ("\\$pn\\" "60" )))
+    (IPrt "\\p1.27/tdo\\" 
+     (Pr 
+      ("\\$pn\\" "64" )))
+    (IPrt "\\p1.26/rtck\\" 
+     (Pr 
+      ("\\$pn\\" "24" )))
+    (IPrt "\\p1.25/extino\\" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\p1.24\\" 
+     (Pr 
+      ("\\$pn\\" "32" )))
+    (IPrt "\\p1.23\\" 
+     (Pr 
+      ("\\$pn\\" "36" )))
+    (IPrt "\\p1.22\\" 
+     (Pr 
+      ("\\$pn\\" "40" )))
+    (IPrt "\\p1.21\\" 
+     (Pr 
+      ("\\$pn\\" "44" )))
+    (IPrt "\\p1.20\\" 
+     (Pr 
+      ("\\$pn\\" "48" )))
+    (IPrt "\\p1.19\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\p1.18\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\p1.17\\" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\p1.16\\" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\mosi1/p0.19\\" 
+     (Pr 
+      ("\\$pn\\" "54" )))
+    (IPrt "\\mosi/p0.6\\" 
+     (Pr 
+      ("\\$pn\\" "30" )))
+    (IPrt "\\miso1/p0.18\\" 
+     (Pr 
+      ("\\$pn\\" "53" )))
+    (IPrt "\\miso/p0.5\\" 
+     (Pr 
+      ("\\$pn\\" "29" )))
+    (IPrt "\\eint2/p0.7\\" 
+     (Pr 
+      ("\\$pn\\" "31" )))
+    (IPrt "\\eint0/p0.16\\" 
+     (Pr 
+      ("\\$pn\\" "46" )))
+    (IPrt "\\dtr1/p0.13\\" 
+     (Pr 
+      ("\\$pn\\" "39" )))
+    (IPrt "\\dsr1/p0.12\\" 
+     (Pr 
+      ("\\$pn\\" "38" )))
+    (IPrt "\\dco1/p0.14\\" 
+     (Pr 
+      ("\\$pn\\" "41" )))
+    (IPrt "\\cts1/p0.11\\" 
+     (Pr 
+      ("\\$pn\\" "37" )))
+    (IPrt "\\cap0.0/p0.22\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\ain3/p0.30\\" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\ain2/p0.29\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\ain1/p0.28\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\ain0/p0.27\\" 
+     (Pr 
+      ("\\$pn\\" "11" ))))
+   (Inst "page2_I3" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1M" )
+     ("LOCATION" "RQZ" )
+     ("ROT" "7" )
+     ("VER" "1" )
+     ("XY" "(3100,525)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I7" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C52" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(2075,3575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I9" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C51" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1850,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I10" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C49" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1700,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I11" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C48" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1550,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I13" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "F136" )
+     ("LOCATION" "C47" )
+     ("ROT" "5" )
+     ("VER" "1" )
+     ("XY" "(1425,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I16" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C46" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1200,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I17" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C45" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1050,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I19" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C44" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(900,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I20" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "F136" )
+     ("LOCATION" "C43" )
+     ("ROT" "5" )
+     ("VER" "1" )
+     ("XY" "(775,3600)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I23" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C55" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3075,1475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I24" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("LOCATION" "DD27" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3125,1175)" )
+     ("POWER_GROUP" "P3V3=+3.3VDD;GNDD=GND" ))
+    (IPrt "OE" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "CLK" 
+     (Pr 
+      ("\\$pn\\" "3" ))))
+   (Inst "page2_I25" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C53" )
+     ("VALUE" "22PF" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2950,700)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I27" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "10K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R82" )
+     ("ROT" "6" )
+     ("VER" "1" )
+     ("XY" "(2825,1175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I29" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "interfeysnaya" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC" "1" )
+     ("LOCATION" "ZQ1" )
+     ("JEDEC_TYPE" "HC_49_SSMD" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(3300,525)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I30" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "22PF" )
+     ("LOCATION" "C54" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2950,350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I37" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R74" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(325,3175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I39" 
+    (Pr 
+     ("FAMILY" "LED" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(100,3175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I40" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-250,1200,250,-1200" )
+     ("SEC" "1" )
+     ("LOCATION" "DD30" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1300,5500)" ))
+    (IPrt "XTOUT" 
+     (Pr 
+      ("\\$pn\\" "44" )))
+    (IPrt "XTIN" 
+     (Pr 
+      ("\\$pn\\" "43" )))
+    (IPrt "VCCIOB" 
+     (Pr 
+      ("\\$pn\\" "31" )))
+    (IPrt "VCCIOA" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "VCC2" 
+     (Pr 
+      ("\\$pn\\" "42" )))
+    (IPrt "VCC" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "USBDP" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "USBDM" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "TEST" 
+     (Pr 
+      ("\\$pn\\" "47" )))
+    (IPrt "\\si/wub\\" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "\\si/wua\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\rstout#\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\reset#\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\pwren#\\" 
+     (Pr 
+      ("\\$pn\\" "41" )))
+    (IPrt "GND4" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "GND3" 
+     (Pr 
+      ("\\$pn\\" "34" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "EESK" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "EEDATA" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "EECS" 
+     (Pr 
+      ("\\$pn\\" "48" )))
+    (IPrt "BDBUS7" 
+     (Pr 
+      ("\\$pn\\" "32" )))
+    (IPrt "BDBUS6" 
+     (Pr 
+      ("\\$pn\\" "33" )))
+    (IPrt "BDBUS5" 
+     (Pr 
+      ("\\$pn\\" "35" )))
+    (IPrt "BDBUS4" 
+     (Pr 
+      ("\\$pn\\" "36" )))
+    (IPrt "BDBUS3" 
+     (Pr 
+      ("\\$pn\\" "37" )))
+    (IPrt "BDBUS2" 
+     (Pr 
+      ("\\$pn\\" "38" )))
+    (IPrt "BDBUS1" 
+     (Pr 
+      ("\\$pn\\" "39" )))
+    (IPrt "BDBUS0" 
+     (Pr 
+      ("\\$pn\\" "40" )))
+    (IPrt "BCBUS3" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "BCBUS2" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "BCBUS1" 
+     (Pr 
+      ("\\$pn\\" "29" )))
+    (IPrt "BCBUS0" 
+     (Pr 
+      ("\\$pn\\" "30" )))
+    (IPrt "AVCC" 
+     (Pr 
+      ("\\$pn\\" "46" )))
+    (IPrt "AGND" 
+     (Pr 
+      ("\\$pn\\" "45" )))
+    (IPrt "ADBUS7" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "ADBUS6" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "ADBUS5" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "ADBUS4" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "ADBUS3" 
+     (Pr 
+      ("\\$pn\\" "21" )))
+    (IPrt "ADBUS2" 
+     (Pr 
+      ("\\$pn\\" "22" )))
+    (IPrt "ADBUS1" 
+     (Pr 
+      ("\\$pn\\" "23" )))
+    (IPrt "ADBUS0" 
+     (Pr 
+      ("\\$pn\\" "24" )))
+    (IPrt "ACBUS3" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "ACBUS2" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "ACBUS1" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "ACBUS0" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\3v3out\\" 
+     (Pr 
+      ("\\$pn\\" "6" ))))
+   (Inst "page2_I41" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("FAMILY" "LED" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL6" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(2075,4625)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I44" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "27PF" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C60" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(3175,6375)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I46" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "27PF" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C61" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(3175,5925)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I47" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "interfeysnaya" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC" "1" )
+     ("JEDEC_TYPE" "HC_49_SSMD" )
+     ("LOCATION" "ZQ3" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(2875,6150)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I49" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R79" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2775,5450)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I50" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R77" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2775,5550)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I54" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "470" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R87" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2250,6400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I55" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C68" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(2125,6575)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I56" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C64" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1975,6575)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I64" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C67" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(700,7225)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I66" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C63" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(550,7225)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I72" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C65" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1850,4975)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I75" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("FAMILY" "LED" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL5" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(2100,4425)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I76" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R85" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1900,4425)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I77" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R86" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1875,4625)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I80" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1.5K" )
+     ("LOCATION" "R88" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(825,6200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I83" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33NF" )
+     ("LOCATION" "C70" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(650,6100)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I84" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C69" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(825,5175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I106" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("CDS_LIB" "my_transceiver" )
+     ("SEC" "1" )
+     ("LOCATION" "DA12" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1600,6325)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I108" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("CDS_LIB" "my_transceiver" )
+     ("SEC" "1" )
+     ("LOCATION" "DA14" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1425,5500)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I111" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "10K" )
+     ("LOCATION" "R95" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2025,6475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I113" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4,7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R96" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2025,6200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I115" 
+    (Pr 
+     ("CDS_LIB" "my_transceiver" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DA13" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1700,5825)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I117" 
+    (Pr 
+     ("CDS_LIB" "interfeysnaya" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,300,150,-300" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("JEDEC_TYPE" "MUSB" )
+     ("LOCATION" "XS1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-2675,5775)" ))
+    (IPrt "NC" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "GROUND" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\data-\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\data+\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\+5v\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I120" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,200,125,-200" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC" "1" )
+     ("LOCATION" "DD26" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(4275,3825)" ))
+    (IPrt "\\wp#\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "VCC" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "SO" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "SI" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "SCK" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\hold#\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\cs#\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I122" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C50" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(3825,4150)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I124" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R76" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4800,3900)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I129" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R81" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3525,3950)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I132" 
+    (Pr 
+     ("CDS_LIB" "power_my" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,225,125,-225" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("JEDEC_TYPE" "SOT223" )
+     ("LOCATION" "DA9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2450,3600)" )
+     ("POWER_GROUP" "GND2=GND" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "2" ))))
+   (Inst "page2_I133" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PART_NUMBER" "MPZ2012S331A" )
+     ("PACK_TYPE" "F55" )
+     ("LOCATION" "L3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1625,3600)" ))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I142" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC" "1" )
+     ("LOCATION" "DD28" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5000,2700)" ))
+    (IPrt "X2" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "X1" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "VCC" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "VBAC" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\sqw/int\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "SDA" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "SCL" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "4" ))))
+   (Inst "page2_I144" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "27PF" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C58" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(6100,3000)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I153" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C56" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4775,3025)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I158" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "27PF" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C59" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(6100,2550)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I159" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "interfeysnaya" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("JEDEC_TYPE" "F843" )
+     ("LOCATION" "ZQ2" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5800,2775)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I161" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "F154" )
+     ("LOCATION" "C57" )
+     ("ROT" "5" )
+     ("VER" "1" )
+     ("XY" "(5375,2625)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I163" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R60" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4775,2225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I164" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R61" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4575,2225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I166" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R62" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4375,2225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I170" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C42" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4650,5475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I174" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD24" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4600,5000)" ))
+    (IPrt "\\wp*\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "VCC" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "SCK" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\reset*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "MOSI" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "MISO" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\cs*\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I175" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R59" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3850,5000)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I179" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0805" )
+     ("VALUE" "1" )
+     ("LOCATION" "C40" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1875,2925)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I185" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC" "1" )
+     ("LOCATION" "XP10" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1250,1850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I196" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R68" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,1225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I197" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R67" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,1475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I198" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R69" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,1000)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I199" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R70" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I203" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R71" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I204" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R72" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-850,250)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I210" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R73" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-825,25)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I212" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R64" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5925,4475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I213" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R63" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5925,4725)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I214" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "1K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R65" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5925,4250)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I215" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R66" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5925,4000)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I220" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4.7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R75" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5950,3750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I224" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C66" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1200,7200)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I225" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C62" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(1050,7200)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I227" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "27" )
+     ("LOCATION" "R91" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1275,5825)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I228" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "27" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R92" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-975,5500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I232" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC" "1" )
+     ("LOCATION" "DD29" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3725,-575)" ))
+    (IPrt "VCC" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\rst*\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\mr*\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I235" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R84" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(4975,50)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I237" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("LOCATION" "XP11" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5750,-50)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I247" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R78" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2025,2300)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I248" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R80" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2500,2250)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I249" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F136" )
+     ("VALUE" "10" )
+     ("LOCATION" "C41" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-2075,3500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I291" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD33" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6075,800)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I296" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C73" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6125,1150)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I297" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC" "1" )
+     ("LOCATION" "XP12" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6100,25)" ))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I298" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R100" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6650,125)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I301" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R101" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6650,25)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I303" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "my_transceiver" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("SEC" "1" )
+     ("LOCATION" "DA11" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1600,6925)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I304" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "my_transceiver" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("SEC" "1" )
+     ("LOCATION" "DA10" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1600,7350)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I305" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R97" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2200,6200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I306" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R98" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2425,6475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I307" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R99" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2425,6200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I313" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F364" )
+     ("LOCATION" "VT2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1050,7400)" ))
+    (IPrt "E" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I315" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R90" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1000,7750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I317" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD32" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-400,7450)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I321" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C72" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-350,7800)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I323" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD31" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-375,8800)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I326" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C71" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-325,9150)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I330" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R89" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-975,9100)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I332" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F364" )
+     ("LOCATION" "VT1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1025,8750)" ))
+    (IPrt "E" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I333" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R94" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1525,8850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I334" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R93" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1525,8575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I337" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "10K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R83" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2650,2050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I339" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C75" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3775,-800)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I345" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,500,125,-500" )
+     ("SEC" "1" )
+     ("LOCATION" "XP9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2325,1575)" ))
+    (IPrt "\\20\\" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "\\19\\" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "\\18\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "\\17\\" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "\\16\\" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\15\\" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\14\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\13\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\12\\" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I346" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD36" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2925,-475)" ))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I349" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C76" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2875,-850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I353" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC" "1" )
+     ("LOCATION" "DD37" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(4675,-575)" ))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I357" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C77" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4625,-950)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page2_I359" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4.7K" )
+     ("LOCATION" "R110" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3200,-200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I9" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R46" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6050,5400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I16" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C30" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4775,5650)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I19" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C32" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6400,4825)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I23" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "120" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R50" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(5950,4850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I26" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,400,150,-400" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC" "1" )
+     ("LOCATION" "DD13" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5425,5125)" ))
+    (IPrt "Z" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "VCC2" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "VCC1" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "ST2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "ST1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\slo#\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "RO2" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "RO1" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\re#\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "DI" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "DE" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "16" ))))
+   (Inst "page9_I43" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R12" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1325,5575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I44" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R13" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1325,5425)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I47" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C12" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1850,5050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I56" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("LOCATION" "C2" )
+     ("VALUE" "10" )
+     ("PACK_TYPE" "F136" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-3300,5600)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I59" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DA1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3750,5575)" ))
+    (IPrt "\\-vin\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "\\-v0\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\+vin\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\+v0\\" 
+     (Pr 
+      ("\\$pn\\" "5" ))))
+   (Inst "page9_I63" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F136" )
+     ("VALUE" "10" )
+     ("LOCATION" "C3" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-4125,5575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I119" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("LOCATION" "DD15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5550,1575)" )
+     ("POWER_GROUP" "P3V3M=+3.3VCC;GNDDM=DGND" ))
+    (IPrt "\\v-\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\v+\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "T2OUT" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "T2IN" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "T1OUT" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "T1IN" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\shdn*\\" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "R2OUT" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "R2IN" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "R1OUT" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "R1IN" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\c2-\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\c2+\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\c1-\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\c1+\\" 
+     (Pr 
+      ("\\$pn\\" "2" ))))
+   (Inst "page9_I122" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C34" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5525,2300)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I124" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C35" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5525,2100)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I129" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C22" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5975,1850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I130" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5975,1675)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I131" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C20" )
+     ("VALUE" "0.1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5125,1875)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I134" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C21" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4950,1675)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I135" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "HCPL_063" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1925,800)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I145" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "1K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R37" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2600,1050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I153" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C19" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1900,375)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I159" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "180" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R27" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1475,1050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I165" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "200" )
+     ("LOCATION" "R29" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,5975)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I166" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "200" )
+     ("LOCATION" "R30" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,5425)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I206" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,225,125,-225" )
+     ("CDS_LIB" "power_my" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("JEDEC_TYPE" "SOT223" )
+     ("LOCATION" "DA2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3750,4825)" )
+     ("POWER_GROUP" "GND2=GND" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "2" ))))
+   (Inst "page9_I207" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F136" )
+     ("VALUE" "10" )
+     ("LOCATION" "C1" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-3375,4725)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I209" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PART_NUMBER" "MPZ2012S331A" )
+     ("PACK_TYPE" "F55" )
+     ("LOCATION" "L2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2925,4825)" ))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I288" 
+    (Pr 
+     ("SEC_TYPE" "DCK" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("LOCATION" "DD16" )
+     ("PACK_TYPE" "DCK" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5450,400)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I290" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C24" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5500,750)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I298" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C27" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5475,-2300)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I308" 
+    (Pr 
+     ("SEC_TYPE" "DCK" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("LOCATION" "DD19" )
+     ("PACK_TYPE" "DCK" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5450,-2700)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I323" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3300,3625)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I325" 
+    (Pr 
+     ("FAMILY" "LED" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL2" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(-3550,3625)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I328" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3300,3875)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I329" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("FAMILY" "LED" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL1" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(-3550,3875)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I332" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3300,3400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I334" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("FAMILY" "LED" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F330" )
+     ("LOCATION" "HL3" )
+     ("ROT" "4" )
+     ("VER" "1" )
+     ("XY" "(-3550,3400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I343" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F55" )
+     ("LOCATION" "L1" )
+     ("PART_NUMBER" "MPZ2012S331A" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2950,5925)" ))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I365" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "XP1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3750,2800)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I366" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "XP4" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-2900,2800)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I369" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,400,125,-400" )
+     ("SEC" "1" )
+     ("LOCATION" "XP2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3675,1850)" ))
+    (IPrt "\\16\\" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\15\\" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\14\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\13\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\12\\" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I377" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,750,125,-750" )
+     ("SEC" "1" )
+     ("LOCATION" "XP3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3750,325)" ))
+    (IPrt "\\30\\" 
+     (Pr 
+      ("\\$pn\\" "30" )))
+    (IPrt "\\29\\" 
+     (Pr 
+      ("\\$pn\\" "29" )))
+    (IPrt "\\28\\" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\27\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "\\26\\" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "\\25\\" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "\\24\\" 
+     (Pr 
+      ("\\$pn\\" "24" )))
+    (IPrt "\\23\\" 
+     (Pr 
+      ("\\$pn\\" "23" )))
+    (IPrt "\\22\\" 
+     (Pr 
+      ("\\$pn\\" "22" )))
+    (IPrt "\\21\\" 
+     (Pr 
+      ("\\$pn\\" "21" )))
+    (IPrt "\\20\\" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "\\19\\" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "\\18\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "\\17\\" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "\\16\\" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\15\\" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\14\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\13\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\12\\" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I393" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1325,5425)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I396" 
+    (Pr 
+     ("SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C8" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1300,5825)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I401" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1300,4450)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I404" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C9" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1275,4850)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I409" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R6" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1275,3400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I410" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R7" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1275,3150)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I411" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R8" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1275,2900)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I412" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R9" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1275,2650)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I419" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-250,600,250,-600" )
+     ("SEC" "1" )
+     ("JEDEC_TYPE" "SN74LVCC3245APW" )
+     ("LOCATION" "DD1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1250,1375)" ))
+    (IPrt "VCCB" 
+     (Pr 
+      ("\\$pn\\" "24" )))
+    (IPrt "VCCA" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "\\oe#\\" 
+     (Pr 
+      ("\\$pn\\" "22" )))
+    (IPrt "NC" 
+     (Pr 
+      ("\\$pn\\" "23" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "DIR" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B8" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "B7" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "B6" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "B5" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "B4" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "B3" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "B2" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "B1" 
+     (Pr 
+      ("\\$pn\\" "21" )))
+    (IPrt "A8" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "A7" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "A6" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "A5" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "A4" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "A3" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "A2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "A1" 
+     (Pr 
+      ("\\$pn\\" "3" ))))
+   (Inst "page9_I424" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C10" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-875,2050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I425" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4,7K" )
+     ("LOCATION" "R10" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-825,1850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I426" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C6" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1650,2050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I429" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "4,7K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R4" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1650,1750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I439" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-250,600,250,-600" )
+     ("SEC" "1" )
+     ("JEDEC_TYPE" "SN74LVCC3245APW" )
+     ("LOCATION" "DD2" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1250,-500)" ))
+    (IPrt "VCCB" 
+     (Pr 
+      ("\\$pn\\" "24" )))
+    (IPrt "VCCA" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "\\oe#\\" 
+     (Pr 
+      ("\\$pn\\" "22" )))
+    (IPrt "NC" 
+     (Pr 
+      ("\\$pn\\" "23" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "DIR" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B8" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "B7" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "B6" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "B5" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "B4" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "B3" 
+     (Pr 
+      ("\\$pn\\" "19" )))
+    (IPrt "B2" 
+     (Pr 
+      ("\\$pn\\" "20" )))
+    (IPrt "B1" 
+     (Pr 
+      ("\\$pn\\" "21" )))
+    (IPrt "A8" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "A7" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "A6" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "A5" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "A4" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "A3" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "A2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "A1" 
+     (Pr 
+      ("\\$pn\\" "3" ))))
+   (Inst "page9_I443" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C11" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-875,175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I444" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4,7K" )
+     ("LOCATION" "R11" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-825,-25)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I447" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C7" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-1650,175)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I449" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4,7K" )
+     ("LOCATION" "R5" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-1650,-125)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I464" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R14" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1275,4475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I466" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "HCPL_063" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD6" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1900,4225)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I470" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "51" )
+     ("LOCATION" "R31" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2725,4475)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I476" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("CDS_LIB" "my_transceiver" )
+     ("SEC" "1" )
+     ("LOCATION" "DA5" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2750,4150)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I482" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C13" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1850,3950)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I484" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "HCPL_063" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD7" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1900,2950)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I487" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "51" )
+     ("LOCATION" "R32" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,3575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I488" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "51" )
+     ("LOCATION" "R33" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,3050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I491" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("CDS_LIB" "my_transceiver" )
+     ("SEC" "1" )
+     ("LOCATION" "DA6" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2875,3300)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I494" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "1K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R15" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1325,3200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I496" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R16" )
+     ("VALUE" "2K" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1325,3050)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I499" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "HCPL_063" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD5" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1925,5325)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I500" 
+    (Pr 
+     ("CDS_LIB" "my_transceiver" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DA7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2875,2750)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I502" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C14" )
+     ("VALUE" "0.1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1850,2675)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I506" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "HCPL_063" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD8" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1925,1825)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I508" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R34" )
+     ("VALUE" "360" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2850,2075)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I510" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R35" )
+     ("VALUE" "360" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2850,1925)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I518" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R17" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1350,2075)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I520" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R18" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1350,1925)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I523" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1875,1550)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I538" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "HCPL_063" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD10" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1950,-325)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I540" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "180" )
+     ("LOCATION" "R38" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2825,-75)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I541" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "180" )
+     ("LOCATION" "R40" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2825,-400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I550" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R20" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,-75)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I554" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C16" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1875,-700)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I556" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "2K" )
+     ("LOCATION" "R21" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,-225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I560" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "HCPL_063" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD11" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1950,-1450)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I563" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "180" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R42" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,-1350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I565" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "180" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R41" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2875,-1200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I570" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1875,-1825)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I574" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R22" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,-1200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I575" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "2K" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R23" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,-1350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I580" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "HCPL_063" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F30" )
+     ("LOCATION" "DD12" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1950,-2600)" ))
+    (IPrt "\\v02*\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\v01*\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "CAT2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "CAT1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "AN2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "AH1" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I586" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "51" )
+     ("LOCATION" "R44" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3075,-2500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I589" 
+    (Pr 
+     ("CDS_LIB" "my_transceiver" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DA8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3125,-2775)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I592" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C18" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1875,-2975)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I598" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R25" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,-2500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I608" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R47" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6050,5300)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I609" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,400,150,-400" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD14" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5425,3550)" ))
+    (IPrt "Z" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "VCC2" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "VCC1" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "ST2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "ST1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\slo#\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "RO2" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "RO1" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\re#\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "DI" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "DE" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "16" ))))
+   (Inst "page9_I612" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C33" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6400,3250)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I615" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "4,7K" )
+     ("LOCATION" "R49" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6050,3725)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I621" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C31" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4775,4075)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I623" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,400,150,-400" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD22" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8475,5125)" ))
+    (IPrt "Z" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "VCC2" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "VCC1" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "ST2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "ST1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\slo#\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "RO2" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "RO1" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\re#\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "DI" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "DE" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "16" ))))
+   (Inst "page9_I625" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C38" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9450,4825)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I627" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R52" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,5400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I628" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R53" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,5300)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I631" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "120" )
+     ("LOCATION" "R57" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(9000,4850)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I636" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "0.1" )
+     ("LOCATION" "C36" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7825,5650)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I641" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,400,150,-400" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC" "1" )
+     ("LOCATION" "DD23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8475,3700)" ))
+    (IPrt "Z" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "VCC2" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "VCC1" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "ST2" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "ST1" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\slo#\\" 
+     (Pr 
+      ("\\$pn\\" "18" )))
+    (IPrt "RO2" 
+     (Pr 
+      ("\\$pn\\" "17" )))
+    (IPrt "RO1" 
+     (Pr 
+      ("\\$pn\\" "28" )))
+    (IPrt "\\re#\\" 
+     (Pr 
+      ("\\$pn\\" "27" )))
+    (IPrt "GND2" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "GND1" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "DI" 
+     (Pr 
+      ("\\$pn\\" "25" )))
+    (IPrt "DE" 
+     (Pr 
+      ("\\$pn\\" "26" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "16" ))))
+   (Inst "page9_I644" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C39" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9450,3400)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I645" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R56" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,3975)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I648" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "120" )
+     ("LOCATION" "R58" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(9000,3425)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I652" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C37" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7825,4225)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I670" 
+    (Pr 
+     ("SEC_TYPE" "DCK" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD20" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5450,-3725)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I672" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C28" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5475,-3325)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I678" 
+    (Pr 
+     ("SEC_TYPE" "DCK" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD21" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5450,-4675)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I683" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C29" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5475,-4275)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I687" 
+    (Pr 
+     ("SEC_TYPE" "" )
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,250,125,-250" )
+     ("SEC" "1" )
+     ("LOCATION" "XP7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9000,1175)" ))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I690" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,225,125,-225" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "XP8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9000,525)" ))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I692" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("LOCATION" "XP5" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-2450,5825)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I698" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R24" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1400,-2350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I700" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "180" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R43" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3075,-2350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I705" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "F55" )
+     ("PART_NUMBER" "MPZ2012S331A" )
+     ("LOCATION" "LX_SCR" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1375,-2300)" ))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I706" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "XP13" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-800,-2350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I710" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R28" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1200,900)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I711" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R36" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2600,1275)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I712" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R19" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(1375,100)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I713" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R39" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(2375,-125)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I715" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R48" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6050,5200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I716" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R45" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6050,5500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I717" 
+    (Pr 
+     ("SEC_TYPE" "DCK" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5475,-550)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I721" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C25" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5525,-200)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I723" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "import_lib" )
+     ("PART_NAME" "SN74LVC2G17_1" )
+     ("SEC_TYPE" "DCK" )
+     ("SEC" "1" )
+     ("PACK_TYPE" "DCK" )
+     ("LOCATION" "DD18" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5450,-1475)" ))
+    (IPrt "Y2" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "Y1" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I727" 
+    (Pr 
+     ("SIZE" "1" )
+     ("HAS_FIXED_SIZE" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C26" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5500,-1125)" ))
+    (IPrt "B" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Rg 0 )
+     (Pr 
+      ("CDS_SEC" "1" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I729" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R51" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,5500)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I730" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "33" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R54" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,5200)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I731" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R55" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9100,4075)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I732" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "33" )
+     ("LOCATION" "R26" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(975,-2750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I733" 
+    (Pr 
+     ("CDS_LIB" "import_lib" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DD34" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1300,-1625)" ))
+    (IPrt "Y" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "P3V3M" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "GNDDM" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I740" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "1" )
+     ("PACK_TYPE" "0805" )
+     ("LOCATION" "C4" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2800,5275)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I741" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "1" )
+     ("PACK_TYPE" "0805" )
+     ("LOCATION" "C5" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(-2775,4375)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I743" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "0.1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "C74" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1300,-1325)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I746" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("VALUE" "270" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R103" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7725,2350)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I748" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "270" )
+     ("LOCATION" "R102" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7725,2575)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I750" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "330" )
+     ("LOCATION" "R104" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3575,5675)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I751" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "330" )
+     ("LOCATION" "R105" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3575,5125)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I752" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R106" )
+     ("VALUE" "120" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3400,4150)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I753" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "120" )
+     ("LOCATION" "R107" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3450,3300)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I754" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("LOCATION" "R108" )
+     ("VALUE" "120" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3450,2750)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I755" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "120" )
+     ("LOCATION" "R109" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(3600,-2775)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I756" 
+    (Pr 
+     ("CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125" )
+     ("CDS_LIB" "import_lib" )
+     ("SEC_TYPE" "" )
+     ("SEC" "1" )
+     ("LOCATION" "DA15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7725,1925)" ))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I760" 
+    (Pr 
+     ("LOCATION" "R111" )
+     ("VALUE" "10K" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PACK_TYPE" "0603" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(6875,-3625)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I762" 
+    (Pr 
+     ("LOCATION" "R112" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "10K" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(6900,-3800)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I764" 
+    (Pr 
+     ("LOCATION" "R113" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "10K" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "discrete_niitp" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(6900,-3975)" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page9_I766" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PACK_TYPE" "0603" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R114" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5125,-2600)" )))
+   (Inst "page9_I767" 
+    (Pr 
+     ("CDS_LIB" "discrete_niitp" )
+     ("PACK_TYPE" "0603" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("VALUE" "1K" )
+     ("LOCATION" "R115" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(5125,-2700)" )))
+   (Inst "page9_I772" 
+    (Pr 
+     ("LOCATION" "XP6" )
+     ("CDS_LMAN_SYM_OUTLINE" "-125,400,125,-400" )
+     ("CDS_LIB" "import_lib" )
+     ("\\$sec\\" "1" )
+     ("CDS_SEC" "1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(9250,2300)" ))
+    (IPrt "\\16\\" 
+     (Pr 
+      ("\\$pn\\" "16" )))
+    (IPrt "\\15\\" 
+     (Pr 
+      ("\\$pn\\" "15" )))
+    (IPrt "\\14\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "\\13\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\12\\" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))))))

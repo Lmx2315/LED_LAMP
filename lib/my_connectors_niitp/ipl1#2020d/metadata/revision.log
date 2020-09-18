@@ -1,0 +1,18 @@
+
+	(Comment
+		(Time 07/06/06,15:45:59)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package IPL1 20D added to cell")
+		(Param1 IPL1 20D)
+	)
+
+
+	(Comment
+		(Time 07/06/06,15:46:53)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

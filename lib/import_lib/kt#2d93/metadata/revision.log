@@ -1,0 +1,28 @@
+	(Comment
+		(Time 03/23/18,11:25:04)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 03/23/18,11:25:46)
+		(User Lmx2315)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 03/23/18,11:25:48)
+		(User Lmx2315)
+		(MsgId ECO_021)
+		(Text "Package KT-93 added to cell")
+		(Param1 "KT-93")
+	)
+	(Comment
+		(Time 03/23/18,11:27:12)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

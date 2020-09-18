@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 11/26/09,18:01:46)
+		(User senzenist_s_n)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 11/26/09,18:02:49)
+		(User senzenist_s_n)
+		(MsgId ECO_021)
+		(Text "Package ten15 added to cell")
+		(Param1 ten15)
+	)
+
+

@@ -1,0 +1,204 @@
+(Cell	etc1-1-13v5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.18)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/02/11,15:20:22)
+
+			(User	Sergey)
+
+			(Path	import_lib.etc1-1-13v5)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/02/11,15:39:28)
+
+			(User	Sergey)
+
+			(Path	import_lib.etc1-1-13v5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009c8ea9b7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/11,15:36:48)
+
+							(User	Sergey)
+
+							(Path	import_lib.etc1-1-13v5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc003ed)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f560f9d0)
+
+			(Primitives	1
+
+				(Primitive	ETC1-1-13V5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/11,15:38:29)
+
+							(User	Sergey)
+
+							(Path	import_lib.etc1-1-13v5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ETC1-1-13V5
+
+							(PackType	ETC1-1-13V5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ETC1_1_13)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bce03d8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001daa03db)
+
+)
+

@@ -1,0 +1,178 @@
+(Cell	adf4001
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/11,15:34:30)
+
+			(User	Sergey)
+
+			(Path	import_lib.adf4001)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/11,16:03:57)
+
+			(User	Sergey)
+
+			(Path	import_lib.adf4001)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000cb582648)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/11,15:34:33)
+
+							(User	Sergey)
+
+							(Path	import_lib.adf4001)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000057ce0387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c322621e)
+
+			(Primitives	1
+
+				(Primitive	ADF4001
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/11,15:53:58)
+
+							(User	Sergey)
+
+							(Path	import_lib.adf4001)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADF4001
+
+							(PackType	ADF4001)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000958003ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000b631037d)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	miniusb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/09/06,16:18:30)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.miniusb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/01/06,15:28:14)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.miniusb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000003fa3b4d2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/09/06,16:18:53)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.miniusb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000838803da)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000042cd4679)
+
+			(Primitives	1
+
+				(Primitive	MINIUSB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/01/06,15:25:12)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.miniusb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MINIUSB
+
+							(PackType	MINIUSB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f7620381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000009b40352)
+
+)
+

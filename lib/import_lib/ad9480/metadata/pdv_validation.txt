@@ -1,0 +1,1 @@
+pdv_170,Cell 'ad9480':Pins LVDS BIAS are not present in any of the packages or symbols.,Warning

@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'RG_LEDS_CC';
+  pin
+    'K':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'A'<1>:
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'A'<2>:
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='RG_LEDS_CC';
+    BODY_NAME='RG_LEDS_CC';
+    JEDEC_TYPE='LEDS';
+    PHYS_DES_PREFIX='VD';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

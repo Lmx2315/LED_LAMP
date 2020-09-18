@@ -1,0 +1,180 @@
+(Cell	hmc624lflp4e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/05/12,13:54:14)
+
+			(User	Sergey)
+
+			(Path	b620.hmc624lflp4e)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/05/12,14:43:32)
+
+			(User	Sergey)
+
+			(Path	b620.hmc624lflp4e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f7e705bb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/05/12,13:54:17)
+
+							(User	Sergey)
+
+							(Path	b620.hmc624lflp4e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7703e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000437c2cc)
+
+			(Primitives	1
+
+				(Primitive	HMC624LFLP4E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/05/12,14:24:40)
+
+							(User	Sergey)
+
+							(Path	b620.hmc624lflp4e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC624LFLP4E
+
+							(PackType	HMC624LFLP4E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	h624lf)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4c040a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c5803a2)
+
+)
+

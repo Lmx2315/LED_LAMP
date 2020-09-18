@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri May 28 10:34:03 2004' ;
+primitive 'AD3PS_1';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT1':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT2':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'OUT3':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SHIELD1':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'SHIELD2':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'SHIELD3':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'SHIELD4':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='AD3PS_1';
+    JEDEC_TYPE='SOIC8';
+    BODY_NAME='AD3PS_1';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

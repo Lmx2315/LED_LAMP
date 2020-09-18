@@ -1,0 +1,99 @@
+\t (03:43:45) allegro 16.5 S026 (v16-5-13BM) i86
+\t (03:43:45)     Journal start - Fri Nov 09 16:43:27 2012
+\t (03:43:45)         Host=LMX2315 User=Sergey Pid=2300 CPUs=12
+\t (03:43:45) 
+\d (03:43:45) Database opened: C:/PSD_data/Projects/B600/glori/trudolubie_archive/worklib/interf_m8_v1/physical/interf_m8_v13_exp.brd
+\i (03:43:46) roam start
+\i (03:43:46) roam x -208
+\i (03:43:46) roam y 64
+\i (03:43:46) roam x -160
+\i (03:43:46) roam y 32
+\i (03:43:46) roam x -176
+\i (03:43:47) roam x -208
+\i (03:43:47) roam x -192
+\i (03:43:47) roam x -64
+\i (03:43:47) roam x -16
+\i (03:43:47) roam y 16
+\i (03:43:47) roam x -48
+\i (03:43:47) roam y 32
+\i (03:43:47) roam x -32
+\i (03:43:47) roam y 16
+\i (03:43:47) roam end
+\i (03:43:47) zoom out 1 
+\i (03:43:47) setwindow pcb
+\i (03:43:47) zoom out 52.1334 96.1546
+\i (03:43:47) trapsize 3521
+\i (03:43:47) zoom out 1 
+\i (03:43:47) setwindow pcb
+\i (03:43:47) zoom out 52.0631 96.0842
+\t (03:43:47) Grids are drawn 1.6384, 1.6384 apart for enhanced viewability.
+\i (03:43:47) trapsize 7043
+\i (03:43:48) roam start
+\i (03:43:48) roam x 80
+\i (03:43:48) roam y 32
+\i (03:43:48) roam x 160
+\i (03:43:48) roam y 64
+\i (03:43:48) roam x 112
+\i (03:43:48) roam y 32
+\i (03:43:48) roam x 32
+\i (03:43:48) roam y 16
+\i (03:43:49) roam x 32
+\i (03:43:49) roam y 16
+\i (03:43:49) roam end
+\i (03:43:50) roam start
+\i (03:43:50) roam x -80
+\i (03:43:50) roam x -96
+\i (03:43:50) roam x -64
+\i (03:43:50) roam x -64
+\i (03:43:50) roam x -32
+\i (03:43:50) roam x 16
+\i (03:43:50) roam y -16
+\i (03:43:51) roam x 32
+\i (03:43:51) roam y -16
+\i (03:43:51) roam x 16
+\i (03:43:51) roam x 16
+\i (03:43:51) roam y -16
+\i (03:43:51) roam x 32
+\i (03:43:51) roam y -16
+\i (03:43:51) roam end
+\i (03:43:56) roam start
+\i (03:43:56) roam y -16
+\i (03:43:57) roam x 64
+\i (03:43:57) roam y -80
+\i (03:43:57) roam y -16
+\i (03:43:57) roam y 16
+\i (03:43:57) roam y 16
+\i (03:43:57) roam x -16
+\i (03:43:57) roam y 16
+\i (03:43:57) roam y 32
+\i (03:43:57) roam x -16
+\i (03:43:57) roam y 48
+\i (03:43:57) roam x -16
+\i (03:43:57) roam y 64
+\i (03:43:57) roam x -16
+\i (03:43:57) roam y 32
+\i (03:43:57) roam end
+\i (03:43:59) zoom in 1 
+\i (03:43:59) setwindow pcb
+\i (03:43:59) zoom in 68.2616 1.7489
+\t (03:43:59) Grids are drawn 0.4096, 0.4096 apart for enhanced viewability.
+\i (03:43:59) trapsize 3521
+\i (03:44:00) roam start
+\i (03:44:00) roam x 112
+\i (03:44:00) roam y 32
+\i (03:44:00) roam x 48
+\i (03:44:00) roam y 16
+\i (03:44:01) roam x -16
+\i (03:44:02) roam end
+\i (03:44:14) trapsize 4237
+\i (03:44:17) trapsize 2168
+\i (03:44:18) show element 
+\i (03:44:20) pick grid 68.0631 6.3800
+\t (03:44:20) last pick:  68.0631  6.3800
+\i (03:44:32) trapsize 4237
+\i (03:44:34) trapsize 3521
+\i (03:44:40) setwindow text
+\i (03:44:40) close 
+\i (04:11:03) setwindow pcb
+\i (04:11:03) exit 
+\t (04:11:04)     Journal end - Fri Nov 09 17:10:46 2012

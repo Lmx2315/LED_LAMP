@@ -1,0 +1,170 @@
+(Cell	ten40_2412wi
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/21/11,15:23:50)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.ten40_2412wi)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/21/11,15:29:06)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.ten40_2412wi)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004b48f58f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/21/11,15:25:20)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.ten40_2412wi)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a43003bc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000080f4ba97)
+
+			(Primitives	1
+
+				(Primitive	TEN40_2412WI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/21/11,15:28:11)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.ten40_2412wi)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEN40_2412WI
+
+							(PackType	TEN40_2412WI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c6b9037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000252c03b4)
+
+)
+

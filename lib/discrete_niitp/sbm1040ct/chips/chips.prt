@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jul 08 15:11:51 2003' ;
+primitive 'SBM1040CT';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='SBM1040CT';
+    JEDEC_TYPE='dio400';
+    BODY_NAME='SBM1040CT';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

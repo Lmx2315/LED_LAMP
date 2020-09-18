@@ -1,0 +1,180 @@
+(Cell	n25q256mb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/11/14,18:51:24)
+
+			(User	imk)
+
+			(Path	b620.n25q256mb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/11/14,19:04:39)
+
+			(User	imk)
+
+			(Path	b620.n25q256mb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009a37c8c9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/11/14,18:51:28)
+
+							(User	imk)
+
+							(Path	b620.n25q256mb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb703bc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000080a89c2f)
+
+			(Primitives	1
+
+				(Primitive	N25Q256MB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/11/14,19:03:13)
+
+							(User	imk)
+
+							(Path	b620.n25q256mb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	N25Q256MB
+
+							(PackType	N25Q256MB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sop2_16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dd2041f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c8a03a7)
+
+)
+

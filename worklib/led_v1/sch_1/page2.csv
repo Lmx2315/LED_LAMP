@@ -1,0 +1,60 @@
+FILE_TYPE = CONNECTIVITY;
+{Allegro Design Entry HDL 16.6-S034 (v16-6-112CP) 8/12/2014}
+"PAGE_NUMBER" = 2;
+0"NC";
+1"p3v3\g";
+2"p3v3\g";
+3"DGND\g";
+%"CAT4101"
+"1","(-250,3900)","0","led_drv1_lib","I1";
+;
+POWER_GROUP"GND=DGND"
+LOCATION"DD1"
+CDS_LMAN_SYM_OUTLINE"-125,125,125,-125"
+CDS_LIB"led_drv1_lib"
+SEC_TYPE""
+SEC"1";
+"VIN"
+$PN"2"1;
+"LED"
+$PN"5"0;
+"PWM"
+$PN"1"0;
+"RSET"
+$PN"4"0;
+%"SHIELD"
+"1","(-700,4250)","0","power_niitp","I2";
+;
+HDL_POWER"DGND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"3;
+%"CAP"
+"1","(-700,4350)","1","discrete_niitp","I3";
+;
+LOCATION"C1"
+VALUE"0.1U"
+CDS_LIB"discrete_niitp"
+HAS_FIXED_SIZE"1B";
+"B <0>"2;
+"A <0>"3;
+%"P3V3"
+"1","(-700,4450)","0","power_niitp","I4";
+;
+HDL_POWER"p3v3"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp"
+VOLTAGE"3.3";
+"P3V3"2;
+%"P3V3"
+"1","(-600,4100)","1","power_niitp","I5";
+;
+HDL_POWER"p3v3"
+VOLTAGE"3.3"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"P3V3"1;
+END.

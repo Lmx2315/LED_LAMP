@@ -1,0 +1,8 @@
+DEFINE trudolubie_lib    worklib
+DEFINE power_my    power_my
+DEFINE my_transceiver    my_transceiver
+DEFINE interfeysnaya    interfeysnaya
+DEFINE discrete_niitp    discrete_niitp
+DEFINE import_lib    import_lib
+DEFINE standard    standard
+DEFINE power_niitp    power_niitp

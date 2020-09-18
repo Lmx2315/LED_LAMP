@@ -1,0 +1,17 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PLS1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='PLS1';
+    BODY_NAME='PLS1';
+    JEDEC_TYPE='f23';
+    PHYS_DES_PREFIX='U';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

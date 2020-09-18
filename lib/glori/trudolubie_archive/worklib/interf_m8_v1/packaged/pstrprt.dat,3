@@ -1,0 +1,46 @@
+                    - SPARES  LIST -
+
+
+                    - PART SUMMARY -
+
+ADM811SART                                  1
+AT25256A                                    1
+BH_20                                       1
+BLM18A_F55-BASE        mpz2012s331a        4
+CAP_0603-BASE           k10-17B           23
+CAP_EL_F136-BASE            tajb            2
+CAP_EL_F154-BASE            tajb            1
+CWF-2R                                      1
+CWF-4                                       1
+C_0603-BASE              F135              44
+C_0805-BASE              0805              3
+C_EL_F136-BASE             F136             4
+DRB-9MA                                     1
+DS1339                                      1
+DS9503                                      9
+FT2232D                                     1
+HCPL_063_F30-BASE            f30            8
+IDCC_10MR                                   1
+IDC_30MR                                    1
+LED_F330-BASE             f330             6
+LPC2129                                     1
+M25PE16-VMW6                                1
+MAX3384EEAP-GNDDM=DGND,P3V3M=+A             1
+MAX3535                                     4
+MIC39100-GND2=GND,SOT223                    2
+MINIUSB-MUSB                                1
+MW_2MR                                      1
+PESD12VS4UD                                 1
+PLD-2                                       4
+R_0603-BASE              F56              116
+SDA90325_16                                 2
+SG8002CA-GNDD=GND,P3V3=+3.3VDD              1
+SN74LVC1G08_DCK-BASE      sn74lvc1g08      3
+SN74LVC2G17_1_DCK-BASE   sn74lvc2g17dckt   11
+SN74LVCC3245-SN74LVCC3245APW                2
+TSM0505S                                    1
+VT_NPN_F364-BASE            pmst            2
+ZQ-F843                                     1
+ZQ-HC_49_SSMD                               2
+
+Total                                     271

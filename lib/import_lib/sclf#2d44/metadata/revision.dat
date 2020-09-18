@@ -1,0 +1,170 @@
+(Cell	sclf-44
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/26/11,10:34:43)
+
+			(User	Sergey)
+
+			(Path	import_lib.sclf-44)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/26/11,10:36:37)
+
+			(User	Sergey)
+
+			(Path	import_lib.sclf-44)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000009b56ef)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/26/11,10:34:46)
+
+							(User	Sergey)
+
+							(Path	import_lib.sclf-44)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000003db03b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009c06a587)
+
+			(Primitives	1
+
+				(Primitive	SCLF-44
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/26/11,10:36:05)
+
+							(User	Sergey)
+
+							(Path	import_lib.sclf-44)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SCLF-44
+
+							(PackType	SCLF-44)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a53803bc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000084db03aa)
+
+)
+

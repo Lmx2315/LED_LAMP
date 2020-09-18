@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Aug 04 09:38:03 2005' ;
+primitive 'BNX012-01';
+  pin
+    'B':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'PSG':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CB':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CG':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='BNX012-01';
+    PHYS_DES_PREFIX='A';
+    JEDEC_TYPE='BNX';
+    LOCATION='?';
+    PATH='?';
+    BODY_NAME='BNX012-01';
+  end_body;
+end_primitive;
+END.

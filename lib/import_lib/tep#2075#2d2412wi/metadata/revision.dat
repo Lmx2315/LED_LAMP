@@ -1,0 +1,170 @@
+(Cell	tep 75-2412wi
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/19/13,12:49:12)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tep 75-2412wi)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/19/13,12:57:14)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tep 75-2412wi)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004e68173c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/19/13,12:49:17)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tep 75-2412wi)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000046a90386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a31fe676)
+
+			(Primitives	1
+
+				(Primitive	TEP 75-2412WI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/19/13,12:56:13)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tep 75-2412wi)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEP 75-2412WI
+
+							(PackType	TEP 75-2412WI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f01e0421)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000028590374)
+
+)
+

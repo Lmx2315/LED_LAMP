@@ -1,0 +1,19 @@
+
+	(Comment
+		(Time 07/05/06,11:12:33)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package MAX7384 added to cell")
+		(Param1 MAX7384)
+	)
+
+
+	(Comment
+		(Time 07/05/06,11:16:11)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+

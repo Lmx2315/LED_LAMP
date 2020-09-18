@@ -1,0 +1,48 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Oct 13 16:44:57 2003' ;
+primitive 'BC847';
+  pin
+    'E1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,*)';
+      OUTPUT_TYPE='(OE,OR)';
+      BIDIRECTIONAL='TRUE';
+    'E2':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,*)';
+      OUTPUT_TYPE='(OE,OR)';
+      BIDIRECTIONAL='TRUE';
+    'C1':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,*)';
+      OUTPUT_TYPE='(OC,AND)';
+      BIDIRECTIONAL='TRUE';
+    'C2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,*)';
+      OUTPUT_TYPE='(OC,AND)';
+      BIDIRECTIONAL='TRUE';
+    'B1':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'B2':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='BC847';
+    JEDEC_TYPE='f58';
+    BODY_NAME='BC847';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

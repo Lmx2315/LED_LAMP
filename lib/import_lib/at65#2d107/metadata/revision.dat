@@ -1,0 +1,168 @@
+(Cell	at65-107
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	02/15/07,15:08:25)
+
+			(User	admin)
+
+			(Path	import_lib.at65-107)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/15/07,16:52:48)
+
+			(User	admin)
+
+			(Path	import_lib.at65-107)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b59c42a8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	02/15/07,15:09:17)
+
+							(User	admin)
+
+							(Path	import_lib.at65-107)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000153d03b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005cffc0bc)
+
+			(Primitives	1
+
+				(Primitive	AT65-107
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/07,16:41:12)
+
+							(User	admin)
+
+							(Path	import_lib.at65-107)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT65-107
+
+							(PackType	AT65-107)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000144603b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000068e60348)
+
+)
+

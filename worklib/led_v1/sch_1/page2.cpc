@@ -1,0 +1,18 @@
+#ISCELL
+  standard a#20size#20page *
+  *
+#CELL
+  led_drv1_lib cat4101 *
+  page2_i1
+#ISCELL
+  power_niitp shield *
+  page2_i2
+#CELL
+  discrete_niitp cap *
+  page2_i3
+#ISCELL
+  power_niitp p3v3 *
+  page2_i4
+#ISCELL
+  power_niitp p3v3 *
+  page2_i5

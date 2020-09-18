@@ -1,0 +1,53 @@
+( ConstraintFile "digital_dspblock_m6"
+    ( constraintHeader
+        ( deltaType
+            ( archive )
+        )
+        ( objectKey
+            ( physical )
+        )
+        ( version
+            ( 15.2 )
+        )
+        ( revisionNumber
+            ( logicalViewRevNum 0 )
+            ( physicalViewRevNum 0 )
+            ( otherViewRevNum 0 )
+        )
+    )
+    ( designConstraints
+        ( ruleChanges
+            ( allRules )
+            ( design "digital_dspblock_m6"
+                ( attribute "DESIGN_UNITS" "1.000"
+                    ( Units "uPrecision" "mil" 1.000000)
+                    ( Origin gFrontEnd )
+                )
+            )
+            ( signal "+5V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\+5v\" )
+            )
+            ( signal "-15V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\-15v\" )
+            )
+            ( signal "+15V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\+15v\" )
+            )
+            ( signal "+2.5V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\+2.5v\" )
+            )
+            ( signal "+1.2V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\+1.2v\" )
+            )
+            ( signal "-24V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\-24v\" )
+            )
+            ( signal "+24V"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):\+24v\" )
+            )
+            ( signal "GND_BP"
+                ( objectStatus "@trudolubie_lib.glbl(digital_dspblock_m6_cfg_package):gnd_bp" )
+            )
+        )
+    )
+)

@@ -1,0 +1,45 @@
+
+	(Comment
+		(Time 02/29/12,13:53:00)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/29/12,13:55:13)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/29/12,13:55:54)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/29/12,13:58:40)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_4 added to cell")
+		(Param1 sym_4)
+	)
+	(Comment
+		(Time 02/29/12,14:00:02)
+		(User chuprikov_pavel)
+		(MsgId ECO_021)
+		(Text "Package dhr-78f added to cell")
+		(Param1 dhr-78f)
+	)
+
+
+
+
+
+
+
+
+

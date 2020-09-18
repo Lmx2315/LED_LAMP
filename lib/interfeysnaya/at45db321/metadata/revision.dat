@@ -1,0 +1,170 @@
+(Cell	at45db321
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/14/06,11:42:36)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.at45db321)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/14/06,11:48:33)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.at45db321)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000949eca3d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/06,11:42:39)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.at45db321)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000051fe03e7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007f70ab51)
+
+			(Primitives	1
+
+				(Primitive	AT45DB321
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/06,11:46:00)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.at45db321)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT45DB321
+
+							(PackType	AT45DB321)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000134a03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000037190375)
+
+)
+

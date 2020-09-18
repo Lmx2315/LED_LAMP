@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Oct 13 17:02:56 2003' ;
+primitive '24FC512';
+  pin
+    'WP':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SCL':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SDA':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'A'<1>:
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'A'<2>:
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3M:8)';
+    POWER_PINS='(GNDDM:4)';
+    CLASS='IC';
+    PART_NAME='24FC512';
+    JEDEC_TYPE='f24';
+    BODY_NAME='24FC512';
+    FAMILY='eeprom';
+  end_body;
+end_primitive;
+END.

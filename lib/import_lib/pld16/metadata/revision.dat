@@ -1,0 +1,170 @@
+(Cell	pld16
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/17/10,10:08:18)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pld16)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/17/10,10:16:03)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pld16)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ce98914e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/17/10,10:10:37)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pld16)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b50203bd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f1bb215e)
+
+			(Primitives	1
+
+				(Primitive	PLD16
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/17/10,10:11:51)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pld16)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PLD16
+
+							(PackType	PLD16)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000073c903d9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000568e0387)
+
+)
+

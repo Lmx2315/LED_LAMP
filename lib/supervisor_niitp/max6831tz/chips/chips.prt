@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 24 12:33:12 2003' ;
+primitive 'MAX6831TZ','MAX6831TZ_SOT23-6';
+  pin
+    '-RESET':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-MR':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'WDI':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    POWER_PINS='(P3V3:6)';
+    POWER_PINS='(P2V5:5)';
+    POWER_PINS='(GNDD:2)';
+    CLASS='IC';
+    PART_NAME='MAX6831TZ';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='SOT23-6';
+    LIBRARY_NAME='psg1';
+    BODY_NAME='MAX6831TZ';
+  end_body;
+end_primitive;
+END.

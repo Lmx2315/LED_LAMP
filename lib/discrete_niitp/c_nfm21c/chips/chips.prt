@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Apr 13 12:10:41 2004' ;
+primitive 'C_NFM21C';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '0UT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SHIELD':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='C_NFM21C';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='F172';
+    BODY_NAME='C_NFM21C';
+  end_body;
+end_primitive;
+END.

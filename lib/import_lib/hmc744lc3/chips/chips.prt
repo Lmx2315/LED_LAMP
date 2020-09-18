@@ -1,0 +1,43 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HMC744LC3';
+  pin
+    'DINN':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VR':
+      PIN_NUMBER='(15)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'D1P':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D1N':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D2P':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'DINP':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D2N':
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='HMC744LC3';
+    BODY_NAME='HMC744LC3';
+    JEDEC_TYPE='h744';
+    PHYS_DES_PREFIX='DD';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:1,4,5,8,9,12,14,17)';
+    POWER_PINS='(VCC:13,16)';
+  end_body;
+end_primitive;
+
+END.

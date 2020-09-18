@@ -1,0 +1,170 @@
+(Cell	pth08t260w
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/17/12,10:40:39)
+
+			(User	Sergey)
+
+			(Path	b620.pth08t260w)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/17/12,10:54:03)
+
+			(User	Sergey)
+
+			(Path	b620.pth08t260w)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000f68c13de)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,10:40:42)
+
+							(User	Sergey)
+
+							(Path	b620.pth08t260w)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000329503e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007366125d)
+
+			(Primitives	1
+
+				(Primitive	PTH08T260W
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,10:51:57)
+
+							(User	Sergey)
+
+							(Path	b620.pth08t260w)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PTH08T260W
+
+							(PackType	PTH08T260W)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000a63f03ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000631303d8)
+
+)
+

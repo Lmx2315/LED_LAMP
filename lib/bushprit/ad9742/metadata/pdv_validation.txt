@@ -1,0 +1,1 @@
+pdv_170,Cell 'ad9742':Pins FS ADJ are not present in any of the packages or symbols.,Warning

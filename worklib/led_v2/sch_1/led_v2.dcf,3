@@ -1,0 +1,7261 @@
+( ConstraintFile "led_v2"
+	( constraintHeader
+		( objectKey
+			( logical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 69 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SEC_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "FAMILY" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "led_v2"
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):csn"
+				( objectStatus "csn" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):dbg_clk"
+				( objectStatus "dbg_clk" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):dbg_data"
+				( objectStatus "dbg_data" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):dgnd"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page1_dgnd") )
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page3_dgnd") )
+				( attribute "PHYS_NET_NAME" "DGND"
+					( Origin gPackager )
+				)
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "dgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page1_dgnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page1_dgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page3_dgnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_dgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):p0_4"
+				( objectStatus "p0_4" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):rst"
+				( objectStatus "rst" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):miso"
+				( objectStatus "miso" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):mosi"
+				( objectStatus "mosi" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):p3v3"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page1_p3v3") )
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page3_p3v3") )
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "p3v3" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page1_p3v3"
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page1_p3v3" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page3_p3v3"
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_p3v3" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_blue"
+				( objectStatus "pwm_blue" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_blue_12v"
+				( objectStatus "pwm_blue_12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_green"
+				( objectStatus "pwm_green" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_green_12v"
+				( objectStatus "pwm_green_12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_red"
+				( objectStatus "pwm_red" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):pwm_red_12v"
+				( objectStatus "pwm_red_12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):rx_uart"
+				( objectStatus "rx_uart" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):sclk"
+				( objectStatus "sclk" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):tx_uart"
+				( objectStatus "tx_uart" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_cap_i6_b"
+				( objectStatus "unnamed_1_cap_i6_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i17_5"
+				( objectStatus "unnamed_1_ds9503_i17_5" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i17_6"
+				( objectStatus "unnamed_1_ds9503_i17_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i18_5"
+				( objectStatus "unnamed_1_ds9503_i18_5" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i18_6"
+				( objectStatus "unnamed_1_ds9503_i18_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i19_5"
+				( objectStatus "unnamed_1_ds9503_i19_5" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i19_6"
+				( objectStatus "unnamed_1_ds9503_i19_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i20_6"
+				( objectStatus "unnamed_1_ds9503_i20_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i28_anode"
+				( objectStatus "unnamed_1_pc817_i28_anode" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i39_anode"
+				( objectStatus "unnamed_1_pc817_i39_anode" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i48_anode"
+				( objectStatus "unnamed_1_pc817_i48_anode" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i10_2"
+				( objectStatus "unnamed_1_res_i10_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i11_1"
+				( objectStatus "unnamed_1_res_i11_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i13_2"
+				( objectStatus "unnamed_1_res_i13_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i14_2"
+				( objectStatus "unnamed_1_res_i14_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i15_2"
+				( objectStatus "unnamed_1_res_i15_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i16_2"
+				( objectStatus "unnamed_1_res_i16_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i26_1"
+				( objectStatus "unnamed_1_res_i26_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i27_1"
+				( objectStatus "unnamed_1_res_i27_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\12v\"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page1_12v") )
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page2_12v") )
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Status sAliasConflict )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page1_12v"
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page1_12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page2_12v"
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page2_12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):lgnd"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page1_lgnd") )
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page2_lgnd") )
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page3_lgnd") )
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "lgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page1_lgnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page1_lgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page2_lgnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page2_lgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page3_lgnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_lgnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_boot"
+				( objectStatus "unnamed_2_a6211_i1_boot" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_cs"
+				( objectStatus "unnamed_2_a6211_i1_cs" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_sw"
+				( objectStatus "unnamed_2_a6211_i1_sw" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_ton"
+				( objectStatus "unnamed_2_a6211_i1_ton" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_vcc"
+				( objectStatus "unnamed_2_a6211_i1_vcc" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i13_b"
+				( objectStatus "unnamed_2_cap_i13_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i57_1"
+				( objectStatus "unnamed_1_led_i57_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i57_2"
+				( objectStatus "unnamed_1_led_i57_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i62_1"
+				( objectStatus "unnamed_1_led_i62_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i62_2"
+				( objectStatus "unnamed_1_led_i62_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):p0_5"
+				( objectStatus "p0_5" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):p0_6"
+				( objectStatus "p0_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):p0_7"
+				( objectStatus "p0_7" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_idc10_i63_7"
+				( objectStatus "unnamed_1_idc10_i63_7" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i73_1"
+				( objectStatus "unnamed_1_res_i73_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i74_1"
+				( objectStatus "unnamed_1_res_i74_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i75_1"
+				( objectStatus "unnamed_1_res_i75_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i76_1"
+				( objectStatus "unnamed_1_res_i76_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):supl_gnd"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):page3_supl_gnd") )
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "supl_gnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):page3_supl_gnd"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_supl_gnd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_pld8_i85_2"
+				( objectStatus "unnamed_1_pld8_i85_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i88_2"
+				( objectStatus "unnamed_1_res_i88_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i89_2"
+				( objectStatus "unnamed_1_res_i89_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i90_2"
+				( objectStatus "unnamed_1_res_i90_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i91_2"
+				( objectStatus "unnamed_1_res_i91_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):wf_rst"
+				( objectStatus "wf_rst" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):wfch_pd"
+				( objectStatus "wfch_pd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):wfgpio_0"
+				( objectStatus "wfgpio_0" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):wfgpio_2"
+				( objectStatus "wfgpio_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_adm6320_i93_reset"
+				( objectStatus "unnamed_1_adm6320_i93_reset" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):wdi_rst"
+				( objectStatus "wdi_rst" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i101_6"
+				( objectStatus "unnamed_1_ds9503_i101_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i102_6"
+				( objectStatus "unnamed_1_ds9503_i102_6" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\+12v_supl\"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):\page3_+12v_supl\") )
+				( attribute "VOLTAGE" "+12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "+12v_supl" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\page3_+12v_supl\"
+				( attribute "VOLTAGE" "+12"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_+12v_supl" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_c_i22_2"
+				( objectStatus "unnamed_3_c_i22_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_r_i15_1"
+				( objectStatus "unnamed_3_r_i15_1" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_r_i20_2"
+				( objectStatus "unnamed_3_r_i20_2" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i49_s"
+				( objectStatus "unnamed_2_irlml2060_i49_s" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_en"
+				( objectStatus "unnamed_2_a6211_i1_en" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_boot"
+				( objectStatus "unnamed_2_a6211_i55_boot" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_cs"
+				( objectStatus "unnamed_2_a6211_i55_cs" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_en"
+				( objectStatus "unnamed_2_a6211_i55_en" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_sw"
+				( objectStatus "unnamed_2_a6211_i55_sw" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_ton"
+				( objectStatus "unnamed_2_a6211_i55_ton" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_vcc"
+				( objectStatus "unnamed_2_a6211_i55_vcc" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_boot"
+				( objectStatus "unnamed_2_a6211_i76_boot" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_cs"
+				( objectStatus "unnamed_2_a6211_i76_cs" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_en"
+				( objectStatus "unnamed_2_a6211_i76_en" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_sw"
+				( objectStatus "unnamed_2_a6211_i76_sw" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_ton"
+				( objectStatus "unnamed_2_a6211_i76_ton" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_vcc"
+				( objectStatus "unnamed_2_a6211_i76_vcc" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i57_b"
+				( objectStatus "unnamed_2_cap_i57_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i62_b"
+				( objectStatus "unnamed_2_cap_i62_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i81_b"
+				( objectStatus "unnamed_2_cap_i81_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i90_b"
+				( objectStatus "unnamed_2_cap_i90_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i58_s"
+				( objectStatus "unnamed_2_irlml2060_i58_s" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i79_s"
+				( objectStatus "unnamed_2_irlml2060_i79_s" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i30_b"
+				( objectStatus "unnamed_3_cap_i30_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\+12v\"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):\page3_+12v\") )
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "+12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\page3_+12v\"
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_+12v" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\+12v_dd\"
+				( alias ( signalRef "@led_drv1_lib.led_v2(sch_1):\page3_+12v_dd\") )
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "+12v_dd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):\page3_+12v_dd\"
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( objectFlag fObjectAlias )
+				( objectStatus "page3_+12v_dd" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_mp2307_i29_en"
+				( objectStatus "unnamed_3_mp2307_i29_en" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i46_a"
+				( objectStatus "unnamed_3_cap_i46_a" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i46_b"
+				( objectStatus "unnamed_3_cap_i46_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i52_a"
+				( objectStatus "unnamed_3_cap_i52_a" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i52_b"
+				( objectStatus "unnamed_3_cap_i52_b" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_3_mp2307_i29_fb"
+				( objectStatus "unnamed_3_mp2307_i29_fb" )
+			)
+			( signal "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i53_b"
+				( objectStatus "unnamed_2_cap_i53_b" )
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i1"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-150,300,150,-300"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,6400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "ZIGBEE_CC2530"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "ZIGBEE_CC2530-VCC=P3V3;GND=DGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U2"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U2"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I1" )
+				( pin "p0_0"
+					( attribute "PN" "23"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_1"
+					( attribute "PN" "22"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_2"
+					( attribute "PN" "21"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_3"
+					( attribute "PN" "20"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_4"
+					( attribute "PN" "19"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_5"
+					( attribute "PN" "18"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_6"
+					( attribute "PN" "17"
+						( Origin gPackager )
+					)
+				)
+				( pin "p0_7"
+					( attribute "PN" "16"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_0"
+					( attribute "PN" "15"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_1"
+					( attribute "PN" "14"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_2"
+					( attribute "PN" "13"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_3"
+					( attribute "PN" "12"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_4"
+					( attribute "PN" "11"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_5"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_6"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "p1_7"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+				( pin "p2_0"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "p2_1"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "p2_2"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "reset"
+					( attribute "PN" "24"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i3"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R4"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I3" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i4"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,275,125,-275"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(4700,6250)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IDC10"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IDC10"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT6"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT6"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I4" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "\9\"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+				)
+				( pin "\10\"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i5"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "2K7"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(200,5700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I5" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i6"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(400,5600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I6" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i10"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R5"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I10" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i11"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,7025)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R11"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I11" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i13"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R10"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I13" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i14"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R9"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I14" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i15"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R8"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I15" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i16"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6500)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R7"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I16" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i17"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,6600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I17" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i18"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,6275)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD2"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD2"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I18" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i19"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,5875)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD3"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD3"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I19" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i20"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,5500)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD4"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD4"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I20" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i22"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(125,5425)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I22" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i24"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-100,5825)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R1"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I24" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i26"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R26"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I26" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i27"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R25"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I27" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i28"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-225,125,225,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,4800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U3"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U3"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I28" )
+				( pin "anode"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "cathode"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "collector"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "emitter"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i29"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "200R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,4900)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R15"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I29" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i33"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2850,5250)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C4"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I33" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i37"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "1K2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2650,5225)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R18"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I37" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i39"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-225,125,225,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U4"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U4"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I39" )
+				( pin "anode"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "cathode"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "collector"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "emitter"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i43"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2850,4450)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C5"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I43" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i45"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "1K2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2650,4425)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R19"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I45" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i47"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "200R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R16"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I47" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i48"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-225,125,225,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "PC817"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U5"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U5"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I48" )
+				( pin "anode"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "cathode"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "collector"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "emitter"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i51"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2850,3650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C6"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I51" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i53"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "1K2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2650,3625)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R20"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I53" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i56"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "200R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,3300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R17"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I56" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i1"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2000,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "A6211-GND=LGND"
+					( Origin gPackager )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "U7"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U7"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I1" )
+				( pin "boot"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "cs"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "en"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "sw"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "ton"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "vin"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "vcc"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i4"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1600,3600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C10"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I4" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i6"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2800,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C8"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I6" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i8"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "65K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2500,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R33"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I8" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i9"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1500,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "EMZA500ADA470MF80G"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C12"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I9" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i10"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0R15"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,3150)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "R37"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I10" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i12"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "22UH"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1025,4200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "NR8040T100M"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "L3"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L3"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I12" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i13"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "CGA5L2X5R1H684K160AA"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.68UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C16"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I13" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i14"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "B250A-13-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1300,4050)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U14"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U14"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I14" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "c"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i56"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2425,1675)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT3"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT3"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I56" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i80"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3600,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U12"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U12"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I80" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i79"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3000,3400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U19"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U19"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I79" )
+				( pin "d"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "g"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "s"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i78"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2200,3600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C19"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I78" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i77"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1375,3475)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT4"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT4"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I77" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i76"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "A6211-GND=LGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U11"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U11"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I76" )
+				( pin "boot"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "cs"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "en"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "sw"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "ton"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "vin"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "vcc"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i75"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-3100,2300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R32"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I75" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i73"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2800,2300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C9"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I73" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i72"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "65K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2500,2200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R34"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I72" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i69"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1500,1600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R36"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I69" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i68"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1600,1800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C11"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I68" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i67"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "EMZA500ADA470MF80G"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1500,2300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C13"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I67" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i66"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "B250A-13-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1300,2250)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U15"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U15"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I66" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "c"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i63"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0R15"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,1350)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R38"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I63" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i62"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "CGA5L2X5R1H684K160AA"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.68UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,2200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C17"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I62" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i61"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-200,2200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U10"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U10"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I61" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i59"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "NR8040T100M"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "22UH"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1025,2400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "L4"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L4"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I59" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i58"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,1600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U17"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U17"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I58" )
+				( pin "d"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "g"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "s"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i57"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1300,1400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C15"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I57" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i46"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-200,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "KF128_5_2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U9"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U9"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I46" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i55"
+				( attribute "CDS_LIB" "led_drv1_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2000,2200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "A6211-GND=LGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U8"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U8"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I55" )
+				( pin "boot"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "cs"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "en"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "sw"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "ton"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "vin"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "vcc"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i57"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "FAMILY" "LED"
+					( Origin gFrontEnd )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2900,6000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "LED"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "LED-BASE"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "HL2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "VD"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I57" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i58"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "470R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3075,6000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R28"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I58" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i61"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "470R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3075,6200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R27"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I61" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i62"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "FAMILY" "LED"
+					( Origin gFrontEnd )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2900,6200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "LED"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "LED-BASE"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "HL1"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "VD"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I62" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i63"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,275,125,-275"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(4700,4450)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IDC10"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IDC10"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT7"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT7"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I63" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "\9\"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+				)
+				( pin "\10\"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i76"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6500)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R24"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I76" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i75"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R23"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I75" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i74"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R22"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I74" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i73"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,6800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R21"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I73" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i72"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3900,4450)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R29"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I72" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i79"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2800,7125)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C3"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I79" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i82"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3000,7125)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C7"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I82" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i1"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-75,4650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS_261"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS_261"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT5"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT5"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE3_I1" )
+				( pin "centr"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "kp1"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "kp2"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i2"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2125,4700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "BNX016"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "BNX016-CG_GND=DGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "L1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE3_I2" )
+				( pin "b"
+					( attribute "PN" "B"
+						( Origin gPackager )
+					)
+				)
+				( pin "cb"
+					( attribute "PN" "CB"
+						( Origin gPackager )
+					)
+				)
+				( pin "cg"
+					( attribute "PN" "CG"
+						( Origin gPackager )
+					)
+				)
+				( pin "psg"
+					( attribute "PN" "PSG"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i10"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "D"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "5"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "47UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2600,4700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP_EL"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_EL_D"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C30"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "C30"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I10" )
+				( pin "a(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i13"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2900,4700)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C32"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I13" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i85"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-200"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(4400,3450)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "PLD8"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "PLD8"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U6"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U6"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I85" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i86"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3950,3650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R30"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I86" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i88"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1600,6600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R6"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I88" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i89"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,6100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R12"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I89" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i90"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,6000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R13"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I90" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i91"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "33R"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,5900)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R14"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I91" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i93"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(900,5675)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "ADM6320"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "ADM6320"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "ADM6320BY30A"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "U1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I93" )
+				( pin "gnd"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "mr"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "reset"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "vcc"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "wdi"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i95"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(600,6000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C2"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I95" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i99"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "4K7"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1200,5850)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R3"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I99" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i101"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,5100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD5"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD5"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I101" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page1_i102"
+				( attribute "CDS_LIB" "my_transceiver"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3875,4800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "DS9503"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DD6"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DD6"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE1_I102" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i15"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "F56"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "20K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(550,4775)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "R"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "R_F56"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R43"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I15" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i18"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "F56"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "7"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "51K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(700,4925)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "R"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "R_F56"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R44"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I18" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i20"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "F56"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "7"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "6.7K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1250,4475)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "R"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "R_F56"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R47"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I20" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i22"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603-17"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(700,4500)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "C"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C24"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "C24"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I22" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i23"
+				( attribute "CDS_LIB" "power_my"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-150,125,150,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(950,4675)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "TPS2592A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "TPS2592A-VIN=+12V_SUPL;GND=LGNA"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "DA1"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "DA1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I23" )
+				( pin "bfet"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+				)
+				( pin "dvdt"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "en"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "ilim"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i29"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1400,3100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "MP2307"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "MP2307-GND=DGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U13"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U13"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE3_I29" )
+				( pin "bs"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "comp"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+				)
+				( pin "en"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+				)
+				( pin "fb"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+				)
+				( pin "\in\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+				( pin "ss"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+				)
+				( pin "sw"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i49"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-800,3400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IRLML2060"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U16"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U16"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I49" )
+				( pin "d"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+				)
+				( pin "g"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "s"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i50"
+				( attribute "CDS_LIB" "my_connectors_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2425,3475)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "IPL1_02"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "XT2"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "XT2"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE2_I50" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i51"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-3100,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R31"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I51" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i52"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1500,3400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R35"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I52" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i53"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-1300,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C14"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I53" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i81"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "CGA5L2X5R1H684K160AA"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.68UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3000,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C22"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I81" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i82"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "NR8040T100M"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "22UH"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2775,4200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "L5"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L5"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I82" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i84"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "B250A-13-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2500,4050)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "B220_A"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "U18"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "U18"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I84" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "c"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i85"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "EMZA500ADA470MF80G"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C20"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I85" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i87"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0R15"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(3000,3150)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R42"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I87" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i89"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,3400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R41"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I89" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i90"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2500,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C21"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I90" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i92"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "65K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1300,4000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R40"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I92" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i94"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1000,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C18"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I94" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i96"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PART_NUMBER" "RL1632R-R150-F"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "2"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(700,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R39"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE2_I96" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i17"
+				( attribute "CHIPS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page2_i31"
+				( attribute "CHIPS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "A6211"
+					( Origin gPackager )
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i30"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1000,3000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C27"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I30" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i33"
+				( attribute "CDS_LIB" "import_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,150,125,-150"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC_TYPE" "<< NULL >>"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2125,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "BNX016"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "BNX016-CG_GND=DGND"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "L2"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L2"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gFrontEnd )
+				)
+				( objectStatus "PAGE3_I33" )
+				( pin "b"
+					( attribute "PN" "B"
+						( Origin gPackager )
+					)
+				)
+				( pin "cb"
+					( attribute "PN" "CB"
+						( Origin gPackager )
+					)
+				)
+				( pin "cg"
+					( attribute "PN" "CG"
+						( Origin gPackager )
+					)
+				)
+				( pin "psg"
+					( attribute "PN" "PSG"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i36"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "0.1U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2900,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C33"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I36" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i38"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "D"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "5"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "47UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2600,4100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP_EL"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_EL_D"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C31"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "C31"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I38" )
+				( pin "a(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i43"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "100K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(950,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R46"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I43" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i44"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "D"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "5"
+					( Origin gFrontEnd )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "47UF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(600,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP_EL"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_EL_D"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "C23"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "C23"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I44" )
+				( pin "a(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "CDS_SEC" "1"
+						( Origin gPackager )
+					)
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i46"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "3900PF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(900,2800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C25"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I46" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i47"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "6.8K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(700,2800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R45"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I47" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i49"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "26.1K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2050,2800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R49"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I49" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i50"
+				( attribute "CDS_LIB" "my_passive_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "26.1K"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,2600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "RES_0603"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LOCATION" "R48"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I50" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i52"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10NF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(1800,3400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C28"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I52" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i53"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2100,3200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "L"
+					( Origin gPackager )
+				)
+				( attribute "PART_NUMBER" "L_10A"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "10UH"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "L6"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "L6"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I53" )
+				( pin "a"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i54"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "22U"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(2300,2600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_F135"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "F135"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C29"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I54" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+			( gate "@led_drv1_lib.led_v2(sch_1):page3_i57"
+				( attribute "CDS_LIB" "discrete_niitp"
+					( Origin gPackager )
+				)
+				( attribute "HAS_FIXED_SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "SIZE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "100PF"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(900,2600)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "CAP"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "CAP_0603"
+					( Origin gPackager )
+				)
+				( attribute "PACK_TYPE" "0603"
+					( Origin gFrontEnd )
+				)
+				( attribute "CDS_LOCATION" "C26"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE3_I57" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+				)
+			)
+		)
+	)
+)

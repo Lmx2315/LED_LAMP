@@ -1,0 +1,172 @@
+(Cell	rj45
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/27/06,15:28:33)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.rj45)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/27/06,15:31:02)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.rj45)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000db76c645)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,15:30:52)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.rj45)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc103b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f511a47f)
+
+			(Primitives	1
+
+				(Primitive	RJ45
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,15:28:36)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.rj45)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RJ45
+
+							(PackType	RJ45)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bd8037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ca003ad)
+
+)
+

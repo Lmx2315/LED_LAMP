@@ -1,0 +1,49 @@
+
+	(Comment
+		(Time 12/09/11,15:34:33)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 12/09/11,15:36:26)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package adf4001 added to cell")
+		(Param1 adf4001)
+	)
+
+
+
+	(Comment
+		(Time 12/09/11,15:51:39)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package ADF4001 deleted from cell")
+		(Param1 ADF4001)
+	)
+	(Comment
+		(Time 12/09/11,15:51:41)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package adf4001 added to cell")
+		(Param1 adf4001)
+	)
+	(Comment
+		(Time 12/09/11,15:51:46)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package ADF4001 deleted from cell")
+		(Param1 ADF4001)
+	)
+
+	(Comment
+		(Time 12/09/11,15:53:58)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package adf4001 added to cell")
+		(Param1 adf4001)
+	)
+

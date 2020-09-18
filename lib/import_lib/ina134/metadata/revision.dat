@@ -1,0 +1,170 @@
+(Cell	ina134
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/27/09,09:37:22)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ina134)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/27/09,10:09:29)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ina134)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000004a74c833)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/27/09,09:37:24)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ina134)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000075a0382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008ede8364)
+
+			(Primitives	1
+
+				(Primitive	INA134
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/27/09,09:55:55)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ina134)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	INA134
+
+							(PackType	INA134)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000027c80364)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000093f0352)
+
+)
+

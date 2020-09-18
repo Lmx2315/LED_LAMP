@@ -1,0 +1,16 @@
+
+	(Comment
+		(Time 07/17/06,19:02:53)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package PAC4_RES added to cell")
+		(Param1 PAC4_RES)
+	)
+
+	(Comment
+		(Time 07/17/06,19:03:36)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

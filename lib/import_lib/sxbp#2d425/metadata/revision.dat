@@ -1,0 +1,178 @@
+(Cell	sxbp-425
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/13/11,16:27:51)
+
+			(User	Sergey)
+
+			(Path	import_lib.sxbp-425)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/13/11,16:28:52)
+
+			(User	Sergey)
+
+			(Path	import_lib.sxbp-425)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b3a9590e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/13/11,16:27:53)
+
+							(User	Sergey)
+
+							(Path	import_lib.sxbp-425)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000153103b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000028fd9fd6)
+
+			(Primitives	1
+
+				(Primitive	SXBP-425
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/13/11,16:28:20)
+
+							(User	Sergey)
+
+							(Path	import_lib.sxbp-425)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SXBP-425
+
+							(PackType	SXBP-425)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000353b03b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000067020378)
+
+)
+

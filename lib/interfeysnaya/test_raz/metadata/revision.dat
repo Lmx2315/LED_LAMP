@@ -1,0 +1,170 @@
+(Cell	test_raz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/14/06,12:01:17)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.test_raz)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/14/06,12:13:25)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.test_raz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000bcb1a95b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/06,12:01:22)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.test_raz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000081f1040a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000797f691c)
+
+			(Primitives	1
+
+				(Primitive	TEST_RAZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/06,12:02:05)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.test_raz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEST_RAZ
+
+							(PackType	TEST_RAZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000005db03b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000158a03a3)
+
+)
+

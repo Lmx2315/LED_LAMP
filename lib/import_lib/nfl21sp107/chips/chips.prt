@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Mar 15 11:15:14 2004' ;
+primitive 'NFL21SP107';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GNDD':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='NFL21SP107';
+    JEDEC_TYPE='F172';
+    BODY_NAME='NFL21SP107';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

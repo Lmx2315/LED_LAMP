@@ -1,0 +1,47 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Apr 10 11:49:21 2003' ;
+primitive 'CNP30';
+  pin
+    'A9':
+      PIN_NUMBER='(A9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B9':
+      PIN_NUMBER='(B9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A10':
+      PIN_NUMBER='(A10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B10':
+      PIN_NUMBER='(B10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'C8':
+      PIN_NUMBER='(C8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A8':
+      PIN_NUMBER='(A8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A7':
+      PIN_NUMBER='(A7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'C7':
+      PIN_NUMBER='(C7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'C6':
+      PIN_NUMBER='(C6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'C5':
+      PIN_NUMBER='(C5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'A1':
+      PIN_NUMBER='(A1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    NC_PINS='(A2,A3,A4,A5,A6,B1,B2,B3,B4,B5,B6,B7,B8,C1,C2,C3,C4,C9,C10,1,2)';
+    CLASS='DISCRETE';
+    PART_NAME='CNP30';
+    JEDEC_TYPE='F12';
+    BODY_NAME='CNP30';
+  end_body;
+end_primitive;
+END.

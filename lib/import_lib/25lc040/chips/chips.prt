@@ -1,0 +1,35 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Mar 14 10:58:34 2005' ;
+primitive '25LC040';
+  pin
+    '-CS':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'MISO':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-WP':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-HOLD':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SCK':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'MOSI':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    POWER_PINS='(VCC:8)';
+    POWER_PINS='(VSS:4)';
+    CLASS='IC';
+    PART_NAME='25LC040';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='SOIC8';
+    BODY_NAME='25LC040';
+    PACK_TYPE='?';
+  end_body;
+end_primitive;
+END.

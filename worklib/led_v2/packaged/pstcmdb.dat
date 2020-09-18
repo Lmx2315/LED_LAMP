@@ -1,0 +1,1835 @@
+; Packager-XL run on 10-Sep-2020 AT 18:44:21 CONSTRAINTS_VIEW_GENERATED
+( ConstraintFile "led_v2"
+	( constraintHeader
+		( objectKey
+			( physical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 67 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SEC_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "FAMILY" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "$sec" )
+			( Description "" )
+			( Value
+				( DataType ( dString ) )
+				( Status   )
+			)
+			( Objects
+				( ValidObjects  oAll )
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "led_v2"
+				( objectFlag fObjectReadOnly )
+				( objectStatus "led_v2" )
+			)
+			( signal "CSN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):csn" )
+			)
+			( signal "DBG_CLK"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):dbg_clk" )
+			)
+			( signal "DBG_DATA"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):dbg_data" )
+			)
+			( signal "DGND"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):dgnd" )
+			)
+			( signal "P0_4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):p0_4" )
+			)
+			( signal "RST"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):rst" )
+			)
+			( signal "MISO"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):miso" )
+			)
+			( signal "MOSI"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):mosi" )
+			)
+			( signal "P3V3"
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):p3v3" )
+			)
+			( signal "PWM_BLUE"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_blue" )
+			)
+			( signal "PWM_BLUE_12V"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_blue_12v" )
+			)
+			( signal "PWM_GREEN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_green" )
+			)
+			( signal "PWM_GREEN_12V"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_green_12v" )
+			)
+			( signal "PWM_RED"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_red" )
+			)
+			( signal "PWM_RED_12V"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):pwm_red_12v" )
+			)
+			( signal "RX_UART"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):rx_uart" )
+			)
+			( signal "SCLK"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):sclk" )
+			)
+			( signal "TX_UART"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):tx_uart" )
+			)
+			( signal "UNNAMED_1_CAP_I6_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_cap_i6_b" )
+			)
+			( signal "UNNAMED_1_DS9503_I17_5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i17_5" )
+			)
+			( signal "UNNAMED_1_DS9503_I17_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i17_6" )
+			)
+			( signal "UNNAMED_1_DS9503_I18_5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i18_5" )
+			)
+			( signal "UNNAMED_1_DS9503_I18_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i18_6" )
+			)
+			( signal "UNNAMED_1_DS9503_I19_5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i19_5" )
+			)
+			( signal "UNNAMED_1_DS9503_I19_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i19_6" )
+			)
+			( signal "UNNAMED_1_DS9503_I20_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i20_6" )
+			)
+			( signal "UNNAMED_1_PC817_I28_ANODE"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i28_anode" )
+			)
+			( signal "UNNAMED_1_PC817_I39_ANODE"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i39_anode" )
+			)
+			( signal "UNNAMED_1_PC817_I48_ANODE"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_pc817_i48_anode" )
+			)
+			( signal "UNNAMED_1_RES_I10_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i10_2" )
+			)
+			( signal "UNNAMED_1_RES_I11_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i11_1" )
+			)
+			( signal "UNNAMED_1_RES_I13_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i13_2" )
+			)
+			( signal "UNNAMED_1_RES_I14_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i14_2" )
+			)
+			( signal "UNNAMED_1_RES_I15_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i15_2" )
+			)
+			( signal "UNNAMED_1_RES_I16_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i16_2" )
+			)
+			( signal "UNNAMED_1_RES_I26_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i26_1" )
+			)
+			( signal "UNNAMED_1_RES_I27_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i27_1" )
+			)
+			( signal "12V"
+				( attribute "VOLTAGE" "3.3"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Status sAliasConflict )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):\12v\" )
+			)
+			( signal "LGND"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):lgnd" )
+			)
+			( signal "UNNAMED_2_A6211_I1_BOOT"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_boot" )
+			)
+			( signal "UNNAMED_2_A6211_I1_CS"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_cs" )
+			)
+			( signal "UNNAMED_2_A6211_I1_SW"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_sw" )
+			)
+			( signal "UNNAMED_2_A6211_I1_TON"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_ton" )
+			)
+			( signal "UNNAMED_2_A6211_I1_VCC"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_vcc" )
+			)
+			( signal "UNNAMED_2_CAP_I13_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i13_b" )
+			)
+			( signal "UNNAMED_1_LED_I57_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i57_1" )
+			)
+			( signal "UNNAMED_1_LED_I57_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i57_2" )
+			)
+			( signal "UNNAMED_1_LED_I62_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i62_1" )
+			)
+			( signal "UNNAMED_1_LED_I62_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_led_i62_2" )
+			)
+			( signal "P0_5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):p0_5" )
+			)
+			( signal "P0_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):p0_6" )
+			)
+			( signal "P0_7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):p0_7" )
+			)
+			( signal "UNNAMED_1_IDC10_I63_7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_idc10_i63_7" )
+			)
+			( signal "UNNAMED_1_RES_I73_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i73_1" )
+			)
+			( signal "UNNAMED_1_RES_I74_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i74_1" )
+			)
+			( signal "UNNAMED_1_RES_I75_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i75_1" )
+			)
+			( signal "UNNAMED_1_RES_I76_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i76_1" )
+			)
+			( signal "SUPL_GND"
+				( attribute "VOLTAGE" "0"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):supl_gnd" )
+			)
+			( signal "UNNAMED_1_PLD8_I85_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_pld8_i85_2" )
+			)
+			( signal "UNNAMED_1_RES_I88_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i88_2" )
+			)
+			( signal "UNNAMED_1_RES_I89_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i89_2" )
+			)
+			( signal "UNNAMED_1_RES_I90_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i90_2" )
+			)
+			( signal "UNNAMED_1_RES_I91_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_res_i91_2" )
+			)
+			( signal "WF_RST"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):wf_rst" )
+			)
+			( signal "WFCH_PD"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):wfch_pd" )
+			)
+			( signal "WFGPIO_0"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):wfgpio_0" )
+			)
+			( signal "WFGPIO_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):wfgpio_2" )
+			)
+			( signal "UNNAMED_1_ADM6320_I93_RESET"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_adm6320_i93_reset" )
+			)
+			( signal "WDI_RST"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):wdi_rst" )
+			)
+			( signal "UNNAMED_1_DS9503_I101_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i101_6" )
+			)
+			( signal "UNNAMED_1_DS9503_I102_6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_1_ds9503_i102_6" )
+			)
+			( signal "+12V_SUPL"
+				( attribute "VOLTAGE" "+12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):\+12v_supl\" )
+			)
+			( signal "UNNAMED_3_C_I22_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_c_i22_2" )
+			)
+			( signal "UNNAMED_3_R_I15_1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_r_i15_1" )
+			)
+			( signal "UNNAMED_3_R_I20_2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_r_i20_2" )
+			)
+			( signal "UNNAMED_2_IRLML2060_I49_S"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i49_s" )
+			)
+			( signal "UNNAMED_2_A6211_I1_EN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i1_en" )
+			)
+			( signal "UNNAMED_2_A6211_I55_BOOT"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_boot" )
+			)
+			( signal "UNNAMED_2_A6211_I55_CS"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_cs" )
+			)
+			( signal "UNNAMED_2_A6211_I55_EN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_en" )
+			)
+			( signal "UNNAMED_2_A6211_I55_SW"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_sw" )
+			)
+			( signal "UNNAMED_2_A6211_I55_TON"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_ton" )
+			)
+			( signal "UNNAMED_2_A6211_I55_VCC"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i55_vcc" )
+			)
+			( signal "UNNAMED_2_A6211_I76_BOOT"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_boot" )
+			)
+			( signal "UNNAMED_2_A6211_I76_CS"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_cs" )
+			)
+			( signal "UNNAMED_2_A6211_I76_EN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_en" )
+			)
+			( signal "UNNAMED_2_A6211_I76_SW"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_sw" )
+			)
+			( signal "UNNAMED_2_A6211_I76_TON"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_ton" )
+			)
+			( signal "UNNAMED_2_A6211_I76_VCC"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_a6211_i76_vcc" )
+			)
+			( signal "UNNAMED_2_CAP_I57_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i57_b" )
+			)
+			( signal "UNNAMED_2_CAP_I62_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i62_b" )
+			)
+			( signal "UNNAMED_2_CAP_I81_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i81_b" )
+			)
+			( signal "UNNAMED_2_CAP_I90_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i90_b" )
+			)
+			( signal "UNNAMED_2_IRLML2060_I58_S"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i58_s" )
+			)
+			( signal "UNNAMED_2_IRLML2060_I79_S"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_irlml2060_i79_s" )
+			)
+			( signal "UNNAMED_3_CAP_I30_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i30_b" )
+			)
+			( signal "+12V"
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):\+12v\" )
+			)
+			( signal "+12V_DD"
+				( attribute "VOLTAGE" "12"
+					( Units "uVoltage" "V" 1.000000)
+					( Status sAliasFlattened )
+					( Origin gFrontEnd )
+				)
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):\+12v_dd\" )
+			)
+			( signal "UNNAMED_3_MP2307_I29_EN"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_mp2307_i29_en" )
+			)
+			( signal "UNNAMED_3_CAP_I46_A"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i46_a" )
+			)
+			( signal "UNNAMED_3_CAP_I46_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i46_b" )
+			)
+			( signal "UNNAMED_3_CAP_I52_A"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i52_a" )
+			)
+			( signal "UNNAMED_3_CAP_I52_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_cap_i52_b" )
+			)
+			( signal "UNNAMED_3_MP2307_I29_FB"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_3_mp2307_i29_fb" )
+			)
+			( signal "UNNAMED_2_CAP_I53_B"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):unnamed_2_cap_i53_b" )
+			)
+			( gate "U2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i1" )
+				( pin "U2.23"
+					( objectStatus "p0_0" )
+				)
+				( pin "U2.22"
+					( objectStatus "p0_1" )
+				)
+				( pin "U2.21"
+					( objectStatus "p0_2" )
+				)
+				( pin "U2.20"
+					( objectStatus "p0_3" )
+				)
+				( pin "U2.19"
+					( objectStatus "p0_4" )
+				)
+				( pin "U2.18"
+					( objectStatus "p0_5" )
+				)
+				( pin "U2.17"
+					( objectStatus "p0_6" )
+				)
+				( pin "U2.16"
+					( objectStatus "p0_7" )
+				)
+				( pin "U2.15"
+					( objectStatus "p1_0" )
+				)
+				( pin "U2.14"
+					( objectStatus "p1_1" )
+				)
+				( pin "U2.13"
+					( objectStatus "p1_2" )
+				)
+				( pin "U2.12"
+					( objectStatus "p1_3" )
+				)
+				( pin "U2.11"
+					( objectStatus "p1_4" )
+				)
+				( pin "U2.10"
+					( objectStatus "p1_5" )
+				)
+				( pin "U2.7"
+					( objectStatus "p1_6" )
+				)
+				( pin "U2.6"
+					( objectStatus "p1_7" )
+				)
+				( pin "U2.5"
+					( objectStatus "p2_0" )
+				)
+				( pin "U2.4"
+					( objectStatus "p2_1" )
+				)
+				( pin "U2.3"
+					( objectStatus "p2_2" )
+				)
+				( pin "U2.24"
+					( objectStatus "reset" )
+				)
+			)
+			( gate "R4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i3" )
+				( pin "R4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R4.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "XT6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i4" )
+				( pin "XT6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT6.2"
+					( objectStatus "\2\" )
+				)
+				( pin "XT6.3"
+					( objectStatus "\3\" )
+				)
+				( pin "XT6.4"
+					( objectStatus "\4\" )
+				)
+				( pin "XT6.5"
+					( objectStatus "\5\" )
+				)
+				( pin "XT6.6"
+					( objectStatus "\6\" )
+				)
+				( pin "XT6.7"
+					( objectStatus "\7\" )
+				)
+				( pin "XT6.8"
+					( objectStatus "\8\" )
+				)
+				( pin "XT6.9"
+					( objectStatus "\9\" )
+				)
+				( pin "XT6.10"
+					( objectStatus "\10\" )
+				)
+			)
+			( gate "R2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i5" )
+				( pin "R2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i6" )
+				( pin "C1.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C1.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i10" )
+				( pin "R5.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R5.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R11"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i11" )
+				( pin "R11.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R11.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R10"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i13" )
+				( pin "R10.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R10.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R9"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i14" )
+				( pin "R9.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R9.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R8"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i15" )
+				( pin "R8.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R8.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i16" )
+				( pin "R7.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R7.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "DD1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i17" )
+				( pin "DD1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD1.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD1.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD1.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "DD2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i18" )
+				( pin "DD2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD2.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD2.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD2.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "DD3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i19" )
+				( pin "DD3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD3.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD3.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD3.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "DD4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i20" )
+				( pin "DD4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD4.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD4.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD4.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "XT1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i22" )
+				( pin "XT1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i24" )
+				( pin "R1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R26"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i26" )
+				( pin "R26.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R26.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R25"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i27" )
+				( pin "R25.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R25.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i28" )
+				( pin "U3.1"
+					( objectStatus "anode" )
+				)
+				( pin "U3.2"
+					( objectStatus "cathode" )
+				)
+				( pin "U3.4"
+					( objectStatus "collector" )
+				)
+				( pin "U3.3"
+					( objectStatus "emitter" )
+				)
+			)
+			( gate "R15"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i29" )
+				( pin "R15.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R15.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i33" )
+				( pin "C4.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C4.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R18"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i37" )
+				( pin "R18.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R18.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i39" )
+				( pin "U4.1"
+					( objectStatus "anode" )
+				)
+				( pin "U4.2"
+					( objectStatus "cathode" )
+				)
+				( pin "U4.4"
+					( objectStatus "collector" )
+				)
+				( pin "U4.3"
+					( objectStatus "emitter" )
+				)
+			)
+			( gate "C5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i43" )
+				( pin "C5.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C5.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R19"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i45" )
+				( pin "R19.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R19.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R16"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i47" )
+				( pin "R16.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R16.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i48" )
+				( pin "U5.1"
+					( objectStatus "anode" )
+				)
+				( pin "U5.2"
+					( objectStatus "cathode" )
+				)
+				( pin "U5.4"
+					( objectStatus "collector" )
+				)
+				( pin "U5.3"
+					( objectStatus "emitter" )
+				)
+			)
+			( gate "C6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i51" )
+				( pin "C6.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C6.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R20"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i53" )
+				( pin "R20.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R20.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R17"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i56" )
+				( pin "R17.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R17.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i1" )
+				( pin "U7.7"
+					( objectStatus "boot" )
+				)
+				( pin "U7.4"
+					( objectStatus "cs" )
+				)
+				( pin "U7.3"
+					( objectStatus "en" )
+				)
+				( pin "U7.8"
+					( objectStatus "sw" )
+				)
+				( pin "U7.2"
+					( objectStatus "ton" )
+				)
+				( pin "U7.1"
+					( objectStatus "vin" )
+				)
+				( pin "U7.5"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "C10"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i4" )
+				( pin "C10.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C10.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C8"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i6" )
+				( pin "C8.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C8.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R33"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i8" )
+				( pin "R33.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R33.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C12"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i9" )
+				( pin "C12.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C12.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R37"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i10" )
+				( pin "R37.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R37.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i12" )
+				( pin "L3.1"
+					( objectStatus "a" )
+				)
+				( pin "L3.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "C16"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i13" )
+				( pin "C16.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C16.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "U14"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i14" )
+				( pin "U14.1"
+					( objectStatus "a" )
+				)
+				( pin "U14.2"
+					( objectStatus "c" )
+				)
+			)
+			( gate "XT3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i56" )
+				( pin "XT3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT3.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U12"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i80" )
+				( pin "U12.1"
+					( objectStatus "\1\" )
+				)
+				( pin "U12.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U19"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i79" )
+				( pin "U19.3"
+					( objectStatus "d" )
+				)
+				( pin "U19.1"
+					( objectStatus "g" )
+				)
+				( pin "U19.2"
+					( objectStatus "s" )
+				)
+			)
+			( gate "C19"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i78" )
+				( pin "C19.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C19.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "XT4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i77" )
+				( pin "XT4.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT4.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U11"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i76" )
+				( pin "U11.7"
+					( objectStatus "boot" )
+				)
+				( pin "U11.4"
+					( objectStatus "cs" )
+				)
+				( pin "U11.3"
+					( objectStatus "en" )
+				)
+				( pin "U11.8"
+					( objectStatus "sw" )
+				)
+				( pin "U11.2"
+					( objectStatus "ton" )
+				)
+				( pin "U11.1"
+					( objectStatus "vin" )
+				)
+				( pin "U11.5"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "R32"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i75" )
+				( pin "R32.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R32.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C9"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i73" )
+				( pin "C9.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C9.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R34"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i72" )
+				( pin "R34.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R34.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R36"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i69" )
+				( pin "R36.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R36.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C11"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i68" )
+				( pin "C11.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C11.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C13"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i67" )
+				( pin "C13.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C13.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "U15"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i66" )
+				( pin "U15.1"
+					( objectStatus "a" )
+				)
+				( pin "U15.2"
+					( objectStatus "c" )
+				)
+			)
+			( gate "R38"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i63" )
+				( pin "R38.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R38.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C17"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i62" )
+				( pin "C17.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C17.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "U10"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i61" )
+				( pin "U10.1"
+					( objectStatus "\1\" )
+				)
+				( pin "U10.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "L4"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i59" )
+				( pin "L4.1"
+					( objectStatus "a" )
+				)
+				( pin "L4.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "U17"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i58" )
+				( pin "U17.3"
+					( objectStatus "d" )
+				)
+				( pin "U17.1"
+					( objectStatus "g" )
+				)
+				( pin "U17.2"
+					( objectStatus "s" )
+				)
+			)
+			( gate "C15"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i57" )
+				( pin "C15.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C15.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "U9"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i46" )
+				( pin "U9.1"
+					( objectStatus "\1\" )
+				)
+				( pin "U9.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U8"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i55" )
+				( pin "U8.7"
+					( objectStatus "boot" )
+				)
+				( pin "U8.4"
+					( objectStatus "cs" )
+				)
+				( pin "U8.3"
+					( objectStatus "en" )
+				)
+				( pin "U8.8"
+					( objectStatus "sw" )
+				)
+				( pin "U8.2"
+					( objectStatus "ton" )
+				)
+				( pin "U8.1"
+					( objectStatus "vin" )
+				)
+				( pin "U8.5"
+					( objectStatus "vcc" )
+				)
+			)
+			( gate "HL2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i57" )
+				( pin "HL2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "HL2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R28"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i58" )
+				( pin "R28.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R28.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R27"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i61" )
+				( pin "R27.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R27.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "HL1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i62" )
+				( pin "HL1.1"
+					( objectStatus "\1\" )
+				)
+				( pin "HL1.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "XT7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i63" )
+				( pin "XT7.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT7.2"
+					( objectStatus "\2\" )
+				)
+				( pin "XT7.3"
+					( objectStatus "\3\" )
+				)
+				( pin "XT7.4"
+					( objectStatus "\4\" )
+				)
+				( pin "XT7.5"
+					( objectStatus "\5\" )
+				)
+				( pin "XT7.6"
+					( objectStatus "\6\" )
+				)
+				( pin "XT7.7"
+					( objectStatus "\7\" )
+				)
+				( pin "XT7.8"
+					( objectStatus "\8\" )
+				)
+				( pin "XT7.9"
+					( objectStatus "\9\" )
+				)
+				( pin "XT7.10"
+					( objectStatus "\10\" )
+				)
+			)
+			( gate "R24"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i76" )
+				( pin "R24.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R24.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R23"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i75" )
+				( pin "R23.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R23.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R22"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i74" )
+				( pin "R22.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R22.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R21"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i73" )
+				( pin "R21.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R21.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R29"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i72" )
+				( pin "R29.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R29.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i79" )
+				( pin "C3.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C3.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C7"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i82" )
+				( pin "C7.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C7.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "XT5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i1" )
+				( pin "XT5.1"
+					( objectStatus "centr" )
+				)
+				( pin "XT5.3"
+					( objectStatus "kp1" )
+				)
+				( pin "XT5.2"
+					( objectStatus "kp2" )
+				)
+			)
+			( gate "L1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i2" )
+				( pin "L1.B"
+					( objectStatus "b" )
+				)
+				( pin "L1.CB"
+					( objectStatus "cb" )
+				)
+				( pin "L1.CG"
+					( objectStatus "cg" )
+				)
+				( pin "L1.PSG"
+					( objectStatus "psg" )
+				)
+			)
+			( gate "C30"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i10" )
+				( pin "C30.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C30.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C32"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i13" )
+				( pin "C32.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C32.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "U6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i85" )
+				( pin "U6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "U6.2"
+					( objectStatus "\2\" )
+				)
+				( pin "U6.3"
+					( objectStatus "\3\" )
+				)
+				( pin "U6.4"
+					( objectStatus "\4\" )
+				)
+				( pin "U6.5"
+					( objectStatus "\5\" )
+				)
+				( pin "U6.6"
+					( objectStatus "\6\" )
+				)
+				( pin "U6.7"
+					( objectStatus "\7\" )
+				)
+				( pin "U6.8"
+					( objectStatus "\8\" )
+				)
+			)
+			( gate "R30"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i86" )
+				( pin "R30.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R30.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i88" )
+				( pin "R6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R6.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R12"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i89" )
+				( pin "R12.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R12.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R13"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i90" )
+				( pin "R13.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R13.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R14"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i91" )
+				( pin "R14.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R14.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "U1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i93" )
+				( pin "U1.2"
+					( objectStatus "gnd" )
+				)
+				( pin "U1.3"
+					( objectStatus "mr" )
+				)
+				( pin "U1.1"
+					( objectStatus "reset" )
+				)
+				( pin "U1.5"
+					( objectStatus "vcc" )
+				)
+				( pin "U1.4"
+					( objectStatus "wdi" )
+				)
+			)
+			( gate "C2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i95" )
+				( pin "C2.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C2.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R3"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i99" )
+				( pin "R3.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R3.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "DD5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i101" )
+				( pin "DD5.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD5.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD5.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD5.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "DD6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page1_i102" )
+				( pin "DD6.1"
+					( objectStatus "\1\" )
+				)
+				( pin "DD6.2"
+					( objectStatus "\2\" )
+				)
+				( pin "DD6.5"
+					( objectStatus "\5\" )
+				)
+				( pin "DD6.6"
+					( objectStatus "\6\" )
+				)
+			)
+			( gate "R43"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i15" )
+				( pin "R43.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R43.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R44"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i18" )
+				( pin "R44.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R44.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R47"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i20" )
+				( pin "R47.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R47.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C24"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i22" )
+				( pin "C24.1"
+					( objectStatus "\1\" )
+				)
+				( pin "C24.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "DA1"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i23" )
+				( pin "DA1.9"
+					( objectStatus "bfet" )
+				)
+				( pin "DA1.1"
+					( objectStatus "dvdt" )
+				)
+				( pin "DA1.2"
+					( objectStatus "en" )
+				)
+				( pin "DA1.10"
+					( objectStatus "ilim" )
+				)
+			)
+			( gate "U13"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i29" )
+				( pin "U13.1"
+					( objectStatus "bs" )
+				)
+				( pin "U13.6"
+					( objectStatus "comp" )
+				)
+				( pin "U13.7"
+					( objectStatus "en" )
+				)
+				( pin "U13.5"
+					( objectStatus "fb" )
+				)
+				( pin "U13.2"
+					( objectStatus "\in\" )
+				)
+				( pin "U13.8"
+					( objectStatus "ss" )
+				)
+				( pin "U13.3"
+					( objectStatus "sw" )
+				)
+			)
+			( gate "U16"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i49" )
+				( pin "U16.3"
+					( objectStatus "d" )
+				)
+				( pin "U16.1"
+					( objectStatus "g" )
+				)
+				( pin "U16.2"
+					( objectStatus "s" )
+				)
+			)
+			( gate "XT2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i50" )
+				( pin "XT2.1"
+					( objectStatus "\1\" )
+				)
+				( pin "XT2.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R31"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i51" )
+				( pin "R31.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R31.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R35"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i52" )
+				( pin "R35.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R35.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C14"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i53" )
+				( pin "C14.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C14.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C22"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i81" )
+				( pin "C22.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C22.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "L5"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i82" )
+				( pin "L5.1"
+					( objectStatus "a" )
+				)
+				( pin "L5.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "U18"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i84" )
+				( pin "U18.1"
+					( objectStatus "a" )
+				)
+				( pin "U18.2"
+					( objectStatus "c" )
+				)
+			)
+			( gate "C20"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i85" )
+				( pin "C20.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C20.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R42"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i87" )
+				( pin "R42.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R42.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R41"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i89" )
+				( pin "R41.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R41.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C21"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i90" )
+				( pin "C21.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C21.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R40"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i92" )
+				( pin "R40.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R40.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C18"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i94" )
+				( pin "C18.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C18.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R39"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page2_i96" )
+				( pin "R39.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R39.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C27"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i30" )
+				( pin "C27.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C27.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "L2"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i33" )
+				( pin "L2.B"
+					( objectStatus "b" )
+				)
+				( pin "L2.CB"
+					( objectStatus "cb" )
+				)
+				( pin "L2.CG"
+					( objectStatus "cg" )
+				)
+				( pin "L2.PSG"
+					( objectStatus "psg" )
+				)
+			)
+			( gate "C33"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i36" )
+				( pin "C33.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C33.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C31"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i38" )
+				( pin "C31.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C31.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R46"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i43" )
+				( pin "R46.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R46.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C23"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i44" )
+				( pin "C23.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C23.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C25"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i46" )
+				( pin "C25.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C25.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "R45"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i47" )
+				( pin "R45.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R45.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R49"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i49" )
+				( pin "R49.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R49.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "R48"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i50" )
+				( pin "R48.1"
+					( objectStatus "\1\" )
+				)
+				( pin "R48.2"
+					( objectStatus "\2\" )
+				)
+			)
+			( gate "C28"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i52" )
+				( pin "C28.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C28.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "L6"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i53" )
+				( pin "L6.1"
+					( objectStatus "a" )
+				)
+				( pin "L6.2"
+					( objectStatus "b" )
+				)
+			)
+			( gate "C29"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i54" )
+				( pin "C29.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C29.2"
+					( objectStatus "b(0)" )
+				)
+			)
+			( gate "C26"
+				( objectStatus "@led_drv1_lib.led_v2(sch_1):page3_i57" )
+				( pin "C26.1"
+					( objectStatus "a(0)" )
+				)
+				( pin "C26.2"
+					( objectStatus "b(0)" )
+				)
+			)
+		)
+	)
+)

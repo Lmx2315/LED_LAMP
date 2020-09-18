@@ -1,0 +1,170 @@
+(Cell	tx1-1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/22/11,11:12:53)
+
+			(User	Sergey)
+
+			(Path	import_lib.tx1-1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/11,11:14:38)
+
+			(User	Sergey)
+
+			(Path	import_lib.tx1-1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000007b79c022)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/11,11:12:53)
+
+							(User	Sergey)
+
+							(Path	import_lib.tx1-1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f7780381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003d97fa5f)
+
+			(Primitives	1
+
+				(Primitive	TX1-1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/11,11:13:26)
+
+							(User	Sergey)
+
+							(Path	import_lib.tx1-1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TX1-1
+
+							(PackType	TX1-1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d26303df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000b4ae03ad)
+
+)
+

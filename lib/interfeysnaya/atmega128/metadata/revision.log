@@ -1,0 +1,90 @@
+
+	(Comment
+		(Time 11/07/06,14:57:00)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 11/07/06,15:03:55)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package atmega128 added to cell")
+		(Param1 atmega128)
+	)
+	(Comment
+		(Time 11/07/06,15:04:19)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 11/07/06,15:05:09)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+
+	(Comment
+		(Time 11/07/06,15:06:37)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_4 added to cell")
+		(Param1 sym_4)
+	)
+
+
+
+
+
+
+	(Comment
+		(Time 11/14/06,15:13:53)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_5 added to cell")
+		(Param1 sym_5)
+	)
+	(Comment
+		(Time 11/14/06,15:13:54)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_6 added to cell")
+		(Param1 sym_6)
+	)
+	(Comment
+		(Time 11/14/06,15:13:55)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_7 added to cell")
+		(Param1 sym_7)
+	)
+	(Comment
+		(Time 11/14/06,15:14:01)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_5 deleted from cell")
+		(Param1 sym_5)
+	)
+	(Comment
+		(Time 11/14/06,15:14:05)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_6 deleted from cell")
+		(Param1 sym_6)
+	)
+	(Comment
+		(Time 11/14/06,15:14:08)
+		(User Sergey)
+		(MsgId ECO_082)
+		(Text "Symbol sym_7 deleted from cell")
+		(Param1 sym_7)
+	)
+
+
+
+
+

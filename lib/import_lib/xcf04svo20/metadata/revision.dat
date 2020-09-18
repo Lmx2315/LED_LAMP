@@ -1,0 +1,170 @@
+(Cell	xcf04svo20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/09,16:45:00)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.xcf04svo20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/15/09,16:53:00)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.xcf04svo20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000097a46b54)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,16:45:02)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.xcf04svo20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000056d70387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fb8ad529)
+
+			(Primitives	1
+
+				(Primitive	XCF04SVO20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,16:49:30)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.xcf04svo20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XCF04SVO20
+
+							(PackType	XCF04SVO20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000c69d037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000044ed03b6)
+
+)
+

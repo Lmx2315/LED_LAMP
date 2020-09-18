@@ -1,0 +1,43 @@
+
+	(Comment
+		(Time 02/12/08,11:53:49)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/12/08,11:56:29)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/12/08,11:58:45)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package xcf16pv048c added to cell")
+		(Param1 xcf16pv048c)
+	)
+
+
+
+	(Comment
+		(Time 02/12/08,12:05:13)
+		(User Validol)
+		(MsgId ECO_022)
+		(Text "Package XCF16PV048C deleted from cell")
+		(Param1 XCF16PV048C)
+	)
+	(Comment
+		(Time 02/12/08,12:05:16)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package xcf16pv048c added to cell")
+		(Param1 xcf16pv048c)
+	)
+
+
+
+

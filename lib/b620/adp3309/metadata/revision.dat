@@ -1,0 +1,180 @@
+(Cell	adp3309
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/21/14,12:33:25)
+
+			(User	imk)
+
+			(Path	b620.adp3309)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/21/14,12:37:08)
+
+			(User	imk)
+
+			(Path	b620.adp3309)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c6d8a49b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,12:33:39)
+
+							(User	imk)
+
+							(Path	b620.adp3309)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc603e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d7362389)
+
+			(Primitives	1
+
+				(Primitive	ADP3309
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,12:34:55)
+
+							(User	imk)
+
+							(Path	b620.adp3309)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADP3309
+
+							(PackType	ADP3309)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot-23-5)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dfe03e9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001dcd03e2)
+
+)
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Zigbee_cc2530.dra                             )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Aug 25 18:58:40 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/SPB_Data/LED_lamp/worklib/led/physical
+    Name      = zigbee_cc2530.psm
+    User      = Lmx
+    Machine   = LMX_PK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

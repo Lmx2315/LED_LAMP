@@ -1,0 +1,3056 @@
+\t (00:00:15) allegro 14.2 p020 i86
+\t (00:00:15) Internal version = v14-2-56C
+\t (00:00:15) 
+
+\t (00:00:15) Starting new drawing...
+\i (00:00:16) setwindow pcb
+\i (00:00:16) trapsize 861
+\i (00:00:16) trapsize 1142
+\i (00:00:21) cdsdoc algromast DEFAULT 
+\t (00:00:22) cdsdoc is starting, please wait...
+\i (03:07:38) trapsize 918
+\i (03:07:38) trapsize 1142
+\i (03:07:51) cdsdoc algromast DEFAULT 
+\t (03:07:51) cdsdoc is starting, please wait...
+\i (03:24:11) trapsize 918
+\i (03:24:11) trapsize 1142
+\i (03:30:59) new 
+\i (03:31:43) newdrawfillin "z11.dra" "Package Symbol"
+\t (03:31:44) Starting new drawing...
+\i (03:31:44) trapsize 861
+\i (03:31:44) trapsize 1142
+\i (03:31:51) add rect 
+\i (03:31:52) pick grid 7768.8 11950.3
+\t (03:31:52) last pick:  7800.0  12000.0
+\i (03:31:53) pick grid 12361.5 8362.9
+\t (03:31:53) last pick:  12400.0  8400.0
+\i (03:36:05) help 
+\i (03:36:40) help 
+\i (03:44:55) trapsize 918
+\i (03:44:55) trapsize 1142
+\i (03:46:10) setwindow form.mini
+\i (03:46:10) FORM mini line_font_id Hidden 
+\i (03:46:12) FORM mini line_font_id Phantom 
+\i (03:46:13) FORM mini line_font_id Dotted 
+\i (03:46:14) FORM mini line_font_id Center 
+\i (03:46:15) FORM mini line_font_id Solid 
+\i (03:46:23) FORM mini class PACKAGE GEOMETRY 
+\i (03:46:31) setwindow pcb
+\i (03:46:31) pick grid 11310.5 11973.1
+\t (03:46:31) last pick:  11300.0  12000.0
+\i (03:46:33) pick grid 11470.4 12224.4
+\t (03:46:33) last pick:  11500.0  12200.0
+\i (03:46:34) add rect 
+\i (03:46:37) add rect 
+\i (03:46:39) pick grid 9322.6 12658.6
+\t (03:46:39) last pick:  9300.0  12700.0
+\i (03:46:42) pick grid 10008.1 14966.4
+\t (03:46:42) last pick:  10000.0  15000.0
+\i (03:46:43) pick grid 11516.1 12178.8
+\t (03:46:43) last pick:  11500.0  12200.0
+\i (03:46:44) pick grid 11447.6 12133.1
+\t (03:46:44) last pick:  11400.0  12100.0
+\i (03:46:45) pick grid 11401.9 11698.9
+\t (03:46:45) last pick:  11400.0  11700.0
+\i (03:46:45) pick grid 11447.6 11310.5
+\t (03:46:45) last pick:  11400.0  11300.0
+\i (03:46:46) pick grid 12087.4 10944.9
+\t (03:46:46) last pick:  12100.0  10900.0
+\i (03:46:47) pick grid 8568.5 10876.3
+\t (03:46:47) last pick:  8600.0  10900.0
+\i (03:46:47) pick grid 9002.7 10739.2
+\t (03:46:47) last pick:  9000.0  10700.0
+\i (03:46:48) pick grid 9733.9 10373.6
+\t (03:46:48) last pick:  9700.0  10400.0
+\i (03:46:48) pick grid 10236.5 9939.5
+\t (03:46:48) last pick:  10200.0  9900.0
+\i (03:46:49) pick grid 10830.6 9711.0
+\t (03:46:49) last pick:  10800.0  9700.0
+\i (03:46:49) pick grid 11173.4 9528.2
+\t (03:46:49) last pick:  11200.0  9500.0
+\i (03:46:49) pick grid 11447.6 9528.2
+\t (03:46:49) last pick:  11400.0  9500.0
+\i (03:46:50) pick grid 11653.2 10350.8
+\t (03:46:50) last pick:  11700.0  10400.0
+\i (03:46:50) pick grid 10556.4 10990.6
+\t (03:46:50) last pick:  10600.0  11000.0
+\i (03:46:51) pick grid 9116.9 11539.0
+\t (03:46:51) last pick:  9100.0  11500.0
+\i (03:46:51) pick grid 9231.2 10350.8
+\t (03:46:51) last pick:  9200.0  10400.0
+\i (03:46:52) pick grid 9665.3 9162.6
+\t (03:46:52) last pick:  9700.0  9200.0
+\i (03:46:53) pick grid 10190.8 8911.3
+\t (03:46:53) last pick:  10200.0  8900.0
+\i (03:46:54) pick grid 10556.4 9893.8
+\t (03:46:54) last pick:  10600.0  9900.0
+\i (03:46:54) pick grid 10876.3 10739.2
+\t (03:46:54) last pick:  10900.0  10700.0
+\i (03:46:55) pick grid 11219.1 11653.2
+\t (03:46:55) last pick:  11200.0  11700.0
+\i (03:47:00) new 
+\f (03:47:00) Do you want to save the changes you made to z11.dra?
+\i (03:47:01) fillin no 
+\i (03:47:13) newdrawfillin "z11.dra" "Package Symbol (Wizard)"
+\t (03:47:14) Starting new drawing...
+\i (03:47:14) trapsize 1142
+\i (03:47:14) package symbol wizard 
+\t (03:47:21) Loading cmds.cxt 
+\t (03:47:21) Loading axlcore.cxt 
+\i (03:47:21) setwindow form.sym_wizard
+\i (03:47:21) FORM sym_wizard soic YES 
+\i (03:47:22) FORM sym_wizard plcc YES 
+\i (03:47:23) FORM sym_wizard bga YES 
+\i (03:47:24) FORM sym_wizard rca_th YES 
+\i (03:47:25) FORM sym_wizard rca_smd YES 
+\i (03:47:25) FORM sym_wizard sip YES 
+\i (03:47:26) FORM sym_wizard zip YES 
+\i (03:47:27) FORM sym_wizard dip YES 
+\i (03:47:29) FORM sym_wizard wiz_next  
+\i (03:47:44) FORM sym_wizard wiz_next  
+\i (03:47:48) fillin confirm
+\i (03:47:51) FORM sym_wizard load_template  
+\t (03:47:51) Opening existing drawing...
+\t (03:47:51) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (03:47:51) setwindow pcb
+\i (03:47:51) trapsize 228
+\i (03:47:59) setwindow form.sym_wizard
+\i (03:47:59) FORM sym_wizard load_template  
+\f (03:47:59) You have already loaded a template in this session. Do you still want to load this template?
+\i (03:48:03) fillin yes 
+\t (03:48:03) Opening existing drawing...
+\t (03:48:03) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (03:48:03) setwindow pcb
+\i (03:48:03) trapsize 228
+\i (03:48:06) setwindow form.sym_wizard
+\i (03:48:06) FORM sym_wizard wiz_next  
+\i (03:48:17) FORM sym_wizard pack_units Millimeter 
+\i (03:48:19) FORM sym_wizard pack_units_create Millimeter 
+\i (03:48:30) FORM sym_wizard wiz_next  
+\i (03:48:44) FORM sym_wizard dip_e 2.500 
+\i (03:48:44) FORM sym_wizard wiz_next  
+\i (03:48:46) FORM sym_wizard wiz_back  
+\i (03:48:58) FORM sym_wizard wiz_next  
+\i (03:49:01) FORM sym_wizard default_pad_browse  
+\f (03:49:01) Package Symbol Wizard Padstack Browser
+\i (03:50:02) fillin "Pad45cir22d"
+\i (03:50:12) FORM sym_wizard pin1_pad_browse  
+\f (03:50:12) Package Symbol Wizard Padstack Browser
+\i (03:50:20) fillin "Pad35cir25d"
+\i (03:50:23) FORM sym_wizard pin1_pad_browse  
+\f (03:50:23) Package Symbol Wizard Padstack Browser
+\i (03:50:56) fillin "Ibm"
+\i (03:50:58) FORM sym_wizard wiz_next  
+\i (03:51:05) FORM sym_wizard origin_at_pin1 YES 
+\i (03:51:05) FORM sym_wizard origin_at_body_center YES 
+\i (03:51:35) FORM sym_wizard wiz_next  
+\i (03:51:42) FORM sym_wizard wiz_finish  
+\w (03:51:42) Scaled value has been rounded off.
+\t (03:51:42) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (03:51:42) setwindow pcb
+\i (03:51:42) trapsize 5804
+\t (03:51:42) Performing DRC. Please wait...
+\t (03:51:42) No DRC errors detected.
+\w (03:51:42) Scaled value has been rounded off.
+\w (03:51:42) Scaled value has been rounded off.
+\w (03:51:42) Large extents, sector size enlarged to: 15240,15240
+\w (03:51:42) Large extents, sector size enlarged to: 30480,30480
+\w (03:51:42) Large extents, sector size enlarged to: 60960,60960
+\w (03:51:42) Large extents, sector size enlarged to: 121920,121920
+\t (03:51:42) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (03:51:42) trapsize 229041
+\t (03:51:42) Creating package symbol 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (03:51:42) Starting Create symbol...
+\i (03:51:52) new 
+\i (03:52:06) newdrawfillin "b1.brd" "Board (Wizard)"
+\t (03:52:06) Starting new drawing...
+\w (03:52:06) Large extents, sector size enlarged to: 15240,15240
+\w (03:52:06) Large extents, sector size enlarged to: 30480,30480
+\w (03:52:06) Large extents, sector size enlarged to: 60960,60960
+\w (03:52:06) Large extents, sector size enlarged to: 121920,121920
+\t (03:52:07) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\t (03:52:07) Grids are drawn 162.560, 162.560 apart for enhanced viewability.
+\i (03:52:07) trapsize 180601
+\t (03:52:08) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (03:52:08) trapsize 229041
+\i (03:52:08) layout wizard 
+\i (03:52:12) setwindow form.brd_wizard
+\i (03:52:12) FORM brd_wizard wiz_next  
+\i (03:52:38) FORM brd_wizard wiz_next  
+\i (03:52:43) FORM brd_wizard wiz_next  
+\i (03:52:48) FORM brd_wizard wiz_next  
+\i (03:52:53) FORM brd_wizard board_units Millimeter 
+\i (03:52:58) FORM brd_wizard board_size A4 
+\i (03:53:01) FORM brd_wizard wiz_next  
+\i (03:53:31) FORM brd_wizard wiz_next  
+\i (03:53:36) FORM brd_wizard wiz_next  
+\i (03:53:55) FORM brd_wizard min_line_width 1.0000 
+\i (03:55:29) FORM brd_wizard def_via_browse  
+\f (03:55:29) Board Wizard Padstack Browser
+\i (03:55:56) fillin "Hole106p"
+\i (03:55:59) FORM brd_wizard wiz_next  
+\i (03:56:06) FORM brd_wizard rectangular_board YES 
+\i (03:56:07) FORM brd_wizard wiz_next  
+\i (03:56:30) FORM brd_wizard rb_outline_width 100.0000 
+\i (03:56:39) FORM brd_wizard rb_route_keepin_distance 5.0000 
+\i (03:56:55) FORM brd_wizard rb_package_keepin_distance 5.0000 
+\i (03:56:55) FORM brd_wizard wiz_next  
+\i (03:56:57) FORM brd_wizard wiz_finish  
+\t (03:56:57) Grids are drawn 650.2400, 650.2400 apart for enhanced viewability.
+\i (03:56:57) setwindow pcb
+\i (03:56:57) trapsize 2290409
+\t (03:56:57) Performing DRC. Please wait...
+\t (03:56:57) No DRC errors detected.
+\w (03:56:57) Small extents, sector size decreased to: 140000,140000
+\i (03:56:57) trapsize 15169
+\i (03:57:59) quickplace 
+\i (03:58:03) setwindow form.quickplc
+\i (03:58:03) FORM quickplc cancel  
+\t (03:58:03) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (04:04:26) setwindow form.mini
+\i (04:04:26) FORM mini class PACKAGE GEOMETRY 
+\i (04:04:37) FORM mini subclass PLACE_BOUND_TOP 
+\i (04:04:44) setwindow pcb
+\i (04:04:44) new 
+\f (04:04:44) Do you want to save the changes you made to b1.brd?
+\i (04:04:45) fillin no 
+\f (04:04:53) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:04:55) newdrawfillin "z11.dra" "Package Symbol"
+\t (04:04:55) Starting new drawing...
+\i (04:04:55) trapsize 12590
+\i (04:04:55) trapsize 15169
+\i (04:04:59) setwindow form.mini
+\i (04:04:59) FORM mini class PACKAGE GEOMETRY 
+\i (04:05:03) FORM mini subclass PLACE_BOUND_TOP 
+\i (04:06:09) setwindow pcb
+\i (04:06:09) add rect 
+\i (04:06:10) pick grid -70.8371 45.5393
+\t (04:06:10) last pick:  -71.1200  45.7200
+\i (04:06:13) pick grid 84.4888 -47.5955
+\t (04:06:13) last pick:  83.8200  -48.2600
+\t (04:06:13) System is expecting a rectangle on PLACE_BOUND_TOP.
+\i (04:06:24) pick grid 12.5899 15.5056
+\t (04:06:24) last pick:  12.7000  15.2400
+\i (04:06:25) pick grid 45.0506 28.2472
+\t (04:06:25) last pick:  45.7200  27.9400
+\t (04:06:25) System is expecting a rectangle on PLACE_BOUND_TOP.
+\i (04:06:26) pick grid 0.7584 7.6179
+\t (04:06:26) last pick:  0.0000  7.6200
+\i (04:06:27) pick grid 59.6124 5.7977
+\t (04:06:27) last pick:  58.4200  5.0800
+\t (04:06:27) System is expecting a rectangle on PLACE_BOUND_TOP.
+\i (04:06:30) pick grid -27.7584 -2.0899
+\t (04:06:30) last pick:  -27.9400  -2.5400
+\i (04:06:32) done 
+\e (04:06:36) Command not found: Del
+\i (04:06:42) delete 
+\i (04:06:43) pick grid -2.2753 6.7078
+\t (04:06:43) last pick:  -2.5400  7.6200
+\i (04:06:44) done 
+\i (04:06:47) delete 
+\i (04:06:48) pick grid 22.2978 21.5730
+\t (04:06:48) last pick:  22.8600  20.3200
+\i (04:06:49) done 
+\e (04:06:51) Command not found: Del
+\e (04:06:52) Command not found: Del
+\i (04:06:56) delete 
+\i (04:06:57) pick grid 7.4326 6.4045
+\t (04:06:57) last pick:  7.6200  7.6200
+\i (04:07:00) done 
+\i (04:10:35) new 
+\f (04:10:35) Do you want to save the changes you made to z11.dra?
+\i (04:10:37) fillin no 
+\f (04:10:47) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:10:48) newdrawfillin "z11.dra" "Package Symbol (Wizard)"
+\t (04:10:48) Starting new drawing...
+\i (04:10:48) trapsize 15169
+\i (04:10:48) package symbol wizard 
+\i (04:10:52) setwindow form.sym_wizard
+\i (04:10:52) FORM sym_wizard wiz_next  
+\i (04:10:57) FORM sym_wizard load_template  
+\t (04:10:57) Opening existing drawing...
+\t (04:10:57) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (04:10:57) setwindow pcb
+\i (04:10:57) trapsize 228
+\i (04:10:58) setwindow form.sym_wizard
+\i (04:10:58) FORM sym_wizard wiz_next  
+\i (04:11:01) FORM sym_wizard pack_units Millimeter 
+\i (04:11:03) FORM sym_wizard pack_units_create Millimeter 
+\i (04:11:04) FORM sym_wizard wiz_next  
+\i (04:11:07) FORM sym_wizard wiz_next  
+\i (04:11:13) FORM sym_wizard default_pad_browse  
+\f (04:11:13) Package Symbol Wizard Padstack Browser
+\i (04:11:18) fillin "Hole130p"
+\i (04:11:20) FORM sym_wizard wiz_next  
+\i (04:11:22) FORM sym_wizard wiz_next  
+\i (04:11:23) FORM sym_wizard wiz_finish  
+\w (04:11:23) Scaled value has been rounded off.
+\t (04:11:23) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (04:11:23) setwindow pcb
+\i (04:11:23) trapsize 5804
+\t (04:11:23) Performing DRC. Please wait...
+\t (04:11:23) No DRC errors detected.
+\w (04:11:23) Scaled value has been rounded off.
+\w (04:11:23) Large extents, sector size enlarged to: 15240,15240
+\w (04:11:23) Large extents, sector size enlarged to: 30480,30480
+\w (04:11:23) Large extents, sector size enlarged to: 60960,60960
+\w (04:11:23) Large extents, sector size enlarged to: 121920,121920
+\t (04:11:23) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:11:23) trapsize 229041
+\f (04:11:23) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm: File Exists. Overwrite? 
+\i (04:11:28) fillin yes 
+\t (04:11:28) Creating package symbol 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (04:11:28) Starting Create symbol...
+\f (04:11:28) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:11:31) fillin yes 
+\i (04:11:41) setwindow form.mini
+\i (04:11:41) FORM mini class PACKAGE KEEPOUT 
+\i (04:11:43) FORM mini subclass BOTTOM 
+\i (04:11:45) FORM mini class PACKAGE GEOMETRY 
+\i (04:11:48) FORM mini subclass PLACE_BOUND_TOP 
+\i (04:12:29) setwindow pcb
+\i (04:12:29) open 
+\i (04:12:32) fillin "z11.dra"
+\t (04:12:32) Opening existing drawing...
+\t (04:12:32) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:12:32) trapsize 229041
+\i (04:12:36) open 
+\i (04:12:40) fillin "z11.dra"
+\t (04:12:40) Opening existing drawing...
+\t (04:12:40) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:12:40) trapsize 229041
+\i (04:12:47) zoom out 
+\i (04:12:47) zoom out 22369.716 16913.552
+\t (04:12:47) The display is zoomed out as far as it can go.
+\i (04:12:47) zoom out 
+\i (04:12:47) zoom out 22369.716 16913.552
+\t (04:12:47) The display is zoomed out as far as it can go.
+\i (04:12:47) zoom out 
+\i (04:12:47) zoom out 22369.716 16913.552
+\t (04:12:47) The display is zoomed out as far as it can go.
+\i (04:12:48) zoom out 
+\i (04:12:48) zoom out 22369.716 16913.552
+\t (04:12:48) The display is zoomed out as far as it can go.
+\i (04:12:48) zoom out 
+\i (04:12:48) zoom out 22369.716 16913.552
+\t (04:12:48) The display is zoomed out as far as it can go.
+\i (04:12:48) zoom out 
+\i (04:12:48) zoom out 22369.716 16913.552
+\t (04:12:48) The display is zoomed out as far as it can go.
+\i (04:12:49) zoom in 
+\i (04:12:49) zoom in 22369.716 16913.552
+\t (04:12:49) Grids are drawn 162.560, 162.560 apart for enhanced viewability.
+\i (04:12:49) trapsize 114520
+\i (04:12:49) zoom in 
+\i (04:12:49) zoom in 22369.716 16913.552
+\i (04:12:49) trapsize 57260
+\i (04:12:49) zoom in 
+\i (04:12:49) zoom in 22369.716 16913.552
+\t (04:12:49) Grids are drawn 40.640, 40.640 apart for enhanced viewability.
+\i (04:12:49) trapsize 28630
+\i (04:12:50) zoom in 
+\i (04:12:50) zoom in 22369.716 16913.552
+\i (04:12:50) trapsize 14315
+\i (04:12:50) zoom in 
+\i (04:12:50) zoom in 22369.716 16913.552
+\t (04:12:50) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (04:12:50) trapsize 7158
+\i (04:12:50) zoom in 
+\i (04:12:50) zoom in 22369.716 16913.553
+\i (04:12:50) trapsize 3579
+\i (04:12:50) zoom in 
+\i (04:12:50) zoom in 22369.716 16913.553
+\i (04:12:50) trapsize 1789
+\i (04:12:50) zoom in 
+\i (04:12:50) zoom in 22369.717 16913.553
+\i (04:12:50) trapsize 895
+\i (04:12:51) zoom in 
+\i (04:12:51) zoom in 22369.717 16913.553
+\i (04:12:51) trapsize 447
+\i (04:12:51) zoom in 
+\i (04:12:51) zoom in 22369.717 16913.553
+\i (04:12:51) trapsize 224
+\i (04:12:51) zoom in 
+\i (04:12:51) zoom in 22369.717 16913.553
+\i (04:12:51) trapsize 112
+\i (04:12:52) zoom out 
+\i (04:12:52) zoom out 22369.717 16913.553
+\i (04:12:52) trapsize 224
+\i (04:12:52) zoom out 
+\i (04:12:52) zoom out 22369.718 16913.553
+\i (04:12:52) trapsize 447
+\i (04:12:52) zoom out 
+\i (04:12:52) zoom out 22369.718 16913.554
+\i (04:12:52) trapsize 895
+\i (04:12:52) zoom out 
+\i (04:12:52) zoom out 22369.718 16913.553
+\i (04:12:52) trapsize 1789
+\i (04:12:52) zoom out 
+\i (04:12:52) zoom out 22369.717 16913.553
+\i (04:12:52) trapsize 3579
+\i (04:12:53) zoom out 
+\i (04:12:53) zoom out 22369.717 16913.554
+\i (04:12:53) trapsize 7157
+\i (04:12:53) zoom out 
+\i (04:12:53) zoom out 22369.717 16913.553
+\t (04:12:53) Grids are drawn 40.640, 40.640 apart for enhanced viewability.
+\i (04:12:53) trapsize 14315
+\i (04:12:53) zoom out 
+\i (04:12:53) zoom out 22369.718 16913.553
+\i (04:12:53) trapsize 28630
+\i (04:12:53) zoom out 
+\i (04:12:53) zoom out 22369.717 16913.553
+\t (04:12:53) Grids are drawn 162.560, 162.560 apart for enhanced viewability.
+\i (04:12:53) trapsize 57259
+\i (04:12:53) zoom out 
+\i (04:12:53) zoom out 22369.717 16913.553
+\i (04:12:53) trapsize 114519
+\i (04:12:54) zoom out 
+\i (04:12:54) zoom out 22369.717 16913.553
+\t (04:12:54) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:12:54) trapsize 229041
+\i (04:12:54) zoom out 
+\i (04:12:54) zoom out 22369.716 16913.552
+\t (04:12:54) The display is zoomed out as far as it can go.
+\i (04:12:54) zoom out 
+\i (04:12:54) zoom out 22369.716 16913.552
+\t (04:12:54) The display is zoomed out as far as it can go.
+\i (04:12:56) open 
+\i (04:12:58) fillin "z11.dra"
+\t (04:12:58) Opening existing drawing...
+\t (04:12:58) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:12:58) trapsize 229041
+\i (04:13:07) setwindow form.mini
+\i (04:13:07) FORM mini class BOARD GEOMETRY 
+\i (04:13:09) setwindow pcb
+\i (04:13:09) open 
+\i (04:13:12) fillin "z11.dra"
+\t (04:13:12) Opening existing drawing...
+\t (04:13:12) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:13:12) trapsize 229041
+\i (04:13:20) show element 
+\i (04:13:29) setwindow form.find
+\i (04:13:29) FORM find find_by_name  
+\i (04:13:32) setwindow form.findname
+\i (04:13:32) FORM findname cancel  
+\i (04:13:39) setwindow pcb
+\i (04:13:39) add pin 
+\i (04:13:41) pick grid 22140.675 23097.655
+\t (04:13:41) last pick:  22141.180  23098.760
+\e (04:13:41) No padstack specified!
+\i (04:13:42) pick grid 22140.675 22776.998
+\t (04:13:42) last pick:  22141.180  22776.180
+\e (04:13:42) No padstack specified!
+\i (04:13:45) setwindow form.mini
+\i (04:13:45) FORM mini pad_browse  
+\f (04:13:45) Select a padstack:
+\i (04:13:47) fillin "Hole109p"
+\w (04:13:47) Scaled value has been rounded off.
+\t (04:13:47) Using 'HOLE109P.pad'.
+\i (04:13:48) setwindow pcb
+\i (04:13:48) pick grid 20354.156 24609.324
+\t (04:13:48) last pick:  20353.020  24610.060
+\t (04:13:48) Using 'HOLE109P.pad'.
+\i (04:13:49) pick grid 20125.116 25021.598
+\t (04:13:49) last pick:  20124.420  25021.540
+\t (04:13:49) Using 'HOLE109P.pad'.
+\i (04:13:50) pick grid 21499.361 23968.010
+\t (04:13:50) last pick:  21498.560  23967.440
+\t (04:13:50) Using 'HOLE109P.pad'.
+\i (04:13:51) pick grid 23148.455 23006.038
+\t (04:13:51) last pick:  23149.560  23004.780
+\t (04:13:51) Using 'HOLE109P.pad'.
+\i (04:13:52) pick grid 22965.222 21952.451
+\t (04:13:52) last pick:  22964.140  21953.220
+\t (04:13:52) Using 'HOLE109P.pad'.
+\i (04:13:52) pick grid 22736.181 20990.479
+\t (04:13:52) last pick:  22735.540  20990.560
+\t (04:13:52) Using 'HOLE109P.pad'.
+\i (04:13:52) pick grid 22598.757 20578.205
+\t (04:13:52) last pick:  22598.380  20579.080
+\t (04:13:52) Using 'HOLE109P.pad'.
+\i (04:13:52) pick grid 22507.140 20074.316
+\t (04:13:52) last pick:  22506.940  20073.620
+\t (04:13:52) Using 'HOLE109P.pad'.
+\i (04:13:53) pick grid 21682.593 19570.426
+\t (04:13:53) last pick:  21681.440  19570.700
+\t (04:13:53) Using 'HOLE109P.pad'.
+\i (04:13:53) pick grid 21178.703 19845.275
+\t (04:13:53) last pick:  21178.520  19845.020
+\t (04:13:53) Using 'HOLE109P.pad'.
+\i (04:13:54) zoom in 
+\i (04:13:54) zoom in 22369.716 16913.552
+\t (04:13:54) Grids are drawn 162.560, 162.560 apart for enhanced viewability.
+\i (04:13:54) trapsize 114520
+\i (04:13:55) zoom in 
+\i (04:13:55) zoom in 22369.716 16913.552
+\i (04:13:55) trapsize 57260
+\i (04:13:56) zoom in 
+\i (04:13:56) zoom in 22369.716 16913.552
+\t (04:13:56) Grids are drawn 40.640, 40.640 apart for enhanced viewability.
+\i (04:13:56) trapsize 28630
+\i (04:13:57) zoom in 
+\i (04:13:57) zoom in 22369.716 16913.552
+\i (04:13:57) trapsize 14315
+\i (04:13:57) zoom in 
+\i (04:13:57) zoom in 22369.716 16913.552
+\t (04:13:57) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (04:13:57) trapsize 7158
+\i (04:13:58) zoom in 
+\i (04:13:58) zoom in 22369.716 16913.553
+\i (04:13:58) trapsize 3579
+\i (04:13:58) pick grid 22282.394 16994.433
+\t (04:13:58) last pick:  22283.420  16995.140
+\t (04:13:58) Using 'HOLE109P.pad'.
+\i (04:13:59) pick grid 22325.339 16979.403
+\t (04:13:59) last pick:  22326.600  16979.900
+\t (04:13:59) Using 'HOLE109P.pad'.
+\i (04:14:00) pick grid 22360.411 16965.087
+\t (04:14:00) last pick:  22359.620  16964.660
+\t (04:14:00) Using 'HOLE109P.pad'.
+\i (04:14:00) pick grid 22384.031 16937.173
+\t (04:14:00) last pick:  22385.020  16936.720
+\t (04:14:00) Using 'HOLE109P.pad'.
+\i (04:14:01) pick grid 22403.357 16978.687
+\t (04:14:01) last pick:  22402.800  16979.900
+\t (04:14:01) Using 'HOLE109P.pad'.
+\i (04:14:02) pick grid 22237.302 17050.262
+\t (04:14:02) last pick:  22237.700  17051.020
+\t (04:14:02) Using 'HOLE109P.pad'.
+\i (04:14:02) pick grid 22280.963 16960.077
+\t (04:14:02) last pick:  22280.880  16959.580
+\t (04:14:02) Using 'HOLE109P.pad'.
+\i (04:14:03) pick grid 22399.062 16911.406
+\t (04:14:03) last pick:  22400.260  16911.320
+\t (04:14:03) Using 'HOLE109P.pad'.
+\i (04:14:04) zoom in 
+\i (04:14:04) zoom in 22369.716 16913.553
+\i (04:14:04) trapsize 1789
+\i (04:14:06) pick grid 22456.323 16955.067
+\t (04:14:06) last pick:  22456.140  16954.500
+\t (04:14:06) Using 'HOLE109P.pad'.
+\i (04:14:06) pick grid 22458.470 16933.594
+\t (04:14:06) last pick:  22458.680  16934.180
+\t (04:14:06) Using 'HOLE109P.pad'.
+\i (04:14:07) pick grid 22458.470 16917.490
+\t (04:14:07) last pick:  22458.680  16916.400
+\t (04:14:07) Using 'HOLE109P.pad'.
+\i (04:14:07) pick grid 22458.112 16902.101
+\t (04:14:07) last pick:  22458.680  16901.160
+\t (04:14:07) Using 'HOLE109P.pad'.
+\i (04:14:07) pick grid 22458.112 16894.944
+\t (04:14:07) last pick:  22458.680  16896.080
+\t (04:14:07) Using 'HOLE109P.pad'.
+\i (04:14:14) show element 
+\i (04:14:19) setwindow text
+\i (04:14:19) close 
+\i (04:14:20) setwindow pcb
+\i (04:14:20) new 
+\t (04:14:20) Exiting from Add Pin.
+\f (04:14:20) Do you want to save the changes you made to z11.dra?
+\i (04:14:21) fillin no 
+\f (04:14:28) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:14:29) newdrawfillin "z11.dra" "Package Symbol (Wizard)"
+\t (04:14:29) Starting new drawing...
+\w (04:14:29) Large extents, sector size enlarged to: 15240,15240
+\w (04:14:29) Large extents, sector size enlarged to: 30480,30480
+\w (04:14:29) Large extents, sector size enlarged to: 60960,60960
+\w (04:14:29) Large extents, sector size enlarged to: 121920,121920
+\t (04:14:29) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (04:14:29) trapsize 229041
+\i (04:14:29) package symbol wizard 
+\i (04:14:31) setwindow form.sym_wizard
+\i (04:14:31) FORM sym_wizard wiz_next  
+\i (04:14:32) FORM sym_wizard load_template  
+\t (04:14:32) Opening existing drawing...
+\t (04:14:32) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (04:14:32) setwindow pcb
+\i (04:14:32) trapsize 228
+\i (04:14:33) setwindow form.sym_wizard
+\i (04:14:33) FORM sym_wizard wiz_next  
+\i (04:14:35) FORM sym_wizard wiz_next  
+\i (04:14:43) FORM sym_wizard wiz_next  
+\i (04:14:45) FORM sym_wizard default_pad_browse  
+\f (04:14:45) Package Symbol Wizard Padstack Browser
+\i (04:14:46) fillin "Hole145"
+\i (04:14:47) FORM sym_wizard wiz_next  
+\i (04:14:48) FORM sym_wizard wiz_next  
+\i (04:14:50) FORM sym_wizard wiz_finish  
+\i (04:14:50) setwindow pcb
+\i (04:14:50) trapsize 250
+\w (04:14:50) Small extents, sector size decreased to: 80,80
+\i (04:14:50) trapsize 8
+\i (04:14:50) trapsize 11
+\f (04:14:50) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm: File Exists. Overwrite? 
+\i (04:14:53) fillin yes 
+\t (04:14:53) Creating package symbol 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (04:14:53) Starting Create symbol...
+\f (04:14:53) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:14:54) fillin yes 
+\i (04:15:13) setwindow form.mini
+\i (04:15:13) FORM mini class PACKAGE GEOMETRY 
+\i (04:15:25) FORM mini subclass PLACE_GRID_TOP 
+\i (04:15:28) FORM mini subclass OUTLINE 
+\i (04:15:31) FORM mini subclass SOLDERMASK_BOTTOM 
+\i (04:15:32) FORM mini subclass ASSEMBLY_NOTES 
+\i (04:15:46) setwindow pcb
+\i (04:15:46) create symbol 
+\f (04:15:49) D:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm: File Exists. Overwrite? 
+\i (04:15:51) fillin "z11.psm"
+\t (04:15:51) Creating package symbol 'D:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (04:15:51) Starting Create symbol...
+\i (04:16:00) show element 
+\i (04:16:01) show element 
+\i (04:16:02) pick grid 101 140
+\t (04:16:02) last pick:  100  100
+\i (04:16:21) setwindow text
+\i (04:16:21) close 
+\i (04:16:31) setwindow form.mini
+\i (04:16:31) FORM mini subclass PLACE_BOUND_BOTTOM 
+\i (04:16:32) setwindow pcb
+\i (04:16:32) pick grid 73 276
+\t (04:16:32) last pick:  100  300
+\i (04:16:37) setwindow text
+\i (04:16:37) close 
+\i (04:16:39) setwindow form.mini
+\i (04:16:39) FORM mini subclass PLACE_BOUND_TOP 
+\i (04:16:51) setwindow pcb
+\i (04:16:51) pick grid 96 183
+\t (04:16:51) last pick:  100  200
+\i (04:16:53) setwindow text
+\i (04:16:53) close 
+\i (04:17:05) setwindow pcb
+\i (04:17:05) keepin package 
+\i (04:17:06) keepin package 
+\i (04:17:07) keepin router 
+\i (04:17:08) keepin package 
+\i (04:17:09) pick grid -14 192
+\t (04:17:09) last pick:  0  200
+\i (04:17:10) pick grid 157 263
+\t (04:17:10) last pick:  200  300
+\i (04:17:11) pick grid 476 397
+\t (04:17:11) last pick:  500  400
+\i (04:17:11) pick grid 318 656
+\t (04:17:12) last pick:  300  700
+\i (04:17:12) pick grid 49 641
+\t (04:17:12) last pick:  0  600
+\i (04:17:13) pick grid -80 546
+\t (04:17:13) last pick:  -100  500
+\i (04:17:13) pick grid 53 472
+\t (04:17:13) last pick:  100  500
+\i (04:17:14) pick grid 165 406
+\t (04:17:14) last pick:  200  400
+\i (04:17:15) pick grid -152 304
+\t (04:17:15) last pick:  -200  300
+\i (04:17:16) pick grid 157 41
+\t (04:17:16) last pick:  200  0
+\e (04:17:16) Segment crosses shape, pick again!
+\i (04:17:18) done 
+\i (04:17:21) keepin router 
+\i (04:17:22) keepin router 
+\i (04:17:23) slide 
+\t (04:17:23) Pick element to slide.
+\i (04:17:24) slide 
+\t (04:17:24) Pick element to slide.
+\i (04:17:25) add connect 
+\t (04:17:25) Pick first element.
+\i (04:17:26) pick grid -287 671
+\t (04:17:26) last pick:  -275  675
+\i (04:17:28) pick grid -421 492
+\t (04:17:28) last pick:  -425  500
+\t (04:17:28) No DRC errors detected.
+\i (04:17:28) pick grid -287 617
+\t (04:17:28) last pick:  -275  625
+\t (04:17:28) No DRC errors detected.
+\i (04:17:29) pick grid -212 686
+\t (04:17:29) last pick:  -200  675
+\t (04:17:29) No DRC errors detected.
+\i (04:17:29) pick grid -203 561
+\t (04:17:29) last pick:  -200  550
+\t (04:17:29) No DRC errors detected.
+\i (04:17:30) pick grid -322 412
+\t (04:17:30) last pick:  -325  400
+\t (04:17:30) No DRC errors detected.
+\i (04:17:30) pick grid -309 261
+\t (04:17:30) last pick:  -300  250
+\t (04:17:30) No DRC errors detected.
+\i (04:17:30) mouse_pos -236 265
+\i (04:17:31) pick grid -208 289
+\t (04:17:31) last pick:  -200  300
+\t (04:17:31) No DRC errors detected.
+\t (04:17:31) Pick first element.
+\i (04:17:32) pick grid -193 121
+\t (04:17:32) last pick:  -200  125
+\t (04:17:32) Pick first element.
+\t (04:17:32) last pick:  -150  100
+\i (04:17:32) mouse_pos -162 63
+\i (04:17:32) pick grid -126 -13
+\t (04:17:32) last pick:  -125  -25
+\t (04:17:32) No DRC errors detected.
+\t (04:17:32) Pick first element.
+\i (04:17:32) pick grid -126 -56
+\t (04:17:32) last pick:  -125  -50
+\t (04:17:32) Pick first element.
+\t (04:17:32) last pick:  -150  0
+\i (04:17:33) mouse_pos 111 293
+\i (04:17:33) mouse_pos 245 410
+\i (04:17:34) done 
+\i (04:17:35) new 
+\f (04:17:35) Do you want to save the changes you made to d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra?
+\i (04:17:38) fillin no 
+\f (04:17:43) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:17:44) newdrawfillin "z11.dra" "Package Symbol (Wizard)"
+\t (04:17:44) Starting new drawing...
+\w (04:17:44) Small extents, sector size decreased to: 106,106
+\i (04:17:44) trapsize 11
+\i (04:17:44) package symbol wizard 
+\i (04:17:45) setwindow form.sym_wizard
+\i (04:17:45) FORM sym_wizard wiz_next  
+\i (04:17:47) FORM sym_wizard wiz_next  
+\i (04:17:48) fillin confirm
+\i (04:17:49) FORM sym_wizard wiz_next  
+\i (04:17:51) fillin confirm
+\i (04:17:52) FORM sym_wizard load_template  
+\t (04:17:52) Opening existing drawing...
+\t (04:17:52) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (04:17:52) setwindow pcb
+\i (04:17:52) trapsize 228
+\i (04:17:53) setwindow form.sym_wizard
+\i (04:17:53) FORM sym_wizard wiz_next  
+\i (04:17:54) FORM sym_wizard wiz_next  
+\i (04:17:56) FORM sym_wizard wiz_next  
+\i (04:17:57) FORM sym_wizard wiz_next  
+\i (04:17:58) fillin confirm
+\i (04:17:59) FORM sym_wizard default_pad_browse  
+\f (04:17:59) Package Symbol Wizard Padstack Browser
+\i (04:18:19) fillin "Pad30cir20d"
+\i (04:18:21) FORM sym_wizard wiz_next  
+\i (04:18:22) FORM sym_wizard wiz_next  
+\i (04:18:23) FORM sym_wizard wiz_finish  
+\i (04:18:23) setwindow pcb
+\i (04:18:23) trapsize 250
+\w (04:18:23) Small extents, sector size decreased to: 80,80
+\i (04:18:23) trapsize 8
+\i (04:18:23) trapsize 11
+\f (04:18:23) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm: File Exists. Overwrite? 
+\i (04:18:26) fillin yes 
+\t (04:18:26) Creating package symbol 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (04:18:26) Starting Create symbol...
+\f (04:18:26) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:18:27) fillin yes 
+\i (04:18:45) zoom points 
+\t (04:18:45) Pick 1st Corner Of New Window.
+\i (04:18:46) pick -291 533
+\t (04:18:46) last pick:  -291  533
+\t (04:18:46) Pick To Complete Window.
+\i (04:18:49) pick -280 -498
+\t (04:18:49) last pick:  -280  -498
+\i (04:18:49) trapsize 7
+\i (04:18:58) redraw 
+\i (04:19:10) setwindow form.mini
+\i (04:19:10) FORM mini subclass PLATING_BAR 
+\i (04:19:13) FORM mini subclass DIMENSION 
+\i (04:19:17) FORM mini subclass SWITCH_AREA_BOTTOM 
+\i (04:19:25) FORM mini class PACKAGE GEOMETRY 
+\i (04:19:29) FORM mini subclass PLACE_GRID_TOP 
+\i (04:19:43) setwindow pcb
+\i (04:19:43) zoom points 
+\t (04:19:43) Pick 1st Corner Of New Window.
+\i (04:19:43) pick -235 381
+\t (04:19:43) last pick:  -235  381
+\t (04:19:43) Pick To Complete Window.
+\i (04:19:44) pick -124 219
+\t (04:19:44) last pick:  -124  219
+\i (04:19:44) trapsize 1
+\i (04:19:47) zoom out 
+\i (04:19:47) zoom out -129 300
+\i (04:19:47) trapsize 2
+\i (04:19:47) zoom out 
+\i (04:19:47) zoom out -128 299
+\i (04:19:47) trapsize 4
+\i (04:19:52) zoom points 
+\t (04:19:52) Pick 1st Corner Of New Window.
+\i (04:19:52) pick -211 422
+\t (04:19:52) last pick:  -211  422
+\t (04:19:52) Pick To Complete Window.
+\i (04:19:56) pick 216 47
+\t (04:19:56) last pick:  216  47
+\i (04:19:56) trapsize 3
+\i (04:19:58) zoom out 
+\i (04:19:58) zoom out 35 234
+\i (04:19:58) trapsize 5
+\i (04:19:58) zoom out 
+\i (04:19:58) zoom out 135 234
+\i (04:19:58) trapsize 10
+\i (04:20:00) zoom points 
+\t (04:20:00) Pick 1st Corner Of New Window.
+\i (04:20:01) pick -279 427
+\t (04:20:01) last pick:  -279  427
+\t (04:20:01) Pick To Complete Window.
+\i (04:20:02) pick 59 -515
+\t (04:20:02) last pick:  59  -515
+\i (04:20:02) trapsize 6
+\i (04:20:09) show element 
+\i (04:20:10) pick grid -50 94
+\t (04:20:10) last pick:  0  100
+\i (04:20:19) setwindow text
+\i (04:20:19) close 
+\i (04:20:26) setwindow pcb
+\i (04:20:26) pick grid -62 156
+\t (04:20:26) last pick:  -100  200
+\i (04:20:28) setwindow text
+\i (04:20:28) close 
+\i (04:20:35) setwindow pcb
+\i (04:20:35) color 
+\i (04:20:35) setwindow form.cvf_main
+\i (04:20:35) FORM cvf_main class_list Geometry
+\i (04:20:48) FORM cvf_main class_list Components 
+\i (04:20:52) FORM cvf_main class_list Geometry 
+\i (04:20:54) FORM cvf_main board_geometry/outline/visible NO 
+\i (04:20:56) FORM cvf_main apply  
+\i (04:20:57) FORM cvf_main board_geometry/outline/visible YES 
+\i (04:20:58) FORM cvf_main apply  
+\i (04:21:03) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (04:21:04) FORM cvf_main apply  
+\i (04:21:06) FORM cvf_main package_geometry/pin_number/visible YES 
+\i (04:21:07) FORM cvf_main apply  
+\i (04:21:13) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (04:21:14) FORM cvf_main apply  
+\i (04:21:21) FORM cvf_main ok  
+\i (04:21:28) setwindow pcb
+\i (04:21:28) color 
+\i (04:21:28) setwindow form.cvf_main
+\i (04:21:28) FORM cvf_main class_list Geometry
+\i (04:21:47) FORM cvf_main cancel  
+\i (04:21:52) setwindow pcb
+\i (04:21:52) label refdes 
+\t (04:21:52) Pick text location.
+\i (04:21:59) add fshape 
+\i (04:24:12) padeditdb 
+\i (04:24:16) pick grid 149 303
+\t (04:24:16) last pick:  100  300
+\i (04:24:22) setwindow form.mini
+\i (04:24:22) FORM mini pad_stack_edit  
+\i (04:24:41) setwindow form.padedit
+\i (04:24:41) FORM padedit layers  
+\i (04:25:57) setwindow pcb
+\i (04:25:57) padeditlib 
+\f (04:25:57) Select Library Padstack
+\i (04:26:08) fillin "Hole145"
+\i (04:26:11) setwindow form.padedit
+\i (04:26:11) FORM padedit parameters  
+\f (04:26:13) Select Library Padstack
+\i (04:26:14) fillin "menu_cancel"
+\i (04:26:24) setwindow pcb
+\i (04:26:24) derive connectivity 
+\i (04:26:47) setwindow form.derive
+\i (04:26:47) FORM derive close  
+\i (04:26:49) setwindow pcb
+\i (04:26:49) reports 
+\i (04:26:58) setwindow form.rpt
+\i (04:26:58) FORM rpt rpt Film Area 
+\i (04:27:00) FORM rpt execute  
+\i (04:27:02) setwindow text
+\i (04:27:02) close 
+\i (04:27:04) setwindow form.rpt
+\i (04:27:04) FORM rpt rpt Net List 
+\i (04:27:05) FORM rpt execute  
+\t (04:27:05) Starting Generating report, please wait......
+\i (04:27:09) setwindow text
+\i (04:27:09) close 
+\i (04:27:12) setwindow form.rpt
+\i (04:27:12) FORM rpt rpt Symbol Pin 
+\i (04:27:13) FORM rpt execute  
+\t (04:27:13) Starting Generating report, please wait......
+\i (04:27:34) setwindow text
+\i (04:27:34) close 
+\i (04:27:36) setwindow form.rpt
+\i (04:27:36) FORM rpt rpt Unplaced Components 
+\i (04:27:37) FORM rpt execute  
+\t (04:27:37) Starting Generating report, please wait......
+\i (04:27:46) setwindow text
+\i (04:27:46) close 
+\i (04:27:48) setwindow form.rpt
+\i (04:27:48) FORM rpt cancel  
+\i (04:27:53) setwindow pcb
+\i (04:27:53) techfile compare 
+\i (04:27:57) setwindow form.tech_comp
+\i (04:27:57) FORM tech_comp execute  
+\i (04:27:59) FORM tech_comp cancel  
+\i (04:28:00) setwindow pcb
+\i (04:28:00) dbdoctor 
+\i (04:28:04) setwindow form.dbdoctor_allegro
+\i (04:28:04) FORM dbdoctor_allegro shapes YES 
+\i (04:28:05) FORM dbdoctor_allegro execute  
+\t (04:28:05) Checking db records
+\t (04:28:05)     Checked 100 percent
+\t (04:28:05) Done dbdoctor.
+\i (04:28:07) FORM dbdoctor_allegro close  
+\i (04:28:14) setwindow pcb
+\i (04:28:14) replace padstack 
+\i (04:28:17) pick grid 147 103
+\t (04:28:17) last pick:  100  100
+\i (04:28:18) pick grid 250 149
+\t (04:28:18) last pick:  300  100
+\t (04:28:18) No element found
+\i (04:28:20) pick grid 149 98
+\t (04:28:20) last pick:  100  100
+\i (04:28:22) pick grid 255 169
+\t (04:28:22) last pick:  300  200
+\t (04:28:22) No element found
+\i (04:28:23) pick grid 144 99
+\t (04:28:23) last pick:  100  100
+\e (04:28:23) Symbol and Pin must be '*' when replace = old.
+\i (04:28:24) pick grid 301 237
+\t (04:28:24) last pick:  300  200
+\t (04:28:24) No element found
+\i (04:28:25) pick grid 140 96
+\t (04:28:25) last pick:  100  100
+\e (04:28:25) Symbol and Pin must be '*' when replace = old.
+\i (04:28:25) pick grid 149 196
+\t (04:28:25) last pick:  100  200
+\e (04:28:25) Symbol and Pin must be '*' when replace = old.
+\i (04:28:34) setwindow form.mini
+\i (04:28:34) FORM mini newname_browse  
+\f (04:28:34) Select a padstack:
+\i (04:28:36) fillin "Hole120"
+\w (04:28:36) Scaled value has been rounded off.
+\i (04:28:39) FORM mini replace  
+\i (04:28:48) setwindow pcb
+\i (04:28:48) replace padstack 
+\t (04:28:48) Performing DRC. Please wait...
+\t (04:28:48) DRC done, 24 errors detected.
+\i (04:28:49) pick grid 149 299
+\t (04:28:49) last pick:  100  300
+\i (04:28:50) setwindow form.mini
+\i (04:28:50) FORM mini newname_browse  
+\f (04:28:50) Select a padstack:
+\i (04:29:02) fillin "Pad30cir20d"
+\i (04:29:06) FORM mini replace  
+\i (04:44:52) setwindow pcb
+\i (04:44:52) new 
+\t (04:44:52) Performing DRC. Please wait...
+\t (04:44:52) No DRC errors detected.
+\f (04:44:52) Do you want to save the changes you made to d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra?
+\i (04:44:55) fillin no 
+\f (04:45:01) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (04:45:02) newdrawfillin "z11.dra" "Package Symbol"
+\t (04:45:02) Starting new drawing...
+\w (04:45:02) Small extents, sector size decreased to: 106,106
+\i (04:45:02) trapsize 11
+\i (04:45:15) add pin 
+\i (04:45:18) setwindow form.mini
+\i (04:45:18) FORM mini pad_browse  
+\f (04:45:18) Select a padstack:
+\i (04:45:25) fillin "Pad50cir30d"
+\t (04:45:25) Using 'PAD50CIR30D.pad'.
+\i (04:45:33) setwindow pcb
+\i (04:45:33) pick grid -181 455
+\t (04:45:33) last pick:  -200  500
+\t (04:45:33) Using 'PAD50CIR30D.pad'.
+\i (04:46:09) pick grid -175 449
+\t (04:46:09) last pick:  -200  400
+\t (04:46:09) Using 'PAD50CIR30D.pad'.
+\i (04:46:09) pick grid -198 347
+\t (04:46:09) last pick:  -200  300
+\t (04:46:09) Using 'PAD50CIR30D.pad'.
+\i (04:46:10) pick grid -207 248
+\t (04:46:10) last pick:  -200  200
+\t (04:46:10) Using 'PAD50CIR30D.pad'.
+\i (04:46:11) pick grid -194 149
+\t (04:46:11) last pick:  -200  100
+\t (04:46:11) Using 'PAD50CIR30D.pad'.
+\i (04:46:12) pick grid -194 48
+\t (04:46:12) last pick:  -200  0
+\t (04:46:12) Using 'PAD50CIR30D.pad'.
+\i (04:46:13) pick grid -201 -52
+\t (04:46:13) last pick:  -200  -100
+\t (04:46:13) Using 'PAD50CIR30D.pad'.
+\i (04:46:18) pick grid 162 -144
+\t (04:46:18) last pick:  200  -100
+\t (04:46:18) Using 'PAD50CIR30D.pad'.
+\i (04:46:18) pick grid 218 -32
+\t (04:46:18) last pick:  200  0
+\t (04:46:18) Using 'PAD50CIR30D.pad'.
+\i (04:46:19) pick grid 239 54
+\t (04:46:19) last pick:  200  100
+\t (04:46:19) Using 'PAD50CIR30D.pad'.
+\i (04:46:20) pick grid 216 151
+\t (04:46:20) last pick:  200  200
+\t (04:46:20) Using 'PAD50CIR30D.pad'.
+\i (04:46:21) pick grid 220 250
+\t (04:46:21) last pick:  200  300
+\t (04:46:21) Using 'PAD50CIR30D.pad'.
+\i (04:46:22) pick grid 211 352
+\t (04:46:22) last pick:  200  400
+\t (04:46:22) Using 'PAD50CIR30D.pad'.
+\i (04:46:22) pick grid 207 453
+\t (04:46:22) last pick:  200  500
+\t (04:46:22) Using 'PAD50CIR30D.pad'.
+\i (04:46:34) setwindow form.mini
+\i (04:46:34) FORM mini pintype_mechanical YES 
+\i (04:46:36) FORM mini pintype_connect YES 
+\i (04:46:45) setwindow pcb
+\i (04:46:45) add rect 
+\t (04:46:45) Exiting from Add Pin.
+\i (04:46:50) setwindow form.mini
+\i (04:46:50) FORM mini class PACKAGE GEOMETRY 
+\i (04:47:03) setwindow pcb
+\i (04:47:03) pick grid -134 548
+\t (04:47:03) last pick:  -100  500
+\i (04:47:10) pick grid 84 -252
+\t (04:47:10) last pick:  100  -300
+\i (04:47:15) move 
+\t (04:47:15) Select element(s) to move.
+\i (04:47:17) pick grid -101 186
+\t (04:47:17) last pick:  -100  200
+\t (04:47:17) Element has no origin. Using pick.
+\t (04:47:17) Pick new location for element(s).
+\i (04:47:19) pick grid -104 250
+\t (04:47:19) last pick:  -100  300
+\i (04:47:31) add rect 
+\i (04:47:55) setwindow form.mini
+\i (04:47:55) FORM mini subclass PLACE_BOUND_TOP 
+\i (04:47:57) setwindow pcb
+\i (04:47:57) pick grid -295 608
+\t (04:47:57) last pick:  -300  600
+\i (04:47:59) pick grid 265 -159
+\t (04:47:59) last pick:  300  -200
+\t (04:47:59) System is expecting a rectangle on PLACE_BOUND_TOP.
+\i (04:48:05) color 
+\i (04:48:05) setwindow form.cvf_main
+\i (04:48:05) FORM cvf_main class_list Geometry
+\i (04:48:07) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (04:48:09) FORM cvf_main apply  
+\i (04:48:12) FORM cvf_main cancel  
+\i (04:48:21) setwindow pcb
+\i (04:48:21) replace padstack 
+\i (04:48:23) pick grid -205 505
+\t (04:48:23) last pick:  -200  500
+\i (04:48:25) setwindow form.mini
+\i (04:48:25) FORM mini newname_browse  
+\f (04:48:25) Select a padstack:
+\i (04:48:38) fillin "Smd50_25"
+\i (04:48:45) FORM mini pinnumber *1 
+\i (04:48:45) FORM mini replace  
+\i (04:48:53) setwindow pcb
+\i (04:48:53) pick grid 194 203
+\t (04:48:53) last pick:  200  200
+\i (04:49:01) setwindow form.mini
+\i (04:49:01) FORM mini reset  
+\i (04:49:02) FORM mini reset  
+\i (04:49:02) FORM mini reset  
+\i (04:49:02) FORM mini reset  
+\i (04:49:03) FORM mini reset  
+\i (04:49:03) FORM mini reset  
+\i (04:49:03) FORM mini reset  
+\i (04:49:03) FORM mini reset  
+\i (04:49:05) setwindow pcb
+\i (04:49:05) pick grid -201 503
+\t (04:49:05) last pick:  -200  500
+\i (04:49:06) setwindow form.mini
+\i (04:49:06) FORM mini newname_browse  
+\f (04:49:06) Select a padstack:
+\i (04:49:16) fillin "Pad50sq30d"
+\i (04:49:20) FORM mini pinnumber *1 
+\i (04:49:20) FORM mini replace  
+\i (04:49:25) setwindow pcb
+\i (04:49:25) pick grid 207 192
+\t (04:49:25) last pick:  200  200
+\i (04:49:27) setwindow form.mini
+\i (04:49:27) FORM mini newname_browse  
+\f (04:49:27) Select a padstack:
+\i (04:49:50) fillin "Pad50cir30d"
+\i (04:49:53) FORM mini pinnumber *11 
+\i (04:49:56) FORM mini replace  
+\t (04:52:38) last pick:  1430  444
+\w (04:52:38) Pick is outside the extent of drawing, pick again!
+\i (04:52:43) setwindow pcb
+\i (04:52:43) pick grid 207 500
+\t (04:52:43) last pick:  200  500
+\i (04:53:06) setwindow form.mini
+\i (04:53:06) FORM mini pinnumber *rectangle 
+\e (04:53:06) Pin *RECTANGLE w/pad PAD50CIR30D not on symbol
+\i (23:00:36) setwindow pcb
+\i (23:00:36) trapsize 9
+\i (23:00:36) trapsize 11
+\i (23:25:29) pick grid 65 509
+\t (23:25:29) last pick:  100  500
+\i (23:25:31) pick grid 99 515
+\t (23:25:31) last pick:  100  500
+\e (23:25:31) Symbol and Pin must be '*' when replace = old.
+\i (23:25:31) pick grid 82 509
+\t (23:25:31) last pick:  100  500
+\e (23:25:31) Symbol and Pin must be '*' when replace = old.
+\i (23:25:31) pick grid dbl 82 509
+\t (23:25:31) last pick:  100  500
+\e (23:25:31) Symbol and Pin must be '*' when replace = old.
+\i (23:25:32) pick grid 86 584
+\t (23:25:32) last pick:  100  600
+\t (23:25:32) No element found
+\i (23:25:32) pick grid 93 544
+\t (23:25:32) last pick:  100  500
+\t (23:25:32) No element found
+\i (23:25:33) pick grid 69 509
+\t (23:25:33) last pick:  100  500
+\e (23:25:33) Symbol and Pin must be '*' when replace = old.
+\i (23:25:33) pick grid 71 425
+\t (23:25:33) last pick:  100  400
+\e (23:25:33) Symbol and Pin must be '*' when replace = old.
+\i (23:25:34) pick grid 188 397
+\t (23:25:34) last pick:  200  400
+\e (23:25:34) Symbol and Pin must be '*' when replace = old.
+\i (23:25:35) pick grid 196 487
+\t (23:25:35) last pick:  200  500
+\e (23:25:35) Symbol and Pin must be '*' when replace = old.
+\i (23:25:36) pick grid 11 610
+\t (23:25:36) last pick:  0  600
+\t (23:25:36) No element found
+\i (23:25:36) pick grid 2 600
+\t (23:25:36) last pick:  0  600
+\t (23:25:36) No element found
+\i (23:25:36) pick grid dbl 2 600
+\t (23:25:36) last pick:  0  600
+\t (23:25:36) No element found
+\i (23:25:37) pick grid 2 602
+\t (23:25:37) last pick:  0  600
+\t (23:25:37) No element found
+\i (23:25:37) pick grid 2 595
+\t (23:25:37) last pick:  0  600
+\t (23:25:37) No element found
+\i (23:25:43) add pin 
+\t (23:25:43) Performing DRC. Please wait...
+\t (23:25:44) No DRC errors detected.
+\t (23:25:44) Using 'PAD50CIR30D.pad'.
+\i (23:25:50) pick grid 244 569
+\t (23:25:50) last pick:  200  600
+\t (23:25:50) Using 'PAD50CIR30D.pad'.
+\i (23:25:53) pick grid 246 -183
+\t (23:25:53) last pick:  200  -200
+\t (23:25:53) Using 'PAD50CIR30D.pad'.
+\i (23:25:54) pick grid 239 -252
+\t (23:25:54) last pick:  200  -300
+\t (23:25:54) Using 'PAD50CIR30D.pad'.
+\i (23:26:00) delete 
+\t (23:26:00) Exiting from Add Pin.
+\i (23:26:02) pick grid 196 604
+\t (23:26:02) last pick:  200  600
+\i (23:26:04) pick grid 200 -295
+\t (23:26:04) last pick:  200  -300
+\i (23:26:07) pick grid 200 -198
+\t (23:26:07) last pick:  200  -200
+\i (23:26:10) done 
+\i (23:27:31) add connect 
+\w (23:27:31) Scaled value has been rounded off.
+\t (23:27:31) Pick first element.
+\i (23:27:32) pick grid -47 -461
+\t (23:27:32) last pick:  -50  -450
+\i (23:27:32) pick grid 88 -399
+\t (23:27:32) last pick:  100  -400
+\t (23:27:32) No DRC errors detected.
+\i (23:27:34) pick grid 265 -332
+\t (23:27:34) last pick:  275  -325
+\t (23:27:34) No DRC errors detected.
+\i (23:27:39) pick grid 392 -386
+\t (23:27:39) last pick:  400  -375
+\t (23:27:39) No DRC errors detected.
+\i (23:27:41) pick grid 386 -535
+\t (23:27:41) last pick:  375  -525
+\t (23:27:41) No DRC errors detected.
+\i (23:27:42) pick grid 192 -485
+\t (23:27:42) last pick:  200  -475
+\t (23:27:42) No DRC errors detected.
+\i (23:27:44) mouse_pos 52 -461
+\i (23:27:44) mouse_pos 65 -468
+\i (23:27:45) mouse_pos 54 -459
+\i (23:27:47) mouse_pos 30 -466
+\i (23:27:48) pick grid -39 -481
+\t (23:27:48) last pick:  -50  -475
+\t (23:27:48) No DRC errors detected.
+\i (23:27:50) pick grid 11 -617
+\t (23:27:50) last pick:  0  -625
+\t (23:27:50) No DRC errors detected.
+\i (23:27:51) mouse_pos -37 -545
+\i (23:27:51) mouse_pos -110 -530
+\i (23:27:52) mouse_pos -63 -515
+\i (23:27:52) mouse_pos -35 -532
+\i (23:27:53) mouse_pos -39 -539
+\i (23:27:53) mouse_pos -24 -589
+\i (23:27:54) pick grid -9 -610
+\t (23:27:54) last pick:  0  -600
+\t (23:27:54) No DRC errors detected.
+\i (23:27:55) mouse_pos -39 -571
+\i (23:27:55) mouse_pos -37 -571
+\i (23:27:55) mouse_pos -11 -586
+\i (23:27:56) pick grid -13 -582
+\t (23:27:56) last pick:  -25  -575
+\t (23:27:56) No DRC errors detected.
+\i (23:27:57) pick grid -35 -511
+\t (23:27:57) last pick:  -25  -500
+\t (23:27:57) No DRC errors detected.
+\i (23:27:58) mouse_pos 164 -489
+\i (23:27:58) mouse_pos 185 -494
+\i (23:27:59) pick grid 188 -509
+\t (23:27:59) last pick:  200  -500
+\t (23:27:59) No DRC errors detected.
+\i (23:28:00) mouse_pos 239 -539
+\i (23:28:00) mouse_pos 263 -552
+\i (23:28:01) pick grid 257 -560
+\t (23:28:01) last pick:  250  -550
+\t (23:28:01) No DRC errors detected.
+\i (23:28:02) pick grid 390 -556
+\t (23:28:02) last pick:  400  -550
+\t (23:28:02) No DRC errors detected.
+\i (23:28:04) pick grid 401 -586
+\t (23:28:04) last pick:  400  -575
+\t (23:28:04) No DRC errors detected.
+\i (23:28:05) pick grid 207 -560
+\t (23:28:05) last pick:  200  -550
+\t (23:28:05) No DRC errors detected.
+\i (23:28:05) mouse_pos 168 -511
+\i (23:28:06) mouse_pos 142 -532
+\i (23:28:07) mouse_pos 183 -513
+\i (23:28:08) mouse_pos 157 -539
+\i (23:28:09) pick grid 136 -526
+\t (23:28:09) last pick:  125  -525
+\t (23:28:09) No DRC errors detected.
+\i (23:28:09) mouse_pos 86 -513
+\i (23:28:09) mouse_pos 37 -515
+\i (23:28:10) mouse_pos -13 -524
+\i (23:28:10) pick grid -13 -524
+\t (23:28:10) last pick:  -25  -525
+\t (23:28:10) No DRC errors detected.
+\i (23:28:15) done 
+\i (23:28:36) redraw 
+\i (23:28:42) delete 
+\i (23:28:43) pick grid 0 -472
+\t (23:28:43) last pick:  0  -475
+\i (23:28:45) done 
+\i (25:38:59) trapsize 9
+\i (25:38:59) trapsize 11
+\i (28:39:33) trapsize 9
+\i (28:39:33) trapsize 11
+\i (29:01:44) color 
+\i (29:01:45) setwindow form.cvf_main
+\i (29:01:45) FORM cvf_main class_list Stack-Up
+\i (29:01:49) FORM cvf_main class_list Components 
+\i (29:01:57) FORM cvf_main class_list Areas 
+\i (29:02:00) FORM cvf_main class_list Geometry 
+\i (29:02:03) FORM cvf_main cancel  
+\i (29:02:41) setwindow pcb
+\i (29:02:41) zoom in 
+\i (29:02:41) zoom in 696 -2
+\i (29:02:41) trapsize 5
+\i (29:02:43) zoom out 
+\i (29:02:43) zoom out 169 -2
+\i (29:02:43) trapsize 11
+\i (29:02:45) zoom in 
+\i (29:02:45) zoom in 696 -2
+\i (29:02:45) trapsize 5
+\i (29:02:46) zoom out 
+\i (29:02:46) zoom out 169 -2
+\i (29:02:46) trapsize 11
+\i (29:02:48) zoom fit 
+\i (29:02:48) trapsize 5
+\i (29:02:56) slide 
+\t (29:02:57) Pick element to slide.
+\i (29:02:57) pick grid 388 464
+\t (29:02:57) last pick:  400  475
+\t (29:02:57) No other element found.
+\t (29:02:57) Pick element to slide.
+\i (29:02:58) pick grid 462 440
+\t (29:02:58) last pick:  450  450
+\t (29:02:58) No other element found.
+\t (29:02:58) Pick element to slide.
+\i (29:02:58) pick grid 427 383
+\t (29:02:58) last pick:  425  375
+\t (29:02:58) No other element found.
+\t (29:02:58) Pick element to slide.
+\i (29:02:59) pick grid 368 468
+\t (29:02:59) last pick:  375  475
+\t (29:02:59) No other element found.
+\t (29:02:59) Pick element to slide.
+\i (29:02:59) drag_start grid 365 502
+\i (29:02:59) drag_stop 336 501
+\t (29:02:59) No other element found.
+\t (29:02:59) Pick element to slide.
+\i (29:03:00) pick grid 200 502
+\t (29:03:00) last pick:  200  500
+\t (29:03:00) No other element found.
+\t (29:03:00) Pick element to slide.
+\i (29:03:01) pick grid 327 491
+\t (29:03:01) last pick:  325  500
+\t (29:03:01) No other element found.
+\t (29:03:01) Pick element to slide.
+\i (29:03:02) slide 
+\t (29:03:02) Pick element to slide.
+\i (29:03:03) slide 
+\t (29:03:03) Pick element to slide.
+\i (29:03:04) add connect 
+\t (29:03:04) Pick first element.
+\i (29:03:06) pick grid 202 503
+\t (29:03:06) last pick:  200  500
+\i (29:03:09) pick grid 430 487
+\t (29:03:09) last pick:  425  475
+\t (29:03:09) No DRC errors detected.
+\i (29:03:14) pick grid 426 -86
+\t (29:03:14) last pick:  425  -75
+\t (29:03:14) No DRC errors detected.
+\i (29:03:15) pick grid 411 -91
+\t (29:03:15) last pick:  400  -100
+\t (29:03:15) No DRC errors detected.
+\i (29:03:15) mouse_pos 237 -98
+\i (29:03:17) mouse_pos 263 -101
+\i (29:03:19) mouse_pos 237 -99
+\i (29:03:20) pick grid 237 -99
+\t (29:03:20) last pick:  225  -100
+\t (29:03:20) No DRC errors detected.
+\t (29:03:20) Pick first element.
+\i (29:03:23) pick grid 233 200
+\t (29:03:23) last pick:  225  200
+\t (29:03:23) Pick first element.
+\t (29:03:23) last pick:  200  200
+\i (29:03:25) mouse_pos 237 331
+\i (29:03:26) mouse_pos 276 312
+\i (29:03:29) pick grid 387 208
+\t (29:03:29) last pick:  375  200
+\t (29:03:29) No DRC errors detected.
+\i (29:03:30) pick grid 389 216
+\t (29:03:30) last pick:  400  225
+\t (29:03:30) No DRC errors detected.
+\i (29:03:33) pick grid 388 378
+\t (29:03:33) last pick:  400  375
+\t (29:03:33) No DRC errors detected.
+\i (29:03:36) pick grid 379 392
+\t (29:03:36) last pick:  375  400
+\t (29:03:36) No DRC errors detected.
+\i (29:03:37) mouse_pos 233 396
+\i (29:03:38) pick grid 211 396
+\t (29:03:38) last pick:  200  400
+\t (29:03:38) No DRC errors detected.
+\t (29:03:38) Pick first element.
+\i (29:04:41) pick grid -201 503
+\t (29:04:41) last pick:  -200  500
+\t (29:04:41) Pick first element.
+\i (29:04:43) mouse_pos 61 330
+\i (29:04:43) mouse_pos 100 284
+\i (29:04:44) mouse_pos 85 396
+\i (29:04:45) mouse_pos 32 433
+\i (29:04:46) pick grid 5 463
+\t (29:04:46) last pick:  0  475
+\t (29:04:46) No DRC errors detected.
+\i (29:04:48) mouse_pos 102 -11
+\i (29:04:48) mouse_pos 74 15
+\i (29:04:53) pick grid 21 12
+\t (29:04:53) last pick:  25  0
+\t (29:04:53) No DRC errors detected.
+\i (29:04:53) mouse_pos 89 2
+\i (29:04:53) mouse_pos 115 11
+\i (29:04:53) mouse_pos 166 -1
+\i (29:04:54) pick grid 189 -7
+\t (29:04:54) last pick:  200  0
+\t (29:04:54) No DRC errors detected.
+\t (29:04:54) Pick first element.
+\i (29:04:57) pick grid -201 201
+\t (29:04:57) last pick:  -200  200
+\t (29:04:57) Pick first element.
+\i (29:04:58) mouse_pos 2 238
+\i (29:04:59) mouse_pos 13 227
+\i (29:05:01) mouse_pos 7 238
+\i (29:05:01) mouse_pos -14 256
+\i (29:05:03) mouse_pos 172 463
+\i (29:05:04) mouse_pos 136 443
+\i (29:05:04) mouse_pos 100 411
+\i (29:05:04) mouse_pos 82 386
+\i (29:05:05) mouse_pos 59 312
+\i (29:05:05) mouse_pos 54 285
+\i (29:05:06) mouse_pos 64 88
+\i (29:05:06) mouse_pos 67 80
+\i (29:05:07) mouse_pos 88 21
+\i (29:05:07) mouse_pos 97 39
+\i (29:05:07) mouse_pos 165 105
+\i (29:05:12) mouse_pos 158 86
+\i (29:05:12) mouse_pos 163 84
+\i (29:05:18) mouse_pos 158 85
+\i (29:05:22) mouse_pos 166 -15
+\i (29:05:22) mouse_pos 213 -41
+\i (29:05:24) mouse_pos 234 102
+\i (29:05:25) mouse_pos 159 59
+\i (29:05:25) mouse_pos 160 -38
+\i (29:05:25) mouse_pos 163 -41
+\i (29:05:33) mouse_pos 219 -37
+\i (29:05:33) mouse_pos 125 -5
+\i (29:05:33) mouse_pos 67 34
+\i (29:05:35) mouse_pos -240 462
+\i (29:05:35) mouse_pos -252 466
+\i (29:05:37) mouse_pos -65 502
+\i (29:05:37) mouse_pos -241 499
+\i (29:05:37) mouse_pos -295 514
+\i (29:05:37) mouse_pos -291 538
+\i (29:05:40) mouse_pos -202 525
+\i (29:05:40) mouse_pos -265 520
+\i (29:05:46) mouse_pos -27 507
+\i (29:05:46) mouse_pos -20 487
+\i (29:05:46) mouse_pos -14 458
+\i (29:05:46) mouse_pos -7 437
+\i (29:05:46) mouse_pos 18 395
+\i (29:05:47) mouse_pos 61 209
+\i (29:05:47) mouse_pos 57 185
+\i (29:05:47) mouse_pos 166 132
+\i (29:05:49) pick grid 190 110
+\t (29:05:49) last pick:  200  100
+\t (29:05:49) Drc error(s) created.
+\t (29:05:49) Pick first element.
+\i (29:05:53) pick grid -179 492
+\t (29:05:53) last pick:  -175  500
+\t (29:05:53) Pick first element.
+\t (29:05:53) last pick:  -200  500
+\i (29:05:53) mouse_pos -180 489
+\i (29:05:53) pick grid -180 489
+\t (29:05:53) last pick:  -175  500
+\t (29:05:53) No DRC errors detected.
+\t (29:05:53) Pick first element.
+\i (29:05:55) pick grid -176 506
+\t (29:05:55) last pick:  -175  500
+\t (29:05:55) Pick first element.
+\t (29:05:55) last pick:  -200  500
+\i (29:05:55) mouse_pos -176 515
+\i (29:05:55) pick grid -176 515
+\t (29:05:55) last pick:  -175  525
+\t (29:05:55) No DRC errors detected.
+\t (29:05:55) Pick first element.
+\i (29:05:55) pick grid dbl -176 515
+\t (29:05:55) last pick:  -175  525
+\t (29:05:55) Pick first element.
+\t (29:05:55) last pick:  -200  500
+\i (29:05:55) mouse_pos -180 515
+\i (29:05:55) mouse_pos -188 512
+\i (29:05:55) mouse_pos -213 496
+\i (29:05:56) pick grid -213 496
+\t (29:05:56) last pick:  -225  500
+\t (29:05:56) No DRC errors detected.
+\t (29:05:56) Pick first element.
+\i (29:05:56) pick grid -199 493
+\t (29:05:56) last pick:  -200  500
+\t (29:05:56) Pick first element.
+\i (29:05:56) mouse_pos -206 493
+\i (29:05:56) pick grid -206 493
+\t (29:05:56) last pick:  -200  500
+\w (29:05:56) The pick was ignored.  It is the same as the previous pick.
+\i (29:05:57) pick grid -208 493
+\t (29:05:57) last pick:  -200  500
+\w (29:05:57) The pick was ignored.  It is the same as the previous pick.
+\i (29:05:57) pick grid -202 488
+\t (29:05:57) last pick:  -200  500
+\w (29:05:57) The pick was ignored.  It is the same as the previous pick.
+\i (29:05:58) mouse_pos -195 521
+\i (29:06:00) mouse_pos -206 489
+\i (29:06:03) done 
+\i (29:06:30) zoom in 
+\i (29:06:30) zoom in 173 199
+\i (29:06:30) trapsize 3
+\i (29:06:38) roam start
+\i (29:06:38) roam y 48
+\i (29:06:38) roam x 16
+\i (29:06:38) roam y 48
+\i (29:06:38) roam y 16
+\i (29:06:38) roam x 16
+\i (29:06:38) roam y 16
+\i (29:06:38) roam y -16
+\i (29:06:38) roam y -16
+\i (29:06:38) roam y -16
+\i (29:06:38) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -48
+\i (29:06:39) roam y -32
+\i (29:06:39) roam x -80
+\i (29:06:39) roam y -32
+\i (29:06:39) roam x -64
+\i (29:06:39) roam y -48
+\i (29:06:39) roam x -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -32
+\i (29:06:39) roam x 16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -16
+\i (29:06:39) roam y -16
+\i (29:06:39) roam x -16
+\i (29:06:39) roam x -16
+\i (29:06:40) roam x -16
+\i (29:06:40) roam x -32
+\i (29:06:40) roam x -16
+\i (29:06:40) roam x -32
+\i (29:06:40) roam y -16
+\i (29:06:40) roam x -16
+\i (29:06:40) roam y -16
+\i (29:06:40) roam y -16
+\i (29:06:40) roam x -16
+\i (29:06:40) roam x -32
+\i (29:06:40) roam y -16
+\i (29:06:40) roam x -16
+\i (29:06:40) roam x -16
+\i (29:06:40) roam x -32
+\i (29:06:40) roam y -32
+\i (29:06:40) roam y -16
+\i (29:06:40) roam y -16
+\i (29:06:40) roam y -16
+\i (29:06:41) roam y 16
+\i (29:06:41) roam end
+\i (29:06:44) zoom points 
+\t (29:06:44) Pick 1st Corner Of New Window.
+\i (29:06:45) drag_start -266 568
+\i (29:06:45) drag_stop -168 432
+\i (29:06:45) trapsize 1
+\i (29:06:57) delete 
+\i (29:06:57) pick grid -198 489
+\t (29:06:57) last pick:  -200  500
+\i (29:06:59) pick grid -145 488
+\t (29:06:59) last pick:  -150  500
+\i (29:07:00) pick grid -146 489
+\t (29:07:00) last pick:  -150  500
+\t (29:07:00) No element found
+\i (29:07:00) pick grid -209 496
+\t (29:07:00) last pick:  -200  500
+\i (29:07:02) done 
+\i (29:07:05) zoom fit 
+\i (29:07:05) trapsize 5
+\i (29:07:11) delete 
+\i (29:07:12) pick grid -150 512
+\t (29:07:12) last pick:  -150  500
+\i (29:07:14) done 
+\i (29:07:18) add pin 
+\t (29:07:18) Using 'PAD50CIR30D.pad'.
+\i (29:07:22) pick grid -195 512
+\t (29:07:22) last pick:  -200  500
+\t (29:07:22) Using 'PAD50CIR30D.pad'.
+\i (29:07:25) done 
+\t (29:07:25) Exiting from Add Pin.
+\i (29:07:43) delete 
+\i (29:07:43) pick grid -208 491
+\t (29:07:43) last pick:  -200  500
+\i (29:07:45) done 
+\i (29:07:46) add pin 
+\t (29:07:46) Using 'PAD50CIR30D.pad'.
+\i (29:07:55) setwindow form.mini
+\i (29:07:55) FORM mini next_pin_number 1 
+\i (29:07:57) setwindow pcb
+\i (29:07:57) pick grid -188 489
+\t (29:07:57) last pick:  -200  500
+\t (29:07:57) Using 'PAD50CIR30D.pad'.
+\i (29:08:00) done 
+\t (29:08:00) Exiting from Add Pin.
+\i (29:08:02) slide 
+\t (29:08:02) Pick element to slide.
+\i (29:08:03) slide 
+\t (29:08:03) Pick element to slide.
+\i (29:08:11) add connect 
+\t (29:08:11) Pick first element.
+\i (29:08:12) pick grid 199 302
+\t (29:08:12) last pick:  200  300
+\i (29:08:13) mouse_pos -165 368
+\i (29:08:14) mouse_pos -172 463
+\i (29:08:14) pick grid -190 497
+\t (29:08:14) last pick:  -200  500
+\t (29:08:14) No DRC errors detected.
+\t (29:08:14) Pick first element.
+\i (29:08:15) pick grid -202 399
+\t (29:08:15) last pick:  -200  400
+\t (29:08:15) Pick first element.
+\i (29:08:16) mouse_pos -81 390
+\i (29:08:16) mouse_pos -49 395
+\i (29:08:16) mouse_pos 86 419
+\i (29:08:16) mouse_pos 108 424
+\i (29:08:16) mouse_pos 175 426
+\i (29:08:16) mouse_pos 249 425
+\i (29:08:16) mouse_pos 236 464
+\i (29:08:17) mouse_pos 212 450
+\i (29:08:17) mouse_pos 212 421
+\i (29:08:17) mouse_pos 190 356
+\i (29:08:17) mouse_pos 184 319
+\i (29:08:17) mouse_pos 177 219
+\i (29:08:18) mouse_pos 185 159
+\i (29:08:18) mouse_pos 184 136
+\i (29:08:18) pick grid 189 118
+\t (29:08:18) last pick:  200  125
+\t (29:08:18) No DRC errors detected.
+\t (29:08:18) Pick first element.
+\i (29:08:20) pick grid -204 298
+\t (29:08:20) last pick:  -200  300
+\t (29:08:20) Pick first element.
+\i (29:08:22) mouse_pos 173 -98
+\i (29:08:24) mouse_pos 189 -146
+\i (29:08:24) mouse_pos -181 -72
+\i (29:08:25) mouse_pos -228 -37
+\i (29:08:25) pick grid -228 -37
+\t (29:08:25) last pick:  -225  -25
+\t (29:08:25) No DRC errors detected.
+\t (29:08:25) Pick first element.
+\i (29:08:28) pick grid -196 202
+\t (29:08:28) last pick:  -200  200
+\t (29:08:28) Pick first element.
+\i (29:08:28) mouse_pos 74 130
+\i (29:08:28) mouse_pos 122 121
+\i (29:08:29) mouse_pos 174 108
+\i (29:08:29) mouse_pos 197 59
+\i (29:08:29) mouse_pos 187 36
+\i (29:08:30) pick grid 188 22
+\t (29:08:30) last pick:  200  25
+\t (29:08:30) No DRC errors detected.
+\t (29:08:30) Pick first element.
+\i (29:08:33) pick grid 195 402
+\t (29:08:33) last pick:  200  400
+\t (29:08:33) Pick first element.
+\i (29:08:33) mouse_pos -15 331
+\i (29:08:33) mouse_pos -34 303
+\i (29:08:34) mouse_pos -179 -63
+\i (29:08:38) mouse_pos -196 112
+\i (29:08:41) pick grid -196 112
+\t (29:08:41) last pick:  -200  100
+\t (29:08:41) Drc error(s) created.
+\t (29:08:41) Pick first element.
+\i (29:08:44) pick grid -201 -97
+\t (29:08:44) last pick:  -200  -100
+\t (29:08:44) Pick first element.
+\i (29:09:04) mouse_pos 227 35
+\i (29:09:05) mouse_pos 213 -65
+\i (29:09:05) mouse_pos 210 -50
+\i (29:09:06) mouse_pos 207 -2
+\i (29:09:08) mouse_pos 186 -50
+\i (29:09:16) mouse_pos -209 388
+\i (29:09:18) pick grid -209 388
+\t (29:09:18) last pick:  -200  400
+\t (29:09:18) Drc error(s) created.
+\t (29:09:18) Pick first element.
+\i (29:09:19) done 
+\t (29:09:19) Pick first element.
+\i (29:09:22) zoom points 
+\t (29:09:22) Pick 1st Corner Of New Window.
+\i (29:09:23) pick -278 148
+\t (29:09:23) last pick:  -278  148
+\t (29:09:23) Pick To Complete Window.
+\i (29:09:24) pick -110 51
+\t (29:09:24) last pick:  -110  51
+\i (29:09:24) trapsize 1
+\i (29:09:33) zoom fit 
+\i (29:09:33) trapsize 5
+\i (29:09:36) slide 
+\t (29:09:36) Pick element to slide.
+\i (29:09:37) slide 
+\t (29:09:37) Pick element to slide.
+\i (29:09:40) setwindow form.mini
+\i (29:09:40) FORM mini corners 90 
+\i (29:09:41) setwindow pcb
+\i (29:09:41) slide 
+\t (29:09:41) Pick element to slide.
+\i (29:09:45) pick grid -8 263
+\t (29:09:45) last pick:  0  275
+\t (29:09:45) last pick:  0  231
+\t (29:09:45) Waiting for the destination pick.
+\i (29:09:48) pick grid 58 287
+\t (29:09:48) last pick:  50  275
+\t (29:09:48) No DRC errors detected.
+\t (29:09:48) Pick another element to slide.
+\i (29:09:49) pick grid 69 301
+\t (29:09:49) last pick:  75  300
+\t (29:09:49) Waiting for the destination pick.
+\i (29:09:52) pick grid 47 310
+\t (29:09:52) last pick:  50  300
+\t (29:09:52) No DRC errors detected.
+\t (29:09:52) Pick another element to slide.
+\i (29:09:56) setwindow form.mini
+\i (29:09:56) FORM mini bubble_space Hug preferred 
+\i (29:09:58) FORM mini bubble_space Shove preferred 
+\i (29:10:01) FORM mini smooth_level Full 
+\i (29:10:03) setwindow pcb
+\i (29:10:03) pick grid 425 251
+\t (29:10:03) last pick:  425  250
+\t (29:10:03) Waiting for the destination pick.
+\i (29:10:05) pick grid 552 252
+\t (29:10:05) last pick:  550  250
+\t (29:10:05) No DRC errors detected.
+\t (29:10:05) Pick another element to slide.
+\i (29:10:05) pick grid 399 261
+\t (29:10:05) last pick:  400  250
+\t (29:10:05) Waiting for the destination pick.
+\i (29:10:06) pick grid 463 260
+\t (29:10:06) last pick:  475  250
+\t (29:10:06) No DRC errors detected.
+\t (29:10:06) Pick another element to slide.
+\i (29:10:08) pick grid -55 368
+\t (29:10:08) last pick:  -50  375
+\t (29:10:08) last pick:  -94  375
+\t (29:10:08) Waiting for the destination pick.
+\i (29:10:11) pick grid 87 351
+\t (29:10:11) last pick:  75  350
+\t (29:10:11) DRC errors detected.
+\t (29:10:11) Pick another element to slide.
+\i (29:10:12) pick grid 6 291
+\t (29:10:12) last pick:  0  300
+\t (29:10:12) last pick:  0  284
+\t (29:10:12) Waiting for the destination pick.
+\i (29:10:14) pick grid 13 224
+\t (29:10:14) last pick:  25  225
+\t (29:10:14) No DRC errors detected.
+\t (29:10:14) Pick another element to slide.
+\i (29:10:15) pick grid 39 206
+\t (29:10:15) last pick:  50  200
+\t (29:10:15) last pick:  190  200
+\t (29:10:15) Waiting for the destination pick.
+\i (29:10:20) pick grid -43 11
+\t (29:10:20) last pick:  -50  0
+\t (29:10:20) DRC errors detected.
+\t (29:10:20) Pick another element to slide.
+\i (29:10:21) pick grid -72 74
+\t (29:10:21) last pick:  -75  75
+\t (29:10:21) last pick:  -75  120
+\t (29:10:21) Waiting for the destination pick.
+\i (29:10:23) pick grid 37 -105
+\t (29:10:23) last pick:  25  -100
+\t (29:10:23) DRC errors detected.
+\t (29:10:23) Pick another element to slide.
+\i (29:10:23) pick grid 2 205
+\t (29:10:23) last pick:  0  200
+\t (29:10:23) last pick:  0  201
+\t (29:10:23) Waiting for the destination pick.
+\i (29:10:26) pick grid 26 -90
+\t (29:10:26) last pick:  25  -100
+\t (29:10:26) DRC errors detected.
+\t (29:10:26) Pick another element to slide.
+\i (29:10:26) pick grid 30 200
+\t (29:10:26) last pick:  25  200
+\t (29:10:26) last pick:  152  200
+\t (29:10:26) Waiting for the destination pick.
+\i (29:10:29) pick grid -49 -37
+\t (29:10:29) last pick:  -50  -25
+\t (29:10:29) No DRC errors detected.
+\t (29:10:29) Pick another element to slide.
+\i (29:10:30) pick grid -183 71
+\t (29:10:30) last pick:  -175  75
+\t (29:10:30) last pick:  -175  60
+\t (29:10:30) Waiting for the destination pick.
+\i (29:10:33) pick grid -141 67
+\t (29:10:33) last pick:  -150  75
+\t (29:10:33) DRC errors detected.
+\t (29:10:33) Pick another element to slide.
+\i (29:10:34) pick grid -255 120
+\t (29:10:34) last pick:  -250  125
+\t (29:10:34) last pick:  -250  118
+\t (29:10:34) Waiting for the destination pick.
+\i (29:10:35) pick grid -287 -112
+\t (29:10:35) last pick:  -275  -100
+\t (29:10:36) DRC errors detected.
+\t (29:10:36) Pick another element to slide.
+\i (29:10:38) pick grid 1 225
+\t (29:10:38) last pick:  0  225
+\t (29:10:38) last pick:  0  221
+\t (29:10:38) Waiting for the destination pick.
+\i (29:10:41) pick grid 57 224
+\t (29:10:41) last pick:  50  225
+\t (29:10:41) DRC errors detected.
+\t (29:10:41) Pick another element to slide.
+\i (29:11:16) zoom points 
+\t (29:11:16) Pick 1st Corner Of New Window.
+\i (29:11:17) pick -279 548
+\t (29:11:17) last pick:  -279  548
+\t (29:11:17) Pick To Complete Window.
+\i (29:11:17) pick -110 443
+\t (29:11:17) last pick:  -110  443
+\i (29:11:17) trapsize 1
+\i (29:11:47) zoom fit 
+\i (29:11:47) trapsize 5
+\i (29:11:49) pick grid 77 52
+\t (29:11:49) last pick:  75  50
+\t (29:11:49) last pick:  75  52
+\t (29:11:49) Waiting for the destination pick.
+\i (29:11:52) pick grid -55 -36
+\t (29:11:52) last pick:  -50  -25
+\t (29:11:52) No DRC errors detected.
+\t (29:11:52) Pick another element to slide.
+\i (29:11:53) pick grid 308 201
+\t (29:11:53) last pick:  300  200
+\t (29:11:53) Waiting for the destination pick.
+\i (29:11:54) pick grid 505 -62
+\t (29:11:54) last pick:  500  -50
+\t (29:11:54) No DRC errors detected.
+\t (29:11:54) Pick another element to slide.
+\i (29:11:57) pick grid -168 501
+\t (29:11:57) last pick:  -175  500
+\t (29:11:57) last pick:  -175  488
+\t (29:11:57) Waiting for the destination pick.
+\i (29:11:58) pick grid -236 592
+\t (29:11:58) last pick:  -225  600
+\t (29:11:58) No DRC errors detected.
+\t (29:11:58) Pick another element to slide.
+\i (29:11:59) pick grid -233 552
+\t (29:11:59) last pick:  -225  550
+\t (29:11:59) last pick:  -225  548
+\t (29:11:59) Waiting for the destination pick.
+\i (29:12:00) pick grid -246 588
+\t (29:12:00) last pick:  -250  600
+\t (29:12:00) No DRC errors detected.
+\t (29:12:00) Pick another element to slide.
+\i (29:12:01) pick grid -197 515
+\t (29:12:01) last pick:  -200  525
+\t (29:12:01) last pick:  -200  500
+\t (29:12:01) Waiting for the destination pick.
+\i (29:12:03) pick grid -202 512
+\t (29:12:03) last pick:  -200  500
+\t (29:12:28) DRC errors detected.
+\t (29:12:28) Pick another element to slide.
+\i (29:12:28) pick grid -158 383
+\t (29:12:28) last pick:  -150  375
+\t (29:12:28) last pick:  -153  375
+\t (29:12:28) Waiting for the destination pick.
+\i (29:12:28) pick grid -211 50
+\t (29:12:28) last pick:  -200  50
+\t (29:12:29) DRC errors detected.
+\t (29:12:29) Pick another element to slide.
+\i (29:12:29) pick grid -169 58
+\t (29:12:29) last pick:  -175  50
+\t (29:12:29) last pick:  -168  50
+\t (29:12:29) Waiting for the destination pick.
+\i (29:12:29) pick grid -155 -87
+\t (29:12:29) last pick:  -150  -75
+\t (29:12:29) No DRC errors detected.
+\t (29:12:29) Pick another element to slide.
+\i (29:16:33) pick grid 275 203
+\t (29:16:33) last pick:  275  200
+\t (29:16:33) Waiting for the destination pick.
+\i (29:16:37) pick grid -201 188
+\t (29:16:37) last pick:  -200  200
+\t (29:16:37) No DRC errors detected.
+\t (29:16:37) Pick another element to slide.
+\i (29:16:38) pick grid 5 -28
+\t (29:16:38) last pick:  0  -25
+\t (29:16:38) Waiting for the destination pick.
+\i (29:16:39) pick grid -12 287
+\t (29:16:39) last pick:  0  275
+\t (29:16:39) No DRC errors detected.
+\t (29:16:39) Pick another element to slide.
+\i (29:16:40) pick grid -12 295
+\t (29:16:40) last pick:  0  300
+\t (29:16:40) last pick:  0  292
+\t (29:16:40) Waiting for the destination pick.
+\i (29:16:41) pick grid 215 387
+\t (29:16:41) last pick:  225  375
+\t (29:16:41) No DRC errors detected.
+\t (29:16:41) Pick another element to slide.
+\i (29:16:42) pick grid 207 313
+\t (29:16:42) last pick:  200  325
+\t (29:16:42) last pick:  210  310
+\t (29:16:42) Waiting for the destination pick.
+\i (29:16:44) pick grid 406 112
+\t (29:16:44) last pick:  400  100
+\t (29:16:44) DRC errors detected.
+\t (29:16:44) Pick another element to slide.
+\i (29:16:46) pick grid 211 407
+\t (29:16:46) last pick:  200  400
+\t (29:16:46) last pick:  202  405
+\t (29:16:46) Waiting for the destination pick.
+\i (29:16:47) pick grid 362 -156
+\t (29:16:47) last pick:  350  -150
+\t (29:16:47) No DRC errors detected.
+\t (29:16:47) Pick another element to slide.
+\i (29:19:34) pick grid 207 440
+\t (29:19:34) last pick:  200  450
+\t (29:19:34) last pick:  200  440
+\t (29:19:34) Waiting for the destination pick.
+\i (29:19:36) pick grid -165 216
+\t (29:19:36) last pick:  -175  225
+\t (29:19:44) DRC errors detected.
+\t (29:19:44) Pick another element to slide.
+\i (29:19:44) pick grid 44 427
+\t (29:19:44) last pick:  50  425
+\t (29:19:44) No other element found.
+\t (29:19:44) Pick element to slide.
+\i (29:19:59) new 
+\f (29:19:59) Do you want to save the changes you made to z11.dra?
+\i (29:20:01) fillin no 
+\f (29:20:12) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (29:20:13) newdrawfillin "z11.dra" "Package Symbol (Wizard)"
+\t (29:20:13) Starting new drawing...
+\w (29:20:13) Small extents, sector size decreased to: 106,106
+\i (29:20:13) trapsize 11
+\i (29:20:13) package symbol wizard 
+\i (29:20:17) setwindow form.sym_wizard
+\i (29:20:17) FORM sym_wizard soic YES 
+\i (29:20:17) FORM sym_wizard plcc YES 
+\i (29:20:18) FORM sym_wizard bga YES 
+\i (29:20:18) FORM sym_wizard rca_th YES 
+\i (29:20:19) FORM sym_wizard rca_smd YES 
+\i (29:20:19) FORM sym_wizard bga YES 
+\i (29:20:23) FORM sym_wizard wiz_next  
+\i (29:20:25) FORM sym_wizard use_custom_template YES 
+\i (29:20:27) FORM sym_wizard load_template  
+\i (29:20:28) fillin confirm
+\i (29:20:28) FORM sym_wizard no_custom_template YES 
+\i (29:20:29) FORM sym_wizard load_template  
+\t (29:20:29) Opening existing drawing...
+\t (29:20:29) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (29:20:29) setwindow pcb
+\i (29:20:29) trapsize 228
+\i (29:20:32) setwindow form.sym_wizard
+\i (29:20:32) FORM sym_wizard wiz_next  
+\i (29:20:42) FORM sym_wizard pack_units Millimeter 
+\i (29:20:44) FORM sym_wizard pack_units_create Millimeter 
+\i (29:20:48) FORM sym_wizard wiz_next  
+\i (29:20:55) FORM sym_wizard wiz_next  
+\i (29:20:59) FORM sym_wizard wiz_next  
+\i (29:21:32) FORM sym_wizard pga_ev 2.500 
+\i (29:21:34) FORM sym_wizard pga_eh 2.500 
+\i (29:21:34) FORM sym_wizard wiz_next  
+\i (29:21:36) FORM sym_wizard default_pad_browse  
+\f (29:21:36) Package Symbol Wizard Padstack Browser
+\i (29:22:17) fillin "Pad35cir21d"
+\i (29:22:19) FORM sym_wizard wiz_next  
+\i (29:22:20) FORM sym_wizard wiz_next  
+\i (29:22:21) FORM sym_wizard wiz_finish  
+\w (29:22:21) Scaled value has been rounded off.
+\t (29:22:21) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (29:22:21) setwindow pcb
+\i (29:22:21) trapsize 5804
+\t (29:22:21) Performing DRC. Please wait...
+\t (29:22:21) No DRC errors detected.
+\w (29:22:21) Scaled value has been rounded off.
+\w (29:22:21) Large extents, sector size enlarged to: 15240,15240
+\w (29:22:21) Large extents, sector size enlarged to: 30480,30480
+\w (29:22:21) Large extents, sector size enlarged to: 60960,60960
+\w (29:22:21) Large extents, sector size enlarged to: 121920,121920
+\t (29:22:22) Grids are drawn 650.240, 650.240 apart for enhanced viewability.
+\i (29:22:22) trapsize 229570
+\w (29:22:22) Small extents, sector size decreased to: 8128,8128
+\i (29:22:22) trapsize 819
+\w (29:22:22) Small extents, sector size decreased to: 5467,5467
+\i (29:22:22) trapsize 551
+\f (29:22:22) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm: File Exists. Overwrite? 
+\i (29:22:24) fillin yes 
+\t (29:22:24) Creating package symbol 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.psm'.
+\t (29:22:24) Starting Create symbol...
+\f (29:22:24) d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra: File Exists. Overwrite? 
+\i (29:22:25) fillin yes 
+\i (29:22:29) color 
+\i (29:22:29) setwindow form.cvf_main
+\i (29:22:29) FORM cvf_main class_list Geometry
+\i (29:22:31) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (29:22:33) FORM cvf_main apply  
+\i (29:22:34) FORM cvf_main cancel  
+\i (29:22:37) setwindow pcb
+\i (29:22:37) zoom fit 
+\i (29:22:37) trapsize 279
+\i (29:22:41) zoom points 
+\t (29:22:41) Pick 1st Corner Of New Window.
+\i (29:22:42) pick 3.565 6.128
+\t (29:22:42) last pick:  3.565  6.128
+\t (29:22:42) Pick To Complete Window.
+\i (29:22:43) pick 6.351 3.955
+\t (29:22:43) last pick:  6.351  3.955
+\i (29:22:43) trapsize 15
+\i (29:22:48) zoom fit 
+\i (29:22:48) trapsize 279
+\i (29:22:49) add connect 
+\w (29:22:49) Scaled value has been rounded off.
+\t (29:22:49) Pick first element.
+\i (29:22:50) pick grid 0.056 7.576
+\t (29:22:50) last pick:  0.000  7.620
+\t (29:22:50) last pick:  0.000  7.500
+\i (29:22:51) mouse_pos -0.167 4.846
+\i (29:22:51) mouse_pos -0.279 3.509
+\i (29:22:51) mouse_pos -0.501 1.950
+\i (29:22:51) mouse_pos -1.003 -0.724
+\i (29:22:51) mouse_pos -1.783 -5.626
+\i (29:22:51) mouse_pos -1.950 -7.186
+\i (29:22:51) mouse_pos -2.006 -9.303
+\i (29:22:51) mouse_pos -1.560 -9.749
+\i (29:22:51) mouse_pos -0.279 -10.194
+\i (29:22:51) mouse_pos 1.058 -10.417
+\i (29:22:51) mouse_pos 1.838 -10.640
+\i (29:22:52) mouse_pos 3.565 -10.362
+\i (29:22:52) mouse_pos 4.345 -10.194
+\i (29:22:53) pick grid 4.791 -10.083
+\t (29:22:53) last pick:  5.080  -10.160
+\t (29:22:53) No DRC errors detected.
+\t (29:22:53) Pick first element.
+\i (29:22:54) pick grid -5.014 -12.701
+\t (29:22:54) last pick:  -5.080  -12.700
+\t (29:22:54) Pick first element.
+\t (29:22:54) last pick:  -5.000  -12.500
+\i (29:22:54) mouse_pos 0.613 -4.958
+\i (29:22:54) mouse_pos 1.838 -4.067
+\i (29:22:54) mouse_pos 3.955 -1.281
+\i (29:22:54) mouse_pos 4.512 -0.056
+\i (29:22:54) mouse_pos 4.958 1.003
+\i (29:22:54) mouse_pos 5.236 1.727
+\i (29:22:54) mouse_pos 5.404 3.509
+\i (29:22:54) mouse_pos 5.459 4.234
+\i (29:22:55) pick grid 5.292 4.791
+\t (29:22:55) last pick:  5.080  5.080
+\t (29:22:55) No DRC errors detected.
+\t (29:22:55) Pick first element.
+\i (29:22:56) pick grid 9.860 7.799
+\t (29:22:56) last pick:  10.160  7.620
+\t (29:22:56) Pick first element.
+\t (29:22:56) last pick:  10.000  7.500
+\i (29:22:56) mouse_pos 7.910 4.345
+\i (29:22:56) mouse_pos 6.685 3.732
+\i (29:22:56) mouse_pos 5.682 3.454
+\i (29:22:56) mouse_pos 4.345 3.120
+\i (29:22:56) mouse_pos 2.117 2.507
+\i (29:22:56) mouse_pos 1.560 2.005
+\i (29:22:56) mouse_pos 0.223 0.780
+\i (29:22:56) mouse_pos -1.226 -0.390
+\i (29:22:56) mouse_pos -1.838 -0.724
+\i (29:22:56) mouse_pos -2.340 -0.947
+\i (29:22:57) mouse_pos -3.231 -2.117
+\i (29:22:57) mouse_pos 1.003 -1.504
+\i (29:22:57) mouse_pos 4.289 -1.114
+\i (29:22:57) mouse_pos 4.791 -1.058
+\i (29:22:58) mouse_pos 4.902 -0.279
+\i (29:22:58) pick grid 5.125 -0.279
+\t (29:22:58) last pick:  5.080  0.000
+\t (29:22:58) No DRC errors detected.
+\t (29:22:58) Pick first element.
+\i (29:23:00) pick grid 4.791 2.451
+\t (29:23:00) last pick:  5.080  2.540
+\t (29:23:00) Pick first element.
+\t (29:23:00) last pick:  5.000  2.500
+\i (29:23:00) mouse_pos 6.072 2.562
+\i (29:23:00) mouse_pos 6.852 2.395
+\i (29:23:00) mouse_pos 8.746 2.061
+\i (29:23:00) mouse_pos 11.754 -0.167
+\i (29:23:00) mouse_pos 12.144 -1.003
+\i (29:23:01) mouse_pos 12.701 -2.340
+\i (29:23:01) mouse_pos 11.587 -3.565
+\i (29:23:01) mouse_pos 6.183 -6.963
+\i (29:23:01) mouse_pos 4.624 -7.298
+\i (29:23:01) mouse_pos 4.289 -7.465
+\i (29:23:01) mouse_pos 4.791 -8.802
+\i (29:23:02) mouse_pos 4.902 -7.910
+\i (29:23:02) mouse_pos 5.014 -8.690
+\i (29:23:02) mouse_pos 4.902 -9.247
+\i (29:23:03) mouse_pos 5.181 -11.141
+\i (29:23:03) mouse_pos 5.348 -11.977
+\i (29:23:03) pick grid 4.735 -12.534
+\t (29:23:03) last pick:  4.445  -12.700
+\t (29:23:03) Drc error(s) created.
+\t (29:23:03) Pick first element.
+\i (29:23:04) pick grid 5.069 -2.284
+\t (29:23:04) last pick:  5.080  -2.540
+\t (29:23:04) Pick first element.
+\t (29:23:04) last pick:  5.000  -2.500
+\i (29:23:06) mouse_pos 8.022 -2.563
+\i (29:23:06) mouse_pos 7.799 -1.560
+\i (29:23:06) mouse_pos 9.359 -0.056
+\i (29:23:07) pick grid 10.083 0.334
+\t (29:23:07) last pick:  10.160  0.635
+\t (29:23:07) Drc error(s) created.
+\t (29:23:07) Pick first element.
+\i (29:23:12) pick grid 7.520 7.632
+\t (29:23:12) last pick:  7.620  7.620
+\t (29:23:12) Pick first element.
+\t (29:23:12) last pick:  7.500  7.500
+\i (29:23:12) mouse_pos 6.351 8.635
+\i (29:23:12) mouse_pos 1.337 10.250
+\i (29:23:12) mouse_pos -2.395 12.088
+\i (29:23:13) mouse_pos -3.565 13.091
+\i (29:23:13) mouse_pos -4.791 12.813
+\i (29:23:14) pick grid -4.791 12.813
+\t (29:23:14) last pick:  -5.080  12.700
+\t (29:23:14) Drc error(s) created.
+\t (29:23:14) Pick first element.
+\i (29:23:15) pick grid -0.111 12.701
+\t (29:23:15) last pick:  0.000  12.700
+\t (29:23:15) Pick first element.
+\t (29:23:15) last pick:  0.000  12.500
+\i (29:23:15) mouse_pos -0.780 10.306
+\i (29:23:15) mouse_pos -1.114 9.860
+\i (29:23:15) mouse_pos -2.006 8.467
+\i (29:23:15) mouse_pos -2.061 6.406
+\i (29:23:15) mouse_pos -2.228 5.793
+\i (29:23:16) pick grid -2.563 5.348
+\t (29:23:16) last pick:  -2.540  5.080
+\t (29:23:16) Drc error(s) created.
+\t (29:23:16) Pick first element.
+\i (29:23:24) padeditlib 
+\t (29:23:24) Pick first element.
+\f (29:23:24) Select Library Padstack
+\i (29:23:26) fillin "Hole109p"
+\i (29:23:27) setwindow form.padedit
+\i (29:23:27) FORM padedit layers  
+\i (29:23:29) FORM padedit parameters  
+\f (29:23:32) Select Library Padstack
+\i (29:23:36) fillin "Pad35cir25d"
+\i (29:23:37) setwindow form.padedit
+\i (29:23:37) FORM padedit layers  
+\i (29:23:39) FORM padedit crossbox YES 
+\i (29:23:40) FORM padedit grid row default_internal 
+\i (29:23:42) FORM padedit parameters  
+\f (29:23:44) Select Library Padstack
+\i (29:23:53) fillin "Pad50cir32d"
+\i (29:23:55) setwindow form.padedit
+\i (29:23:55) FORM padedit layers  
+\i (29:23:57) FORM padedit parameters  
+\f (29:24:00) Select Library Padstack
+\i (29:24:54) fillin "Pad30cir20d"
+\i (29:24:56) setwindow form.padedit
+\i (29:24:56) FORM padedit layers  
+\i (29:24:58) FORM padedit grid row default_internal 
+\i (29:24:59) FORM padedit grid row bottom 
+\i (29:24:59) FORM padedit grid row top 
+\i (29:25:04) FORM padedit geometry Circle 
+\i (29:25:07) FORM padedit shapebutton  
+\f (29:25:07) Select shape symbol:
+\i (29:25:11) fillin "Sha_sot89msk"
+\i (29:25:17) FORM padedit geometry Circle 
+\i (29:25:21) FORM padedit width 10 
+\i (29:25:24) FORM padedit grid row default_internal 
+\i (29:25:31) FORM padedit geometry Circle 
+\i (29:25:35) FORM padedit width 10 
+\i (29:25:36) FORM padedit grid row bottom 
+\i (29:25:38) FORM padedit geometry Square 
+\i (29:25:41) FORM padedit width 10 
+\i (29:25:44) FORM padedit parameters  
+\i (29:25:56) FORM padedit hole_size 5 
+\i (29:26:00) FORM padedit drill_fig Circle 
+\i (29:26:12) FORM padedit layers  
+\i (29:26:26) FORM padedit grid row default_internal 
+\i (29:26:29) FORM padedit grid row soldermask_top 
+\i (29:26:31) FORM padedit grid row soldermask_bottom 
+\i (29:26:33) FORM padedit grid row pastemask_top 
+\i (29:26:36) FORM padedit grid row pastemask_bottom 
+\i (29:26:38) FORM padedit grid row filmmask_top 
+\i (29:26:39) FORM padedit grid row filmmask_bottom 
+\i (29:26:42) FORM padedit crossbox YES 
+\i (29:26:43) FORM padedit stackbox YES 
+\i (29:26:44) FORM padedit parameters  
+\f (29:26:46) Select Library Padstack
+\i (29:26:48) fillin "Hole109p"
+\i (29:26:49) setwindow form.padedit
+\i (29:26:49) FORM padedit layers  
+\f (29:26:51) Select Library Padstack
+\i (29:26:52) fillin "menu_cancel"
+\i (29:26:58) setwindow pcb
+\i (29:26:58) padeditdb 
+\i (29:27:00) pick grid 17.213 2.562
+\t (29:27:00) last pick:  17.145  2.540
+\i (29:27:01) pick grid 17.436 2.618
+\t (29:27:01) last pick:  17.145  2.540
+\i (29:27:05) setwindow form.mini
+\i (29:27:05) FORM mini instbox YES 
+\i (29:27:07) FORM mini pad_stack_edit  
+\i (29:27:11) setwindow form.padedit
+\i (29:27:11) FORM padedit grid row default_internal 
+\i (29:27:20) FORM padedit grid row bottom 
+\i (29:27:21) FORM padedit grid row top 
+\i (29:27:22) FORM padedit grid row default_internal 
+\i (29:27:36) setwindow pcb
+\i (29:27:36) zoom out 
+\i (29:27:36) zoom out 6.518 -0.056
+\i (29:27:36) trapsize 551
+\i (29:36:04) trapsize 443
+\i (29:36:04) trapsize 551
+\i (29:36:58) pick grid 33.951 -4.630
+\t (29:36:58) last pick:  33.655  -4.445
+\t (29:36:58) No element found
+\i (29:37:31) pick grid 40.675 -3.748
+\t (29:37:31) last pick:  40.640  -3.810
+\t (29:37:31) No element found
+\i (29:52:54) zoom fit 
+\i (29:52:54) trapsize 279
+\i (29:52:56) slide 
+\t (29:52:57) Pick element to slide.
+\i (29:52:59) pick grid 3.899 6.072
+\t (29:52:59) last pick:  3.810  6.350
+\t (29:52:59) last pick:  4.009  5.991
+\t (29:52:59) Waiting for the destination pick.
+\i (29:53:04) pick grid 3.509 5.459
+\t (29:53:04) last pick:  3.810  5.715
+\t (29:53:04) No DRC errors detected.
+\t (29:53:04) Pick another element to slide.
+\i (29:53:06) pick grid 5.905 3.899
+\t (29:53:06) last pick:  5.715  3.810
+\t (29:53:06) last pick:  5.991  3.810
+\t (29:53:06) Waiting for the destination pick.
+\i (29:53:08) pick grid 16.266 4.568
+\t (29:53:08) last pick:  16.510  4.445
+\t (29:53:09) DRC errors detected.
+\t (29:53:09) Pick another element to slide.
+\i (29:53:10) pick grid 1.615 -13.370
+\t (29:53:10) last pick:  1.905  -13.335
+\t (29:53:10) last pick:  1.905  -13.491
+\t (29:53:10) Waiting for the destination pick.
+\i (29:53:14) pick grid -13.091 1.615
+\t (29:53:14) last pick:  -13.335  1.905
+\t (29:53:14) DRC errors detected.
+\t (29:53:14) Pick another element to slide.
+\i (29:53:17) pick grid 4.011 -5.348
+\t (29:53:17) last pick:  3.810  -5.080
+\t (29:53:17) last pick:  4.009  -5.080
+\t (29:53:17) Waiting for the destination pick.
+\i (29:53:25) pick grid -11.643 15.598
+\t (29:53:25) last pick:  -11.430  15.875
+\t (29:53:25) No DRC errors detected.
+\t (29:53:25) Pick another element to slide.
+\i (29:53:27) pick grid 3.454 0.223
+\t (29:53:27) last pick:  3.175  0.000
+\t (29:53:27) last pick:  3.491  0.000
+\t (29:53:27) Waiting for the destination pick.
+\i (29:53:35) pick grid 3.342 -5.181
+\t (29:53:35) last pick:  3.175  -5.080
+\t (29:53:35) No DRC errors detected.
+\t (29:53:35) Pick another element to slide.
+\i (29:53:39) setwindow form.mini
+\i (29:53:39) FORM mini subclass BOTTOM 
+\i (29:53:40) setwindow pcb
+\i (29:53:40) pick grid 12.311 10.194
+\t (29:53:40) last pick:  12.065  10.160
+\t (29:53:40) No other element found.
+\t (29:53:40) Pick element to slide.
+\i (29:53:45) add connect 
+\t (29:53:46) Pick first element.
+\i (29:53:52) setwindow form.mini
+\i (29:53:52) FORM mini alt_subclass TOP 
+\t (29:53:52) Pick first element.
+\i (29:53:54) FORM mini active_subclass BOTTOM 
+\t (29:53:54) Pick first element.
+\i (29:53:55) setwindow pcb
+\i (29:53:55) pick grid 7.353 10.083
+\t (29:53:55) last pick:  7.620  10.160
+\t (29:53:55) last pick:  7.500  10.000
+\i (29:53:56) mouse_pos 2.841 10.584
+\i (29:53:56) mouse_pos 1.337 9.136
+\i (29:53:56) mouse_pos -0.446 7.855
+\i (29:53:56) mouse_pos -1.003 6.852
+\i (29:53:56) mouse_pos -0.279 5.793
+\i (29:53:58) mouse_pos -0.501 6.128
+\i (29:53:58) mouse_pos -0.279 5.738
+\i (29:53:59) pick grid -0.167 5.292
+\t (29:53:59) last pick:  0.000  5.080
+\t (29:53:59) No DRC errors detected.
+\t (29:53:59) Pick first element.
+\i (29:54:07) color 
+\i (29:54:07) setwindow form.cvf_main
+\i (29:54:07) FORM cvf_main class_list Stack-Up
+\i (29:54:42) FORM cvf_main drc_error_class/bottom/color 1 
+\i (29:54:45) FORM cvf_main color9 8 
+\i (29:54:47) FORM cvf_main apply  
+\i (29:54:51) FORM cvf_main drc_error_class/bottom/color 9 
+\i (29:54:53) FORM cvf_main apply  
+\i (29:54:54) FORM cvf_main ok  
+\i (29:54:56) setwindow pcb
+\i (29:54:56) pick grid 12.590 7.576
+\t (29:54:56) last pick:  12.700  7.620
+\t (29:54:56) Pick first element.
+\t (29:54:56) last pick:  12.500  7.500
+\i (29:54:56) mouse_pos 9.693 11.754
+\i (29:54:56) mouse_pos 9.024 12.255
+\i (29:54:57) mouse_pos 11.754 12.423
+\i (29:54:57) mouse_pos 12.645 11.420
+\i (29:54:57) mouse_pos 12.924 11.698
+\i (29:54:58) pick grid 12.367 12.255
+\t (29:54:58) last pick:  12.065  12.065
+\t (29:54:58) No DRC errors detected.
+\t (29:54:58) Pick first element.
+\i (29:55:00) color 
+\i (29:55:00) setwindow form.cvf_main
+\i (29:55:00) FORM cvf_main class_list Stack-Up
+\i (29:55:21) FORM cvf_main class_list Analysis 
+\i (29:55:24) FORM cvf_main class_list Display 
+\i (29:55:26) FORM cvf_main class_list Stack-Up 
+\i (29:55:27) FORM cvf_main cancel  
+\i (29:55:46) setwindow form.mini
+\i (29:55:46) FORM mini lock_mode Arc 
+\i (29:55:47) setwindow pcb
+\i (29:55:47) pick grid 13.481 10.083
+\t (29:55:47) last pick:  13.335  10.160
+\t (29:55:47) Pick first element.
+\t (29:55:47) last pick:  13.491  10.160
+\i (29:55:48) mouse_pos 15.598 13.147
+\i (29:55:48) mouse_pos 15.988 12.980
+\i (29:55:48) mouse_pos 16.879 13.258
+\i (29:55:48) mouse_pos 17.046 13.815
+\i (29:55:48) mouse_pos 16.991 14.317
+\i (29:55:48) mouse_pos 16.099 14.484
+\i (29:55:48) mouse_pos 15.375 14.261
+\i (29:55:48) mouse_pos 14.818 13.927
+\i (29:55:48) mouse_pos 13.314 14.595
+\i (29:55:48) mouse_pos 11.643 15.709
+\i (29:55:49) mouse_pos 12.033 15.821
+\i (29:55:49) pick grid 12.423 15.542
+\t (29:55:49) last pick:  12.700  15.240
+\t (29:55:49) Drc error(s) created.
+\t (29:55:49) Pick first element.
+\i (29:55:51) pick grid 12.423 13.871
+\t (29:55:51) last pick:  12.700  13.970
+\t (29:55:51) Pick first element.
+\t (29:55:51) last pick:  12.500  13.970
+\i (29:55:51) mouse_pos 14.372 12.645
+\i (29:55:51) pick grid 14.929 12.534
+\t (29:55:51) last pick:  15.240  12.700
+\t (29:55:51) No DRC errors detected.
+\t (29:55:51) Pick first element.
+\i (29:55:54) setwindow form.mini
+\i (29:55:54) FORM mini lock_mode Line 
+\i (29:55:55) setwindow pcb
+\i (29:55:55) pick grid 14.595 13.537
+\t (29:55:55) last pick:  14.605  13.335
+\t (29:55:55) Pick first element.
+\t (29:55:55) last pick:  14.691  13.402
+\i (29:55:56) pick grid 16.322 14.317
+\t (29:55:56) last pick:  16.510  14.605
+\t (29:55:56) Drc error(s) created.
+\i (29:55:56) mouse_pos 12.757 12.980
+\i (29:55:57) mouse_pos 12.144 11.587
+\i (29:55:57) mouse_pos 12.367 11.086
+\i (29:55:57) mouse_pos 12.423 10.974
+\i (29:55:57) mouse_pos 12.980 10.696
+\i (29:55:58) mouse_pos 12.645 11.197
+\i (29:55:58) mouse_pos 11.587 12.757
+\i (29:55:58) mouse_pos 7.353 15.765
+\i (29:55:58) mouse_pos 5.571 16.991
+\i (29:55:58) mouse_pos 3.454 18.327
+\i (29:55:58) slide 
+\t (29:55:58) Pick element to slide.
+\i (29:56:00) pick grid 12.534 10.807
+\t (29:56:00) last pick:  12.700  10.795
+\t (29:56:00) last pick:  12.587  10.744
+\t (29:56:00) Waiting for the destination pick.
+\i (29:56:01) pick grid 14.874 11.197
+\t (29:56:01) last pick:  14.605  11.430
+\t (29:56:01) No DRC errors detected.
+\t (29:56:01) Pick another element to slide.
+\i (29:56:01) pick grid 14.372 13.648
+\t (29:56:01) last pick:  14.605  13.335
+\t (29:56:01) last pick:  14.691  13.402
+\t (29:56:01) Waiting for the destination pick.
+\i (29:56:02) pick grid 13.314 16.211
+\t (29:56:02) last pick:  13.335  16.510
+\t (29:56:02) No DRC errors detected.
+\t (29:56:02) Pick another element to slide.
+\i (29:56:07) setwindow form.mini
+\i (29:56:07) FORM mini corners 90 
+\i (29:56:13) setwindow pcb
+\i (29:56:13) pick grid 8.356 8.690
+\t (29:56:13) last pick:  8.255  8.890
+\t (29:56:13) last pick:  8.255  8.745
+\t (29:56:13) Waiting for the destination pick.
+\i (29:56:15) pick grid 7.130 14.205
+\t (29:56:15) last pick:  6.985  13.970
+\t (29:56:15) DRC errors detected.
+\t (29:56:15) Pick another element to slide.
+\i (29:57:01) pick grid 29.302 3.120
+\t (29:57:01) last pick:  29.210  3.175
+\t (29:57:01) No other element found.
+\t (29:57:01) Pick element to slide.
+\i (29:57:14) setwindow form.mini
+\i (29:57:14) FORM mini subclass BOTTOM 
+\i (29:57:21) setwindow form.vf_vis
+\i (29:57:21) FORM vf_vis 1 etch_colorvisible 0 
+\i (29:57:22) FORM vf_vis 1 etch_colorvisible 3 
+\i (29:57:23) FORM vf_vis 1 etch_colorvisible 0 
+\i (29:57:25) FORM vf_vis 1 etch_colorvisible 3 
+\i (29:57:26) FORM vf_vis 2 etch_colorvisible 0 
+\i (29:57:27) FORM vf_vis 2 etch_colorvisible 3 
+\i (29:57:30) FORM vf_vis 2 etch_colorvisible 0 
+\i (29:57:31) FORM vf_vis 2 etch_colorvisible 3 
+\i (29:57:34) setwindow pcb
+\i (29:57:34) color 
+\i (29:57:34) setwindow form.cvf_main
+\i (29:57:34) FORM cvf_main class_list Stack-Up
+\i (29:57:39) FORM cvf_main etch/bottom/color 1 
+\i (29:57:43) FORM cvf_main color18 17 
+\i (29:57:45) FORM cvf_main etch/bottom/color 18 
+\i (29:57:46) FORM cvf_main apply  
+\i (29:57:47) FORM cvf_main ok  
+\i (29:57:51) setwindow pcb
+\i (29:57:51) pick grid 12.367 -4.847
+\t (29:57:51) last pick:  12.065  -5.080
+\t (29:57:51) No other element found.
+\t (29:57:51) Pick element to slide.
+\i (29:57:52) pick grid -10.194 0.056
+\t (29:57:52) last pick:  -10.160  0.000
+\t (29:57:52) No other element found.
+\t (29:57:52) Pick element to slide.
+\i (29:57:53) add connect 
+\t (29:57:53) Pick first element.
+\i (29:57:54) pick grid 12.367 -7.520
+\t (29:57:54) last pick:  12.065  -7.620
+\t (29:57:54) last pick:  12.500  -7.500
+\i (29:57:55) mouse_pos 0.613 -3.120
+\i (29:57:55) mouse_pos -1.170 -2.563
+\i (29:57:55) mouse_pos -2.730 -2.173
+\i (29:57:55) mouse_pos -3.621 -1.448
+\i (29:57:55) mouse_pos -4.234 -0.446
+\i (29:57:55) mouse_pos -4.735 1.114
+\i (29:57:55) mouse_pos -5.236 2.340
+\i (29:57:56) pick grid -5.069 2.841
+\t (29:57:56) last pick:  -5.080  2.540
+\t (29:57:56) No DRC errors detected.
+\t (29:57:56) Pick first element.
+\i (29:58:02) pick grid -7.855 7.799
+\t (29:58:02) last pick:  -7.620  7.620
+\t (29:58:02) Pick first element.
+\t (29:58:02) last pick:  -7.500  7.500
+\i (29:58:02) mouse_pos -4.791 9.916
+\i (29:58:02) mouse_pos -3.900 10.250
+\i (29:58:02) mouse_pos -3.008 10.473
+\i (29:58:02) mouse_pos -2.061 10.863
+\i (29:58:03) mouse_pos 0.223 11.810
+\i (29:58:03) mouse_pos 1.114 12.144
+\i (29:58:03) mouse_pos 1.894 13.035
+\i (29:58:03) mouse_pos 2.228 13.592
+\i (29:58:03) mouse_pos 2.618 14.317
+\i (29:58:04) mouse_pos 0.891 14.874
+\i (29:58:04) mouse_pos -0.223 14.818
+\i (29:58:04) mouse_pos -1.337 14.762
+\i (29:58:04) mouse_pos -3.120 14.707
+\i (29:58:04) mouse_pos -3.565 14.651
+\i (29:58:04) mouse_pos -4.289 14.539
+\i (29:58:04) mouse_pos -6.406 14.595
+\i (29:58:04) mouse_pos -7.743 14.651
+\i (29:58:04) mouse_pos -10.640 14.874
+\i (29:58:04) mouse_pos -11.866 14.985
+\i (29:58:04) mouse_pos -12.256 16.155
+\i (29:58:05) mouse_pos -2.674 15.821
+\i (29:58:05) mouse_pos -1.337 15.654
+\i (29:58:05) mouse_pos -0.836 15.542
+\i (29:58:05) mouse_pos 1.003 15.097
+\i (29:58:05) mouse_pos 2.228 15.041
+\i (29:58:06) pick grid 2.228 15.041
+\t (29:58:06) last pick:  2.540  15.240
+\t (29:58:06) Drc error(s) created.
+\t (29:58:06) Pick first element.
+\i (29:58:09) zoom points 
+\t (29:58:09) Pick 1st Corner Of New Window.
+\i (29:58:10) pick -9.526 10.194
+\t (29:58:10) last pick:  -9.526  10.194
+\t (29:58:10) Pick To Complete Window.
+\i (29:58:11) pick -4.345 5.236
+\t (29:58:11) last pick:  -4.345  5.236
+\i (29:58:11) trapsize 33
+\i (29:58:14) roam start
+\i (29:58:14) roam x 16
+\i (29:58:14) roam y 16
+\i (29:58:14) roam end
+\t (29:58:15) Pick To Complete Window.
+\i (29:58:15) roam start
+\i (29:58:15) roam x 64
+\i (29:58:15) roam y 80
+\i (29:58:16) roam x 64
+\i (29:58:16) roam y 64
+\i (29:58:16) roam y 48
+\i (29:58:16) roam x 112
+\i (29:58:16) roam y 128
+\i (29:58:16) roam x -208
+\i (29:58:16) roam y -192
+\i (29:58:16) roam x -128
+\i (29:58:16) roam y -176
+\i (29:58:17) roam end
+\i (29:58:18) zoom fit 
+\i (29:58:18) trapsize 279
+\i (29:58:23) pick 13.669 -23.259
+\t (29:58:23) last pick:  13.669  -23.259
+\i (29:58:23) zoom points
+\i (29:58:23) pick -41.006 -41.006
+\i (29:58:23) pick 66.910 41.006
+\i (29:58:23) trapsize 551
+\i (29:58:25) zoom fit 
+\i (29:58:25) trapsize 279
+\i (29:58:30) setwindow form.mini
+\i (29:58:30) FORM mini active_subclass TOP 
+\t (29:58:30) Pick first element.
+\t (29:58:30) Pick first element.
+\i (29:58:35) setwindow pcb
+\i (29:58:35) pick grid 17.380 5.014
+\t (29:58:35) last pick:  17.145  5.080
+\t (29:58:35) last pick:  17.500  5.000
+\i (29:58:35) mouse_pos 12.980 12.088
+\i (29:58:35) mouse_pos 9.749 14.985
+\i (29:58:35) mouse_pos 8.857 15.319
+\i (29:58:35) mouse_pos 8.245 15.709
+\i (29:58:35) mouse_pos 8.077 16.211
+\i (29:58:35) mouse_pos 7.576 15.542
+\i (29:58:35) mouse_pos 6.573 15.709
+\i (29:58:35) mouse_pos 5.793 15.765
+\i (29:58:36) pick grid 4.846 15.208
+\t (29:58:36) last pick:  5.080  15.240
+\t (29:58:36) Drc error(s) created.
+\t (29:58:36) Pick first element.
+\i (29:58:39) pick grid 10.027 -9.916
+\t (29:58:39) last pick:  10.160  -10.160
+\t (29:58:39) Pick first element.
+\t (29:58:39) last pick:  10.000  -10.000
+\i (29:58:39) mouse_pos 14.205 -7.799
+\i (29:58:40) mouse_pos 14.317 -6.573
+\i (29:58:40) mouse_pos 14.317 -5.794
+\i (29:58:41) pick grid 15.264 -5.348
+\t (29:58:41) last pick:  15.240  -5.080
+\t (29:58:41) No DRC errors detected.
+\t (29:58:41) Pick first element.
+\i (29:58:46) slide 
+\t (29:58:46) Pick first element.
+\t (29:58:46) Pick element to slide.
+\i (29:58:47) pick grid 11.643 -9.860
+\t (29:58:47) last pick:  11.430  -10.160
+\t (29:58:47) last pick:  11.430  -10.000
+\t (29:58:47) Waiting for the destination pick.
+\i (29:58:49) pick grid 13.091 -10.417
+\t (29:58:49) last pick:  13.335  -10.160
+\t (29:58:49) No DRC errors detected.
+\t (29:58:49) Pick another element to slide.
+\i (29:58:55) add connect 
+\t (29:58:55) Pick first element.
+\i (29:58:56) pick grid -12.478 5.125
+\t (29:58:56) last pick:  -12.700  5.080
+\t (29:58:56) last pick:  -12.500  5.000
+\i (29:58:57) mouse_pos -10.473 8.189
+\i (29:58:58) mouse_pos -11.253 8.467
+\i (29:58:59) mouse_pos -10.473 10.250
+\i (29:59:03) mouse_pos -9.080 9.526
+\i (29:59:04) mouse_pos -7.799 9.359
+\i (29:59:04) mouse_pos -6.239 9.136
+\i (29:59:04) mouse_pos -4.345 8.690
+\i (29:59:04) mouse_pos -3.565 8.467
+\i (29:59:04) mouse_pos -3.231 8.300
+\i (29:59:04) mouse_pos -1.448 7.465
+\i (29:59:04) mouse_pos -1.281 5.905
+\i (29:59:04) mouse_pos -0.724 4.679
+\i (29:59:05) mouse_pos -0.836 4.067
+\i (29:59:05) mouse_pos 4.067 3.621
+\i (29:59:05) mouse_pos 4.345 3.565
+\i (29:59:05) mouse_pos 4.958 3.565
+\i (29:59:06) mouse_pos 7.966 3.955
+\i (29:59:06) mouse_pos 13.202 5.014
+\i (29:59:06) mouse_pos 14.539 5.236
+\i (29:59:06) mouse_pos 15.988 5.515
+\i (29:59:06) mouse_pos 17.659 5.793
+\i (29:59:06) mouse_pos 20.667 6.295
+\i (29:59:09) setwindow form.mini
+\i (29:59:09) FORM mini bubble_space Shove preferred 
+\i (29:59:09) setwindow pcb
+\i (29:59:09) mouse_pos 3.844 6.183
+\i (29:59:09) mouse_pos 1.393 6.239
+\i (29:59:09) mouse_pos -1.727 6.462
+\i (29:59:09) mouse_pos -4.178 6.796
+\i (29:59:09) mouse_pos -4.791 7.019
+\i (29:59:10) mouse_pos -6.128 6.685
+\i (29:59:10) mouse_pos -7.242 5.348
+\i (29:59:11) mouse_pos -8.022 6.183
+\i (29:59:11) mouse_pos -9.303 5.404
+\i (29:59:12) mouse_pos -9.804 7.019
+\i (29:59:12) mouse_pos -9.526 9.359
+\i (29:59:12) mouse_pos -8.913 11.364
+\i (29:59:12) mouse_pos -7.855 12.590
+\i (29:59:12) mouse_pos -6.518 13.537
+\i (29:59:15) mouse_pos 0.501 15.375
+\i (29:59:18) mouse_pos 3.955 -1.838
+\i (29:59:26) mouse_pos 10.250 -2.284
+\i (29:59:27) pick grid 10.250 -2.284
+\t (29:59:27) last pick:  10.160  -2.540
+\t (29:59:28) Drc error(s) created.
+\t (29:59:28) Pick first element.
+\i (29:59:32) setwindow form.mini
+\i (29:59:32) FORM mini active_subclass BOTTOM 
+\t (29:59:32) Pick first element.
+\t (29:59:32) Pick first element.
+\i (29:59:34) setwindow pcb
+\i (29:59:34) pick grid 14.985 -12.478
+\t (29:59:34) last pick:  15.240  -12.700
+\t (29:59:34) last pick:  15.000  -12.500
+\i (29:59:37) add connect 
+\t (29:59:37) Pick first element.
+\i (29:59:38) pick grid 17.436 -17.548
+\t (29:59:38) last pick:  17.145  -17.780
+\t (29:59:38) last pick:  17.500  -17.500
+\i (29:59:38) mouse_pos 12.868 -9.860
+\i (29:59:39) mouse_pos 10.417 -8.412
+\i (29:59:39) mouse_pos 9.637 -8.078
+\i (29:59:39) mouse_pos 9.080 -7.465
+\i (29:59:39) mouse_pos 8.467 -6.406
+\i (29:59:39) mouse_pos 7.409 -4.624
+\i (29:59:39) mouse_pos 6.183 -2.618
+\i (29:59:39) mouse_pos 5.849 -2.117
+\i (29:59:39) mouse_pos 5.515 -1.560
+\i (29:59:39) mouse_pos 4.624 -0.557
+\i (29:59:39) mouse_pos 4.122 -0.111
+\i (29:59:40) mouse_pos 2.785 1.671
+\i (29:59:40) mouse_pos 3.509 3.231
+\i (29:59:40) mouse_pos 4.401 4.178
+\i (29:59:42) mouse_pos -3.900 13.035
+\i (29:59:43) pick grid -3.454 12.980
+\t (29:59:43) last pick:  -3.175  12.700
+\t (29:59:43) Drc error(s) created.
+\i (29:59:45) pick grid -17.436 -17.548
+\t (29:59:45) last pick:  -17.145  -17.780
+\t (29:59:47) Drc error(s) created.
+\t (29:59:47) Pick first element.
+\i (29:59:53) pick grid -0.111 15.097
+\t (29:59:53) last pick:  0.000  15.240
+\t (29:59:53) Pick first element.
+\t (29:59:53) last pick:  0.000  15.000
+\i (29:59:54) mouse_pos 2.730 13.871
+\i (29:59:54) mouse_pos 3.509 13.815
+\i (29:59:56) mouse_pos 17.603 -9.972
+\i (29:59:58) pick grid 17.603 -9.972
+\t (29:59:58) last pick:  17.780  -10.160
+\t (29:59:58) Drc error(s) created.
+\t (29:59:58) Pick first element.
+\i (30:00:01) pick grid -10.194 -12.478
+\t (30:00:01) last pick:  -10.160  -12.700
+\t (30:00:01) Pick first element.
+\t (30:00:01) last pick:  -10.000  -12.500
+\i (30:00:01) mouse_pos -9.303 -5.292
+\i (30:00:01) mouse_pos -9.192 -1.114
+\i (30:00:01) mouse_pos -9.192 -0.279
+\i (30:00:01) mouse_pos -9.136 0.668
+\i (30:00:01) mouse_pos -9.693 2.284
+\i (30:00:02) pick grid -9.916 2.785
+\t (30:00:02) last pick:  -10.160  2.540
+\t (30:00:02) No DRC errors detected.
+\t (30:00:02) Pick first element.
+\i (30:00:03) pick grid -9.860 0.223
+\t (30:00:03) last pick:  -10.160  0.000
+\t (30:00:03) Pick first element.
+\t (30:00:03) last pick:  -10.000  0.000
+\i (30:00:05) mouse_pos -7.910 10.361
+\i (30:00:06) pick grid -7.910 10.361
+\t (30:00:06) last pick:  -7.620  10.160
+\t (30:00:06) Drc error(s) created.
+\t (30:00:06) Pick first element.
+\i (30:00:09) setwindow form.mini
+\i (30:00:09) FORM mini active_subclass TOP 
+\t (30:00:09) Pick first element.
+\t (30:00:09) Pick first element.
+\i (30:00:10) setwindow pcb
+\i (30:00:10) pick grid 0.000 -4.902
+\t (30:00:10) last pick:  0.000  -5.080
+\t (30:00:10) last pick:  0.000  -5.000
+\i (30:00:11) mouse_pos -12.701 -4.735
+\i (30:00:12) pick grid -12.590 -4.791
+\t (30:00:12) last pick:  -12.700  -5.080
+\t (30:00:12) Drc error(s) created.
+\t (30:00:12) Pick first element.
+\i (30:00:13) pick grid -14.985 2.618
+\t (30:00:13) last pick:  -15.240  2.540
+\t (30:00:13) Pick first element.
+\t (30:00:13) last pick:  -15.000  2.500
+\i (30:00:14) mouse_pos -0.223 1.671
+\i (30:00:15) pick grid -0.223 2.451
+\t (30:00:15) last pick:  0.000  2.540
+\t (30:00:15) No DRC errors detected.
+\t (30:00:15) Pick first element.
+\i (30:00:16) pick grid -14.874 7.465
+\t (30:00:16) last pick:  -14.605  7.620
+\t (30:00:16) Pick first element.
+\t (30:00:16) last pick:  -15.000  7.500
+\i (30:00:16) mouse_pos -16.991 7.632
+\i (30:00:17) pick grid -17.492 7.576
+\t (30:00:17) last pick:  -17.780  7.620
+\t (30:00:17) No DRC errors detected.
+\t (30:00:17) Pick first element.
+\i (30:00:18) pick grid -12.590 9.804
+\t (30:00:18) last pick:  -12.700  9.525
+\t (30:00:18) Pick first element.
+\t (30:00:18) last pick:  -12.500  10.000
+\i (30:00:18) mouse_pos -12.868 11.754
+\i (30:00:19) pick grid -12.701 12.423
+\t (30:00:19) last pick:  -12.700  12.700
+\t (30:00:19) No DRC errors detected.
+\t (30:00:19) Pick first element.
+\i (30:00:20) pick grid 17.269 0.000
+\t (30:00:20) last pick:  17.145  0.000
+\t (30:00:20) Pick first element.
+\t (30:00:20) last pick:  17.500  0.000
+\i (30:00:26) mouse_pos -12.757 -15.152
+\i (30:00:27) pick grid -12.757 -15.152
+\t (30:00:27) last pick:  -12.700  -15.240
+\t (30:00:27) Drc error(s) created.
+\t (30:00:27) Pick first element.
+\i (30:00:29) pick grid 12.255 -17.492
+\t (30:00:29) last pick:  12.065  -17.780
+\t (30:00:29) Pick first element.
+\t (30:00:29) last pick:  12.500  -17.500
+\i (30:00:31) mouse_pos 17.603 12.423
+\i (30:00:31) pick grid 17.436 12.868
+\t (30:00:31) last pick:  17.145  12.700
+\t (30:00:31) No DRC errors detected.
+\t (30:00:31) Pick first element.
+\i (30:00:33) pick grid -7.409 17.715
+\t (30:00:33) last pick:  -7.620  17.780
+\t (30:00:33) Pick first element.
+\t (30:00:33) last pick:  -7.500  17.500
+\i (30:00:33) mouse_pos -9.749 15.654
+\i (30:00:39) pick grid -9.749 15.654
+\t (30:00:39) last pick:  -9.525  15.875
+\t (30:00:39) No DRC errors detected.
+\t (30:00:39) Pick first element.
+\i (30:00:41) pick grid -0.111 -14.985
+\t (30:00:41) last pick:  0.000  -15.240
+\t (30:00:41) Pick first element.
+\t (30:00:41) last pick:  0.000  -15.000
+\i (30:00:42) mouse_pos 15.152 -14.985
+\i (30:00:42) pick grid 15.152 -14.985
+\t (30:00:42) last pick:  15.240  -15.240
+\t (30:00:42) No DRC errors detected.
+\t (30:00:42) Pick first element.
+\i (30:00:43) pick grid 14.874 -12.200
+\t (30:00:43) last pick:  14.605  -12.065
+\t (30:00:43) Pick first element.
+\t (30:00:43) last pick:  15.000  -12.500
+\i (30:00:43) mouse_pos 9.804 -12.423
+\i (30:00:44) mouse_pos 8.523 -12.367
+\i (30:00:44) mouse_pos 9.860 -10.473
+\i (30:00:45) mouse_pos 12.590 -4.067
+\i (30:00:47) mouse_pos 14.929 10.250
+\i (30:00:48) pick grid 14.929 10.250
+\t (30:00:48) last pick:  15.240  10.160
+\t (30:00:48) Drc error(s) created.
+\t (30:00:48) Pick first element.
+\i (30:00:49) pick grid 17.603 10.027
+\t (30:00:49) last pick:  17.780  10.160
+\t (30:00:49) Pick first element.
+\t (30:00:49) last pick:  17.500  10.000
+\i (30:00:54) mouse_pos -2.841 17.770
+\i (30:00:58) pick grid -2.841 17.770
+\t (30:00:58) last pick:  -2.540  17.780
+\t (30:00:58) Drc error(s) created.
+\t (30:00:58) Pick first element.
+\i (30:00:59) pick grid -0.167 -9.972
+\t (30:00:59) last pick:  0.000  -10.160
+\t (30:00:59) Pick first element.
+\t (30:00:59) last pick:  0.000  -10.000
+\i (30:01:00) mouse_pos 0.111 -6.852
+\i (30:01:00) mouse_pos 0.836 -5.571
+\i (30:01:00) mouse_pos 1.058 -5.292
+\i (30:01:00) mouse_pos 2.284 -2.841
+\i (30:01:01) pick grid 2.841 -2.061
+\t (30:01:01) last pick:  2.540  -1.905
+\t (30:01:01) No DRC errors detected.
+\t (30:01:01) Pick first element.
+\i (30:01:02) pick grid 0.000 -2.395
+\t (30:01:02) last pick:  0.000  -2.540
+\t (30:01:02) Pick first element.
+\t (30:01:02) last pick:  0.000  -2.500
+\i (30:01:03) mouse_pos 2.395 -4.847
+\i (30:01:03) pick grid 2.395 -4.847
+\t (30:01:03) last pick:  2.540  -5.080
+\t (30:01:03) Drc error(s) created.
+\t (30:01:03) Pick first element.
+\i (30:01:04) pick grid 0.056 -5.014
+\t (30:01:04) last pick:  0.000  -5.080
+\t (30:01:04) Pick first element.
+\t (30:01:04) last pick:  0.000  -5.000
+\i (30:01:05) mouse_pos 2.228 -5.014
+\i (30:01:05) pick grid 2.228 -5.014
+\t (30:01:05) last pick:  2.540  -5.080
+\t (30:01:05) No DRC errors detected.
+\t (30:01:05) Pick first element.
+\i (30:01:06) pick grid 9.860 -14.985
+\t (30:01:06) last pick:  10.160  -15.240
+\t (30:01:06) Pick first element.
+\t (30:01:06) last pick:  10.000  -15.000
+\i (30:01:07) mouse_pos 9.582 -10.640
+\i (30:01:07) mouse_pos 9.860 -11.364
+\i (30:01:07) mouse_pos 9.916 -11.866
+\i (30:01:07) pick grid 9.916 -11.866
+\t (30:01:07) last pick:  10.160  -12.065
+\t (30:01:07) No DRC errors detected.
+\t (30:01:07) Pick first element.
+\i (30:01:08) pick grid 12.255 -14.818
+\t (30:01:08) last pick:  12.065  -14.605
+\t (30:01:08) Pick first element.
+\t (30:01:08) last pick:  12.500  -15.000
+\i (30:01:09) mouse_pos 7.298 -15.152
+\i (30:01:09) pick grid 7.298 -15.152
+\t (30:01:09) last pick:  6.985  -15.240
+\t (30:01:09) Drc error(s) created.
+\t (30:01:09) Pick first element.
+\i (30:01:11) pick grid 12.367 -12.311
+\t (30:01:11) last pick:  12.065  -12.065
+\t (30:01:11) Pick first element.
+\t (30:01:11) last pick:  12.500  -12.500
+\i (30:01:12) mouse_pos 7.855 -10.306
+\i (30:01:13) pick grid 7.855 -10.306
+\t (30:01:13) last pick:  7.620  -10.160
+\t (30:01:13) Drc error(s) created.
+\t (30:01:13) Pick first element.
+\i (30:01:15) pick grid 17.659 -15.041
+\t (30:01:15) last pick:  17.780  -15.240
+\t (30:01:15) Pick first element.
+\t (30:01:15) last pick:  17.500  -15.000
+\i (30:01:16) mouse_pos 12.423 -5.014
+\i (30:01:17) pick grid 12.423 -5.014
+\t (30:01:17) last pick:  12.700  -5.080
+\t (30:01:17) Drc error(s) created.
+\t (30:01:17) Pick first element.
+\i (30:01:18) pick grid 17.380 -12.478
+\t (30:01:18) last pick:  17.145  -12.700
+\t (30:01:18) Pick first element.
+\t (30:01:18) last pick:  17.500  -12.500
+\i (30:01:20) mouse_pos 14.651 -2.228
+\i (30:01:21) pick grid 14.651 -2.228
+\t (30:01:21) last pick:  14.605  -2.540
+\t (30:01:21) Drc error(s) created.
+\t (30:01:21) Pick first element.
+\i (30:01:22) pick grid 12.200 -2.451
+\t (30:01:22) last pick:  12.065  -2.540
+\t (30:01:22) Pick first element.
+\t (30:01:22) last pick:  12.500  -2.500
+\i (30:01:23) mouse_pos 9.916 -5.181
+\i (30:01:24) pick grid 9.916 -5.181
+\t (30:01:24) last pick:  10.160  -5.080
+\t (30:01:24) Drc error(s) created.
+\t (30:01:24) Pick first element.
+\i (30:01:25) pick grid 2.061 0.223
+\t (30:01:25) last pick:  1.905  0.000
+\t (30:01:25) Pick first element.
+\t (30:01:25) last pick:  2.500  0.000
+\i (30:01:26) mouse_pos -6.741 0.000
+\i (30:01:26) pick grid -7.353 0.056
+\t (30:01:26) last pick:  -7.620  0.000
+\t (30:01:26) No DRC errors detected.
+\t (30:01:26) Pick first element.
+\i (30:01:27) pick grid -7.465 -2.674
+\t (30:01:27) last pick:  -7.620  -2.540
+\t (30:01:27) Pick first element.
+\t (30:01:27) last pick:  -7.500  -2.500
+\i (30:01:28) mouse_pos -2.228 -2.451
+\i (30:01:28) pick grid -2.228 -2.451
+\t (30:01:28) last pick:  -2.540  -2.540
+\t (30:01:28) No DRC errors detected.
+\t (30:01:29) Pick first element.
+\i (30:01:30) pick grid -10.139 -5.014
+\t (30:01:30) last pick:  -10.160  -5.080
+\t (30:01:30) Pick first element.
+\t (30:01:30) last pick:  -10.000  -5.000
+\i (30:01:54) mouse_pos 7.465 2.841
+\i (30:01:56) pick grid 7.465 2.841
+\t (30:01:56) last pick:  7.620  2.540
+\t (30:01:59) Drc error(s) created.
+\t (30:01:59) Pick first element.
+\i (30:02:01) pick grid 14.874 2.618
+\t (30:02:01) last pick:  14.605  2.540
+\t (30:02:01) Pick first element.
+\t (30:02:01) last pick:  15.000  2.500
+\i (30:02:02) mouse_pos 17.492 2.674
+\i (30:02:03) pick grid 17.492 2.674
+\t (30:02:03) last pick:  17.780  2.540
+\t (30:02:03) Drc error(s) created.
+\t (30:02:03) Pick first element.
+\i (30:02:05) pick grid 17.548 14.985
+\t (30:02:05) last pick:  17.780  15.240
+\t (30:02:05) Pick first element.
+\t (30:02:05) last pick:  17.500  15.000
+\i (30:02:05) mouse_pos 15.765 14.762
+\i (30:02:07) mouse_pos 0.000 10.194
+\i (30:02:09) pick grid 0.000 10.194
+\t (30:02:09) last pick:  0.000  10.160
+\t (30:02:09) Drc error(s) created.
+\t (30:02:09) Pick first element.
+\i (30:02:10) pick grid 9.916 12.645
+\t (30:02:10) last pick:  10.160  12.700
+\t (30:02:10) Pick first element.
+\t (30:02:10) last pick:  10.000  12.500
+\i (30:02:20) mouse_pos -9.916 9.971
+\i (30:02:21) pick grid -9.916 9.971
+\t (30:02:21) last pick:  -10.160  10.160
+\t (30:02:24) Drc error(s) created.
+\t (30:02:24) Pick first element.
+\i (30:12:16) new 
+\t (30:12:16) Pick first element.
+\f (30:12:16) Do you want to save the changes you made to d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\z11.dra?
+\i (30:12:18) fillin no 
+\i (30:12:34) newdrawfillin "z11.brd" "Board (Wizard)"
+\t (30:12:35) Starting new drawing...
+\w (30:12:35) Small extents, sector size decreased to: 5467,5467
+\i (30:12:36) trapsize 384
+\i (30:12:36) trapsize 478
+\i (30:12:36) trapsize 551
+\i (30:12:36) layout wizard 
+\i (30:12:39) setwindow form.brd_wizard
+\i (30:12:39) FORM brd_wizard wiz_next  
+\i (30:12:44) FORM brd_wizard use_custom_template YES 
+\i (30:12:44) FORM brd_wizard no_custom_template YES 
+\i (30:12:45) FORM brd_wizard wiz_next  
+\i (30:12:49) FORM brd_wizard wiz_next  
+\i (30:12:53) FORM brd_wizard wiz_next  
+\i (30:12:56) FORM brd_wizard board_units Millimeter 
+\i (30:12:58) FORM brd_wizard board_size A4 
+\i (30:12:59) FORM brd_wizard wiz_next  
+\i (30:13:03) FORM brd_wizard wiz_next  
+\i (30:13:05) FORM brd_wizard wiz_next  
+\i (30:13:11) FORM brd_wizard min_line_width 1.0000 
+\i (30:13:14) FORM brd_wizard def_via_browse  
+\f (30:13:14) Board Wizard Padstack Browser
+\i (30:13:21) fillin "Pad30cir20d"
+\i (30:13:22) FORM brd_wizard wiz_next  
+\i (30:13:25) FORM brd_wizard rectangular_board YES 
+\i (30:13:25) FORM brd_wizard wiz_next  
+\i (30:13:37) FORM brd_wizard rb_route_keepin_distance 5.0000 
+\i (30:13:41) FORM brd_wizard rb_package_keepin_distance 3.0000 
+\i (30:13:41) FORM brd_wizard wiz_next  
+\i (30:13:43) FORM brd_wizard wiz_finish  
+\i (30:13:43) setwindow pcb
+\i (30:13:43) trapsize 5512
+\t (30:13:43) Performing DRC. Please wait...
+\t (30:13:43) No DRC errors detected.
+\i (30:13:43) trapsize 15169
+\i (30:13:46) zoom fit 
+\i (30:13:46) trapsize 3396
+\i (30:13:57) place manual 
+\i (30:14:08) setwindow form.plc_manual
+\i (30:14:08) FORM plc_manual tree  'Package symbols' 
+\i (30:14:09) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (30:14:11) FORM plc_manual advanced_settings  
+\i (30:14:12) FORM plc_manual placement_list  
+\i (30:14:15) FORM plc_manual done  
+\i (30:14:46) setwindow pcb
+\i (30:14:46) quickplace 
+\i (30:14:53) setwindow form.quickplc
+\i (30:14:53) FORM quickplc place_part_num YES 
+\i (30:14:54) FORM quickplc part_num_browse  
+\f (30:14:54) Select part num:
+\i (30:14:57) fillin "menu_cancel"
+\i (30:14:59) FORM quickplc place_net_name YES 
+\i (30:15:00) FORM quickplc net_name_browse  
+\f (30:15:00) Select net name:
+\i (30:15:01) fillin "menu_cancel"
+\i (30:15:02) FORM quickplc place_all YES 
+\i (30:15:06) FORM quickplc place  
+\i (30:15:07) FORM quickplc place  
+\i (30:15:08) FORM quickplc done  
+\i (30:15:14) setwindow pcb
+\i (30:15:14) place manual 
+\i (30:15:24) setwindow form.plc_manual
+\i (30:15:24) FORM plc_manual selectors Discrete 
+\i (30:15:25) FORM plc_manual tree  'Module definitions' 
+\i (30:15:26) FORM plc_manual tree  'Package symbols' 
+\i (30:15:27) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (30:15:27) FORM plc_manual tree 'MULTISEL NO' 'Package symbols' 
+\i (30:15:27) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (30:15:29) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (30:15:29) FORM plc_manual tree  'Components by refdes' 
+\i (30:15:32) FORM plc_manual tree 'MULTISEL YES' 'Module instances' 
+\i (30:15:32) FORM plc_manual tree  'Module instances' 
+\i (30:15:34) FORM plc_manual hide  
+\i (30:15:36) setwindow pcb
+\i (30:15:36) place manual 
+\i (30:15:38) setwindow form.plc_manual
+\i (30:15:38) FORM plc_manual tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (30:15:38) FORM plc_manual tree  'Mechanical symbols' 
+\i (30:15:38) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (30:15:38) FORM plc_manual tree  'Package symbols' 
+\i (30:15:41) FORM plc_manual propbtn YES 
+\i (30:15:46) FORM plc_manual advanced_settings  
+\i (30:15:49) FORM plc_manual library YES 
+\i (30:15:54) FORM plc_manual browse  
+\i (30:16:27) fillin "menu_cancel"
+\i (30:16:28) FORM plc_manual cancel  
+\i (30:16:30) setwindow pcb
+\i (30:16:30) slide 
+\t (30:16:30) Pick element to slide.
+\i (30:16:31) add connect 
+\t (30:16:31) Pick first element.
+\i (30:16:31) pick grid -6.9285 5.1624
+\t (30:16:31) last pick:  -7.0000  5.0000
+\i (30:16:32) pick grid 7.5399 9.9852
+\t (30:16:32) last pick:  8.0000  10.0000
+\t (30:16:32) No DRC errors detected.
+\i (30:16:34) pick grid -8.7626 15.0798
+\t (30:16:34) last pick:  -9.0000  15.0000
+\t (30:16:34) No DRC errors detected.
+\i (30:16:35) pick grid 13.3816 8.8305
+\t (30:16:35) last pick:  13.0000  9.0000
+\t (30:16:35) No DRC errors detected.
+\i (30:16:36) pick grid 5.2983 -8.6267
+\t (30:16:36) last pick:  5.0000  -9.0000
+\t (30:16:36) No DRC errors detected.
+\i (30:16:37) pick grid -4.5511 -3.2605
+\t (30:16:37) last pick:  -5.0000  -3.0000
+\t (30:16:37) No DRC errors detected.
+\i (30:16:37) pick grid -16.5742 6.3172
+\t (30:16:37) last pick:  -17.0000  6.0000
+\t (30:16:37) No DRC errors detected.
+\i (30:16:38) pick grid -13.4495 10.9362
+\t (30:16:38) last pick:  -13.0000  11.0000
+\t (30:16:38) No DRC errors detected.
+\i (30:16:39) pick grid -9.3739 2.3095
+\t (30:16:39) last pick:  -9.0000  2.0000
+\t (30:16:39) No DRC errors detected.
+\i (30:16:39) pick grid 2.8529 -0.5434
+\t (30:16:39) last pick:  3.0000  -1.0000
+\t (30:16:39) No DRC errors detected.
+\i (30:16:40) pick grid 4.5511 -4.0077
+\t (30:16:40) last pick:  5.0000  -4.0000
+\t (30:16:40) No DRC errors detected.
+\i (30:16:40) pick grid 6.8606 1.6302
+\t (30:16:41) last pick:  7.0000  2.0000
+\t (30:16:41) No DRC errors detected.
+\i (30:16:41) mouse_pos -4.5511 10.0532
+\i (30:16:41) mouse_pos -9.9853 12.6344
+\i (30:16:42) mouse_pos -6.5210 5.7738
+\i (30:16:42) mouse_pos 0.6793 3.8718
+\i (30:16:42) pick grid 7.3361 3.4643
+\t (30:16:42) last pick:  7.0000  3.0000
+\t (30:16:42) No DRC errors detected.
+\i (30:16:43) done 
+\i (30:16:44) slide 
+\t (30:16:44) Pick element to slide.
+\i (30:16:45) pick grid -0.4076 9.7815
+\t (30:16:45) last pick:  0.0000  10.0000
+\t (30:16:45) Waiting for the destination pick.
+\i (30:16:48) pick grid -0.9510 13.2457
+\t (30:16:48) last pick:  -1.0000  13.0000
+\t (30:16:48) No DRC errors detected.
+\t (30:16:48) Pick another element to slide.
+\i (30:16:50) setwindow form.mini
+\i (30:16:50) FORM mini corners 90 
+\i (30:16:51) setwindow pcb
+\i (30:16:51) pick grid 6.9965 9.6456
+\t (30:16:51) last pick:  7.0000  10.0000
+\t (30:16:51) last pick:  10.0000  9.0000
+\t (30:16:51) Waiting for the destination pick.
+\i (30:16:52) pick grid -3.2605 16.7779
+\t (30:16:53) last pick:  -3.0000  17.0000
+\t (30:16:53) No DRC errors detected.
+\t (30:16:53) Pick another element to slide.
+\i (30:16:53) pick grid 1.5623 -0.4076
+\t (30:16:53) last pick:  2.0000  0.0000
+\t (30:16:53) last pick:  3.0000  0.0000
+\t (30:16:53) Waiting for the destination pick.
+\i (30:16:55) pick grid -3.4643 2.7850
+\t (30:16:55) last pick:  -3.0000  3.0000
+\t (30:16:55) No DRC errors detected.
+\t (30:16:55) Pick another element to slide.
+\i (30:16:56) auto_route 
+\t (30:16:57) Loading vse.cxt 
+\i (30:16:59) setwindow form.vse_armain
+\i (30:16:59) FORM vse_armain execute  
+\i (30:17:06) FORM vse_armain close  
+\i (30:17:15) setwindow pcb
+\i (30:17:15) signal probe 
+\t (30:17:15) Loading sigallegro.cxt 
+\t (30:17:15) Loading signal.cxt 
+\t (30:17:15) Loading skillExt.cxt 
+\i (30:17:19) setwindow form.sigselect
+\i (30:17:19) FORM sigselect close  
+\i (30:17:20) setwindow pcb
+\i (30:17:20) signal library 
+\i (30:17:22) setwindow form.siglibrary
+\i (30:17:22) FORM siglibrary cancel  
+\i (30:17:23) setwindow pcb
+\i (30:17:23) exit 
+\f (30:17:23) Do you want to save the changes you made to z11.brd?
+\i (30:17:24) fillin no 

@@ -1,0 +1,442 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing          : interf_m8_v4_nev.brd             )
+(        Software Version : 15.2s015                         )
+(        Date/Time        : Wed Dec 29 12:11:47 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Wed Dec 29 12:11:47 2010				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          MM
+FILM-SIZE             2400000 1600000
+FORMAT                5.5
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.75000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.60000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  CIRCLE     3.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  RECTANGLE  0.60000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.30000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.30000      90.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 0.75000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  2.30000     x 0.43500       0.000 NO     DARK 
+  RECTANGLE  2.50000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  3.20000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  4.60000     x 2.00000       0.000 NO     DARK 
+  PAD SHAPE  SHA_C_06X10                 0.000 NO     DARK 
+  PAD SHAPE  SHA_VD_13X16                0.000 NO     DARK 
+  PAD SHAPE  SHA_C1_17X32               90.000 NO     DARK 
+  PAD SHAPE  SHA_C_17X32                90.000 NO     DARK 
+  PAD SHAPE  SHA_VD_13X16               90.000 NO     DARK 
+  PAD SHAPE  SHA_VD_13X16              270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.75000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  CIRCLE     3.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+
+     GND created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.75000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.60000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  CIRCLE     3.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  RECTANGLE  0.80000     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.80000      90.000 NO     DARK 
+  PAD SHAPE  SHA_C1_17X32                0.000 YES    DARK 
+  PAD SHAPE  SHA_C_17X32                 0.000 YES    DARK 
+  PAD SHAPE  SHA_C_21X34                90.000 YES    DARK 
+  PAD SHAPE  SHA_C1_21X34               90.000 YES    DARK 
+  PAD SHAPE  SHA_C_17X32               180.000 YES    DARK 
+  PAD SHAPE  SHA_C1_17X32              180.000 YES    DARK 
+  PAD SHAPE  SHA_C_17X32               270.000 YES    DARK 
+  PAD SHAPE  SHA_C1_17X32              270.000 YES    DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < brd.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: 0 width line found at (100.6106 55.4531)
+	WARNING: ... ignored!
+
+	WARNING: Multiple 0 width lines; all will be treated the same as the first.
+	WARNING: ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+
+     brd created with warnings
+
+
+================================================================
+     PROCESSING FILM < mask_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.95000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.80000                                  DARK 
+  CIRCLE     3.70000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  CIRCLE     4.20000                                  DARK 
+  RECTANGLE  1.00000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.90000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 3.40000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 3.40000      90.000 NO     DARK 
+  RECTANGLE  2.10000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  2.30000     x 3.60000      90.000 NO     DARK 
+
+     mask_bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < mask_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.95000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.80000                                  DARK 
+  CIRCLE     3.70000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  CIRCLE     4.20000                                  DARK 
+  RECTANGLE  0.80000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.80000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 2.20000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 3.40000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  2.70000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  3.40000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  4.80000     x 2.20000       0.000 NO     DARK 
+
+     mask_top created with warnings
+
+
+================================================================
+     PROCESSING FILM < silk_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+	WARNING: text composed 0 width line found at (75.3974 81.7079)
+	WARNING: ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     silk_top created with warnings
+
+
+================================================================
+     PROCESSING FILM < silk_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+
+     silk_bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Pwr.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.75000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  CIRCLE     3.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+
+     Pwr created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+            TOP created with warnings
+            GND created with warnings
+            BOTTOM created with warnings
+            brd created with warnings
+            mask_bottom created with warnings
+            mask_top created with warnings
+            silk_top created with warnings
+            silk_bottom created with warnings
+            Pwr created with warnings
+
+ ARTWORK finished

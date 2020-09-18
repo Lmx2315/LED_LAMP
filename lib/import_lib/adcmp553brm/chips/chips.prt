@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Nov 12 16:22:31 2004' ;
+primitive 'ADCMP553BRM_RM-8';
+  pin
+    '-LEA':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'LEA':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'INA+':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'INA-':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'QA':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-QA':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'AGND':
+      PIN_NUMBER='(8)';
+      PINUSE='GROUND';
+    'VCC':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='ADCMP553BRM';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='RM-8';
+    FAMILY='ADCMP';
+    BODY_NAME='ADCMP553BRM';
+  end_body;
+end_primitive;
+END.

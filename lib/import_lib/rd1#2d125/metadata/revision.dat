@@ -1,0 +1,170 @@
+(Cell	rd1-125
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/27/11,15:56:42)
+
+			(User	Sergey)
+
+			(Path	import_lib.rd1-125)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/27/11,17:17:47)
+
+			(User	Sergey)
+
+			(Path	import_lib.rd1-125)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000f6ad10cd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,17:15:12)
+
+							(User	Sergey)
+
+							(Path	import_lib.rd1-125)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000008152040a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005bda1f0b)
+
+			(Primitives	1
+
+				(Primitive	RD1-125
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/27/11,17:17:07)
+
+							(User	Sergey)
+
+							(Path	import_lib.rd1-125)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RD1-125
+
+							(PackType	RD1-125)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000769503a9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000078400359)
+
+)
+

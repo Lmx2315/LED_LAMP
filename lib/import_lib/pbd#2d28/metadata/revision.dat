@@ -1,0 +1,178 @@
+(Cell	pbd-28
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/08/10,12:55:54)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pbd-28)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/08/10,12:59:05)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.pbd-28)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000327ab343)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/10,12:55:57)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pbd-28)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000874a037a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004a7dc08c)
+
+			(Primitives	1
+
+				(Primitive	PBD-28
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/10,12:56:22)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.pbd-28)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PBD-28
+
+							(PackType	PBD-28)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b60003ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f53003a1)
+
+)
+

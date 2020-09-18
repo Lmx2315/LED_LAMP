@@ -1,0 +1,14 @@
+	(Comment
+		(Time 11/01/14,09:54:09)
+		(User validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_9 added to cell")
+		(Param1 "sym_9")
+	)
+	(Comment
+		(Time 11/01/14,10:05:00)
+		(User validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_10 added to cell")
+		(Param1 "sym_10")
+	)

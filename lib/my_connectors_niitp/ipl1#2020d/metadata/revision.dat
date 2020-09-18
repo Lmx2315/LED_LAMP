@@ -1,0 +1,172 @@
+(Cell	ipl1 20d
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/06/06,15:45:57)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.ipl1 20d)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/06/06,15:46:57)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.ipl1 20d)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000001553a39)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,15:46:53)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.ipl1 20d)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a7c034c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ee26bf15)
+
+			(Primitives	1
+
+				(Primitive	IPL1 20D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,15:45:59)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.ipl1 20d)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IPL1 20D
+
+							(PackType	IPL1 20D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001be00379)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c54037c)
+
+)
+

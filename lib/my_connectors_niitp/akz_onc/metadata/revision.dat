@@ -1,0 +1,168 @@
+(Cell	akz_onc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/23/06,17:25:56)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.akz_onc)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/23/06,19:16:01)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.akz_onc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	00d2f6a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/23/06,19:15:35)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.akz_onc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	8fa00269)
+
+		)
+
+		(View	Chips
+
+			(Checksum	e8deb459)
+
+			(Primitives	1
+
+				(Primitive	AKZ_ONC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/23/06,17:25:58)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.akz_onc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AKZ_ONC
+
+							(PackType	AKZ_ONC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	ff1c0270)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	de31018e)
+
+)
+

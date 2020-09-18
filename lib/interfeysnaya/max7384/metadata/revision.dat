@@ -1,0 +1,172 @@
+(Cell	max7384
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/05/06,11:12:31)
+
+			(User	admin)
+
+			(Path	my_oscillator.max7384)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/05/06,11:16:13)
+
+			(User	admin)
+
+			(Path	my_oscillator.max7384)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000accecca2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/06,11:16:11)
+
+							(User	admin)
+
+							(Path	my_oscillator.max7384)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000020810466)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000078223ca5)
+
+			(Primitives	1
+
+				(Primitive	MAX7384
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/06,11:12:33)
+
+							(User	admin)
+
+							(Path	my_oscillator.max7384)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX7384
+
+							(PackType	MAX7384)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b8a037d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c6603ab)
+
+)
+

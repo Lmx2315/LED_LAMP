@@ -1,0 +1,204 @@
+(Cell	fp3p7-766-3-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/11/17,12:06:45)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.fp3p7-766-3-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/11/17,12:09:28)
+
+			(User	Lmx2315)
+
+			(Path	bdv_lib.fp3p7-766-3-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f0745d4d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/17,12:09:26)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.fp3p7-766-3-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6a03b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ffbaabce)
+
+			(Primitives	1
+
+				(Primitive	FP3P7-766-3-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/17,12:06:47)
+
+							(User	Lmx2315)
+
+							(Path	bdv_lib.fp3p7-766-3-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FP3P7-766-3-2
+
+							(PackType	FP3P7-766-3-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	smd133x65)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9d03ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cd503d9)
+
+)
+

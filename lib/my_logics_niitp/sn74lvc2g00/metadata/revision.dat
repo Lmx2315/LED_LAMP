@@ -1,0 +1,170 @@
+(Cell	sn74lvc2g00
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/17/06,15:32:14)
+
+			(User	admin)
+
+			(Path	my_logics_niitp.sn74lvc2g00)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Fixed)
+
+					(Max_Size	2)
+
+					(Checksum	00000000b50b611c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/06,15:32:14)
+
+							(User	admin)
+
+							(Path	my_logics_niitp.sn74lvc2g00)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8d03a5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000039027eb5)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC2G00
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/17/06,15:32:14)
+
+							(User	admin)
+
+							(Path	my_logics_niitp.sn74lvc2g00)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC2G00
+
+							(PackType	SN74LVC2G00)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SOIC8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b7a0389)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c370380)
+
+)
+

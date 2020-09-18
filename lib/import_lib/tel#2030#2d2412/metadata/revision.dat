@@ -1,0 +1,170 @@
+(Cell	tel 30-2412
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/19/13,13:02:04)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tel 30-2412)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/19/13,13:13:24)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.tel 30-2412)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000f22cb969)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/19/13,13:02:07)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tel 30-2412)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000654603b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fe9c587c)
+
+			(Primitives	1
+
+				(Primitive	TEL 30-2412
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/19/13,13:12:23)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.tel 30-2412)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEL 30-2412
+
+							(PackType	TEL 30-2412)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f7060381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000e9b50350)
+
+)
+

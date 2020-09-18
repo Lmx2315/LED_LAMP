@@ -1,0 +1,46 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Oct 13 17:00:32 2003' ;
+primitive 'PCA9540';
+  pin
+    'SCL':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SDA':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SDO':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SD1':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SC0':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SC1':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    POWER_PINS='(P3V3M:6)';
+    POWER_PINS='(GNDDM:3)';
+    CLASS='IC';
+    PART_NAME='PCA9540';
+    JEDEC_TYPE='f59';
+    BODY_NAME='PCA9540';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

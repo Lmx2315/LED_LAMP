@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Apr 29 12:47:01 2004' ;
+primitive 'BLM18A';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='BLM18A';
+    PHYS_DES_PREFIX='L';
+    JEDEC_TYPE='DO7';
+    BODY_NAME='BLM18A';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

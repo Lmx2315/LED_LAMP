@@ -1,0 +1,35 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jun 14 16:16:48 2006' ;
+primitive 'MAX3485EESA';
+  pin
+    'A':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-B':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DI':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RO':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-RE':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DE':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    POWER_PINS='(VCC:8)';
+    POWER_PINS='(GND:5)';
+    CLASS='IC';
+    PART_NAME='MAX3485EESA';
+    JEDEC_TYPE='f27';
+    BODY_NAME='MAX3485EESA';
+    FAMILY='tpansceiver';
+    LOCATION='?';
+  end_body;
+end_primitive;
+END.

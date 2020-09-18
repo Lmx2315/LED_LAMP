@@ -1,0 +1,57 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Dynamic Shape Status                                )
+(                                                            )
+(        Drawing          : digital_dspblock_m6_9.brd        )
+(        Software Version : 15.2s086                         )
+(        Date/Time        : Mon Feb 01 16:18:44 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 3 out of 31
+  Current fill mode         : SMOOTH
+
+
+  Layer = TOP
+     State: Smooth       Extents: (131.9000 95.0880) (145.6380 115.1600)  Net: UNNAMED_2_BLM18A_I51_A
+     State: Smooth       Extents: (129.3000 71.6500) (170.8000 93.8000)  Net: UNNAMED_2_BLM18A_I54_A
+     State: Smooth       Extents: (98.2520 42.7720) (121.9580 66.4790)  Net: DGND
+     State: Smooth       Extents: (56.1830 38.9630) (83.5270 66.5360)  Net: DGND
+     State: Smooth       Extents: (157.9000 66.6000) (170.2000 73.9500)  Net: UNNAMED_2_BLM18A_I58_A
+     State: Smooth       Extents: (34.4870 6.0690) (46.7920 14.5820)  Net: DGND
+     State: Smooth       Extents: (122.8000 80.2500) (129.1000 86.9500)  Net: +3.3VDD
+     State: No Etch      Extents: (173.9500 69.4500) (174.1500 69.5500)  Net: Dummy Net
+     State: Smooth       Extents: (166.1000 69.5500) (171.0500 71.3500)  Net: DGND
+     State: Smooth       Extents: (153.4000 63.7000) (162.6500 67.2000)  Net: DGND
+     State: Smooth       Extents: (170.3500 86.0000) (176.7500 115.0000)  Net: +5VDD
+     State: Smooth       Extents: (128.1000 96.3500) (132.9000 102.1500)  Net: +1.2V
+     State: Smooth       Extents: (156.4000 56.6500) (166.4500 66.3500)  Net: +2.5V
+     State: Smooth       Extents: (62.5000 94.0500) (83.4500 117.9500)  Net: DGND_USB
+
+  Layer = GND
+     State: Smooth       Extents: (0.1000 0.3500) (189.5000 117.5500)  Net: DGND
+
+  Layer = INT1
+     State: Smooth       Extents: (52.8500 34.0500) (136.5500 101.6000)  Net: +1.2V
+     State: Smooth       Extents: (35.6000 11.5000) (164.9500 29.0500)  Net: +5VMA
+     State: Smooth       Extents: (47.9500 33.0250) (166.9000 108.0000)  Net: +2.5V
+     State: Smooth       Extents: (17.1470 1.0000) (164.9000 33.0050)  Net: +15V
+     State: Smooth       Extents: (27.2500 41.8000) (180.9160 115.5500)  Net: +5VDD
+     State: Smooth       Extents: (35.2500 20.1500) (166.6000 36.3500)  Net: -5VMA
+     State: Smooth       Extents: (25.5470 5.4500) (165.2000 32.9180)  Net: -15V
+     State: Smooth       Extents: (0.4160 0.3310) (189.7470 117.5770)  Net: DGND
+
+  Layer = INT2
+     State: Smooth       Extents: (20.5040 3.5990) (36.3080 40.1630)  Net: +3.3VDD
+
+  Layer = PWR
+     State: Smooth       Extents: (32.1000 20.9500) (58.6000 34.4000)  Net: -5VMA
+     State: Smooth       Extents: (0.2500 1.3000) (64.3500 36.5000)  Net: +5VMA
+     State: Smooth       Extents: (0.2500 1.3500) (188.7500 117.3500)  Net: +3.3VDD
+     State: No Etch      Extents: (159.7000 -107.3500) (159.8500 -107.3000)  Net: -15V
+     State: No Etch      Extents: (46.3000 -71.0000) (46.4500 -70.9500)  Net: -15V
+
+  Layer = BOTTOM
+     State: Smooth       Extents: (170.1500 82.4500) (176.8500 115.1500)  Net: +5VDD
+     State: Smooth       Extents: (0.7860 0.1930) (189.6900 117.2610)  Net: Dummy Net

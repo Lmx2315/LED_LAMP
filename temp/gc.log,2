@@ -1,0 +1,970 @@
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Sep 10 18:43:59 2020
+
+Input Data:
+   Mode                :   Global Property Change
+   Original Property   :   LOCATION = *
+   New Property        :   location = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @led_drv1_lib.led_v2:sch_1 (page 2)
+   Objects to Process  :   Components, Wires, Pins
+   Save Modified Pages :   No
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 1)  
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6840)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6800)
+Component Path    :  I3
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6740)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6700)
+Component Path    :  I10
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6640)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6600)
+Component Path    :  I88
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (350 5630)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (400 5600)
+Component Path    :  I6
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1750 7025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 7025)
+Component Path    :  I11
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6725)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6700)
+Component Path    :  I74
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 5650)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 5500)
+Component Path    :  I20
+
+
+Original Property :  LOCATION = XT1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (4525 5225)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IDC10 (version 1)
+Component XY      :  (4700 4450)
+Component Path    :  I63
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6625)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6600)
+Component Path    :  I75
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6525)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6500)
+Component Path    :  I76
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2600 5225)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2650 5225)
+Component Path    :  I37
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 4950)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 4800)
+Component Path    :  I102
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 5250)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 5100)
+Component Path    :  I101
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 5280)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2850 5250)
+Component Path    :  I33
+
+
+Original Property :  LOCATION = VD
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2930 6058)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @import_lib.LED (version 1)
+Component XY      :  (2900 6000)
+Component Path    :  I57
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2750 7155)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2800 7125)
+Component Path    :  I79
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (550 6030)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (600 6000)
+Component Path    :  I95
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-150 5825)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-100 5825)
+Component Path    :  I24
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6440)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6400)
+Component Path    :  I15
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 6025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 5875)
+Component Path    :  I19
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2600 3625)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2650 3625)
+Component Path    :  I53
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 5940)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 5900)
+Component Path    :  I91
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 6040)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 6000)
+Component Path    :  I90
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3950 3675)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (3950 3650)
+Component Path    :  I86
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6540)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6500)
+Component Path    :  I16
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6325)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6300)
+Component Path    :  I26
+
+
+Original Property :  LOCATION = VD
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2950 6225)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @import_lib.LED (version 1)
+Component XY      :  (2900 6200)
+Component Path    :  I62
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3075 6025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (3075 6000)
+Component Path    :  I58
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6825)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6800)
+Component Path    :  I73
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 4940)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 4900)
+Component Path    :  I29
+
+
+Original Property :  LOCATION = XT1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (4525 7025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IDC10 (version 1)
+Component XY      :  (4700 6250)
+Component Path    :  I4
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6340)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6300)
+Component Path    :  I14
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3075 6225)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (3075 6200)
+Component Path    :  I61
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 4140)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 4100)
+Component Path    :  I47
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 4480)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2850 4450)
+Component Path    :  I43
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 3680)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2850 3650)
+Component Path    :  I51
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 3340)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 3300)
+Component Path    :  I56
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 6750)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 6600)
+Component Path    :  I17
+
+
+Original Property :  LOCATION = DD2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3825 6425)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_transceiver.DS9503 (version 1)
+Component XY      :  (3875 6275)
+Component Path    :  I18
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3900 4475)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (3900 4450)
+Component Path    :  I72
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2950 7155)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (3000 7125)
+Component Path    :  I82
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (200 5740)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (200 5700)
+Component Path    :  I5
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1600 6240)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1600 6200)
+Component Path    :  I13
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1800 6140)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 6100)
+Component Path    :  I89
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1150 5850)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1200 5850)
+Component Path    :  I99
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2800 6425)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2800 6400)
+Component Path    :  I27
+
+
+Original Property :  LOCATION = XT2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (100 5650)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IPL1_02 (version 1)
+Component XY      :  (125 5425)
+Component Path    :  I22
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2600 4425)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2650 4425)
+Component Path    :  I45
+
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 2)  
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-3025 4125)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-3100 4100)
+Component Path    :  I51
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (775 4125)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (700 4100)
+Component Path    :  I96
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (950 4130)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (1000 4100)
+Component Path    :  I94
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1300 4040)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1300 4000)
+Component Path    :  I92
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2450 3230)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2500 3200)
+Component Path    :  I90
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2300 3440)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2300 3400)
+Component Path    :  I89
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3075 3175)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (3000 3150)
+Component Path    :  I87
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2350 4125)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2300 4100)
+Component Path    :  I85
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (3050 4025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (3000 4000)
+Component Path    :  I81
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2275 3625)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2200 3600)
+Component Path    :  I78
+
+
+Original Property :  LOCATION = XT2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1350 3700)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IPL1_02 (version 1)
+Component XY      :  (1375 3475)
+Component Path    :  I77
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-750 4025)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-800 4000)
+Component Path    :  I13
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-725 3175)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-800 3150)
+Component Path    :  I10
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-750 2225)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-800 2200)
+Component Path    :  I62
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1450 4125)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1500 4100)
+Component Path    :  I9
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1525 3625)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1600 3600)
+Component Path    :  I4
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1450 2325)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1500 2300)
+Component Path    :  I67
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-725 1375)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-800 1350)
+Component Path    :  I63
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1500 1640)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-1500 1600)
+Component Path    :  I69
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1525 1825)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1600 1800)
+Component Path    :  I68
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1350 1430)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1300 1400)
+Component Path    :  I57
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2500 4040)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-2500 4000)
+Component Path    :  I8
+
+
+Original Property :  LOCATION = XT2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2450 3700)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IPL1_02 (version 1)
+Component XY      :  (-2425 3475)
+Component Path    :  I50
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2850 4130)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-2800 4100)
+Component Path    :  I6
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2500 2240)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-2500 2200)
+Component Path    :  I72
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2850 2330)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-2800 2300)
+Component Path    :  I73
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-3025 2325)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-3100 2300)
+Component Path    :  I75
+
+
+Original Property :  LOCATION = XT2
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-2450 1900)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_connectors_niitp.IPL1_02 (version 1)
+Component XY      :  (-2425 1675)
+Component Path    :  I56
+
+
+Original Property :  LOCATION = R1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1500 3440)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (-1500 3400)
+Component Path    :  I52
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (-1350 3230)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (-1300 3200)
+Component Path    :  I53
+
+
+
+Page:   @led_drv1_lib.led_v2:sch_1 (page 3)  
+
+Original Property :  LOCATION = C1006
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2850 4130)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2900 4100)
+Component Path    :  I36
+
+
+Original Property :  LOCATION = C1000
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2850 4730)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2900 4700)
+Component Path    :  I13
+
+
+Original Property :  LOCATION = R45
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (950 3240)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (950 3200)
+Component Path    :  I43
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1030 3050)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (1000 3000)
+Component Path    :  I30
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (930 2850)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (900 2800)
+Component Path    :  I46
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (930 2650)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (900 2600)
+Component Path    :  I57
+
+
+Original Property :  LOCATION = R45
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (700 2840)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (700 2800)
+Component Path    :  I47
+
+
+Original Property :  LOCATION = R45
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1725 2600)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (1800 2600)
+Component Path    :  I50
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2250 2630)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (2300 2600)
+Component Path    :  I54
+
+
+Original Property :  LOCATION = R45
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (2050 2840)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @my_passive_niitp.RES (version 1)
+Component XY      :  (2050 2800)
+Component Path    :  I49
+
+
+Original Property :  LOCATION = C1
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1830 3450)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.CAP (version 1)
+Component XY      :  (1800 3400)
+Component Path    :  I52
+
+
+Original Property :  LOCATION = R87
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (500 4800)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.R (version 1)
+Component XY      :  (550 4775)
+Component Path    :  I15
+
+
+Original Property :  LOCATION = R88
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (675 4963)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.R (version 1)
+Component XY      :  (700 4925)
+Component Path    :  I18
+
+
+Original Property :  LOCATION = R91
+Updated Property  :  LOCATION = *
+Status            :  Property Changed
+Property XY       :  (1225 4513)
+Owner             :  Component  (Default Body Property)
+Component Name    :  @discrete_niitp.R (version 1)
+Component XY      :  (1250 4475)
+Component Path    :  I20
+
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  3
+    Read Only Pages            :  0
+    Properties Changed         :  92
+    Properties Not Changed
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Sep 10 18:43:59 2020
+    End Time                   :  Sep 10 18:44:00 2020
+    Elapsed Time               :  00:00:01  (hrs:min:sec)
+

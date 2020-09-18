@@ -1,0 +1,25 @@
+(marker_file
+ (version 5.0)
+ (markers
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1417)
+   (short_msg "ERROR(SPCOPK-1417): PACK_TYPE value 0603-17 of the part C is not defined in chips.prt for the schematic instance.")
+   (long_msg "ERROR(SPCOPK-1417): PACK_TYPE value 0603-17 of the part C is not defined in chips.prt for the schematic instance.
+        Schematic instance: @LED_DRV1_LIB.LED_V2(SCH_1):PAGE3_I22@DISCRETE_NIITP.C(CHIPS)
+        Physical Path: @led_drv1_lib.led_v2(sch_1):page3_i22@discrete_niitp.c(chips)
+        Ensure that the value of the PACK_TYPE property for the part is defined in the chips.prt file.
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I22;")
+     (parent_canonical_name "DRAWERROR inst I22")
+     (drawing_name "@led_drv1_lib.led_v2(sch_1):page3")
+    )
+   )
+  )
+ )
+)

@@ -1,0 +1,172 @@
+(Cell	at25f1024n
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/26/06,15:46:18)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.at25f1024n)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/26/06,15:49:34)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.at25f1024n)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005a93c88b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/26/06,15:49:32)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.at25f1024n)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7a03b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a25de4fc)
+
+			(Primitives	1
+
+				(Primitive	AT25F1024N
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/26/06,15:46:21)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.at25f1024n)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT25F1024N
+
+							(PackType	AT25F1024N)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f420416)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b480349)
+
+)
+

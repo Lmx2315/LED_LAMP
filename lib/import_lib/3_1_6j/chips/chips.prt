@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Dec 07 15:36:47 2004' ;
+primitive '3_1_6J';
+  pin
+    'PRI_DOT':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'PRI':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SEC':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    'SEC_DOT':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    NC_PINS='(2,5)';
+    CLASS='IC';
+    PART_NAME='3_1_6J';
+    PHYS_DES_PREFIX='L';
+    JEDEC_TYPE='F342';
+    FAMILY='RF3';
+    BODY_NAME='3_1_6J';
+  end_body;
+end_primitive;
+END.

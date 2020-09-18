@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HMC580ST89';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OUT':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='HMC580ST89';
+    BODY_NAME='HMC580ST89';
+    JEDEC_TYPE='hmc580st89';
+    PHYS_DES_PREFIX='DA';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:2,4)';
+  end_body;
+end_primitive;
+
+END.

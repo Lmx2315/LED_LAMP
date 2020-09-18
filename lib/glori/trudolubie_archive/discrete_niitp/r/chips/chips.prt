@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Sep 25 16:14:18 2003' ;
+primitive 'R','R_F56';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='R';
+    PHYS_DES_PREFIX='R';
+    JEDEC_TYPE='RES400';
+    BODY_NAME='R';
+  end_body;
+end_primitive;
+END.

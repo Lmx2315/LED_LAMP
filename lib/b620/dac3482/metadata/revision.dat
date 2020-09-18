@@ -1,0 +1,170 @@
+(Cell	dac3482
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/14/12,15:49:04)
+
+			(User	Sergey)
+
+			(Path	b620.dac3482)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/14/12,16:12:48)
+
+			(User	Sergey)
+
+			(Path	b620.dac3482)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000a1bf0563)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,15:49:07)
+
+							(User	Sergey)
+
+							(Path	b620.dac3482)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000764d03a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000917ac241)
+
+			(Primitives	1
+
+				(Primitive	DAC3482
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,16:12:37)
+
+							(User	Sergey)
+
+							(Path	b620.dac3482)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DAC3482
+
+							(PackType	DAC3482)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000f21803e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000009779037b)
+
+)
+

@@ -1,0 +1,178 @@
+(Cell	wiz820io
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/10/12,12:53:38)
+
+			(User	Sergey)
+
+			(Path	import_lib.wiz820io)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/10/12,13:00:08)
+
+			(User	Sergey)
+
+			(Path	import_lib.wiz820io)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000003797cd65)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/10/12,12:53:42)
+
+							(User	Sergey)
+
+							(Path	import_lib.wiz820io)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b623038d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001afb92fe)
+
+			(Primitives	1
+
+				(Primitive	WIZ820IO
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/10/12,12:56:11)
+
+							(User	Sergey)
+
+							(Path	import_lib.wiz820io)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	WIZ820IO
+
+							(PackType	WIZ820IO)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000034e303b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000871c037a)
+
+)
+

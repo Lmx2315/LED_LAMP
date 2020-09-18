@@ -1,0 +1,180 @@
+(Cell	ad9514
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/29/12,15:32:04)
+
+			(User	Sergey)
+
+			(Path	b620.ad9514)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/29/12,17:30:24)
+
+			(User	Sergey)
+
+			(Path	b620.ad9514)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005e74130b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/12,17:30:21)
+
+							(User	Sergey)
+
+							(Path	b620.ad9514)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba8037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf2ac578)
+
+			(Primitives	1
+
+				(Primitive	AD9514
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/12,15:45:06)
+
+							(User	Sergey)
+
+							(Path	b620.ad9514)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD9514
+
+							(PackType	AD9514)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cp-32)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f1d0411)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c2b0373)
+
+)
+

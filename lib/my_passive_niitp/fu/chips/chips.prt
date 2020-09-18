@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Tue Jun 01 16:57:38 2004' ;
+primitive 'FU';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='FU';
+    PHYS_DES_PREFIX='R';
+    JEDEC_TYPE='f344';
+    BODY_NAME='FU';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

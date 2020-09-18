@@ -1,0 +1,170 @@
+(Cell	tps3808
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/17/12,16:41:02)
+
+			(User	Sergey)
+
+			(Path	b620.tps3808)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/17/12,16:45:31)
+
+			(User	Sergey)
+
+			(Path	b620.tps3808)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b42db459)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,16:41:04)
+
+							(User	Sergey)
+
+							(Path	b620.tps3808)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f58903b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b88e5292)
+
+			(Primitives	1
+
+				(Primitive	TPS3808
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/17/12,16:42:22)
+
+							(User	Sergey)
+
+							(Path	b620.tps3808)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS3808
+
+							(PackType	TPS3808)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000008160382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000bb16031d)
+
+)
+

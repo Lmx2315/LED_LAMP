@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 06/27/06,16:27:18)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package USBDF01W5 added to cell")
+		(Param1 USBDF01W5)
+	)
+
+	(Comment
+		(Time 06/27/06,16:28:49)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

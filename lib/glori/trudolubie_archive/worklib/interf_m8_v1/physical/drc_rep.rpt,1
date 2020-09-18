@@ -1,0 +1,65 @@
+<PRE>|------------------------------------------------------------------------------|
+|                        Design Rule Check Error Report                        |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:...\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v2_nev.brd    |
+|  dimensions in millimeters                         Wed Dec 08 18:18:23 2010  |
+|------------------------------------------------------------------------------|
+|==============================================================================|
+| Etch-to-pad violations -- Different Net                                      |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   drc location  |sepa| element |         element location          |   net   |
+|    x   |    y   |ratn|identfctn|   x1   |   y1   |   x2   |   y2   |   name  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Thru Pin to Shape Spacing
+ Required spacing 0.15 MM
+ Constraint set name DEFAULT
+ Etch subclass GND
+  59.7000   2.5200    0 SHAPE      36.7112   0.2060 105.8096  23.0726 CGND
+                        XP2        59.7000   2.5200                   
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Thru Pin to Shape Spacing
+ Required spacing 0.15 MM
+ Constraint set name DEFAULT
+ Etch subclass GND
+  82.3500   2.5200    0 SHAPE      36.7112   0.2060 105.8096  23.0726 CGND
+                        XP2        82.3500   2.5200                   
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Thru Pin to Shape Spacing
+ Required spacing 0.15 MM
+ Constraint set name DEFAULT
+ Etch subclass GND
+  82.3720  67.9023    0 SHAPE      67.9937  65.5629 105.8259 117.9730 DGND
+                        XP6        82.3720  67.9023                   
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Thru Pin to Shape Spacing
+ Required spacing 0.15 MM
+ Constraint set name DEFAULT
+ Etch subclass GND
+  82.3720  90.5523    0 SHAPE      67.9937  65.5629 105.8259 117.9730 DGND
+                        XP6        82.3720  90.5523                   
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+
+|------------------------------------------------------------------------------|
+|                        Design Rule Check Error Report                        |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:...\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v2_nev.brd    |
+|  dimensions in millimeters                         Wed Dec 08 18:18:23 2010  |
+|------------------------------------------------------------------------------|
+|==============================================================================|
+| Etch-to-pad violations -- Different Net                                      |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   drc location  |sepa| element |         element location          |   net   |
+|    x   |    y   |ratn|identfctn|   x1   |   y1   |   x2   |   y2   |   name  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|   end of    DESIGN  RULE  CHECK  ERROR  REPORT                               |
+|------------------------------------------------------------------------------|
+|      Error count summary:                                                    |
+|------------------------------------------------------------------------------|
+|   Etch-to-pad -- different net                 4                             |
+|------------------------------------------------------------------------------|
+|   total DRC error count                        4                             |
+|------------------------------------------------------------------------------|
+</PRE>

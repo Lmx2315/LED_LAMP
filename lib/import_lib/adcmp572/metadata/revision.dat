@@ -1,0 +1,178 @@
+(Cell	adcmp572
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/12/11,14:44:19)
+
+			(User	Sergey)
+
+			(Path	import_lib.adcmp572)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/12/11,15:06:20)
+
+			(User	Sergey)
+
+			(Path	import_lib.adcmp572)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000d272f900)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/12/11,14:44:23)
+
+							(User	Sergey)
+
+							(Path	import_lib.adcmp572)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d7ae037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000021c20163)
+
+			(Primitives	1
+
+				(Primitive	ADCMP572
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/12/11,15:04:48)
+
+							(User	Sergey)
+
+							(Path	import_lib.adcmp572)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCMP572
+
+							(PackType	ADCMP572)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000007490382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000000aef0322)
+
+)
+

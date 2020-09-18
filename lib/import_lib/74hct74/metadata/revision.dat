@@ -1,0 +1,170 @@
+(Cell	74hct74
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/09/11,11:06:43)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.74hct74)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/09/11,11:10:36)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.74hct74)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000b7685b95)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/09/11,11:06:45)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.74hct74)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000b6d6038d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000458cc659)
+
+			(Primitives	1
+
+				(Primitive	74HCT74
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/09/11,11:09:40)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.74hct74)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	74HCT74
+
+							(PackType	74HCT74)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000733c03e9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000006920382)
+
+)
+

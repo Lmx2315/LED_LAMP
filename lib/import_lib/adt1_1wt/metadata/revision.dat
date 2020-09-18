@@ -1,0 +1,180 @@
+(Cell	adt1_1wt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/28/13,10:29:51)
+
+			(User	Sergey)
+
+			(Path	import_lib.adt1_1wt)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/28/13,12:33:04)
+
+			(User	Sergey)
+
+			(Path	import_lib.adt1_1wt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa75a376)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/28/13,12:32:50)
+
+							(User	Sergey)
+
+							(Path	import_lib.adt1_1wt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dbb03b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002423ca7c)
+
+			(Primitives	1
+
+				(Primitive	ADT1_1WT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/28/13,10:29:51)
+
+							(User	Sergey)
+
+							(Path	import_lib.adt1_1wt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADT1_1WT
+
+							(PackType	ADT1_1WT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	f342)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6a03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cc003d6)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	thl 6_2423wism
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/01/13,12:15:42)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.thl 6_2423wism)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/01/13,12:36:51)
+
+			(User	chuprikov_pavel)
+
+			(Path	import_lib.thl 6_2423wism)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000c74dd22f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/13,12:15:45)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.thl 6_2423wism)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f30803e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003aba8d20)
+
+			(Primitives	1
+
+				(Primitive	THL 6_2423WISM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/13,12:34:04)
+
+							(User	chuprikov_pavel)
+
+							(Path	import_lib.thl 6_2423wism)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THL 6_2423WISM
+
+							(PackType	THL 6_2423WISM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000068320378)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000004ac10326)
+
+)
+

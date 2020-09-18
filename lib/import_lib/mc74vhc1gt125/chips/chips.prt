@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Mar 21 11:22:21 2005' ;
+primitive 'MC74VHC1GT125';
+  pin
+    'IN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      OUTPUT_TYPE='(TS,TS)';
+    '-OE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'P3V3':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'GNDD':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MC74VHC1GT125';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='SC70-5';
+    BODY_NAME='MC74VHC1GT125';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SN74LVC1G80';
+  pin
+    'CLK':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-Q':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='SN74LVC1G80';
+    BODY_NAME='SN74LVC1G80';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='f366';
+    CLASS='IC';
+    GROUND_NETS='GND';
+    POWER_PINS='(GND:3)';
+    POWER_PINS='(VCC:5)';
+  end_body;
+end_primitive;
+
+END.

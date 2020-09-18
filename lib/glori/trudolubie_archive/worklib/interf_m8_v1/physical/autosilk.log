@@ -1,0 +1,380 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Auto Silkscreen Log File                            )
+(                                                            )
+(        Drawing          : digital_dspblock_m6_9.brd        )
+(        Software Version : 15.2s086                         )
+(        Date/Time        : Mon Feb 01 16:47:10 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 5.0000
+Min Line Length is 0.0000
+Allowing 0 degree text rotation.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : None
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : None
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+A suitable location could not be found for text string 'VD2'
+(location: 171.0330, 33.7730)
+A suitable location could not be found for text string 'VD3'
+(location: 182.7860, 36.5480)
+A suitable location could not be found for text string 'DA6'
+(location: 43.1930, 30.8650)
+A suitable location could not be found for text string 'DD18'
+(location: 18.5670, 105.4000)
+A suitable location could not be found for text string 'DD25'
+(location: 123.8670, 97.3000)
+A suitable location could not be found for text string 'XP3'
+(location: 62.6700, 3.3100)
+A suitable location could not be found for text string 'XP11'
+(location: 24.9100, 99.4800)
+A suitable location could not be found for text string 'XP21'
+(location: 182.9600, 75.0800)
+A suitable location could not be found for text string 'XP20'
+(location: 182.9600, 80.5800)
+A suitable location could not be found for text string 'XP19'
+(location: 182.9600, 86.0800)
+A suitable location could not be found for text string 'XP16'
+(location: 182.9600, 93.0800)
+A suitable location could not be found for text string 'XP15'
+(location: 182.9600, 98.5800)
+A suitable location could not be found for text string 'XP17'
+(location: 9.3900, 86.6200)
+A suitable location could not be found for text string 'XP7'
+(location: 67.0300, 8.4400)
+A suitable location could not be found for text string 'DD12'
+(location: 78.8100, 13.7320)
+A suitable location could not be found for text string 'DD22'
+(location: 121.2400, 94.3680)
+A suitable location could not be found for text string 'DD17'
+(location: 37.5900, 82.5680)
+A suitable location could not be found for text string 'HL12'
+(location: 68.9200, 101.6420)
+A suitable location could not be found for text string 'HL13'
+(location: 68.9200, 104.6420)
+A suitable location could not be found for text string 'HL5'
+(location: 181.1700, 105.9420)
+A suitable location could not be found for text string 'HL1'
+(location: 114.8800, 79.6580)
+A suitable location could not be found for text string 'HL2'
+(location: 112.4300, 82.6580)
+A suitable location could not be found for text string 'HL15'
+(location: 68.6300, 86.6580)
+A suitable location could not be found for text string 'HL11'
+(location: 90.0680, 6.1940)
+A suitable location could not be found for text string 'HL10'
+(location: 20.1700, 109.4420)
+A suitable location could not be found for text string 'HL9'
+(location: 21.6200, 105.3920)
+A suitable location could not be found for text string 'HL7'
+(location: 57.3300, 110.2080)
+A suitable location could not be found for text string 'DD10'
+(location: 44.5500, 98.3280)
+A suitable location could not be found for text string 'DD20'
+(location: 8.2780, 74.8900)
+A suitable location could not be found for text string 'C70'
+(location: 134.1500, 99.9200)
+A suitable location could not be found for text string 'C71'
+(location: 135.6000, 85.5200)
+A suitable location could not be found for text string 'C69'
+(location: 165.3800, 71.5000)
+A suitable location could not be found for text string 'DD3'
+(location: 117.5100, 87.3500)
+A suitable location could not be found for text string 'ZQ3'
+(location: 40.9930, 82.3220)
+A suitable location could not be found for text string 'ZQ1'
+(location: 109.5280, 75.2930)
+A suitable location could not be found for text string 'DD24'
+(location: 146.8320, 28.3420)
+A suitable location could not be found for text string 'DD21'
+(location: 75.0000, 83.7260)
+A suitable location could not be found for text string 'DD5'
+(location: 104.5000, 80.7260)
+A suitable location could not be found for text string 'DD29'
+(location: 21.3000, 96.1240)
+A suitable location could not be found for text string 'DD28'
+(location: 58.7000, 88.4260)
+A suitable location could not be found for text string 'VT1'
+(location: 164.6700, 65.4400)
+A suitable location could not be found for text string 'DA2'
+(location: 69.2730, 92.6060)
+A suitable location could not be found for text string 'DA3'
+(location: 65.4730, 107.7560)
+A suitable location could not be found for text string 'DD26'
+(location: 91.0400, 98.5400)
+A suitable location could not be found for text string 'DD16'
+(location: 49.3400, 77.0600)
+A suitable location could not be found for text string 'DD2'
+(location: 106.2600, 96.7400)
+A suitable location could not be found for text string 'DA8'
+(location: 68.7300, 15.0630)
+A suitable location could not be found for text string 'C146'
+(location: 30.8400, 80.1400)
+A suitable location could not be found for text string 'C124'
+(location: 40.6600, 100.7400)
+A suitable location could not be found for text string 'R75'
+(location: 29.4180, 4.2690)
+A suitable location could not be found for text string 'R74'
+(location: 26.7060, 4.2690)
+A suitable location could not be found for text string 'R73'
+(location: 23.9940, 4.2690)
+A suitable location could not be found for text string 'R72'
+(location: 19.8330, 12.7320)
+A suitable location could not be found for text string 'R76'
+(location: 29.4180, 14.0420)
+A suitable location could not be found for text string 'R64'
+(location: 74.9100, 101.3300)
+A suitable location could not be found for text string 'R65'
+(location: 74.9100, 104.3300)
+A suitable location could not be found for text string 'R33'
+(location: 108.1300, 102.3400)
+A suitable location could not be found for text string 'R87'
+(location: 78.3400, 84.8700)
+A suitable location could not be found for text string 'R32'
+(location: 183.3400, 102.3700)
+A suitable location could not be found for text string 'R30'
+(location: 132.0700, 71.3600)
+A suitable location could not be found for text string 'R28'
+(location: 163.9100, 64.5300)
+A suitable location could not be found for text string 'R7'
+(location: 109.7600, 86.2300)
+A suitable location could not be found for text string 'FU1'
+(location: 113.8800, 110.7900)
+A suitable location could not be found for text string 'R108'
+(location: 183.5100, 66.2800)
+A suitable location could not be found for text string 'R111'
+(location: 180.8800, 74.9400)
+A suitable location could not be found for text string 'R112'
+(location: 180.8300, 82.3400)
+A suitable location could not be found for text string 'R107'
+(location: 17.7400, 98.0200)
+A suitable location could not be found for text string 'R106'
+(location: 17.7400, 93.9200)
+A suitable location could not be found for text string 'R110'
+(location: 66.4600, 87.2300)
+A suitable location could not be found for text string 'R109'
+(location: 66.4600, 90.2300)
+A suitable location could not be found for text string 'RXXX_BOOT1'
+(location: 84.8700, 8.1100)
+A suitable location could not be found for text string 'R50'
+(location: 87.6700, 8.1100)
+A suitable location could not be found for text string 'R99'
+(location: 97.8700, 98.2100)
+A suitable location could not be found for text string 'R98'
+(location: 85.0600, 85.2300)
+A suitable location could not be found for text string 'R103'
+(location: 85.0600, 82.4300)
+A suitable location could not be found for text string 'R114'
+(location: 104.8300, 90.7400)
+A suitable location could not be found for text string 'R80'
+(location: 36.8300, 20.7400)
+A suitable location could not be found for text string 'R79'
+(location: 39.8300, 20.8400)
+A suitable location could not be found for text string 'R49'
+(location: 32.6900, 101.8200)
+A suitable location could not be found for text string 'R51'
+(location: 31.5400, 105.8700)
+A suitable location could not be found for text string 'R40'
+(location: 51.0400, 113.6200)
+A suitable location could not be found for text string 'R39'
+(location: 51.0400, 110.5200)
+A suitable location could not be found for text string 'R83'
+(location: 50.6400, 11.7700)
+A suitable location could not be found for text string 'R84'
+(location: 49.1400, 26.0700)
+A suitable location could not be found for text string 'R81'
+(location: 45.7300, 14.7400)
+A suitable location could not be found for text string 'R82'
+(location: 45.9810, 28.6970)
+A suitable location could not be found for text string 'R78'
+(location: 35.1400, 23.1700)
+A suitable location could not be found for text string 'R77'
+(location: 35.1400, 26.0700)
+A suitable location could not be found for text string 'XS1'
+(location: 156.7100, 28.9190)
+A suitable location could not be found for text string 'C162'
+(location: 63.5600, 9.0600)
+A suitable location could not be found for text string 'C186'
+(location: 46.6600, 72.8400)
+A suitable location could not be found for text string 'R_JTAG_DSP'
+(location: 96.4960, 43.8220)
+A suitable location could not be found for text string 'C171'
+(location: 144.2370, 25.3750)
+A suitable location could not be found for text string 'L15'
+(location: 150.4630, 26.3660)
+A suitable location could not be found for text string 'R85'
+(location: 55.8540, 20.3180)
+A suitable location could not be found for text string 'R86'
+(location: 55.8470, 17.8210)
+A suitable location could not be found for text string 'C187'
+(location: 48.2530, 61.2290)
+A suitable location could not be found for text string 'R21'
+(location: 135.5970, 63.0210)
+A suitable location could not be found for text string 'R66'
+(location: 9.8210, 63.2530)
+A suitable location could not be found for text string 'R19'
+(location: 130.7970, 59.6210)
+A suitable location could not be found for text string 'R68'
+(location: 1.5530, 80.7790)
+A suitable location could not be found for text string 'R69'
+(location: 8.7470, 75.8210)
+A suitable location could not be found for text string 'R67'
+(location: 48.2530, 63.5290)
+A suitable location could not be found for text string 'R92'
+(location: 24.6530, 62.5290)
+A suitable location could not be found for text string 'R63'
+(location: 19.7470, 103.3210)
+A suitable location could not be found for text string 'R10'
+(location: 97.7530, 78.6790)
+A suitable location could not be found for text string 'RX4'
+(location: 95.5470, 40.7210)
+A suitable location could not be found for text string 'RX3'
+(location: 88.3530, 47.8790)
+A suitable location could not be found for text string 'RX2'
+(location: 114.9290, 106.6970)
+A suitable location could not be found for text string 'RX1'
+(location: 88.3530, 45.4790)
+A suitable location could not be found for text string 'R90'
+(location: 93.2470, 98.3210)
+A suitable location could not be found for text string 'C173'
+(location: 90.8210, 90.2530)
+A suitable location could not be found for text string 'C170'
+(location: 27.7710, 63.3030)
+A suitable location could not be found for text string 'C195'
+(location: 13.6790, 106.8970)
+A suitable location could not be found for text string 'C194'
+(location: 13.2290, 96.1970)
+A suitable location could not be found for text string 'R91'
+(location: 60.7530, 30.4790)
+A suitable location could not be found for text string 'L10'
+(location: 30.8290, 15.1970)
+A suitable location could not be found for text string 'L12'
+(location: 28.2290, 15.1970)
+A suitable location could not be found for text string 'L14'
+(location: 25.6290, 15.2470)
+A suitable location could not be found for text string 'L4'
+(location: 11.1470, 52.5210)
+A suitable location could not be found for text string 'L7'
+(location: 11.0470, 47.4210)
+A suitable location could not be found for text string 'L11'
+(location: 11.0470, 42.2210)
+A suitable location could not be found for text string 'R59'
+(location: 93.4830, 16.3510)
+A suitable location could not be found for text string 'C120'
+(location: 96.1510, 8.6510)
+A suitable location could not be found for text string 'R58'
+(location: 98.7470, 23.1210)
+A suitable location could not be found for text string 'C132'
+(location: 84.2530, 17.1790)
+A suitable location could not be found for text string 'R60'
+(location: 35.4710, 70.1530)
+A suitable location could not be found for text string 'R61'
+(location: 32.9710, 70.1530)
+A suitable location could not be found for text string 'R62'
+(location: 30.5710, 70.1030)
+A suitable location could not be found for text string 'C141'
+(location: 38.1210, 70.6530)
+A suitable location could not be found for text string 'C142'
+(location: 40.4790, 86.6470)
+A suitable location could not be found for text string 'R96'
+(location: 92.6710, 74.2030)
+A suitable location could not be found for text string 'R89'
+(location: 122.0530, 100.1790)
+A suitable location could not be found for text string 'R116'
+(location: 100.6790, 109.0970)
+A suitable location could not be found for text string 'R113'
+(location: 97.9790, 109.0970)
+A suitable location could not be found for text string 'R115'
+(location: 95.2290, 108.9970)
+A suitable location could not be found for text string 'R95'
+(location: 99.5530, 85.8790)
+A suitable location could not be found for text string 'C207'
+(location: 95.9790, 93.2470)
+A suitable location could not be found for text string 'C205'
+(location: 98.5790, 93.2470)
+A suitable location could not be found for text string 'C189'
+(location: 101.4790, 90.5470)
+A suitable location could not be found for text string 'C138'
+(location: 7.1210, 66.8530)
+A suitable location could not be found for text string 'C144'
+(location: 6.6210, 78.8530)
+A suitable location could not be found for text string 'R25'
+(location: 128.7290, 61.0470)
+A suitable location could not be found for text string 'R13'
+(location: 85.8210, 28.6030)
+A suitable location could not be found for text string 'R15'
+(location: 93.8710, 26.7530)
+A suitable location could not be found for text string 'R16'
+(location: 94.1470, 31.7210)
+A suitable location could not be found for text string 'R5'
+(location: 125.6290, 93.8970)
+A suitable location could not be found for text string 'C19'
+(location: 117.2290, 80.2470)
+A suitable location could not be found for text string 'C20'
+(location: 111.4290, 80.2470)
+A suitable location could not be found for text string 'R1'
+(location: 109.5030, 77.6790)
+A suitable location could not be found for text string 'C145'
+(location: 6.6210, 70.8530)
+A suitable location could not be found for text string 'R57'
+(location: 42.5530, 77.2790)
+A suitable location could not be found for text string 'C134'
+(location: 43.5790, 79.1470)
+A suitable location could not be found for text string 'C137'
+(location: 28.0210, 69.9530)
+A suitable location could not be found for text string 'R53'
+(location: 36.5470, 99.4710)
+A suitable location could not be found for text string 'R54'
+(location: 36.5470, 97.0210)
+A suitable location could not be found for text string 'C123'
+(location: 45.8470, 111.0710)
+A suitable location could not be found for text string 'R35'
+(location: 74.2970, 90.0710)
+A suitable location could not be found for text string 'R34'
+(location: 69.9970, 90.0710)
+A suitable location could not be found for text string 'R38'
+(location: 59.7470, 105.1710)
+A suitable location could not be found for text string 'R37'
+(location: 59.7470, 107.4210)
+A suitable location could not be found for text string 'R41'
+(location: 54.7470, 103.1710)
+A suitable location could not be found for text string 'R42'
+(location: 54.6790, 93.3970)
+A suitable location could not be found for text string 'R45'
+(location: 50.7530, 101.1290)
+A suitable location could not be found for text string 'R46'
+(location: 50.4790, 98.4970)
+A suitable location could not be found for text string 'R36'
+(location: 63.1790, 97.2970)
+A suitable location could not be found for text string 'R2'
+(location: 114.4470, 95.9210)
+A suitable location could not be found for text string 'R3'
+(location: 120.3470, 87.9210)
+A suitable location could not be found for text string 'R4'
+(location: 120.1710, 80.1530)
+A suitable location could not be found for text string 'VD8'
+(location: 51.4200, 18.9200)
+A suitable location could not be found for text string 'VD7'
+(location: 59.5800, 21.5800)
+A suitable location could not be found for text string 'DA7'
+(location: 44.7680, 16.3450)
+A suitable location could not be found for text string 'DD19'
+(location: 37.8000, 76.6500)
+
+Total Failures: 173
+
+Log End
+

@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Jun 02 15:30:23 2004' ;
+primitive 'RG_LEDS';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '4':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='RG_LEDS';
+    JEDEC_TYPE='DUAL_LEDS';
+    BODY_NAME='RG_LEDS';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,16 @@
+
+	(Comment
+		(Time 10/27/04,16:11:23)
+		(User rifch)
+		(MsgId ECO_022)
+		(Text "Package QTE_020_NEW deleted from cell")
+		(Param1 QTE_020_NEW)
+	)
+	(Comment
+		(Time 10/27/04,16:11:25)
+		(User rifch)
+		(MsgId ECO_021)
+		(Text "Package QSE_QTE_020 added to cell")
+		(Param1 QSE_QTE_020)
+	)
+

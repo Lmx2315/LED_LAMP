@@ -1,0 +1,180 @@
+(Cell	cdsot23-sm712
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/21/14,11:57:30)
+
+			(User	imk)
+
+			(Path	b620.cdsot23-sm712)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/21/14,11:59:20)
+
+			(User	imk)
+
+			(Path	b620.cdsot23-sm712)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009107612d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,11:57:33)
+
+							(User	imk)
+
+							(Path	b620.cdsot23-sm712)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a55034f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cacdc906)
+
+			(Primitives	1
+
+				(Primitive	CDSOT23-SM712
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/14,11:58:31)
+
+							(User	imk)
+
+							(Path	b620.cdsot23-sm712)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CDSOT23-SM712
+
+							(PackType	CDSOT23-SM712)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ce503af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001cf503d9)
+
+)
+

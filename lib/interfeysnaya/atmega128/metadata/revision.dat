@@ -1,0 +1,300 @@
+(Cell	atmega128
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/07/06,14:56:57)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.atmega128)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/14/06,15:15:24)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.atmega128)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	4
+
+				(Symbol	sym_4
+
+					(Checksum	839a42de)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,15:06:37)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.atmega128)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Checksum	a476fe82)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,15:05:09)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.atmega128)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Checksum	9315f8a6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,15:04:19)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.atmega128)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Checksum	d4ea006f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,14:57:00)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.atmega128)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	2f270153)
+
+		)
+
+		(View	Chips
+
+			(Checksum	5f03610e)
+
+			(Primitives	1
+
+				(Primitive	ATMEGA128
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,15:03:55)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.atmega128)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ATMEGA128
+
+							(PackType	ATMEGA128)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(SWAP_INFO	'(S1+S2+S3+S4)')
+
+						(FunctionGroups	4
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	bef9017c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	4de00235)
+
+)
+

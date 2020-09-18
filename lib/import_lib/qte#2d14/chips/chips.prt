@@ -1,0 +1,19 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Jun 18 17:33:59 2004' ;
+primitive 'QTE-14_QTE-14';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='QTE-14';
+    JEDEC_TYPE='QTE-14';
+    BODY_NAME='QTE-14';
+    FAMILY='QTE';
+  end_body;
+end_primitive;
+END.

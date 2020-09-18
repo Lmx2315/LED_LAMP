@@ -1,0 +1,44 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Sep 17 13:06:14 2004' ;
+primitive 'ESD_STRIP';
+  pin
+    'TSTRIP'<1>:
+      PIN_NUMBER='(T1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'TSTRIP'<2>:
+      PIN_NUMBER='(T2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'BSTRIP'<1>:
+      PIN_NUMBER='(B1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'BSTRIP'<2>:
+      PIN_NUMBER='(B2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'STRIP'<0>:
+      PIN_NUMBER='(S3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='ESD_STRIP';
+    PHYS_DES_PREFIX='XA';
+    JEDEC_TYPE='F334';
+    BODY_NAME='ESD_STRIP';
+  end_body;
+end_primitive;
+END.

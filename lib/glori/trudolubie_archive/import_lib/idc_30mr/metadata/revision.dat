@@ -1,0 +1,170 @@
+(Cell	idc_30mr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/28/10,15:45:44)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.idc_30mr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/28/10,15:47:04)
+
+			(User	Chuprikov_P_A)
+
+			(Path	import_lib.idc_30mr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000ca46e1a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,15:45:49)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.idc_30mr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000442103d6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004c82beed)
+
+			(Primitives	1
+
+				(Primitive	IDC_30MR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/28/10,15:46:15)
+
+							(User	Chuprikov_P_A)
+
+							(Path	import_lib.idc_30mr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IDC_30MR
+
+							(PackType	IDC_30MR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000751e03a9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000e6a70380)
+
+)
+

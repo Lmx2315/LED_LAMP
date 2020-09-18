@@ -1,0 +1,25 @@
+
+	(Comment
+		(Time 12/23/11,15:16:36)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package ten5 added to cell")
+		(Param1 ten5)
+	)
+	(Comment
+		(Time 12/23/11,15:16:42)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package TEN5 deleted from cell")
+		(Param1 TEN5)
+	)
+
+	(Comment
+		(Time 12/23/11,15:16:54)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package ten5 added to cell")
+		(Param1 ten5)
+	)
+
+

@@ -1,0 +1,18 @@
+
+	(Comment
+		(Time 07/13/12,15:31:05)
+		(User chuprikov_pavel)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 07/13/12,15:32:21)
+		(User chuprikov_pavel)
+		(MsgId ECO_021)
+		(Text "Package hmc580st89 added to cell")
+		(Param1 hmc580st89)
+	)
+
+
+

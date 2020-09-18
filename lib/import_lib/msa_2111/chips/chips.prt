@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri May 28 14:49:02 2004' ;
+primitive 'MSA_2111';
+  pin
+    'RF_IN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RF_OUT':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SHIELD1':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'SHIELD2':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='MSA_2111';
+    JEDEC_TYPE='f180';
+    BODY_NAME='msa_2111';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,28 @@
+	(Comment
+		(Time 06/17/13,12:19:28)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/17/13,12:20:16)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package DVI_74320 added to cell")
+		(Param1 DVI_74320)
+	)
+	(Comment
+		(Time 06/17/13,15:34:50)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package DVI_74320 deleted from cell")
+		(Param1 DVI_74320)
+	)
+	(Comment
+		(Time 06/17/13,15:34:53)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package DVI_74320 added to cell")
+		(Param1 DVI_74320)
+	)

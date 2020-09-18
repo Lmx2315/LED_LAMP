@@ -1,0 +1,21 @@
+
+	(Comment
+		(Time 02/24/12,17:49:52)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 02/24/12,18:07:19)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package stm32f103rbt6 added to cell")
+		(Param1 stm32f103rbt6)
+	)
+
+
+
+
+

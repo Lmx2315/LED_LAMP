@@ -1,0 +1,51 @@
+(PCB z11.brd
+ (parser
+  (string_quote ')
+  (space_in_quoted_tokens on)
+  (host_cad allegro)
+  (host_version 'v14-2-56C_3/25/2002')
+  (write_resolution MM 100000)
+  (routes_include testpoint)
+  (constant pcb_xlo -20)
+  (constant pcb_ylo -20)
+  (constant pcb_xhi 20)
+  (constant pcb_yhi 20)
+  (constant board_name z11.brd)
+  (via_rotate_first off))
+ (resolution MM 100000)
+ (time_resolution nsec 1000000)
+ (structure
+  (boundary (rect pcb -22 -24 22 22))
+  (boundary (rect signal -20 -20 20 20))
+  (place_boundary (rect signal -22 -22 22 22))
+  (control (off_grid off)
+   (force_to_terminal_point on)
+   (noise_accumulation RSS)
+   (noise_calculation linear_interpolation)
+   (crosstalk_model CCT1A)
+   (bbv_ctr2ctr on)
+   (roundoff_rotation on)
+   (average_pair_length off)
+   (reroute_order_viols on))
+  (layer TOP
+   (type signal))
+  (layer BOTTOM
+   (type signal))
+  (rule (clearance 1))
+  (rule (width 1))
+  (via
+   (spare))
+  (grid via 0.0001)
+  (grid wire 0.0001))
+ (placement
+  (place_control (flip_style mirror_first)))
+ (library
+  (padstack PAD30CIR20D
+   (shape (circle signal 0.7620 0 0))))
+ (floor_plan)
+ (part_library)
+ (network)
+ (wiring
+  (wire (path TOP 1 7 3 7 2 5 0 5 -2 -3 -2 -3 2 -9 2 -13 6 -13 11 -17 7 -17 6
+    -8 -3 -5 -3 1 -9 5 -9 13 -1 13 9 -3 9 -3 5 -7 5) (net Orphan_net) (type
+    route))))

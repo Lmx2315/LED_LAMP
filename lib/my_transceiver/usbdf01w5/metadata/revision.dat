@@ -1,0 +1,172 @@
+(Cell	usbdf01w5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/27/06,16:27:11)
+
+			(User	admin)
+
+			(Path	my_transceiver.usbdf01w5)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/27/06,16:28:51)
+
+			(User	admin)
+
+			(Path	my_transceiver.usbdf01w5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002f7d9dc8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,16:28:49)
+
+							(User	admin)
+
+							(Path	my_transceiver.usbdf01w5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7603ec)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007871209f)
+
+			(Primitives	1
+
+				(Primitive	USBDF01W5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,16:27:18)
+
+							(User	admin)
+
+							(Path	my_transceiver.usbdf01w5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	USBDF01W5
+
+							(PackType	USBDF01W5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bb2038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c7703a5)
+
+)
+

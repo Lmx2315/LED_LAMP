@@ -1,0 +1,47 @@
+(marker_file
+ (version 5.0)
+ (markers
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: MIC39100
+        Schematic instance: @TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE2_I132@POWER_MY.MIC39100(CHIPS)
+        Physical Path: @trudolubie_lib.interf_m8_v1(sch_1):page2_i132@power_my.mic39100(chips)
+                          Property Value: 
+")
+   (location
+    (
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I132;")
+     (parent_canonical_name "DRAWERROR inst I132")
+     (drawing_name "@trudolubie_lib.interf_m8_v1(sch_1):page2")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: MIC39100
+        Schematic instance: @TRUDOLUBIE_LIB.INTERF_M8_V1(SCH_1):PAGE9_I206@POWER_MY.MIC39100(CHIPS)
+        Physical Path: @trudolubie_lib.interf_m8_v1(sch_1):page1_i206@power_my.mic39100(chips)
+                          Property Value: 
+")
+   (location
+    (
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I206;")
+     (parent_canonical_name "DRAWERROR inst I206")
+     (drawing_name "@trudolubie_lib.interf_m8_v1(sch_1):page9")
+    )
+   )
+  )
+ )
+)

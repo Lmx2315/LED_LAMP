@@ -1,0 +1,170 @@
+(Cell	bpf-a400
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/04/11,17:05:28)
+
+			(User	Admin)
+
+			(Path	peredatchik.bpf-a400)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/04/11,17:09:50)
+
+			(User	Admin)
+
+			(Path	peredatchik.bpf-a400)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000006bfb5f41)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/04/11,17:05:31)
+
+							(User	Admin)
+
+							(Path	peredatchik.bpf-a400)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f39e03e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f8d1fa04)
+
+			(Primitives	1
+
+				(Primitive	BPF-A400
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/04/11,17:06:55)
+
+							(User	Admin)
+
+							(Path	peredatchik.bpf-a400)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BPF-A400
+
+							(PackType	BPF-A400)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000007f17044a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000d6f9037f)
+
+)
+

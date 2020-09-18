@@ -1,0 +1,170 @@
+(Cell	xcf0xs
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.13)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/06/06,18:03:22)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.xcf0xs)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/06/06,18:06:01)
+
+			(User	admin)
+
+			(Path	my_memory_niitp.xcf0xs)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000004a90f69)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,18:05:58)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.xcf0xs)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000026be0384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007ed42e61)
+
+			(Primitives	1
+
+				(Primitive	XCF0XS
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,18:03:26)
+
+							(User	admin)
+
+							(Path	my_memory_niitp.xcf0xs)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XCF0XS
+
+							(PackType	XCF0XS)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e7320380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000b9da034d)
+
+)
+

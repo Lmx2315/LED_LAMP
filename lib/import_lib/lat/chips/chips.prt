@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Dec 27 15:06:41 2004' ;
+primitive 'LAT','LAT_MMM168';
+  pin
+    'IN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OUT':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='GROUND';
+    'GND1':
+      PIN_NUMBER='(3)';
+      PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='LAT';
+    PHYS_DES_PREFIX='DA';
+    JEDEC_TYPE='F180';
+    FAMILY='LAT';
+    BODY_NAME='LAT';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/27/13,13:15:05)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/27/13,15:25:54)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package LTC2208 added to cell")
+		(Param1 LTC2208)
+	)

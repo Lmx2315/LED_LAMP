@@ -1,0 +1,19 @@
+
+	(Comment
+		(Time 07/19/10,12:45:52)
+		(User Chuprikov_P_A)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 07/19/10,12:46:30)
+		(User Chuprikov_P_A)
+		(MsgId ECO_021)
+		(Text "Package cwf-4 added to cell")
+		(Param1 cwf-4)
+	)
+
+
+
+

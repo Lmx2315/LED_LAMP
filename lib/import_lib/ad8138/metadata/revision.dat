@@ -1,0 +1,170 @@
+(Cell	ad8138
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,14:58:01)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ad8138)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,15:03:13)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ad8138)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000c796c767)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,14:58:04)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ad8138)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f6d90391)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008312834c)
+
+			(Primitives	1
+
+				(Primitive	AD8138
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,15:00:50)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ad8138)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8138
+
+							(PackType	AD8138)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d1c803ef)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000d2dd03df)
+
+)
+

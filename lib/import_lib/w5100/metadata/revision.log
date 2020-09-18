@@ -1,0 +1,34 @@
+
+	(Comment
+		(Time 12/28/11,10:11:05)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/28/11,11:03:47)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package w5100 added to cell")
+		(Param1 w5100)
+	)
+
+	(Comment
+		(Time 12/28/11,11:06:27)
+		(User Sergey)
+		(MsgId ECO_022)
+		(Text "Package W5100 deleted from cell")
+		(Param1 W5100)
+	)
+
+	(Comment
+		(Time 12/28/11,11:06:35)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package w5100 added to cell")
+		(Param1 w5100)
+	)
+
+
+

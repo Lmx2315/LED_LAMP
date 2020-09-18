@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Dec 30 11:59:39 2004' ;
+primitive 'MAX9000ESA_8SO';
+  pin
+    'AOUT':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'AIN-':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'AIN+':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'REF':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CIN+':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'COUT':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VSS':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'VDD':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX9000ESA';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='F25';
+    FAMILY='MAX900x';
+    BODY_NAME='MAX9000ESA';
+  end_body;
+end_primitive;
+END.

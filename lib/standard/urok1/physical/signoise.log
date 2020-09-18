@@ -1,0 +1,14 @@
+INFO: Using SigNoise run directory 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\signoise.run'
+ANNOTATION: Loading default device libraries
+ANNOTATION: Using default signal_devlibs = "devices.dml cds_models.ndx *.ndx *.dml"
+INFO: Created default Working Device Library 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\devices.dml'
+INFO: Loading SigNoise libraries
+ANNOTATION: Library 'd:\Cadence\PSD_14.2\share\library\standard\urok1\physical\devices.dml' upreved to version 136.2
+ANNOTATION: Existing device library : d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\devices.dml
+ANNOTATION: Library d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\devices.dml is loaded
+ANNOTATION: Existing device library : D:\Cadence\PSD_14.2\share\pcb\signal\cds_models.ndx
+ANNOTATION: Library D:\Cadence\PSD_14.2\share\pcb\signal\cds_models.ndx is loaded
+INFO: Finished Loading SigNoise libraries
+ANNOTATION: Loading default interconnect libraries
+ANNOTATION: Existing device library : d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml
+ANNOTATION: Library d:\Cadence\PSD_14.2\share\library\standard\urok1\physical\interconn.iml is loaded

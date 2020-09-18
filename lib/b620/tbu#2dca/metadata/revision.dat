@@ -1,0 +1,180 @@
+(Cell	tbu-ca
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.18)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/29/12,12:36:11)
+
+			(User	Sergey)
+
+			(Path	b620.tbu-ca)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/29/12,15:15:46)
+
+			(User	Sergey)
+
+			(Path	b620.tbu-ca)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002d3152ce)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/12,15:15:36)
+
+							(User	Sergey)
+
+							(Path	b620.tbu-ca)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bd803aa)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a2909b05)
+
+			(Primitives	1
+
+				(Primitive	TBU-CA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/29/12,12:42:19)
+
+							(User	Sergey)
+
+							(Path	b620.tbu-ca)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TBU-CA
+
+							(PackType	TBU-CA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tbu-ca)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e3a041b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.5-S026 (v16-5-13BP))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001c5203a2)
+
+)
+

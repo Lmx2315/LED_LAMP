@@ -1,0 +1,170 @@
+(Cell	93lc46
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/07/06,17:23:29)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.93lc46)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/07/06,17:36:54)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.93lc46)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000788e966c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,17:28:56)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.93lc46)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000035b50395)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000079cdd42a)
+
+			(Primitives	1
+
+				(Primitive	93LC46
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,17:30:29)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.93lc46)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	93LC46
+
+							(PackType	93LC46)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000030ca0415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000007fb0372)
+
+)
+

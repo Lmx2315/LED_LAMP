@@ -1,0 +1,170 @@
+(Cell	ad8620
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/09/09,14:29:30)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ad8620)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/09/09,14:39:31)
+
+			(User	senzenist_s_n)
+
+			(Path	import_lib.ad8620)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000007e0cdedb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,14:29:32)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ad8620)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000ce40043f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004c43aea6)
+
+			(Primitives	1
+
+				(Primitive	AD8620
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/09/09,14:39:28)
+
+							(User	senzenist_s_n)
+
+							(Path	import_lib.ad8620)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8620
+
+							(PackType	AD8620)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b50a03ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000f34b03d1)
+
+)
+

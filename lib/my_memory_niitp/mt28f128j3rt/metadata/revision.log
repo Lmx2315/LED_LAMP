@@ -1,0 +1,37 @@
+
+	(Comment
+		(Time 06/22/06,17:37:07)
+		(User admin)
+		(MsgId ECO_021)
+		(Text "Package MT28F128J3RT added to cell")
+		(Param1 MT28F128J3RT)
+	)
+	(Comment
+		(Time 06/22/06,17:37:09)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/22/06,17:37:12)
+		(User admin)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 part.ptf)
+	)
+
+	(Comment
+		(Time 06/22/06,17:39:37)
+		(User admin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/22/06,17:43:51)
+		(User admin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

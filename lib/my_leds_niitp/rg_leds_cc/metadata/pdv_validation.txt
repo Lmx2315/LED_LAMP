@@ -1,0 +1,1 @@
+pdv_506,Cell 'rg_leds_cc':For logical part RG_LEDS_CC, pack type PCD130TWRG4-3C is missing in chips.prt file but present in part table file,Warning

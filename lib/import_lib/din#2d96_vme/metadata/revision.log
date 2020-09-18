@@ -1,0 +1,46 @@
+
+	(Comment
+		(Time 12/27/11,10:21:22)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/27/11,10:25:17)
+		(User Sergey)
+		(MsgId ECO_021)
+		(Text "Package din-96_vme added to cell")
+		(Param1 din-96_vme)
+	)
+
+
+	(Comment
+		(Time 12/27/11,10:29:07)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 12/27/11,10:36:24)
+		(User Sergey)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

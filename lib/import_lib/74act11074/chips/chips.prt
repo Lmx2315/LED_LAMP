@@ -1,0 +1,57 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Sep 13 11:15:02 2004' ;
+primitive '74ACT11074';
+  pin
+    '-1PRE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '1Q':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-1Q':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-2Q':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '2Q':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '-2PRE':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2CLK':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2D':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-2CLR':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-1CLR':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '1D':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '1CLK':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'VCC':
+      PIN_NUMBER='(11)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='74ACT11074';
+    PHYS_DES_PREFIX='D';
+    JEDEC_TYPE='f339';
+    FAMILY='74ACT';
+    BODY_NAME='74ACT11074';
+  end_body;
+end_primitive;
+END.

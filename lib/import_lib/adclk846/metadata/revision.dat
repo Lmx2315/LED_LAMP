@@ -1,0 +1,178 @@
+(Cell	adclk846
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/08/11,12:48:37)
+
+			(User	Sergey)
+
+			(Path	import_lib.adclk846)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/08/11,13:00:43)
+
+			(User	Sergey)
+
+			(Path	import_lib.adclk846)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000018ddd2eb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/08/11,12:48:40)
+
+							(User	Sergey)
+
+							(Path	import_lib.adclk846)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000d04e040f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004206a55c)
+
+			(Primitives	1
+
+				(Primitive	ADCLK846
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/08/11,12:55:49)
+
+							(User	Sergey)
+
+							(Path	import_lib.adclk846)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCLK846
+
+							(PackType	ADCLK846)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000e6370380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f9ac0351)
+
+)
+

@@ -1,0 +1,59 @@
+
+	(Comment
+		(Time 10/31/07,14:24:10)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 10/31/07,14:27:37)
+		(User Validol)
+		(MsgId ECO_021)
+		(Text "Package 69001-816-1 added to cell")
+		(Param1 69001-816-1)
+	)
+	(Comment
+		(Time 10/31/07,14:28:06)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 10/31/07,14:29:48)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 10/31/07,14:30:45)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_4 added to cell")
+		(Param1 sym_4)
+	)
+
+	(Comment
+		(Time 10/31/07,15:54:33)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_5 added to cell")
+		(Param1 sym_5)
+	)
+	(Comment
+		(Time 10/31/07,15:55:27)
+		(User Validol)
+		(MsgId ECO_082)
+		(Text "Symbol sym_5 deleted from cell")
+		(Param1 sym_5)
+	)
+	(Comment
+		(Time 10/31/07,15:55:29)
+		(User Validol)
+		(MsgId ECO_081)
+		(Text "Symbol sym_5 added to cell")
+		(Param1 sym_5)
+	)
+

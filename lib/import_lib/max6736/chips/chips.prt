@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Mar 23 17:34:41 2005' ;
+primitive 'MAX6736';
+  pin
+    '-MR':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-RST':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VCC1':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'VCC2':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='MAX6736';
+    PHYS_DES_PREFIX='DD';
+    JEDEC_TYPE='SC70';
+    FAMILY='SUPERVISOR';
+    BODY_NAME='MAX6736';
+    LOCATION='DD';
+    PACK_TYPE='SC70';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,170 @@
+(Cell	mt41j64m16la_187e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/14/12,11:12:02)
+
+			(User	Sergey)
+
+			(Path	b620.mt41j64m16la_187e)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/14/12,15:32:11)
+
+			(User	Sergey)
+
+			(Path	b620.mt41j64m16la_187e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	000000006a360035)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,11:12:20)
+
+							(User	Sergey)
+
+							(Path	b620.mt41j64m16la_187e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000079ce0349)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a6edc32e)
+
+			(Primitives	1
+
+				(Primitive	MT41J64M16LA_187E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/14/12,15:25:48)
+
+							(User	Sergey)
+
+							(Path	b620.mt41j64m16la_187e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT41J64M16LA_187E
+
+							(PackType	MT41J64M16LA_187E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d53803af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000d4a403af)
+
+)
+

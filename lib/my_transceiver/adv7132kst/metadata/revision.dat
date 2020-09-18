@@ -1,0 +1,170 @@
+(Cell	adv7132kst
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/27/06,16:56:53)
+
+			(User	admin)
+
+			(Path	my_transceiver.adv7132kst)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/27/06,17:19:22)
+
+			(User	admin)
+
+			(Path	my_transceiver.adv7132kst)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a1d4f77d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,17:18:42)
+
+							(User	admin)
+
+							(Path	my_transceiver.adv7132kst)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9a03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000096be66be)
+
+			(Primitives	1
+
+				(Primitive	ADV7132KST
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/27/06,16:56:56)
+
+							(User	admin)
+
+							(Path	my_transceiver.adv7132kst)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADV7132KST
+
+							(PackType	ADV7132KST)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9003ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001bd203a6)
+
+)
+

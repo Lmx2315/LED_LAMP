@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/02/17,17:06:54)
+		(User Lmx2315)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 03/02/17,17:30:13)
+		(User Lmx2315)
+		(MsgId ECO_021)
+		(Text "Package SSQ_FUSE added to cell")
+		(Param1 "SSQ_FUSE")
+	)

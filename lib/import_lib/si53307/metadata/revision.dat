@@ -1,0 +1,204 @@
+(Cell	si53307
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/01/16,12:32:29)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.si53307)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/01/16,16:56:31)
+
+			(User	Lmx2315)
+
+			(Path	import_lib.si53307)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.8)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d4f4329d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/01/16,13:04:15)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.si53307)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfc03b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009d6d8830)
+
+			(Primitives	1
+
+				(Primitive	SI53307
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/01/16,16:53:47)
+
+							(User	Lmx2315)
+
+							(Path	import_lib.si53307)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SI53307
+
+							(PackType	SI53307)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ded03e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S027 (v16-6-112BZ))
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001dc003de)
+
+)
+

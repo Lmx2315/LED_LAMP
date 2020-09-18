@@ -1,0 +1,1816 @@
+FILE_TYPE = CONNECTIVITY;
+{Concept-HDL 14.20-p005 18-Mar-2002}
+"PAGE_NUMBER" = 3;
+0"NC";
+1"OUT<65..0>";
+2"GND\g";
+3"P3V3D\g";
+4"UN$3$ERNI64785$I179$E";
+5"CLKHF_P";
+6"CLKH_EN";
+7"CLKH_P";
+8"CIN_EN";
+9"CLKHF_N";
+10"CLKH_N";
+11"UN$3$BLM18A$I49$A";
+12"UN$3$BLM18A$I56$A";
+13"CLKLF_N";
+14"VCC_AUX\g";
+15"CLKL_N";
+16"CLKLF_P";
+17"CLKL_P";
+18"CLKL_EN";
+19"PWRON_P";
+20"OUT<45>";
+21"OUT<39>";
+22"RESET*";
+23"PWRON_N";
+24"P5V0D\g";
+25"MOSI";
+26"PB<3>";
+27"LOCK_A";
+28"UPDCLK_B";
+29"COUT_EN";
+30"UN$3$BLM18A$I100$A";
+31"PB<2>";
+32"P<2>";
+33"PA<0>";
+34"VCC_AUX\g";
+35"UN$3$ERNI64785$I179$F";
+36"VCC_AUX\g";
+37"PB<1>";
+38"GND\g";
+39"CLKOUT";
+40"C1_LED1";
+41"C1_LED2";
+42"GND\g";
+43"GND\g";
+44"VCCO\g";
+45"UN$3$BLM18A$I62$A";
+46"DONE";
+47"CLKIN";
+48"GND\g";
+49"C2_LED2";
+50"GND\g";
+51"UN$3$BLM18A$I95$A";
+52"GND\g";
+53"UN$3$R$I87$2";
+54"UN$3$R$I86$2";
+55"UN$3$BLM18A$I66$B";
+56"UN$3$BLM18A$I89$A";
+57"UN$3$R$I99$1";
+58"VCC0\g";
+59"GND\g";
+60"GND\g";
+61"C2_LED1";
+62"UN$3$R$I87$1";
+63"UN$3$R$I86$1";
+64"GND\g";
+65"GND\g";
+66"UN$3$R$I81$1";
+67"UN$3$R$I82$1";
+68"VCC_AUX\g";
+69"GND\g";
+70"VCCO\g";
+71"GND\g";
+72"UN$3$R$I82$2";
+73"CLK_OUT";
+74"VCC0\g";
+75"UN$3$R$I81$2";
+76"GND\g";
+77"PB<0>";
+78"GND\g";
+79"GND\g";
+80"LOCK_B";
+81"CLK_IN";
+82"UN$3$LED$I40$1";
+83"CLKHF_N";
+84"SCS0";
+85"SCS1";
+86"SCS2";
+87"ALERT*";
+88"OE*";
+89"PG*";
+90"UN$3$C$I191$2";
+91"GND\g";
+92"PA<1>";
+93"VCCO";
+94"P3V3D\g";
+95"GND\g";
+96"GND\g";
+97"CLKHF_P";
+98"P<3>";
+99"UPDCLK_A";
+100"SCLK";
+101"MISO";
+102"GND\g";
+103"P3V3D\g";
+%"NET_BUS"
+"1","(1350,3450)","0","discrete_niitp","I10";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"11"101;
+%"BLM18A"
+"1","(1425,525)","0","import_lib","I100";
+;
+LOCATION"L17"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F56"
+CDS_LIB"import_lib";
+"A"30;
+"B"74;
+%"P3V3"
+"1","(1700,625)","0","power_niitp","I101";
+;
+HDL_POWER"VCC0"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"P3V3"74;
+%"SHIELD"
+"1","(850,200)","0","power_niitp","I102";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"76;
+%"C"
+"1","(850,400)","1","discrete_niitp","I103";
+;
+LOCATION"C35"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"76;
+"2"30;
+%"NET_BUS"
+"1","(-2400,3300)","0","discrete_niitp","I104";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"37"6;
+%"NET_BUS"
+"1","(-2400,4000)","0","discrete_niitp","I105";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"38"18;
+%"NET_BUS"
+"1","(-100,0)","0","discrete_niitp","I106";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"3"93;
+%"C"
+"1","(100,-175)","1","discrete_niitp","I107";
+;
+LOCATION"C29"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"78;
+"2"93;
+%"SHIELD"
+"1","(2400,-350)","0","power_niitp","I108";
+;
+HDL_POWER"GND"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp";
+"SHIELD"78;
+%"C"
+"1","(350,-175)","1","discrete_niitp","I109";
+;
+LOCATION"C31"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"78;
+"2"93;
+%"NET_BUS"
+"1","(2850,3100)","0","discrete_niitp","I11";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"1"22;
+%"C"
+"1","(600,-175)","1","discrete_niitp","I110";
+;
+LOCATION"C33"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"78;
+"2"93;
+%"C"
+"1","(850,-175)","1","discrete_niitp","I111";
+;
+LOCATION"C36"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"78;
+"2"93;
+%"C"
+"1","(1150,-175)","1","discrete_niitp","I112";
+;
+LOCATION"C38"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(1400,-175)","1","discrete_niitp","I113";
+;
+LOCATION"C39"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(1650,-175)","1","discrete_niitp","I114";
+;
+LOCATION"C40"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(1900,-175)","1","discrete_niitp","I115";
+;
+LOCATION"C44"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"78;
+"2"93;
+%"C"
+"1","(2150,-175)","1","discrete_niitp","I116";
+;
+LOCATION"C45"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(2400,-175)","1","discrete_niitp","I117";
+;
+LOCATION"C46"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(2900,-175)","1","discrete_niitp","I118";
+;
+LOCATION"C48"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(3200,-175)","1","discrete_niitp","I119";
+;
+LOCATION"C51"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"NET_BUS"
+"1","(1350,3000)","0","discrete_niitp","I12";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"12"88;
+%"C"
+"1","(2650,-175)","1","discrete_niitp","I120";
+;
+LOCATION"C47"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"78;
+"2"93;
+%"C"
+"1","(3700,-175)","1","discrete_niitp","I121";
+;
+LOCATION"C53"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"78;
+"2"93;
+%"C"
+"1","(3950,-175)","1","discrete_niitp","I122";
+;
+LOCATION"C54"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"78;
+"2"93;
+%"C"
+"1","(3450,-175)","1","discrete_niitp","I123";
+;
+LOCATION"C52"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(4450,-175)","1","discrete_niitp","I124";
+;
+LOCATION"C56"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"78;
+"2"93;
+%"C"
+"1","(4950,-175)","1","discrete_niitp","I125";
+;
+LOCATION"C58"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(4700,-175)","1","discrete_niitp","I126";
+;
+LOCATION"C57"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(4200,-175)","1","discrete_niitp","I127";
+;
+LOCATION"C55"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"78;
+"2"93;
+%"C"
+"1","(350,-625)","1","discrete_niitp","I128";
+;
+LOCATION"C32"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402"
+CDS_LIB"discrete_niitp";
+"1"79;
+"2"93;
+%"C"
+"1","(850,-625)","1","discrete_niitp","I129";
+;
+LOCATION"C37"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"79;
+"2"93;
+%"NET_BUS"
+"1","(1350,1900)","0","discrete_niitp","I13";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"13"86;
+%"C"
+"1","(600,-625)","1","discrete_niitp","I130";
+;
+LOCATION"C34"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"79;
+"2"93;
+%"C"
+"1","(100,-625)","1","discrete_niitp","I131";
+;
+LOCATION"C30"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"79;
+"2"93;
+%"SHIELD"
+"1","(500,-800)","0","power_niitp","I132";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"79;
+%"NET_BUS"
+"1","(1350,2050)","0","discrete_niitp","I14";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"14"85;
+%"NET_BUS"
+"1","(1350,2150)","0","discrete_niitp","I15";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"15"84;
+%"P3V3"
+"1","(1700,-350)","0","power_niitp","I158";
+;
+HDL_POWER"VCC0"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"P3V3"58;
+%"BLM18A"
+"1","(1425,-450)","0","import_lib","I159";
+;
+LOCATION"L18"
+CDS_LIB"import_lib"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE";
+"A"93;
+"B"58;
+%"NET_BUS"
+"1","(1350,1800)","0","discrete_niitp","I16";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"16"87;
+%"XT"
+"1","(-300,2050)","0","discrete_niitp","I160";
+;
+LOCATION"X1"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F300";
+"1 \B"81;
+%"XT"
+"1","(-300,1150)","0","discrete_niitp","I161";
+;
+LOCATION"X2"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F300";
+"1 \B"73;
+%"NET_BUS"
+"1","(-2400,1700)","0","discrete_niitp","I17";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"17"47;
+%"SHIELD"
+"1","(150,2500)","0","power_niitp","I171";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"SHIELD"96;
+%"SHIELD"
+"1","(500,1200)","0","power_niitp","I172";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"91;
+%"SHIELD"
+"1","(2000,2600)","0","power_niitp","I173";
+;
+HDL_POWER"GND"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp";
+"SHIELD"102;
+%"SHIELD"
+"1","(2000,1250)","0","power_niitp","I174";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"2;
+%"ERNI64785"
+"3","(2450,3250)","0","import_lib","I175";
+;
+TEXT"XP2.3"
+CDS_PDV_INT_SYM_GNAME"$1"
+CDS_LIB"import_lib"
+PART_NAME"ERNI64785"
+LOCATION"XP2"
+LOCATION"XP2"
+LOCATION"XP2"
+SPLIT_INST"TRUE"
+NEEDS_NO_SIZE"TRUE"
+SEC_TYPE""
+SEC"3";
+"C <1>"
+$PN"C1"103;
+"C <5>"
+$PN"C5"103;
+"C <14>"
+$PN"C14"25;
+"C <12>"
+$PN"C12"103;
+"C <21>"
+$PN"C21"102;
+"C <20>"
+$PN"C20"103;
+"C <22>"
+$PN"C22"103;
+"C <19>"
+$PN"C19"102;
+"C <18>"
+$PN"C18"103;
+"C <17>"
+$PN"C17"102;
+"C <15>"
+$PN"C15"102;
+"C <16>"
+$PN"C16"88;
+"C <13>"
+$PN"C13"102;
+"C <11>"
+$PN"C11"103;
+"C <9>"
+$PN"C9"100;
+"C <10>"
+$PN"C10"102;
+"C <8>"
+$PN"C8"102;
+"C <7>"
+$PN"C7"101;
+"C <6>"
+$PN"C6"102;
+"C <4>"
+$PN"C4"102;
+"C <3>"
+$PN"C3"103;
+"C <2>"
+$PN"C2"102;
+%"ERNI64785"
+"4","(950,1850)","0","import_lib","I177";
+;
+TEXT"XP2.2"
+LOCATION"XP2"
+LOCATION"XP2"
+LOCATION"XP2"
+CDS_LIB"import_lib"
+SPLIT_INST"TRUE"
+LOCATION"XP2"
+NEEDS_NO_SIZE"TRUE"
+CDS_PDV_INT_SYM_GNAME"$1"
+PART_NAME"ERNI64785"
+SEC"4"
+SEC_TYPE"";
+"D <12>"
+$PN"D12"91;
+"D <6>"
+$PN"D6"91;
+"D <7>"
+$PN"D7"37;
+"D <8>"
+$PN"D8"91;
+"D <3>"
+$PN"D3"91;
+"D <16>"
+$PN"D16"32;
+"D <10>"
+$PN"D10"91;
+"D <1>"
+$PN"D1"91;
+"D <4>"
+$PN"D4"91;
+"D <2>"
+$PN"D2"91;
+"D <11>"
+$PN"D11"91;
+"D <22>"
+$PN"D22"91;
+"D <21>"
+$PN"D21"91;
+"D <20>"
+$PN"D20"91;
+"D <18>"
+$PN"D18"80;
+"D <19>"
+$PN"D19"91;
+"D <15>"
+$PN"D15"91;
+"D <9>"
+$PN"D9"26;
+"D <5>"
+$PN"D5"27;
+"D <17>"
+$PN"D17"91;
+"D <14>"
+$PN"D14"33;
+"D <13>"
+$PN"D13"91;
+%"ERNI64785"
+"1","(3950,3250)","0","import_lib","I178";
+;
+TEXT"XP2.5"
+PART_NAME"ERNI64785"
+LOCATION"XP2"
+SPLIT_INST"TRUE"
+NEEDS_NO_SIZE"TRUE"
+SEC"1"
+SEC_TYPE""
+CDS_LIB"import_lib"
+CDS_PDV_INT_SYM_GNAME"$1";
+"A <21>"
+$PN"A21"21;
+"A <22>"
+$PN"A22"94;
+"A <19>"
+$PN"A19"21;
+"A <18>"
+$PN"A18"94;
+"A <20>"
+$PN"A20"20;
+"A <17>"
+$PN"A17"21;
+"A <16>"
+$PN"A16"20;
+"A <14>"
+$PN"A14"22;
+"A <15>"
+$PN"A15"21;
+"A <13>"
+$PN"A13"21;
+"A <10>"
+$PN"A10"21;
+"A <11>"
+$PN"A11"23;
+"A <12>"
+$PN"A12"19;
+"A <8>"
+$PN"A8"21;
+"A <9>"
+$PN"A9"89;
+"A <5>"
+$PN"A5"94;
+"A <6>"
+$PN"A6"21;
+"A <7>"
+$PN"A7"20;
+"A <4>"
+$PN"A4"21;
+"A <3>"
+$PN"A3"90;
+"A <1>"
+$PN"A1"94;
+"A <2>"
+$PN"A2"21;
+%"ERNI64785"
+"5","(950,3200)","0","import_lib","I179";
+;
+TEXT"XP2.1"
+SPLIT_INST"TRUE"
+LOCATION"XP2"
+NEEDS_NO_SIZE"TRUE"
+CDS_PDV_INT_SYM_GNAME"$1"
+CDS_LIB"import_lib"
+LOCATION"XP2"
+LOCATION"XP2"
+LOCATION"XP2"
+LOCATION"XP2"
+PART_NAME"ERNI64785"
+SEC"5"
+SEC_TYPE"";
+"E <21>"
+$PN"E21"83;
+"E <19>"
+$PN"E19"4;
+"E <17>"
+$PN"E17"98;
+"E <16>"
+$PN"E16"4;
+"E <15>"
+$PN"E15"92;
+"E <13>"
+$PN"E13"28;
+"E <12>"
+$PN"E12"4;
+"E <11>"
+$PN"E11"4;
+"E <9>"
+$PN"E9"4;
+"E <8>"
+$PN"E8"31;
+"E <6>"
+$PN"E6"77;
+"E <3>"
+$PN"E3"16;
+"E <7>"
+$PN"E7"4;
+"E <1>"
+$PN"E1"4;
+"E <2>"
+$PN"E2"13;
+"E <10>"
+$PN"E10"99;
+"E <4>"
+$PN"E4"4;
+"E <5>"
+$PN"E5"4;
+"E <22>"
+$PN"E22"4;
+"E <18>"
+$PN"E18"4;
+"E <14>"
+$PN"E14"4;
+"F <22..1>"35;
+"E <20>"
+$PN"E20"97;
+%"NET_BUS"
+"1","(-2400,1400)","0","discrete_niitp","I18";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"18"39;
+%"NET_BUS"
+"1","(-100,3450)","2","discrete_niitp","I180";
+;
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"2"14;
+%"SHIELD"
+"1","(3500,2500)","0","power_niitp","I185";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"21;
+%"P3V3"
+"1","(1750,2550)","0","power_niitp","I186";
+;
+HDL_POWER"P5V0D"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"P3V3"24;
+%"P3V3"
+"1","(1750,3850)","0","power_niitp","I188";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp"
+HDL_POWER"P3V3D";
+"P3V3"103;
+%"C"
+"1","(1750,3575)","1","discrete_niitp","I189";
+;
+LOCATION"C41"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0603"
+NEEDS_NO_SIZE"TRUE";
+"1"102;
+"2"103;
+%"C"
+"1","(3000,3525)","1","discrete_niitp","I190";
+;
+LOCATION"C49"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0603";
+"1"21;
+"2"94;
+%"C"
+"1","(3200,3525)","1","discrete_niitp","I191";
+;
+LOCATION"C50"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0603"
+NEEDS_NO_SIZE"TRUE";
+"1"21;
+"2"90;
+%"C"
+"1","(1750,2275)","1","discrete_niitp","I192";
+;
+LOCATION"C42"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0603"
+NEEDS_NO_SIZE"TRUE";
+"1"2;
+"2"24;
+%"C"
+"1","(1750,1425)","1","discrete_niitp","I193";
+;
+LOCATION"C43"
+PACK_TYPE"0603"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"2;
+"2"3;
+%"REPLICATE"
+"2","(350,2650)","0","standard","I195";
+;
+SIZE"22B"
+CDS_LIB"standard"
+HDL_REPLICATE"TRUE"
+BODY_TYPE"PLUMBING";
+"INPUT \NAC"96;
+"OUTPUT <SIZE-1..0> \NAC"35;
+%"NET_BUS"
+"1","(-100,2900)","2","discrete_niitp","I203";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"41"9;
+%"NET_BUS"
+"1","(-100,2750)","0","discrete_niitp","I204";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"41"83;
+%"NET_BUS"
+"1","(-100,3100)","2","discrete_niitp","I205";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"40"5;
+%"NET_BUS"
+"1","(-100,2800)","0","discrete_niitp","I206";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"40"97;
+%"NET_BUS"
+"1","(2850,3200)","0","discrete_niitp","I208";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"44"19;
+%"NET_BUS"
+"1","(2850,3250)","0","discrete_niitp","I209";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"43"23;
+%"NET_BUS"
+"1","(-2400,900)","0","discrete_niitp","I21";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"19"40;
+%"NET_BUS"
+"1","(2850,3350)","0","discrete_niitp","I210";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"42"89;
+%"NET_BUS"
+"1","(2850,2600)","0","discrete_niitp","I212";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"39"21;
+%"P3V3"
+"1","(1750,1700)","0","power_niitp","I216";
+;
+HDL_POWER"P3V3D"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"P3V3"3;
+%"ERNI64785"
+"2","(2450,2000)","0","import_lib","I217";
+;
+TEXT"XP2.4"
+LOCATION"XP2"
+LOCATION"XP2"
+CDS_LIB"import_lib"
+LOCATION"XP2"
+LOCATION"XP2"
+SPLIT_INST"TRUE"
+CDS_PDV_INT_SYM_GNAME"$1"
+PART_NAME"ERNI64785"
+NEEDS_NO_SIZE"TRUE"
+LOCATION"XP2"
+LOCATION"XP2"
+LOCATION"XP2";
+"B <1>"2;
+"B <2>"24;
+"B <3>"2;
+"B <4>"3;
+"B <5>"2;
+"B <6>"24;
+"B <7>"2;
+"B <8>"84;
+"B <9>"2;
+"B <11>"2;
+"B <10>"85;
+"B <12>"2;
+"B <13>"86;
+"B <14>"2;
+"B <15>"87;
+"B <17>"24;
+"B <16>"2;
+"B <18>"2;
+"B <19>"3;
+"B <20>"2;
+"B <21>"24;
+"B <22>"2;
+%"P3V3"
+"1","(3050,2800)","0","power_niitp","I218";
+;
+HDL_POWER"P3V3D"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"P3V3"94;
+%"P3V3"
+"1","(3200,3000)","0","power_niitp","I219";
+;
+HDL_POWER"P5V0D"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"P3V3"20;
+%"NET_BUS"
+"1","(-100,1500)","0","discrete_niitp","I22";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"23"80;
+%"NET_BUS"
+"1","(2850,2900)","0","discrete_niitp","I220";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"45"20;
+%"NET_BUS"
+"1","(2850,2700)","0","discrete_niitp","I221";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"46"94;
+%"A3_2"
+"1","(1950,-50)","0","import_lib","I222";
+;
+CDS_LIB"import_lib";
+%"FIN1101"
+"1","(-1400,3800)","0","r_fairchild_lib","I223";
+;
+LOCATION"DD8"
+PART_NAME"FIN1101"
+PACK_TYPE"SOIC-8"
+SEC"1"
+SEC_TYPE"SOIC-8"
+CDS_LIB"r_fairchild_lib"
+NEEDS_NO_SIZE"TRUE";
+"GND"
+$PN"1"18;
+"RIN+"
+$PN"2"17;
+"EN"
+$PN"8"12;
+"VCC"
+$PN"5"12;
+"DOUT+"
+$PN"6"13;
+"DOUT-"
+$PN"7"16;
+"N.C."
+$PN"4"0;
+"RIN-"
+$PN"3"15;
+%"FIN1101"
+"1","(-1400,3050)","0","r_fairchild_lib","I224";
+;
+LOCATION"DD9"
+PACK_TYPE"SOIC-8"
+PART_NAME"FIN1101"
+SEC"1"
+SEC_TYPE"SOIC-8"
+CDS_LIB"r_fairchild_lib"
+NEEDS_NO_SIZE"TRUE";
+"GND"
+$PN"1"6;
+"RIN+"
+$PN"2"7;
+"EN"
+$PN"8"11;
+"VCC"
+$PN"5"11;
+"DOUT+"
+$PN"6"9;
+"DOUT-"
+$PN"7"5;
+"N.C."
+$PN"4"0;
+"RIN-"
+$PN"3"10;
+%"NET_BUS"
+"1","(-100,2150)","0","discrete_niitp","I23";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"24"27;
+%"NET_BUS"
+"1","(-100,3150)","0","discrete_niitp","I24";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"25"28;
+%"NET_BUS"
+"1","(-100,3300)","0","discrete_niitp","I25";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"26"99;
+%"NET_BUS"
+"1","(-100,2950)","0","discrete_niitp","I26";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"27"98;
+%"NET_BUS"
+"1","(-100,1600)","0","discrete_niitp","I27";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"28"32;
+%"NET_BUS"
+"1","(-100,3050)","0","discrete_niitp","I28";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"29"92;
+%"NET_BUS"
+"1","(-100,1700)","0","discrete_niitp","I29";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"30"33;
+%"NET_BUS"
+"1","(-100,800)","0","discrete_niitp","I3";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"4"46;
+%"NET_BUS"
+"1","(-100,3400)","0","discrete_niitp","I30";
+;
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"32"31;
+%"NET_BUS"
+"1","(-100,2050)","0","discrete_niitp","I31";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"33"37;
+%"NET_BUS"
+"1","(-100,3500)","0","discrete_niitp","I32";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"34"77;
+%"NET_BUS"
+"1","(-100,1950)","0","discrete_niitp","I33";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"31"26;
+%"NET_BUS"
+"1","(-2400,150)","0","discrete_niitp","I35";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"21"61;
+%"NET_BUS"
+"1","(-2400,0)","0","discrete_niitp","I36";
+;
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"22"49;
+%"NET_BUS"
+"1","(-2400,750)","0","discrete_niitp","I37";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"20"41;
+%"RG_LEDS"
+"1","(-700,850)","2","import_lib","I38";
+;
+LOCATION"VD1"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"import_lib"
+SEC_TYPE""
+SEC"1";
+"1"
+$PN"1"43;
+"2"
+$PN"2"72;
+"3"
+$PN"3"43;
+"4"
+$PN"4"75;
+%"NET_BUS"
+"1","(-2400,3900)","0","discrete_niitp","I4";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"7"17;
+%"LED"
+"1","(1150,800)","0","import_lib","I40";
+;
+LOCATION"VD3"
+CDS_LIB"import_lib"
+NEEDS_NO_SIZE"TRUE"
+FAMILY"LED";
+"2"42;
+"1"82;
+%"SN74LVC1G125"
+"1","(-1450,2100)","2","r_logic_lib","I42";
+;
+LOCATION"DD10"
+CDS_LIB"r_logic_lib"
+NEEDS_NO_SIZE"TRUE"
+SEC_TYPE"SC70-5"
+SEC"1"
+PACK_TYPE"SC70-5"
+PART_NAME"SN74LVC1G125";
+"VCC"
+$PN"5"55;
+"Y"
+$PN"4"47;
+"OE* \B"
+$PN"1"8;
+"A"
+$PN"2"81;
+"GND"
+$PN"3"48;
+%"SN74LVC1G125"
+"1","(-1350,1450)","0","r_logic_lib","I43";
+;
+LOCATION"DD11"
+SEC_TYPE"SC70-5"
+SEC"1"
+PART_NAME"SN74LVC1G125"
+PACK_TYPE"SC70-5"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"r_logic_lib";
+"VCC"
+$PN"5"45;
+"Y"
+$PN"4"73;
+"OE* \B"
+$PN"1"29;
+"A"
+$PN"2"39;
+"GND"
+$PN"3"69;
+%"C"
+"1","(-1000,3275)","1","discrete_niitp","I47";
+;
+LOCATION"C24"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"95;
+"2"12;
+%"SHIELD"
+"1","(-1000,3150)","0","power_niitp","I48";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"95;
+%"BLM18A"
+"1","(-575,2700)","0","import_lib","I49";
+;
+LOCATION"L12"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"import_lib";
+"A"11;
+"B"36;
+%"NET_BUS"
+"1","(-2400,3600)","0","discrete_niitp","I5";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"8"15;
+%"C"
+"1","(-1000,2525)","1","discrete_niitp","I52";
+;
+LOCATION"C25"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"38;
+"2"11;
+%"SHIELD"
+"1","(-1000,2400)","0","power_niitp","I53";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"38;
+%"BLM18A"
+"1","(-575,3450)","0","import_lib","I56";
+;
+LOCATION"L11"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"import_lib";
+"A"12;
+"B"14;
+%"P3V3"
+"1","(-300,3550)","0","power_niitp","I58";
+;
+HDL_POWER"VCC_AUX"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"P3V3"14;
+%"P3V3"
+"1","(-300,2800)","0","power_niitp","I59";
+;
+HDL_POWER"VCC_AUX"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp";
+"P3V3"36;
+%"NET_BUS"
+"1","(-2400,3150)","0","discrete_niitp","I6";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"5"7;
+%"SHIELD"
+"1","(-1650,1150)","0","power_niitp","I60";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"69;
+%"SHIELD"
+"1","(-1150,1850)","0","power_niitp","I61";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"48;
+%"BLM18A"
+"1","(-575,1500)","0","import_lib","I62";
+;
+LOCATION"L13"
+CDS_LIB"import_lib"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F56";
+"A"45;
+"B"34;
+%"P3V3"
+"1","(-300,1600)","0","power_niitp","I63";
+;
+HDL_POWER"VCC_AUX"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"P3V3"34;
+%"C"
+"1","(-1000,1325)","1","discrete_niitp","I64";
+;
+LOCATION"C26"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"59;
+"2"45;
+%"SHIELD"
+"1","(-1000,1200)","0","power_niitp","I65";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"SHIELD"59;
+%"BLM18A"
+"1","(-1975,2150)","0","import_lib","I66";
+;
+LOCATION"L10"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"import_lib";
+"A"68;
+"B"55;
+%"C"
+"1","(-1750,1975)","1","discrete_niitp","I67";
+;
+LOCATION"C23"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"65;
+"2"55;
+%"SHIELD"
+"1","(-1750,1850)","0","power_niitp","I68";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"65;
+%"P3V3"
+"1","(-2350,2250)","0","power_niitp","I69";
+;
+HDL_POWER"VCC_AUX"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"P3V3"68;
+%"NET_BUS"
+"1","(-2400,2850)","0","discrete_niitp","I7";
+;
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+HDL_TAP"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"6"10;
+%"NET_BUS"
+"1","(-2400,2400)","0","discrete_niitp","I70";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"35"8;
+%"NET_BUS"
+"1","(-2400,1500)","0","discrete_niitp","I71";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"36"29;
+%"RG_LEDS"
+"1","(-700,100)","2","import_lib","I75";
+;
+LOCATION"VD2"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"import_lib"
+SEC_TYPE""
+SEC"1";
+"1"
+$PN"1"50;
+"2"
+$PN"2"54;
+"3"
+$PN"3"50;
+"4"
+$PN"4"53;
+%"R"
+"1","(-1950,3750)","5","discrete_niitp","I76";
+;
+LOCATION"R19"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"17;
+"2"15;
+%"R"
+"1","(-1950,3000)","5","discrete_niitp","I77";
+;
+LOCATION"R20"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"7;
+"2"10;
+%"SHIELD"
+"1","(1350,675)","0","power_niitp","I78";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"SHIELD"42;
+%"NET_BUS"
+"1","(1350,3350)","0","discrete_niitp","I8";
+;
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"9"100;
+%"SN74LVC2G14"
+"1","(-1400,825)","0","r_logic_lib","I80";
+;
+LOCATION"DD12"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"r_logic_lib"
+SEC_TYPE""
+SEC"1"
+PART_NAME"SN74LVC2G14";
+"A1"
+$PN"1"40;
+"Y2* \B"
+$PN"6"66;
+"GNDD"
+$PN"2"71;
+"Y1* \B"
+$PN"4"67;
+"P3V3"
+$PN"5"51;
+"A2"
+$PN"3"41;
+%"R"
+"1","(-1150,750)","0","discrete_niitp","I81";
+;
+LOCATION"R22"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"discrete_niitp";
+"1"66;
+"2"75;
+%"R"
+"1","(-1150,900)","0","discrete_niitp","I82";
+;
+LOCATION"R21"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F56";
+"1"67;
+"2"72;
+%"SN74LVC2G14"
+"1","(-1400,75)","0","r_logic_lib","I83";
+;
+LOCATION"DD13"
+CDS_LIB"r_logic_lib"
+SEC"1"
+SEC_TYPE""
+NEEDS_NO_SIZE"TRUE"
+PART_NAME"SN74LVC2G14";
+"A1"
+$PN"1"61;
+"Y2* \B"
+$PN"6"62;
+"GNDD"
+$PN"2"64;
+"Y1* \B"
+$PN"4"63;
+"P3V3"
+$PN"5"56;
+"A2"
+$PN"3"49;
+%"SHIELD"
+"1","(-1250,450)","0","power_niitp","I84";
+;
+HDL_POWER"GND"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp";
+"SHIELD"71;
+%"SHIELD"
+"1","(-1250,-300)","0","power_niitp","I85";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"64;
+%"R"
+"1","(-1150,150)","0","discrete_niitp","I86";
+;
+LOCATION"R23"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F56";
+"1"63;
+"2"54;
+%"R"
+"1","(-1150,0)","0","discrete_niitp","I87";
+;
+LOCATION"R24"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE";
+"1"62;
+"2"53;
+%"SHIELD"
+"1","(-500,-50)","0","power_niitp","I88";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"50;
+%"BLM18A"
+"1","(-575,-150)","0","import_lib","I89";
+;
+LOCATION"L15"
+CDS_LIB"import_lib"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE";
+"A"56;
+"B"70;
+%"NET_BUS"
+"1","(1350,3100)","0","discrete_niitp","I9";
+;
+CDS_LIB"discrete_niitp"
+HDL_TAP"TRUE"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"B \NAC \NWC"1;
+"S \NAC"
+BN"10"25;
+%"P3V3"
+"1","(-300,-50)","0","power_niitp","I90";
+;
+HDL_POWER"VCCO"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"P3V3"70;
+%"SHIELD"
+"1","(-1000,-450)","0","power_niitp","I91";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING";
+"SHIELD"60;
+%"C"
+"1","(-1000,-325)","1","discrete_niitp","I92";
+;
+LOCATION"C28"
+CDS_LIB"discrete_niitp"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"0402";
+"1"60;
+"2"56;
+%"C"
+"1","(-1000,425)","1","discrete_niitp","I93";
+;
+LOCATION"C27"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"0402"
+NEEDS_NO_SIZE"TRUE";
+"1"52;
+"2"51;
+%"SHIELD"
+"1","(-1000,300)","0","power_niitp","I94";
+;
+HDL_POWER"GND"
+CDS_LIB"power_niitp"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE";
+"SHIELD"52;
+%"BLM18A"
+"1","(-575,600)","0","import_lib","I95";
+;
+LOCATION"L14"
+CDS_LIB"import_lib"
+NEEDS_NO_SIZE"TRUE"
+PACK_TYPE"F56";
+"A"51;
+"B"44;
+%"P3V3"
+"1","(-300,700)","0","power_niitp","I96";
+;
+HDL_POWER"VCCO"
+NEEDS_NO_SIZE"TRUE"
+BODY_TYPE"PLUMBING"
+CDS_LIB"power_niitp";
+"P3V3"44;
+%"SHIELD"
+"1","(-500,725)","0","power_niitp","I97";
+;
+HDL_POWER"GND"
+BODY_TYPE"PLUMBING"
+NEEDS_NO_SIZE"TRUE"
+CDS_LIB"power_niitp";
+"SHIELD"43;
+%"SN74LVC2G14"
+"1","(550,725)","0","r_logic_lib","I98";
+;
+LOCATION"DD14"
+CDS_LIB"r_logic_lib"
+NEEDS_NO_SIZE"TRUE"
+SEC_TYPE""
+SEC"1"
+PART_NAME"SN74LVC2G14";
+"A1"
+$PN"1"46;
+"Y2* \B"
+$PN"6"0;
+"GNDD"
+$PN"2"76;
+"Y1* \B"
+$PN"4"57;
+"P3V3"
+$PN"5"30;
+"A2"
+$PN"3"76;
+%"R"
+"1","(850,800)","0","discrete_niitp","I99";
+;
+LOCATION"R25"
+CDS_LIB"discrete_niitp"
+PACK_TYPE"F56"
+NEEDS_NO_SIZE"TRUE";
+"1"57;
+"2"82;
+END.

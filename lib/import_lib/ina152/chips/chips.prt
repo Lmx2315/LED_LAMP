@@ -1,0 +1,43 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'INA152';
+  pin
+    'V0':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'REF':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'V_IN-':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'N3V3':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'V_IN+':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SENSE':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'P3V3':
+      PIN_NUMBER='(7)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='INA152';
+    BODY_NAME='INA152';
+    FAMILY='?';
+    JEDEC_TYPE='MSOT8';
+    PHYS_DES_PREFIX='U';
+    CLASS='DISCRETE';
+    NC_PINS='(8)';
+  end_body;
+end_primitive;
+
+END.

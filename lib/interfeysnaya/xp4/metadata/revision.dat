@@ -1,0 +1,170 @@
+(Cell	xp4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/08/06,10:32:01)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.xp4)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/08/06,10:58:34)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.xp4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000051061cfc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,10:32:22)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.xp4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000083df03aa)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ca0e201a)
+
+			(Primitives	1
+
+				(Primitive	XP4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,10:40:55)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.xp4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XP4
+
+							(PackType	XP4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000d38503df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000048a03b2)
+
+)
+

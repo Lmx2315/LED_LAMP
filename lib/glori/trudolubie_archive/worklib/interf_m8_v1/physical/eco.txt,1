@@ -1,0 +1,48 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:...\Projects\DSP_M5\worklib\interf_m8_v1\physical\interf_m8_v8_nev.brd    |
+|                                                    Fri Mar 25 11:40:54 2011  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5VCC        pins MOVED FROM this net (to net name listed on right)
+                                 XP6.12          92.3920 74.7823
+                                                                            RX-
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DGND         pins DELETED FROM this net (pin now not on any net)
+                                 XP6.5           89.8520 83.6723
+                                 XP6.10          92.3920 77.3223
+                                 XP6.13          89.8520 73.5123
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LI_5VM       pins MOVED FROM this net (to net name listed on right)
+                                 XP6.9           89.8520 78.5923
+                                                                            TX-
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MAT+         pins MOVED FROM this net (to net name listed on right)
+                                 XP6.7           89.8520 81.1323
+                                                                     SENRES_5VM
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 XP6.14          92.3920 72.2423
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX+          pins MOVED FROM this net (to net name listed on right)
+                                 XP6.3           89.8520 86.2123
+                                                                          +5VCC
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX-          pins MOVED FROM this net (to net name listed on right)
+                                 XP6.4           92.3920 84.9423
+                                                                            RX+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENRES_5VM   pins MOVED FROM this net (to net name listed on right)
+                                 XP6.8           92.3920 79.8623
+                                                                         LI_5VM
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX-          pins DELETED FROM this net (pin now not on any net)
+                                 XP6.2           92.3920 87.4823
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  11                                             |
+|------------------------------------------------------------------------------|

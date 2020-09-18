@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Jul 04 14:42:32 2003' ;
+primitive 'MPZ2012S331A';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='MPZ2012S331A';
+    JEDEC_TYPE='do7';
+    BODY_NAME='mpz2012s331a';
+    FAMILY='?';
+  end_body;
+end_primitive;
+END.

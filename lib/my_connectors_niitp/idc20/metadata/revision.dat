@@ -1,0 +1,172 @@
+(Cell	idc20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/06/06,13:55:54)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.idc20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/06/06,13:56:40)
+
+			(User	admin)
+
+			(Path	my_connectors_niitp.idc20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003f21398c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,13:56:37)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.idc20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b9d0384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008e02c04d)
+
+			(Primitives	1
+
+				(Primitive	IDC20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/06/06,13:55:58)
+
+							(User	admin)
+
+							(Path	my_connectors_niitp.idc20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IDC20
+
+							(PackType	IDC20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dd903e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s001)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001ce103b0)
+
+)
+

@@ -1,0 +1,178 @@
+(Cell	ft2232
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/07/06,12:13:46)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.ft2232)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/07/06,14:35:24)
+
+			(User	Sergey)
+
+			(Path	interfeysnaya.ft2232)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	00000000e55adb81)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,12:16:16)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.ft2232)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e37803e0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d145a327)
+
+			(Primitives	1
+
+				(Primitive	FT2232
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/07/06,12:27:48)
+
+							(User	Sergey)
+
+							(Path	interfeysnaya.ft2232)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FT2232
+
+							(PackType	FT2232)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b41803dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s012)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	0000000094c503ab)
+
+)
+
